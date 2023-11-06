@@ -1,0 +1,28 @@
+{
+    "faq": {
+        "title": "Preguntas frecuentes",
+        "description": "¿Tienes algunas dudas? Leé algunas de nuestras preguntas frecuentes o ponte en contacto con nuestros asesores para obtener ayuda.",
+        "questions": [
+            {
+                "question": "¿Qué es un seguro de sepelio?",
+                "answer": "Un seguro de sepelio está diseñado para ayudar a las familias en los momentos más delicados y garantiza la prestación del servicio funerario y trámites relacionados con el fallecimiento de una persona. Se contrata con la finalidad de aliviar la carga financiera y logística que conlleva un funeral y los trámites legales y administrativos asociados al sepelio."
+            },
+            {
+                "question": "¿Cuáles son los beneficios de comparar con nosotros?",
+                "answer": "Compara en menos de 1 minuto desde una interfaz fácil de usar. Eva Seguros te ayuda a elegir entre las mejores compañías de seguros de sepelio en Perú."
+            },
+            {
+                "question": "¿Cómo encontrar un seguro de sepelio que mejor se adapta a ti?",
+                "answer": "A través de nuestro comparador de seguros de sepelio puedes filtrar las ofertas de las mejores compañías para encontrar los seguros de sepelio que mejor se adaptan a ti."
+            },
+            {
+                "question": "¿Cuánto cuesta un seguro de sepelio?",
+                "answer": "Existe un amplio rango de primas que dependen de la cantidad de coberturas adicionales que contrates y de la modalidad en la cual pagues la prima. En nuestro comparador de seguros de sepelio puedes encontrar los precios más baratos."
+            },
+            {
+                "question": "¿Quién puede contratar un seguro de sepelio?",
+                "answer": "Cualquier persona mayor de edad puede contratar un seguro de sepelio."
+            }
+        ]
+    }
+}

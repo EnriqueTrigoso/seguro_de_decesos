@@ -1,0 +1,26 @@
+{
+    "solidarity_projects": {
+        "title": "El mundo no /mejora con palabras/, sino con el /ejemplo/",
+        "description": "“No podemos adivinar el futuro, pero podemos ayudar a construirlo”",
+        "buttons": [
+            {
+                "text": "Ver proyectos solidarios",
+                "url": "#"
+            }
+        ],
+        "cards": [
+            {
+                "title": "Fundación Universo Accesible",
+                "description": "En Eva Seguros buscamos mejorar la calidad de vida de personas con discapacidad junto a la fundación Universo Accesible y su proyecto Universo Santi.",
+                "url": "https://universoaccesible.org",
+                "url_text": "Conocer más"
+            },
+            {
+                "title": "Plant For The Planet",
+                "description": "Un árbol por cliente. En Eva Seguros y Plant For The Planet trabajamos por un mundo más verde y tenemos como objetivo 1 millón de árboles plantados para el 2030.",
+                "url": "https://www.plant-for-the-planet.org",
+                "url_text": "Conocer más"
+            }
+        ]
+    }
+}

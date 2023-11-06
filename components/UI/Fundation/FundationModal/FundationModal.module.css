@@ -1,0 +1,112 @@
+
+.fundation_card_content img {
+	border-radius: 16px;
+}
+
+
+.company {
+	display: flex;
+	align-items: center;
+	margin-bottom: 10px;
+	gap: 15px;
+}
+
+.description {
+	margin-bottom: 15px;
+	line-height: 30px;
+}
+
+.company_description {
+	margin-bottom: 25px;
+}
+
+.option {
+	display: flex;
+	align-items: center;
+	gap: 12px;
+	color: #232263;
+	font-size: 14px;
+	font-weight: 600;
+}
+
+.option:not(:last-child) {
+	margin-bottom: 10px;
+}
+
+.option:last-child {
+	margin-bottom: 20px;
+}
+
+.link {
+	color: #232263;
+	font-size: 14px;
+}
+
+.fundation_card_content {
+	margin-bottom: 30px;
+}
+
+.description2 {
+	color: var(--green-primary);
+	font-size: 18px;
+	font-weight: 700;
+}
+
+@media (min-width: 1024px) {
+
+	.fundation_cards {
+		padding: 60px 93px 0px 97px;
+	}
+
+	.fundation_card_content {
+		display: flex;
+		gap: 60px;
+		margin-bottom: 60px;
+	}
+
+	.fundation_card_content img:nth-child(2) {
+		border-radius: 8px 70px;
+	}
+
+	.reverse {
+		flex-direction: row-reverse;
+	}
+
+	.company_description {
+		display: flex;
+		align-items: center;
+	}
+
+	.company_description button {
+		width: 150px;
+	}
+
+	.company {
+		margin-bottom: 30px;
+		justify-content: flex-start;
+		align-items: center;
+	}
+
+	.description {
+		margin-bottom: 40px;
+		font-size: 18px;
+	}
+
+	.option {
+		font-size: 18px;
+	}
+
+	.option:not(:last-child) {
+		margin-bottom: 15px;
+	}
+
+	.option:last-child {
+		margin-bottom: 40px;
+	}
+
+	.description2 {
+		font-size: 20px;
+	}
+
+}
+

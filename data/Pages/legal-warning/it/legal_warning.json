@@ -1,0 +1,73 @@
+{
+    "legal_warning": {
+        "metadata": {
+            "title": "Avviso legale",
+            "description": "Avviso legale"
+        },
+        "title": "DISCLAIMER",
+        "section1": {
+            "title": "INFORMAZIONI PER L'UTENTE:",
+            "description": "Lo scopo di questo documento è informare l'Utente sul trattamento dei propri dati personali da parte di EVA SEGUROS, di seguito denominata RESPONSABILE, in conformità con le normative vigenti in materia di protezione dei dati personali, tra cui il Regolamento (UE) 2016/679 del 27 aprile 2016 (RGPD) e la Legge Organica 3/2018, del 5 dicembre, sulla protezione dei dati personali e la garanzia dei diritti digitali (LOPDGDD). Di seguito vengono fornite le seguenti informazioni:",
+            "purpose_of_the_treatment": "{Scopo del trattamento:} Lo scopo del trattamento dei dati personali è mantenere un rapporto commerciale con l'Utente. Le operazioni previste per effettuare tale trattamento sono le seguenti:",
+            "operations": [
+                "Gestione delle politiche, dei reclami e di qualsiasi tipo di domanda o richiesta effettuata dall'Utente attraverso i diversi canali di contatto disponibili.",
+                "Invio di comunicazioni commerciali e pubblicitarie tramite mezzi elettronici o fisici, inclusi e-mail, fax, SMS, MMS e social network, relative ai prodotti e servizi EVA SEGUROS, nonché ai suoi collaboratori o fornitori con i quali sono stati stipulati accordi di promozione.",
+                "Trasferimento di dati a sponsor e società terze del settore assicurativo per inviare informazioni personalizzate sui loro prodotti e servizi.",
+                "Condurre ricerche di mercato, indagini di valutazione e analisi statistiche.",
+                "Inclusione in elenchi o servizi di informazione.",
+                "Gestione di suggerimenti e reclami.",
+                "Conformità agli obblighi legali o regolamentari",
+                "Profilazione o incrocio di dati con elenchi pubblici o privati.",
+                "Organizzazione di concorsi e offerte."
+            ],
+            "data_treatment": [
+                "In conformità con gli scopi sopra indicati, EVA SEGUROS può interconnettere i dati raccolti per aggiornare e completare le informazioni.",
+                "Settori di attività e trasferimento dei dati: i dati personali possono essere trasferiti a società terze del settore assicurativo, istituti finanziari e altri settori correlati, allo scopo di fornire alle parti interessate informazioni relative all'assicurazione e ai servizi correlati. Raccolta ed elaborazione dei dati: EVA SEGUROS tratta i dati personali forniti dagli utenti, comprese le informazioni:"
+            ],
+            "data_treatment_list": [
+                "Identificazione (nome, cognome, partita IVA, indirizzo postale, numeri di telefono, email).",
+                "Caratteristiche personali (stato civile, data e luogo di nascita, età, sesso, nazionalità, dati familiari).",
+                "Dati accademici e professionali (formazione e occupazione).",
+                "Coordinate bancarie (per la gestione dei pagamenti e delle politiche).",
+                "Informazioni commerciali (attività e attività commerciali, abbonamenti a pubblicazioni, licenza commerciale).",
+                "Dati economici, finanziari e assicurativi (crediti, prestiti, assicurazioni), tra gli altri."
+            ],
+            "data_retention": "{Conservazione dei dati:} I dati forniti saranno conservati per tutto il tempo in cui esiste un rapporto commerciale in corso o per il tempo necessario per adempiere agli obblighi legali stabiliti.",
+            "legitimation_of_the_treatment": "{Legittimazione del trattamento:} Il trattamento dei dati personali si basa sul consenso preventivo dell'interessato, ai sensi dell'articolo 6.1 a) del GDPR. La parte interessata ha dato il proprio consenso al trattamento dei propri dati personali per uno o più scopi specifici.",
+            "data_retention_criteria": "{Criteri di conservazione dei dati:} I dati saranno conservati fintanto che esiste un interesse reciproco a mantenere lo scopo del trattamento. Una volta che i dati non saranno più necessari per questo scopo, verranno eliminati utilizzando misure di sicurezza appropriate per garantirne la pseudonimizzazione o la completa distruzione.",
+            "transfer_of_data": "{Trasferimento dei dati:} EVA SEGUROS può condividere i dati raccolti con le seguenti entità, nel rispetto della riservatezza e dello scopo della raccolta:",
+            "transfer_of_data_list": [
+                "Responsabili del trattamento dei dati personali (sponsor) e società terze del settore assicurativo.",
+                "Società di reclutamento e selezione."
+            ],
+            "information_to_third_parties": "EVA SEGUROS può trasferire informazioni a terzi senza il previo consenso degli utenti nei casi in cui il trasferimento è autorizzato dalla legge, nel caso di dati ottenuti da fonti accessibili al pubblico, quando il trasferimento è destinato all'Ombudsman, alla Procura della Repubblica, ai giudici o ai tribunali, alla Corte dei conti, alle istituzioni regionali con funzioni simili al Mediatore o alla Corte dei conti o quando la comunicazione viene effettuata dopo un processo di dissociazione.",
+            "contact_text": "Se hai altre domande o hai bisogno di ulteriori informazioni, non esitare a contattarci. Saremo lieti di aiutarti.",
+            "subtitle_user_rights": "Diritti dell'utente:",
+            "user_rights_text": "In qualità di interessato, hai una serie di diritti, anche se devi tenere presente che non tutti si applicano in tutte le situazioni. Se applicabile, questi sono i tuoi diritti:",
+            "user_rights_list": [
+                "Diritto di ottenere l'accesso ai propri dati personali: ciò comporta l'ottenimento di informazioni sull'eventuale trattamento dei dati e su come vengono elaborati. Se la tua richiesta include dati personali di altre persone o se agisci per conto di qualcun altro, dovrai fornire l'identificazione di tali persone e una lettera firmata o un documento di autorizzazione che confermi il loro consenso ad agire per loro conto.",
+                "Diritto di ricevere informazioni sul trattamento dei tuoi dati personali: rispettiamo questo diritto attraverso la presente Informativa.",
+                "Diritto di rettifica: vale a dire il diritto di correggere i dati personali se sono errati o di completarli se sono incompleti.",
+                "Diritto di opporsi al trattamento dei dati personali.",
+                "Diritto di cancellazione: ciò comporta la possibilità di richiedere la cancellazione o il blocco dei dati personali.",
+                "Diritto di spostare, copiare o trasferire i dati personali a un'entità di propria scelta (portabilità dei dati).",
+                "Diritti relativi all'assunzione di decisioni automatizzate basate sui dati dell'utente, incluso il diritto di non richiedere la profilazione dei dati."
+            ],
+            "subtitle_claim": "Diritto di presentare un reclamo all'AEPD:",
+            "subtitle_claim_text": "Se ritenete che i vostri diritti in relazione al trattamento dei vostri dati personali siano stati violati, avete anche il diritto di presentare un reclamo all'autorità di controllo competente. In Spagna, questa autorità è l'Agenzia Spagnola per la Protezione dei Dati (AEPD). Puoi contattarli presso la loro sede centrale situata in Calle Jorge Juan 6, 28001 - Madrid, o visitare il loro sito Web: https://www.aepd.es/es. Tieni presente che puoi presentare all'AEPD solo reclami relativi al trattamento dei tuoi dati personali. I reclami relativi alla fornitura dei nostri servizi devono essere presentati in conformità con le disposizioni del nostro Avviso legale, nella sezione corrispondente a ciascun servizio.",
+            "claim_contact_text": "Informazioni di contatto per esercitare i tuoi diritti:",
+            "claim_contact_list": [
+                "Indirizzo postale: CALLE HOSPITAL STA. MARGARITA, 1 CONTRABBASSO 2, 20303, IRUN, GUIPÚZCOA",
+                "Indirizzo e-mail: atencionalcliente@evaseguros.es"
+            ]
+        },
+        "section2": {
+            "title": "NATURA OBBLIGATORIA O FACOLTATIVA DELLE INFORMAZIONI FORNITE DALL'UTENTE:",
+            "description": "Selezionando le caselle corrispondenti e compilando i campi contrassegnati da un asterisco (*) nel modulo di contatto o nei moduli di download, gli utenti accettano espressamente, liberamente e inequivocabilmente che i loro dati sono necessari per soddisfare la loro richiesta da parte del fornitore e l'inclusione dei dati negli altri campi è facoltativa. L'Utente garantisce la veridicità dei dati personali forniti al RESPONSABILE e si impegna a segnalare eventuali modifiche ad essi. La parte RESPONSABILE informa e garantisce espressamente agli utenti che, ogni volta che effettueranno un trasferimento di dati personali, richiederanno innanzitutto il consenso esplicito, informato e inequivocabile degli Utenti. Tutti i dati richiesti tramite il sito Web sono obbligatori, in quanto necessari per fornire un servizio ottimale all'Utente. Se non vengono forniti tutti i dati, non è possibile garantire che le informazioni e i servizi forniti siano pienamente adeguati alle esigenze dell'utente."
+        },
+        "section3": {
+            "title": "MISURE DI SICUREZZA:",
+            "description": "In conformità con le normative vigenti in materia di protezione dei dati personali, la parte RESPONSABILE rispetta tutte le disposizioni stabilite nel RGPD e nel LOPDGDD per il trattamento dei dati personali sotto la sua responsabilità. In modo esplicito, i dati sono trattati in modo lecito, equo e trasparente nei confronti dell'interessato e sono limitati a quanto necessario e appropriato per gli scopi per i quali sono trattati, come descritto nell'articolo 5 del RGPD e nell'articolo 4 del LOPDGDD. La parte RESPONSABILE garantisce di aver implementato politiche tecniche e organizzative appropriate per applicare le misure di sicurezza richieste dal RGPD e dal LOPDGDD, al fine di proteggere i diritti e le libertà degli utenti. Inoltre, sono state fornite informazioni appropriate agli Utenti in modo che possano esercitare i propri diritti."
+        }
+    }
+}

@@ -1,0 +1,17 @@
+.title {
+	color: var(--textos);
+	padding-bottom: 1rem;
+	font-size: 1rem;
+	font-style: normal;
+	font-weight: 400;
+	line-height: 140%;
+	letter-spacing: 0.01rem;
+}
+
+
+@media (min-width: 1024px) {
+	.title {
+		font-size: 16px;
+	}
+
+}

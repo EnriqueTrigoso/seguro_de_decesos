@@ -1,0 +1,30 @@
+{
+    "information": {
+        "title": "Ihambing ang mga pinakamahusay na tagapag-assurance /ng mga pagkamatay sa merkado/",
+        "description": "Kami ay kasama mo sa buong proseso upang sagutin ang lahat ng iyong mga katanungan. Maaari mong tawagan kami o iwan ang iyong numero upang tawagan ka namin.",
+        "link_compare": "Magkumpara ngayon",
+        "link_contact": "Makipag-ugnay sa amin",
+        "cards": [
+            {
+                "text": "Amin naming ina-angkop sa iyong kalakaran sa ekonomiya",
+                "alt": "kumpanya ng seguro para sa pagkamatay",
+                "title": "kumpanya ng seguro para sa pagkamatay"
+            },
+            {
+                "text": "Kasama ang pambansang at pandaigdigang paglilipat",
+                "alt": "kumpanya ng seguro para sa pagkamatay na may pambansang at pandaigdigang paglilipat",
+                "title": "kumpanya ng seguro para sa pagkamatay-pambansang-pandaigdigang paglilipat"
+            },
+            {
+                "text": "Kasama ang libreng mga serbisyong medikal",
+                "alt": "kumpanya ng seguro para sa pagkamatay na may libreng mga serbisyong medikal",
+                "title": "kumpanya ng seguro para sa pagkamatay-mga serbisyo-medikal-ng libre"
+            },
+            {
+                "text": "Buong kover ng pagkamatay",
+                "alt": "kumpanya ng seguro para sa pagkamatay na may buong kover ng pagkamatay",
+                "title": "kumpanya ng seguro para sa pagkamatay-buong-kover ng pagkamatay"
+            }
+        ]
+    }
+}

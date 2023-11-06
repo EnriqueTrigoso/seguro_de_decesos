@@ -1,0 +1,2194 @@
+{
+	"domains": [
+		{
+			"id": 6,
+			"name": "museumsversicherung.com",
+			"description": "Alemán",
+			"active": 1
+		},
+		{
+			"id": 7,
+			"name": "tamminalhayat.com",
+			"description": "Árabe",
+			"active": 1
+		},
+		{
+			"id": 8,
+			"name": "tamminaljanaza.com",
+			"description": "Árabe",
+			"active": 1
+		},
+		{
+			"id": 9,
+			"name": "tamminalsakkan.com",
+			"description": "Árabe",
+			"active": 1
+		},
+		{
+			"id": 10,
+			"name": "tamminalseha.com",
+			"description": "Árabe",
+			"active": 1
+		},
+		{
+			"id": 11,
+			"name": "taaminkanouni.com",
+			"description": "Árabe",
+			"active": 1
+		},
+		{
+			"id": 12,
+			"name": "taaminsayaarat.com",
+			"description": "Árabe",
+			"active": 1
+		},
+		{
+			"id": 13,
+			"name": "taamintanakool.com",
+			"description": "Árabe",
+			"active": 1
+		},
+		{
+			"id": 14,
+			"name": "taamintijaari.com",
+			"description": "Árabe",
+			"active": 1
+		},
+		{
+			"id": 15,
+			"name": "tamminhayawanatalifa.com",
+			"description": "Árabe",
+			"active": 1
+		},
+		{
+			"id": 16,
+			"name": "taaminalhayat.com",
+			"description": "Árabe",
+			"active": 1
+		},
+		{
+			"id": 17,
+			"name": "taaminaljanaza.com",
+			"description": "Árabe",
+			"active": 1
+		},
+		{
+			"id": 18,
+			"name": "taaminalsakkan.com",
+			"description": "Árabe",
+			"active": 1
+		},
+		{
+			"id": 19,
+			"name": "taaminalseha.com",
+			"description": "Árabe",
+			"active": 1
+		},
+		{
+			"id": 20,
+			"name": "taaminhayawanatalifa.com",
+			"description": "Árabe",
+			"active": 1
+		},
+		{
+			"id": 21,
+			"name": "taaminathawae.com",
+			"description": "Árabe",
+			"active": 1
+		},
+		{
+			"id": 22,
+			"name": "hawaemobile.com",
+			"description": "Árabe",
+			"active": 1
+		},
+		{
+			"id": 23,
+			"name": "hawaemovil.com",
+			"description": "Árabe",
+			"active": 1
+		},
+		{
+			"id": 24,
+			"name": "sehahawae.com",
+			"description": "Árabe",
+			"active": 1
+		},
+		{
+			"id": 25,
+			"name": "altahwilathawae.com",
+			"description": "Árabe",
+			"active": 1
+		},
+		{
+			"id": 26,
+			"name": "taminalmathaf.com",
+			"description": "Árabe",
+			"active": 1
+		},
+		{
+			"id": 27,
+			"name": "beematulanitr.com",
+			"description": "Árabe",
+			"active": 1
+		},
+		{
+			"id": 28,
+			"name": "muqaranataltaamin.com",
+			"description": "Árabe",
+			"active": 1
+		},
+		{
+			"id": 29,
+			"name": "khotoutalhatifbelmajan.com",
+			"description": "Árabe",
+			"active": 1
+		},
+		{
+			"id": 30,
+			"name": "assegurançadecotxe.cat",
+			"description": "Catalán",
+			"active": 1
+		},
+		{
+			"id": 31,
+			"name": "assegurançadecotxe.com",
+			"description": "Catalán",
+			"active": 1
+		},
+		{
+			"id": 32,
+			"name": "assegurançadedecessos.cat",
+			"description": "Catalán",
+			"active": 1
+		},
+		{
+			"id": 33,
+			"name": "assegurançadedecessos.com",
+			"description": "Catalán",
+			"active": 1
+		},
+		{
+			"id": 34,
+			"name": "assegurançadelallar.cat",
+			"description": "Catalán",
+			"active": 1
+		},
+		{
+			"id": 35,
+			"name": "assegurançademascotes.cat",
+			"description": "Catalán",
+			"active": 1
+		},
+		{
+			"id": 36,
+			"name": "assegurançadesalut.cat",
+			"description": "Catalán",
+			"active": 1
+		},
+		{
+			"id": 37,
+			"name": "assegurançadesubsidi.cat",
+			"description": "Catalán",
+			"active": 1
+		},
+		{
+			"id": 38,
+			"name": "assegurançadevida.cat",
+			"description": "Catalán",
+			"active": 1
+		},
+		{
+			"id": 39,
+			"name": "assegurançadelallar.com",
+			"description": "Catalán",
+			"active": 1
+		},
+		{
+			"id": 40,
+			"name": "assegurançademascotes.com",
+			"description": "Catalán",
+			"active": 1
+		},
+		{
+			"id": 41,
+			"name": "assegurançadesubsidi.com",
+			"description": "Catalán",
+			"active": 1
+		},
+		{
+			"id": 42,
+			"name": "assegurançamèdica.com",
+			"description": "Catalán",
+			"active": 1
+		},
+		{
+			"id": 43,
+			"name": "comparadordassegurances.cat",
+			"description": "Catalán",
+			"active": 1
+		},
+		{
+			"id": 44,
+			"name": "comparadordassegurances.com",
+			"description": "Catalán",
+			"active": 1
+		},
+		{
+			"id": 45,
+			"name": "assegurançaagrària.cat",
+			"description": "Catalán",
+			"active": 1
+		},
+		{
+			"id": 46,
+			"name": "assegurançaagrària.com",
+			"description": "Catalán",
+			"active": 1
+		},
+		{
+			"id": 47,
+			"name": "assegurançajuridica.com",
+			"description": "Catalán",
+			"active": 1
+		},
+		{
+			"id": 48,
+			"name": "assegurançadecomerç.cat",
+			"description": "Catalán",
+			"active": 1
+		},
+		{
+			"id": 49,
+			"name": "assegurançadecomerç.com",
+			"description": "Catalán",
+			"active": 1
+		},
+		{
+			"id": 50,
+			"name": "assegurançademobilitat.cat",
+			"description": "Catalán",
+			"active": 1
+		},
+		{
+			"id": 51,
+			"name": "evaassegurances.cat",
+			"description": "Catalán",
+			"active": 1
+		},
+		{
+			"id": 52,
+			"name": "evaassegurances.com",
+			"description": "Catalán",
+			"active": 1
+		},
+		{
+			"id": 53,
+			"name": "assegurançademobilitat.com",
+			"description": "Catalán",
+			"active": 1
+		},
+		{
+			"id": 54,
+			"name": "assegurancadecotxe.com",
+			"description": "Catalán",
+			"active": 1
+		},
+		{
+			"id": 55,
+			"name": "assegurancademobilitat.com",
+			"description": "Catalán",
+			"active": 1
+		},
+		{
+			"id": 56,
+			"name": "bowuguanbaoxian.com",
+			"description": "Chino",
+			"active": 1
+		},
+		{
+			"id": 57,
+			"name": "yeyoarguezartista.com",
+			"description": "Español",
+			"active": 1
+		},
+		{
+			"id": 58,
+			"name": "rebecaplanaartista.com",
+			"description": "Español",
+			"active": 1
+		},
+		{
+			"id": 59,
+			"name": "garikoitzartista.com",
+			"description": "Español",
+			"active": 1
+		},
+		{
+			"id": 60,
+			"name": "evasalud.es",
+			"description": "Español",
+			"active": 1
+		},
+		{
+			"id": 61,
+			"name": "evasaludybienestar.com",
+			"description": "Español",
+			"active": 1
+		},
+		{
+			"id": 62,
+			"name": "evasaludybienestar.es",
+			"description": "Español",
+			"active": 1
+		},
+		{
+			"id": 63,
+			"name": "antoniovilagallardo.com",
+			"description": "Español",
+			"active": 1
+		},
+		{
+			"id": 64,
+			"name": "comparatupoliza.eu",
+			"description": "Español",
+			"active": 1
+		},
+		{
+			"id": 65,
+			"name": "polizamedicafamilar.eu",
+			"description": "Español",
+			"active": 1
+		},
+		{
+			"id": 66,
+			"name": "evaglobalcard.eu",
+			"description": "Español",
+			"active": 1
+		},
+		{
+			"id": 67,
+			"name": "comparatupoliza.es",
+			"description": "Español",
+			"active": 1
+		},
+		{
+			"id": 68,
+			"name": "evacard.cards",
+			"description": "Español",
+			"active": 1
+		},
+		{
+			"id": 69,
+			"name": "polizacolectivadesalud.com",
+			"description": "Español",
+			"active": 1
+		},
+		{
+			"id": 70,
+			"name": "polizamedicafamilar.es",
+			"description": "Español",
+			"active": 1
+		},
+		{
+			"id": 71,
+			"name": "seguromedicofamilar.es",
+			"description": "Español",
+			"active": 1
+		},
+		{
+			"id": 72,
+			"name": "membresiasdemascotas.com",
+			"description": "Español",
+			"active": 1
+		},
+		{
+			"id": 73,
+			"name": "membresiasmedicas.com",
+			"description": "Español",
+			"active": 1
+		},
+		{
+			"id": 74,
+			"name": "polizadedecesos.com",
+			"description": "Español",
+			"active": 1
+		},
+		{
+			"id": 75,
+			"name": "polizademascotas.com",
+			"description": "Español",
+			"active": 1
+		},
+		{
+			"id": 76,
+			"name": "comparatupoliza.com",
+			"description": "Español",
+			"active": 1
+		},
+		{
+			"id": 77,
+			"name": "evaglobalcard.es",
+			"description": "Español",
+			"active": 1
+		},
+		{
+			"id": 78,
+			"name": "evaglobalcard.online",
+			"description": "Español",
+			"active": 1
+		},
+		{
+			"id": 79,
+			"name": "comparadordemovil.com",
+			"description": "Español",
+			"active": 1
+		},
+		{
+			"id": 80,
+			"name": "comparadormovil.es",
+			"description": "Español",
+			"active": 1
+		},
+		{
+			"id": 81,
+			"name": "comparatarifasmoviles.com",
+			"description": "Español",
+			"active": 1
+		},
+		{
+			"id": 82,
+			"name": "serviciosdemascotas.com",
+			"description": "Español",
+			"active": 1
+		},
+		{
+			"id": 83,
+			"name": "polizadeaccidentes.es",
+			"description": "Español",
+			"active": 1
+		},
+		{
+			"id": 84,
+			"name": "polizadehogar.es",
+			"description": "Español",
+			"active": 1
+		},
+		{
+			"id": 85,
+			"name": "polizadecomunidades.com",
+			"description": "Español",
+			"active": 1
+		},
+		{
+			"id": 86,
+			"name": "evavoip.com",
+			"description": "Español",
+			"active": 1
+		},
+		{
+			"id": 87,
+			"name": "polizadental.com",
+			"description": "Español",
+			"active": 1
+		},
+		{
+			"id": 88,
+			"name": "seguroagrario.com",
+			"description": "Español",
+			"active": 1
+		},
+		{
+			"id": 89,
+			"name": "evamovil.mx",
+			"description": "Español",
+			"active": 1
+		},
+		{
+			"id": 90,
+			"name": "evasalud.mx",
+			"description": "Español",
+			"active": 1
+		},
+		{
+			"id": 91,
+			"name": "evagrupo.com",
+			"description": "Español",
+			"active": 1
+		},
+		{
+			"id": 92,
+			"name": "facildecontratar.com",
+			"description": "Español",
+			"active": 1
+		},
+		{
+			"id": 93,
+			"name": "facildecontratar.es",
+			"description": "Español",
+			"active": 1
+		},
+		{
+			"id": 94,
+			"name": "universoverde.org",
+			"description": "Español",
+			"active": 1
+		},
+		{
+			"id": 95,
+			"name": "evaseguros.es",
+			"description": "Español",
+			"active": 1
+		},
+		{
+			"id": 96,
+			"name": "evasms.es",
+			"description": "Español",
+			"active": 1
+		},
+		{
+			"id": 97,
+			"name": "evasms.com",
+			"description": "Español",
+			"active": 1
+		},
+		{
+			"id": 98,
+			"name": "polizaderesponsabilidadcivil.com",
+			"description": "Español",
+			"active": 1
+		},
+		{
+			"id": 99,
+			"name": "polizaderesponsabilidadcivil.es",
+			"description": "Español",
+			"active": 1
+		},
+		{
+			"id": 100,
+			"name": "polizaderesponsabilidadcivil.eu",
+			"description": "Español",
+			"active": 1
+		},
+		{
+			"id": 101,
+			"name": "segurosdeingieneria.com",
+			"description": "Español",
+			"active": 1
+		},
+		{
+			"id": 102,
+			"name": "segurosdeingieneria.es",
+			"description": "Español",
+			"active": 1
+		},
+		{
+			"id": 103,
+			"name": "segurosdeingieneria.eu",
+			"description": "Español",
+			"active": 1
+		},
+		{
+			"id": 104,
+			"name": "universosanz.es",
+			"description": "Español",
+			"active": 1
+		},
+		{
+			"id": 105,
+			"name": "hospitalizacionencasa.com",
+			"description": "Español",
+			"active": 1
+		},
+		{
+			"id": 106,
+			"name": "pedrosandovalartista.com",
+			"description": "Español",
+			"active": 1
+		},
+		{
+			"id": 107,
+			"name": "funerariosonline.com",
+			"description": "Español",
+			"active": 1
+		},
+		{
+			"id": 108,
+			"name": "funerariasonline.es",
+			"description": "Español",
+			"active": 1
+		},
+		{
+			"id": 109,
+			"name": "funerariasvalencianas.com",
+			"description": "Español",
+			"active": 1
+		},
+		{
+			"id": 110,
+			"name": "tanatoriomislata.com",
+			"description": "Español",
+			"active": 1
+		},
+		{
+			"id": 111,
+			"name": "polizademoto.com",
+			"description": "Español",
+			"active": 1
+		},
+		{
+			"id": 112,
+			"name": "hospitaldomiciliar.com",
+			"description": "Español",
+			"active": 1
+		},
+		{
+			"id": 113,
+			"name": "wisper.es",
+			"description": "Español",
+			"active": 1
+		},
+		{
+			"id": 114,
+			"name": "polizamedicafamiliar.com",
+			"description": "Español",
+			"active": 1
+		},
+		{
+			"id": 115,
+			"name": "segurodesubsidio.com",
+			"description": "Español",
+			"active": 1
+		},
+		{
+			"id": 116,
+			"name": "autoasegurua.com",
+			"description": "Español",
+			"active": 1
+		},
+		{
+			"id": 117,
+			"name": "polizaagraria.com",
+			"description": "Español",
+			"active": 1
+		},
+		{
+			"id": 118,
+			"name": "evacontact.com",
+			"description": "Español",
+			"active": 1
+		},
+		{
+			"id": 119,
+			"name": "evacontact.es",
+			"description": "Español",
+			"active": 1
+		},
+		{
+			"id": 120,
+			"name": "segurodemorte.com",
+			"description": "Español",
+			"active": 1
+		},
+		{
+			"id": 121,
+			"name": "segurodofogar.com",
+			"description": "Español",
+			"active": 1
+		},
+		{
+			"id": 122,
+			"name": "hoteldepacientes.com",
+			"description": "Español",
+			"active": 1
+		},
+		{
+			"id": 123,
+			"name": "defensajurídica.com",
+			"description": "Español",
+			"active": 1
+		},
+		{
+			"id": 124,
+			"name": "médicoonline.com",
+			"description": "Español",
+			"active": 1
+		},
+		{
+			"id": 125,
+			"name": "médicosonline.com",
+			"description": "Español",
+			"active": 1
+		},
+		{
+			"id": 126,
+			"name": "defensajurídica.es",
+			"description": "Español",
+			"active": 1
+		},
+		{
+			"id": 127,
+			"name": "defensajurídica.info",
+			"description": "Español",
+			"active": 1
+		},
+		{
+			"id": 128,
+			"name": "médicosonline.info",
+			"description": "Español",
+			"active": 1
+		},
+		{
+			"id": 129,
+			"name": "médicoonline.info",
+			"description": "Español",
+			"active": 1
+		},
+		{
+			"id": 130,
+			"name": "consultasmédicas.es",
+			"description": "Español",
+			"active": 1
+		},
+		{
+			"id": 131,
+			"name": "membresíasmédicas.com",
+			"description": "Español",
+			"active": 1
+		},
+		{
+			"id": 132,
+			"name": "pólizadental.com",
+			"description": "Español",
+			"active": 1
+		},
+		{
+			"id": 133,
+			"name": "pólizamédica.com",
+			"description": "Español",
+			"active": 1
+		},
+		{
+			"id": 134,
+			"name": "serviciosmédicos.com",
+			"description": "Español",
+			"active": 1
+		},
+		{
+			"id": 135,
+			"name": "médicosonline.es",
+			"description": "Español",
+			"active": 1
+		},
+		{
+			"id": 136,
+			"name": "médicoonline.es",
+			"description": "Español",
+			"active": 1
+		},
+		{
+			"id": 137,
+			"name": "pólizamédica.es",
+			"description": "Español",
+			"active": 1
+		},
+		{
+			"id": 138,
+			"name": "pólizamédica.info",
+			"description": "Español",
+			"active": 1
+		},
+		{
+			"id": 139,
+			"name": "serviciosmédicos.es",
+			"description": "Español",
+			"active": 1
+		},
+		{
+			"id": 140,
+			"name": "serviciosmédicos.info",
+			"description": "Español",
+			"active": 1
+		},
+		{
+			"id": 141,
+			"name": "pólizadental.es",
+			"description": "Español",
+			"active": 1
+		},
+		{
+			"id": 142,
+			"name": "pólizadental.info",
+			"description": "Español",
+			"active": 1
+		},
+		{
+			"id": 143,
+			"name": "evaenergía.com",
+			"description": "Español",
+			"active": 1
+		},
+		{
+			"id": 144,
+			"name": "evaenergía.es",
+			"description": "Español",
+			"active": 1
+		},
+		{
+			"id": 145,
+			"name": "evaenergía.info",
+			"description": "Español",
+			"active": 1
+		},
+		{
+			"id": 146,
+			"name": "ubuntugaleriadearte.es",
+			"description": "Español",
+			"active": 1
+		},
+		{
+			"id": 147,
+			"name": "ubuntugaleriadearte.com",
+			"description": "Español",
+			"active": 1
+		},
+		{
+			"id": 148,
+			"name": "saludysolidaridad.es",
+			"description": "Español",
+			"active": 1
+		},
+		{
+			"id": 149,
+			"name": "housesincádiz.com",
+			"description": "Español",
+			"active": 1
+		},
+		{
+			"id": 150,
+			"name": "rentincádiz.com",
+			"description": "Español",
+			"active": 1
+		},
+		{
+			"id": 151,
+			"name": "alquilerenmálaga.com",
+			"description": "Español",
+			"active": 1
+		},
+		{
+			"id": 152,
+			"name": "rentinmálaga.com",
+			"description": "Español",
+			"active": 1
+		},
+		{
+			"id": 153,
+			"name": "alquilerencádiz.com",
+			"description": "Español",
+			"active": 1
+		},
+		{
+			"id": 154,
+			"name": "segurosjuridicos.info",
+			"description": "Español",
+			"active": 1
+		},
+		{
+			"id": 155,
+			"name": "segurodemobilidade.com",
+			"description": "Español",
+			"active": 1
+		},
+		{
+			"id": 156,
+			"name": "segurosjuridicos.com",
+			"description": "Español",
+			"active": 1
+		},
+		{
+			"id": 157,
+			"name": "segurosjuridicos.es",
+			"description": "Español",
+			"active": 1
+		},
+		{
+			"id": 158,
+			"name": "segurodesepelio.com",
+			"description": "Español",
+			"active": 1
+		},
+		{
+			"id": 159,
+			"name": "seguroexequial.com",
+			"description": "Español",
+			"active": 1
+		},
+		{
+			"id": 160,
+			"name": "evaviajes.com",
+			"description": "Español",
+			"active": 1
+		},
+		{
+			"id": 161,
+			"name": "hotelesbarcelo.com",
+			"description": "Español",
+			"active": 1
+		},
+		{
+			"id": 162,
+			"name": "evasolucion.com",
+			"description": "Español",
+			"active": 1
+		},
+		{
+			"id": 163,
+			"name": "evasolucion.es",
+			"description": "Español",
+			"active": 1
+		},
+		{
+			"id": 164,
+			"name": "grupoeva.team",
+			"description": "Español",
+			"active": 1
+		},
+		{
+			"id": 165,
+			"name": "poliza.store",
+			"description": "Español",
+			"active": 1
+		},
+		{
+			"id": 166,
+			"name": "seguromedico.global",
+			"description": "Español",
+			"active": 1
+		},
+		{
+			"id": 167,
+			"name": "segurosdesalud.store",
+			"description": "Español",
+			"active": 1
+		},
+		{
+			"id": 168,
+			"name": "segurosmedicos.store",
+			"description": "Español",
+			"active": 1
+		},
+		{
+			"id": 169,
+			"name": "ecoladrillos.com",
+			"description": "Español",
+			"active": 1
+		},
+		{
+			"id": 170,
+			"name": "castroprietofotografo.com",
+			"description": "Español",
+			"active": 1
+		},
+		{
+			"id": 171,
+			"name": "evamovil.es",
+			"description": "Español",
+			"active": 1
+		},
+		{
+			"id": 172,
+			"name": "evamovil.com",
+			"description": "Español",
+			"active": 1
+		},
+		{
+			"id": 173,
+			"name": "lineasmovilesgratis.com",
+			"description": "Español",
+			"active": 1
+		},
+		{
+			"id": 174,
+			"name": "lineamovilgratis.com",
+			"description": "Español",
+			"active": 1
+		},
+		{
+			"id": 175,
+			"name": "seguroembebido.com",
+			"description": "Español",
+			"active": 1
+		},
+		{
+			"id": 176,
+			"name": "segurosembebidos.com",
+			"description": "Español",
+			"active": 1
+		},
+		{
+			"id": 177,
+			"name": "franciscoherreroartista.com",
+			"description": "Español",
+			"active": 1
+		},
+		{
+			"id": 178,
+			"name": "dkvrenta.com",
+			"description": "Español",
+			"active": 1
+		},
+		{
+			"id": 179,
+			"name": "dkvdentisalud.com",
+			"description": "Español",
+			"active": 1
+		},
+		{
+			"id": 180,
+			"name": "dkvhogar.com",
+			"description": "Español",
+			"active": 1
+		},
+		{
+			"id": 181,
+			"name": "dkvintegral.com",
+			"description": "Español",
+			"active": 1
+		},
+		{
+			"id": 182,
+			"name": "dkvmundisalud.com",
+			"description": "Español",
+			"active": 1
+		},
+		{
+			"id": 183,
+			"name": "segurodedecesosdkv.com",
+			"description": "Español",
+			"active": 1
+		},
+		{
+			"id": 184,
+			"name": "dkvproteccionfamiliar.com",
+			"description": "Español",
+			"active": 1
+		},
+		{
+			"id": 185,
+			"name": "famedicplus.com",
+			"description": "Español",
+			"active": 1
+		},
+		{
+			"id": 186,
+			"name": "famedicprofesional.com",
+			"description": "Español",
+			"active": 1
+		},
+		{
+			"id": 187,
+			"name": "membresiasfunerarias.com",
+			"description": "Español",
+			"active": 1
+		},
+		{
+			"id": 188,
+			"name": "seguropersonalizado.com",
+			"description": "Español",
+			"active": 1
+		},
+		{
+			"id": 189,
+			"name": "evainsurtech.es",
+			"description": "Español",
+			"active": 1
+		},
+		{
+			"id": 190,
+			"name": "aguaselbarcial.com",
+			"description": "Español",
+			"active": 1
+		},
+		{
+			"id": 191,
+			"name": "manantialelbarcial.com",
+			"description": "Español",
+			"active": 1
+		},
+		{
+			"id": 192,
+			"name": "manantialbarcial.com",
+			"description": "Español",
+			"active": 1
+		},
+		{
+			"id": 193,
+			"name": "manantialbarcial.es",
+			"description": "Español",
+			"active": 1
+		},
+		{
+			"id": 194,
+			"name": "manantialbarcial.info",
+			"description": "Español",
+			"active": 1
+		},
+		{
+			"id": 195,
+			"name": "aguasbarcial.com",
+			"description": "Español",
+			"active": 1
+		},
+		{
+			"id": 196,
+			"name": "colectivodesalud.com",
+			"description": "Español",
+			"active": 1
+		},
+		{
+			"id": 197,
+			"name": "polizascolectivas.com",
+			"description": "Español",
+			"active": 1
+		},
+		{
+			"id": 198,
+			"name": "segurodegimnasio.com",
+			"description": "Español",
+			"active": 1
+		},
+		{
+			"id": 199,
+			"name": "evaremesas.com",
+			"description": "Español",
+			"active": 1
+		},
+		{
+			"id": 200,
+			"name": "aguasdemanantial.com",
+			"description": "Español",
+			"active": 1
+		},
+		{
+			"id": 201,
+			"name": "contrataenorigen.com",
+			"description": "Español",
+			"active": 1
+		},
+		{
+			"id": 202,
+			"name": "contratalorigine.com",
+			"description": "Español",
+			"active": 1
+		},
+		{
+			"id": 203,
+			"name": "contratarenorigen.com",
+			"description": "Español",
+			"active": 1
+		},
+		{
+			"id": 204,
+			"name": "evaalarmas.com",
+			"description": "Español",
+			"active": 1
+		},
+		{
+			"id": 205,
+			"name": "segurodeartistas.com",
+			"description": "Español",
+			"active": 1
+		},
+		{
+			"id": 206,
+			"name": "segurodemuseos.com",
+			"description": "Español",
+			"active": 1
+		},
+		{
+			"id": 207,
+			"name": "segurosdemuseos.com",
+			"description": "Español",
+			"active": 1
+		},
+		{
+			"id": 208,
+			"name": "seguromasivo.com",
+			"description": "Español",
+			"active": 1
+		},
+		{
+			"id": 209,
+			"name": "segurodemuseu.com",
+			"description": "Español",
+			"active": 1
+		},
+		{
+			"id": 210,
+			"name": "leadcualificado.com",
+			"description": "Español",
+			"active": 1
+		},
+		{
+			"id": 211,
+			"name": "leadsqualificados.com",
+			"description": "Español",
+			"active": 1
+		},
+		{
+			"id": 212,
+			"name": "segurodehogar.com",
+			"description": "Español",
+			"active": 1
+		},
+		{
+			"id": 213,
+			"name": "polizadevida.com",
+			"description": "Español",
+			"active": 1
+		},
+		{
+			"id": 214,
+			"name": "polizamedicafamilar.com",
+			"description": "Español",
+			"active": 1
+		},
+		{
+			"id": 215,
+			"name": "polizademascotas.es",
+			"description": "Español",
+			"active": 1
+		},
+		{
+			"id": 216,
+			"name": "comparadormovil.com",
+			"description": "Español",
+			"active": 1
+		},
+		{
+			"id": 217,
+			"name": "seguromedicofamilar.com",
+			"description": "Español",
+			"active": 1
+		},
+		{
+			"id": 218,
+			"name": "polizadeaccidentes.com",
+			"description": "Español",
+			"active": 1
+		},
+		{
+			"id": 219,
+			"name": "polizadecoche.com",
+			"description": "Español",
+			"active": 1
+		},
+		{
+			"id": 220,
+			"name": "polizadecomercio.com",
+			"description": "Español",
+			"active": 1
+		},
+		{
+			"id": 221,
+			"name": "polizadehogar.com",
+			"description": "Español",
+			"active": 1
+		},
+		{
+			"id": 222,
+			"name": "polizadesubsidio.com",
+			"description": "Español",
+			"active": 1
+		},
+		{
+			"id": 223,
+			"name": "segurosdeenfermedad.com",
+			"description": "Español",
+			"active": 1
+		},
+		{
+			"id": 224,
+			"name": "viajesparamayores.com",
+			"description": "Español",
+			"active": 1
+		},
+		{
+			"id": 225,
+			"name": "evacard.es",
+			"description": "Español",
+			"active": 1
+		},
+		{
+			"id": 226,
+			"name": "segurodevida.com",
+			"description": "Español",
+			"active": 1
+		},
+		{
+			"id": 227,
+			"name": "segurocolectivo.com",
+			"description": "Español",
+			"active": 1
+		},
+		{
+			"id": 228,
+			"name": "segurodedecesos.com",
+			"description": "Español",
+			"active": 1
+		},
+		{
+			"id": 229,
+			"name": "segurodesaúde.com",
+			"description": "Español",
+			"active": 1
+		},
+		{
+			"id": 230,
+			"name": "evasalud.com",
+			"description": "Español",
+			"active": 1
+		},
+		{
+			"id": 231,
+			"name": "wisper.pe",
+			"description": "Español",
+			"active": 1
+		},
+		{
+			"id": 232,
+			"name": "aseguru-konparatzailea.com",
+			"description": "Euskera",
+			"active": 1
+		},
+		{
+			"id": 233,
+			"name": "aseguru-konparatzailea.eus",
+			"description": "Euskera",
+			"active": 1
+		},
+		{
+			"id": 234,
+			"name": "bizi-aseguru.com",
+			"description": "Euskera",
+			"active": 1
+		},
+		{
+			"id": 235,
+			"name": "diru-laguntzaasegurua.com",
+			"description": "Euskera",
+			"active": 1
+		},
+		{
+			"id": 236,
+			"name": "diru-laguntzaasegurua.eus",
+			"description": "Euskera",
+			"active": 1
+		},
+		{
+			"id": 237,
+			"name": "etxekoasegurua.com",
+			"description": "Euskera",
+			"active": 1
+		},
+		{
+			"id": 238,
+			"name": "etxekoasegurua.eus",
+			"description": "Euskera",
+			"active": 1
+		},
+		{
+			"id": 239,
+			"name": "hileta-aseguru.com",
+			"description": "Euskera",
+			"active": 1
+		},
+		{
+			"id": 240,
+			"name": "maskotenasegurua.com",
+			"description": "Euskera",
+			"active": 1
+		},
+		{
+			"id": 241,
+			"name": "osasun-asegurua.com",
+			"description": "Euskera",
+			"active": 1
+		},
+		{
+			"id": 242,
+			"name": "sorospen-asegurua.com",
+			"description": "Euskera",
+			"active": 1
+		},
+		{
+			"id": 243,
+			"name": "bizi-aseguru.eus",
+			"description": "Euskera",
+			"active": 1
+		},
+		{
+			"id": 244,
+			"name": "hileta-aseguru.eus",
+			"description": "Euskera",
+			"active": 1
+		},
+		{
+			"id": 245,
+			"name": "maskotenasegurua.eus",
+			"description": "Euskera",
+			"active": 1
+		},
+		{
+			"id": 246,
+			"name": "osasun-asegurua.eus",
+			"description": "Euskera",
+			"active": 1
+		},
+		{
+			"id": 247,
+			"name": "sorospen-asegurua.eus",
+			"description": "Euskera",
+			"active": 1
+		},
+		{
+			"id": 248,
+			"name": "autoasegurua.eus",
+			"description": "Euskera",
+			"active": 1
+		},
+		{
+			"id": 249,
+			"name": "heriotzaasegurua.com",
+			"description": "Euskera",
+			"active": 1
+		},
+		{
+			"id": 250,
+			"name": "heriotzaasegurua.eus",
+			"description": "Euskera",
+			"active": 1
+		},
+		{
+			"id": 251,
+			"name": "nekazaritzaasegurua.com",
+			"description": "Euskera",
+			"active": 1
+		},
+		{
+			"id": 252,
+			"name": "nekazaritzaasegurua.eus",
+			"description": "Euskera",
+			"active": 1
+		},
+		{
+			"id": 253,
+			"name": "legezkoasegurua.com",
+			"description": "Euskera",
+			"active": 1
+		},
+		{
+			"id": 254,
+			"name": "evaasegurua.com",
+			"description": "Euskera",
+			"active": 1
+		},
+		{
+			"id": 255,
+			"name": "merkataritzaasegurua.com",
+			"description": "Euskera",
+			"active": 1
+		},
+		{
+			"id": 256,
+			"name": "mugikortasunasegurua.com",
+			"description": "Euskera",
+			"active": 1
+		},
+		{
+			"id": 257,
+			"name": "merkataritzaasegurua.eus",
+			"description": "Euskera",
+			"active": 1
+		},
+		{
+			"id": 258,
+			"name": "mugikortasunasegurua.eus",
+			"description": "Euskera",
+			"active": 1
+		},
+		{
+			"id": 259,
+			"name": "evaasegurua.eus",
+			"description": "Euskera",
+			"active": 1
+		},
+		{
+			"id": 260,
+			"name": "taldekoasegurua.com",
+			"description": "Euskera",
+			"active": 1
+		},
+		{
+			"id": 261,
+			"name": "teknologiaasegurua.com",
+			"description": "Euskera",
+			"active": 1
+		},
+		{
+			"id": 262,
+			"name": "teknologiaasegurua.eus",
+			"description": "Euskera",
+			"active": 1
+		},
+		{
+			"id": 263,
+			"name": "asegurua.com",
+			"description": "Euskera",
+			"active": 1
+		},
+		{
+			"id": 264,
+			"name": "asegurua.eus",
+			"description": "Euskera",
+			"active": 1
+		},
+		{
+			"id": 265,
+			"name": "osasunkolektiboa.com",
+			"description": "Euskera",
+			"active": 1
+		},
+		{
+			"id": 266,
+			"name": "euskaldunes.com",
+			"description": "Euskera",
+			"active": 1
+		},
+		{
+			"id": 267,
+			"name": "euskaldunes.eus",
+			"description": "Euskera",
+			"active": 1
+		},
+		{
+			"id": 268,
+			"name": "evasms.fr",
+			"description": "Francés",
+			"active": 1
+		},
+		{
+			"id": 269,
+			"name": "briqueseco.com",
+			"description": "Francés",
+			"active": 1
+		},
+		{
+			"id": 270,
+			"name": "assurancemusee.com",
+			"description": "Francés",
+			"active": 1
+		},
+		{
+			"id": 271,
+			"name": "segurodemorte.gal",
+			"description": "Gallego",
+			"active": 1
+		},
+		{
+			"id": 272,
+			"name": "segurodevida.gal",
+			"description": "Gallego",
+			"active": 1
+		},
+		{
+			"id": 273,
+			"name": "segurodofogar.gal",
+			"description": "Gallego",
+			"active": 1
+		},
+		{
+			"id": 274,
+			"name": "segurodemobilidade.gal",
+			"description": "Gallego",
+			"active": 1
+		},
+		{
+			"id": 275,
+			"name": "comparadordeseguros.gal",
+			"description": "Gallego",
+			"active": 1
+		},
+		{
+			"id": 276,
+			"name": "evaseguros.gal",
+			"description": "Gallego",
+			"active": 1
+		},
+		{
+			"id": 277,
+			"name": "segurodecoche.gal",
+			"description": "Gallego",
+			"active": 1
+		},
+		{
+			"id": 278,
+			"name": "segurodecomercio.gal",
+			"description": "Gallego",
+			"active": 1
+		},
+		{
+			"id": 279,
+			"name": "segurodesaude.gal",
+			"description": "Gallego",
+			"active": 1
+		},
+		{
+			"id": 280,
+			"name": "seguroparamascotas.gal",
+			"description": "Gallego",
+			"active": 1
+		},
+		{
+			"id": 281,
+			"name": "segurodesubsidio.gal",
+			"description": "Gallego",
+			"active": 1
+		},
+		{
+			"id": 282,
+			"name": "segurolegal.gal",
+			"description": "Gallego",
+			"active": 1
+		},
+		{
+			"id": 283,
+			"name": "jeevanzbeema.com",
+			"description": "Hindi",
+			"active": 1
+		},
+		{
+			"id": 284,
+			"name": "evasvaasth.com",
+			"description": "Hindi",
+			"active": 1
+		},
+		{
+			"id": 285,
+			"name": "jeevanbeema.com",
+			"description": "Hindi",
+			"active": 1
+		},
+		{
+			"id": 286,
+			"name": "echobricks.com",
+			"description": "Inglés",
+			"active": 1
+		},
+		{
+			"id": 287,
+			"name": "freemobileslines.com",
+			"description": "Inglés",
+			"active": 1
+		},
+		{
+			"id": 288,
+			"name": "freemobilelines.com",
+			"description": "Inglés",
+			"active": 1
+		},
+		{
+			"id": 289,
+			"name": "freemobileline.com",
+			"description": "Inglés",
+			"active": 1
+		},
+		{
+			"id": 290,
+			"name": "sickleaveinsurance.com",
+			"description": "Inglés",
+			"active": 1
+		},
+		{
+			"id": 291,
+			"name": "insuranceinserted.com",
+			"description": "Inglés",
+			"active": 1
+		},
+		{
+			"id": 292,
+			"name": "evaremittances.com",
+			"description": "Inglés",
+			"active": 1
+		},
+		{
+			"id": 293,
+			"name": "hireatsource.com",
+			"description": "Inglés",
+			"active": 1
+		},
+		{
+			"id": 294,
+			"name": "evaglobalcard.com",
+			"description": "Inglés",
+			"active": 1
+		},
+		{
+			"id": 295,
+			"name": "evacard.com",
+			"description": "Inglés",
+			"active": 1
+		},
+		{
+			"id": 296,
+			"name": "assicurazionedelmuseo.com",
+			"description": "Italiano",
+			"active": 1
+		},
+		{
+			"id": 297,
+			"name": "comparatoreassicurativo.com",
+			"description": "Italiano",
+			"active": 1
+		},
+		{
+			"id": 298,
+			"name": "assicurazionemorte.com",
+			"description": "Italiano",
+			"active": 1
+		},
+		{
+			"id": 299,
+			"name": "hakubutsukanhoken.com",
+			"description": "Japonés",
+			"active": 1
+		},
+		{
+			"id": 300,
+			"name": "gaadeebeema.com",
+			"description": "Nepalí",
+			"active": 1
+		},
+		{
+			"id": 301,
+			"name": "gatisheelatabeema.com",
+			"description": "Nepalí",
+			"active": 1
+		},
+		{
+			"id": 302,
+			"name": "grhbeema.com",
+			"description": "Nepalí",
+			"active": 1
+		},
+		{
+			"id": 303,
+			"name": "kaanooneebeema.com",
+			"description": "Nepalí",
+			"active": 1
+		},
+		{
+			"id": 304,
+			"name": "mrtyubeema.com",
+			"description": "Nepalí",
+			"active": 1
+		},
+		{
+			"id": 305,
+			"name": "paalatoobeema.com",
+			"description": "Nepalí",
+			"active": 1
+		},
+		{
+			"id": 306,
+			"name": "svaasthybeema.com",
+			"description": "Nepalí",
+			"active": 1
+		},
+		{
+			"id": 307,
+			"name": "vyaapaarbeema.com",
+			"description": "Nepalí",
+			"active": 1
+		},
+		{
+			"id": 308,
+			"name": "evasaude.es",
+			"description": "Portugués",
+			"active": 1
+		},
+		{
+			"id": 309,
+			"name": "evasaude.eu",
+			"description": "Portugués",
+			"active": 1
+		},
+		{
+			"id": 310,
+			"name": "associaesmedicas.online",
+			"description": "Portugués",
+			"active": 1
+		},
+		{
+			"id": 311,
+			"name": "evamovel.com",
+			"description": "Portugués",
+			"active": 1
+		},
+		{
+			"id": 312,
+			"name": "seguroanimaisdeestimação.com",
+			"description": "Portugués",
+			"active": 1
+		},
+		{
+			"id": 313,
+			"name": "seguroanimaldeestimação.com",
+			"description": "Portugués",
+			"active": 1
+		},
+		{
+			"id": 314,
+			"name": "segurodentário.com",
+			"description": "Portugués",
+			"active": 1
+		},
+		{
+			"id": 315,
+			"name": "evamoveis.com",
+			"description": "Portugués",
+			"active": 1
+		},
+		{
+			"id": 316,
+			"name": "assegurancadedecessos.com",
+			"description": "Portugués",
+			"active": 1
+		},
+		{
+			"id": 317,
+			"name": "assegurancadelallar.com",
+			"description": "Portugués",
+			"active": 1
+		},
+		{
+			"id": 318,
+			"name": "assegurancadesalut.com",
+			"description": "Portugués",
+			"active": 1
+		},
+		{
+			"id": 319,
+			"name": "assegurancadevida.com",
+			"description": "Portugués",
+			"active": 1
+		},
+		{
+			"id": 320,
+			"name": "assegurancaagraria.com",
+			"description": "Portugués",
+			"active": 1
+		},
+		{
+			"id": 321,
+			"name": "assegurancadecomerc.com",
+			"description": "Portugués",
+			"active": 1
+		},
+		{
+			"id": 322,
+			"name": "assegurancademascotes.com",
+			"description": "Portugués",
+			"active": 1
+		},
+		{
+			"id": 323,
+			"name": "assegurancadesubsidi.com",
+			"description": "Portugués",
+			"active": 1
+		},
+		{
+			"id": 324,
+			"name": "assegurancajuridica.com",
+			"description": "Portugués",
+			"active": 1
+		},
+		{
+			"id": 325,
+			"name": "assegurancacollectiva.com",
+			"description": "Portugués",
+			"active": 1
+		},
+		{
+			"id": 326,
+			"name": "linhasmoveisgratuitas.com",
+			"description": "Portugués",
+			"active": 1
+		},
+		{
+			"id": 327,
+			"name": "comparacaodeseguros.com",
+			"description": "Portugués",
+			"active": 1
+		},
+		{
+			"id": 328,
+			"name": "associaesmedicas.com",
+			"description": "Portugués",
+			"active": 1
+		},
+		{
+			"id": 329,
+			"name": "evasaude.com",
+			"description": "Portugués",
+			"active": 1
+		},
+		{
+			"id": 330,
+			"name": "consultasmédicas.pt",
+			"description": "Portugués",
+			"active": 1
+		},
+		{
+			"id": 331,
+			"name": "evamóvel.pt",
+			"description": "Portugués",
+			"active": 1
+		},
+		{
+			"id": 332,
+			"name": "evaseguros.pt",
+			"description": "Portugués",
+			"active": 1
+		},
+		{
+			"id": 333,
+			"name": "planosdesaúde.pt",
+			"description": "Portugués",
+			"active": 1
+		},
+		{
+			"id": 334,
+			"name": "seguroagricola.pt",
+			"description": "Portugués",
+			"active": 1
+		},
+		{
+			"id": 335,
+			"name": "seguroanimaldeestimação.pt",
+			"description": "Portugués",
+			"active": 1
+		},
+		{
+			"id": 336,
+			"name": "seguroautomóvel.pt",
+			"description": "Portugués",
+			"active": 1
+		},
+		{
+			"id": 337,
+			"name": "segurodecasa.pt",
+			"description": "Portugués",
+			"active": 1
+		},
+		{
+			"id": 338,
+			"name": "segurodeempresa.pt",
+			"description": "Portugués",
+			"active": 1
+		},
+		{
+			"id": 339,
+			"name": "segurodemorte.pt",
+			"description": "Portugués",
+			"active": 1
+		},
+		{
+			"id": 340,
+			"name": "segurodentário.pt",
+			"description": "Portugués",
+			"active": 1
+		},
+		{
+			"id": 341,
+			"name": "segurodesaúde.pt",
+			"description": "Portugués",
+			"active": 1
+		},
+		{
+			"id": 342,
+			"name": "segurolegal.pt",
+			"description": "Portugués",
+			"active": 1
+		},
+		{
+			"id": 343,
+			"name": "asigurarealocuintei.com",
+			"description": "Rumano",
+			"active": 1
+		},
+		{
+			"id": 344,
+			"name": "asigurarededeces.com",
+			"description": "Rumano",
+			"active": 1
+		},
+		{
+			"id": 345,
+			"name": "asiguraredesanatate.com",
+			"description": "Rumano",
+			"active": 1
+		},
+		{
+			"id": 346,
+			"name": "asiguraredeviata.com",
+			"description": "Rumano",
+			"active": 1
+		},
+		{
+			"id": 347,
+			"name": "asiguraredemobilitate.com",
+			"description": "Rumano",
+			"active": 1
+		},
+		{
+			"id": 348,
+			"name": "asigurarelegala.com",
+			"description": "Rumano",
+			"active": 1
+		},
+		{
+			"id": 349,
+			"name": "asiguraremasina.com",
+			"description": "Rumano",
+			"active": 1
+		},
+		{
+			"id": 350,
+			"name": "asiguraricomerciale.com",
+			"description": "Rumano",
+			"active": 1
+		},
+		{
+			"id": 351,
+			"name": "asigurareanimaledecompanie.com",
+			"description": "Rumano",
+			"active": 1
+		},
+		{
+			"id": 352,
+			"name": "asiguraredeauto.com",
+			"description": "Rumano",
+			"active": 1
+		},
+		{
+			"id": 353,
+			"name": "asiguraredeaccidente.com",
+			"description": "Rumano",
+			"active": 1
+		},
+		{
+			"id": 354,
+			"name": "asiguraredecalatorie.com",
+			"description": "Rumano",
+			"active": 1
+		},
+		{
+			"id": 355,
+			"name": "asiguraredelocuinte.com",
+			"description": "Rumano",
+			"active": 1
+		},
+		{
+			"id": 356,
+			"name": "asigurarieva.com",
+			"description": "Rumano",
+			"active": 1
+		},
+		{
+			"id": 357,
+			"name": "comparatordeasigurari.com",
+			"description": "Rumano",
+			"active": 1
+		},
+		{
+			"id": 358,
+			"name": "meditsinskayastrakhovka.com",
+			"description": "Ruso",
+			"active": 1
+		},
+		{
+			"id": 359,
+			"name": "strakhovaniyeavtomobilya.com",
+			"description": "Ruso",
+			"active": 1
+		},
+		{
+			"id": 360,
+			"name": "strakhovaniyebiznesa.com",
+			"description": "Ruso",
+			"active": 1
+		},
+		{
+			"id": 361,
+			"name": "strakhovaniyemobilnosti.com",
+			"description": "Ruso",
+			"active": 1
+		},
+		{
+			"id": 362,
+			"name": "strakhovaniyemototsiklov.com",
+			"description": "Ruso",
+			"active": 1
+		},
+		{
+			"id": 363,
+			"name": "strakhovaniyesmerti.com",
+			"description": "Ruso",
+			"active": 1
+		},
+		{
+			"id": 364,
+			"name": "strakhovaniyezhilya.com",
+			"description": "Ruso",
+			"active": 1
+		},
+		{
+			"id": 365,
+			"name": "strakhovoykomparator.com",
+			"description": "Ruso",
+			"active": 1
+		},
+		{
+			"id": 366,
+			"name": "yuridicheskoyestrakhovaniye.com",
+			"description": "Ruso",
+			"active": 1
+		},
+		{
+			"id": 367,
+			"name": "strakhovaniyeotvetstvennosti.com",
+			"description": "Ruso",
+			"active": 1
+		},
+		{
+			"id": 368,
+			"name": "strakhovaniyezhizni.com",
+			"description": "Ruso",
+			"active": 1
+		},
+		{
+			"id": 369,
+			"name": "strakhovaniyemuzeya.com",
+			"description": "Ruso",
+			"active": 1
+		},
+		{
+			"id": 370,
+			"name": "strakhuvannyazhyttya.com",
+			"description": "Ucraniano",
+			"active": 1
+		}
+	]
+}

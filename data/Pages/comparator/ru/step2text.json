@@ -1,0 +1,30 @@
+{
+	"title": "Сколько человек вы планируете включить в полис?",
+	"subtitle": "Выберите один из вариантов",
+	"options": [
+		{
+			"text": "Только я »",
+			"userDataValue": 1
+		},
+		{
+			"text": "2 человека »",
+			"userDataValue": 2
+		},
+		{
+			"text": "3 человека »",
+			"userDataValue": 3
+		},
+		{
+			"text": "4 человека »",
+			"userDataValue": 4
+		},
+		{
+			"text": "5 человек »",
+			"userDataValue": 5
+		},
+		{
+			"text": "Более 5 человек »",
+			"userDataValue": "5+"
+		}
+	]
+}

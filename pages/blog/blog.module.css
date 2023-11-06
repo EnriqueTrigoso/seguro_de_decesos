@@ -1,0 +1,135 @@
+.blog {
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+}
+
+.detail_container {
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+}
+
+/* .hero {
+  margin-bottom: 2rem;
+} */
+
+.header {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+  margin-bottom: 1.5rem;
+}
+
+.title {
+  color: #232263;
+  text-align: center;
+  font-size: 2rem;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 120%;
+}
+
+.subtitle {
+  color: #1D2939;
+  font-size: 1.5rem;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 120%;
+}
+
+.date {
+  color: #344054;
+  text-align: center;
+  font-size: 0.875rem;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 130%;
+  letter-spacing: 0.0175rem;
+}
+
+.category {
+  color: #00983A;
+  font-size: 0.75rem;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 130%;
+  letter-spacing: 0.015rem;
+  text-align: center;
+  text-transform: capitalize;
+}
+
+.detail {
+  display: flex;
+  justify-content: space-between;
+}
+
+.content {
+  width: 860px;
+  /* align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 2rem; */
+}
+
+.content section {
+  padding-top: 2rem
+}
+
+.cover {
+  aspect-ratio: 1.442307692307692;
+  background-repeat: no-repeat;
+  background-size: cover;
+  border-radius: 8px;
+  /* background-position: center; */
+}
+
+.bar_initial {
+  color: #667085;
+  font-size: 1rem;
+}
+
+.bar_title {
+  color: #1D2939;
+  font-size: 1rem;
+}
+
+.entrance {
+  font-size: 1.125rem;
+  font-style: normal;
+  line-height: 140%;
+  letter-spacing: 0.01125rem;
+  text-align: center;
+}
+
+.header_bar {
+  display: flex;
+  align-items: flex-start;
+  gap: 5px;
+  margin-bottom: 2rem;
+}
+
+@media (min-width: 1024px) {
+  .title {
+    padding: 0 27%;
+  }
+
+  .entrance {
+    padding: 0 15%;
+  }
+
+  .cover {
+    aspect-ratio: 2.801724137931034;
+  }
+
+  .header_bar {
+    display: flex;
+    align-items: center;
+    gap: 5px;
+    margin-bottom: 2.5rem;
+  }
+}
+
+@media (max-width: 1200px) {
+  .detail {
+    justify-content: center;
+  }
+}

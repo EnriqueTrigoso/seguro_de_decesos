@@ -1,0 +1,21 @@
+{
+    "help": {
+        "title": "T'ajudem a trobar la millor /assegurança de decessos/",
+        "description": "Estem disponibles per respondre a totes les teves preguntes i ajudar-te a triar l'assegurança funerària que millor s'ajusti a les teves necessitats i a les de la teva família.",
+        "schedule": [
+            "De dilluns a divendres: 8 a 20 h",
+            "Dissabte i diumenge: 9 a 17 h"
+        ],
+        "buttons": [
+            {
+                "text": "Comparar ara",
+                "url": "#"
+            }
+        ],
+        "contact_phone": "(01) 411-6001",
+        "metadata": {
+            "alt": "encuentra el mejor seguro de decesos",
+            "title": "mejor seguro de decesos"
+        }
+    }
+}

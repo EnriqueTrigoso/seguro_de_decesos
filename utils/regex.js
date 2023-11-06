@@ -1,0 +1,1 @@
+export const regexTest = /^(\d{2})\/(\d{2})\/(\d{4})$/g;

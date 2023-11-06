@@ -1,0 +1,25 @@
+{
+  "showListCookies": "Tingnan ang Listahan ng mga Cookies",
+  "cookies": [
+    {
+      "title": "Cookies para sa Marketing",
+      "description": "Ginagamit namin ang mga cookies para sa marketing upang ipakita ang mga anunsyo batay sa interes ng user sa pamamagitan ng isang anonimong profile.",
+      "cookieName": "marketing"
+    },
+    {
+      "title": "Cookies para sa Pagpapersonalisa",
+      "description": "Ginagamit namin ang mga cookies para sa personalisasyon batay sa pag-navigate ng user upang maging functional at personalisado ang kanilang karanasan.",
+      "cookieName": "personalization"
+    },
+    {
+      "title": "Cookies para sa Analytics",
+      "description": "Ginagamit namin ang mga cookies para sa analytics upang kolektahin ang impormasyon ukol sa pag-navigate ng mga user at sa gayon ay mapabuti ang mga serbisyong aming ibinibigay sa pamamagitan ng mga digital na paraan.",
+      "cookieName": "analytics"
+    },
+    {
+      "title": "Mga Mahahalagang Cookies",
+      "description": "Ginagamit namin ang mga mahahalagang cookies upang mapadali ang pag-navigate sa site at maalala ang mga nais ng user. Ang tanging paraan para tanggihan ang mga ito ay ang pagtigil sa pag-navigate sa website na ito.",
+      "cookieName": "essential"
+    }
+  ]
+}

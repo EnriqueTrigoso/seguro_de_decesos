@@ -1,0 +1,104 @@
+.rich_text div {
+  display: flex;
+  flex-direction: column;
+  gap: 1.25rem;
+}
+
+.rich_text h2 {
+  color: #1D2939;
+  font-size: 1.75rem;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 120%;
+}
+
+.rich_text h3 {
+  color: #1D2939;
+  font-size: 1.5rem;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 120%;
+}
+
+.rich_text h4 {
+  color: #1D2939;
+  font-size: 1.25rem;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 120%;
+}
+
+.rich_text p {
+  color: #1D2939;
+  font-size: 1.125rem;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 140%;
+  letter-spacing: 0.01125rem;
+  /* margin-bottom: 1.5rem; */
+}
+
+.rich_text strong {
+  color: #1D2939;
+  font-size: 1.125rem;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 140%;
+  letter-spacing: 0.01125rem;
+}
+
+.rich_text a {
+  color: #00983A;
+  font-size: 1.125rem;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 140%;
+  letter-spacing: 0.01125rem;
+  text-decoration-line: underline;
+}
+
+.rich_text ul li {
+  color: #1D2939;
+  font-size: 1.125rem;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 140%;
+  letter-spacing: 0.01125rem;
+  margin-bottom: 1.5rem;
+}
+
+
+.rich_text li::before {
+  content: '';
+  display: block;
+  width: 0.5rem;
+  height: 0.5rem;
+  background-color: #00983A;
+  border-radius: 50%;
+  margin-right: .5rem;
+  margin-top: 0.5rem;
+  color: #00983A;
+  display: inline-block;
+}
+
+
+.rich_text img {
+  margin-top: .5rem;
+  border-radius: 4px;
+  height: 469px;
+  width: 100%;
+  object-fit: cover;
+  margin-bottom: .5rem;
+}
+
+.top {
+  padding-top: 6rem;
+}
+
+@media (max-width: 1024px) {
+  .rich_text img {
+    height: 330px;
+    width: 100%;
+    object-fit: cover;
+  }
+}

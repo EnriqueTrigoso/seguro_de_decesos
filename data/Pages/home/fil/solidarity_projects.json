@@ -1,0 +1,26 @@
+{
+    "solidarity_projects": {
+        "title": "Hindi /nagpapabuti ang mundo sa mga salita/, kundi sa /halimbawa/",
+        "description": "“Hindi natin kayang hulaan ang hinaharap, ngunit kayang tayo ay tumulong na ito ay itaguyod”",
+        "buttons": [
+            {
+                "text": "Tingnan ang mga proyektong pangkabutihan",
+                "url": "#"
+            }
+        ],
+        "cards": [
+            {
+                "title": "Foundation Universo Accesible",
+                "description": "Sa Eva Seguros, naghahanap kami na mapabuti ang kalidad ng buhay ng mga taong may kapansanan sa pamamagitan ng Foundation Universo Accesible at ang kanilang proyektong Universo Santi.",
+                "url": "https://universoaccesible.org",
+                "url_text": "Alamin pa"
+            },
+            {
+                "title": "Plant For The Planet",
+                "description": "Isang puno bawat kliyente. Sa Eva Seguros at Plant For The Planet, kami ay nagtatrabaho para sa isang mas luntiang mundo at may layunin na magtanim ng 1 milyong puno hanggang 2030.",
+                "url": "https://www.plant-for-the-planet.org",
+                "url_text": "Alamin pa"
+            }
+        ]
+    }
+}

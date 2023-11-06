@@ -1,0 +1,32 @@
+.correo_title {
+	margin-top: 15px;
+	margin-bottom: 10px;
+	font-weight: 500;
+	font-size: 16px;
+	line-height: 20px;
+	color: var(--blue-primary);
+}
+
+.input_wrapper {
+	height: 100%;
+	display: flex;
+	align-items: center;
+	padding: 0 15px;
+	gap: 10px;
+}
+
+.input_wrapper input {
+	flex: 1;
+}
+
+.icon {
+	cursor: pointer;
+}
+
+@media (min-width: 1324px) {
+	.correo_title {
+		margin-top: 20px;
+		margin-bottom: 7px;
+	}
+
+}

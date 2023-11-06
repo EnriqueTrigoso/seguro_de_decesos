@@ -1,0 +1,40 @@
+.call_card {
+  position: relative;
+  max-width: 495px;
+  max-height: calc(100vh - 30px);
+  background-color: #fff;
+  box-shadow: 0px 5px 30px rgba(0, 0, 0, 0.05);
+  border-radius: 36px;
+  margin: 10px;
+  pointer-events: all;
+  border-radius: 8px;
+  overflow: hidden;
+}
+
+.close_button_container {
+  position: absolute;
+  top: 20px;
+  right: 20px;
+}
+
+.close_button_container svg {
+  transition: transform 0.2s ease;
+}
+
+.close_button_container svg:hover {
+  transform: scale(1.2);
+}
+
+.section:nth-child(3) {
+  margin-top: 21px;
+  margin-bottom: 18px;
+}
+
+
+
+
+
+
+
+
+

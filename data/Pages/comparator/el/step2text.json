@@ -1,0 +1,30 @@
+{
+    "title": "Πόσα άτομα θα συμπεριλάβετε στην ασφάλεια;",
+    "subtitle": "Επιλέξτε μια από τις επιλογές",
+    "options": [
+        {
+            "text": "Μόνο εγώ »",
+            "userDataValue": 1
+        },
+        {
+            "text": "2 άτομα »",
+            "userDataValue": 2
+        },
+        {
+            "text": "3 άτομα »",
+            "userDataValue": 3
+        },
+        {
+            "text": "4 άτομα »",
+            "userDataValue": 4
+        },
+        {
+            "text": "5 άτομα »",
+            "userDataValue": 5
+        },
+        {
+            "text": "Περισσότερα από 5 άτομα »",
+            "userDataValue": "5+"
+        }
+    ]
+}

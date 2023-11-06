@@ -1,0 +1,7 @@
+{
+	"input_title": "Data di nascita",
+	"title1": "Persona titolare: (Obbligatorio)",
+	"title2": "° persona: (Opzionale)",
+	"placeholder": "gg/mm/aaaa",
+	"error_msg": "Per favore, inserisci una data valida"
+}

@@ -1,0 +1,13 @@
+.user_circle {
+	width: 45px;
+	height: 45px;
+	border-radius: 100%;
+	overflow: hidden;
+	background-color: #fff;
+	justify-self: end;
+}
+
+.user_circle img {
+	width: 45px;
+	height: 45px;
+}

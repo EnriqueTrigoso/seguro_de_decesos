@@ -1,0 +1,25 @@
+{
+    "showListCookies": "Se listan över cookies",
+    "cookies": [
+        {
+            "title": "Cookies för marknadsföring",
+            "description": "Vi använder marknadsföringscookies för att visa reklam baserat på användarens intressen genom en anonym profil.",
+            "cookieName": "marknadsföring"
+        },
+        {
+            "title": "Cookies för personalisering",
+            "description": "Vi använder personaliseringscookies baserade på användarens navigering för att göra din upplevelse funktionell och personlig.",
+            "cookieName": "personalisering"
+        },
+        {
+            "title": "Cookies för analys",
+            "description": "Vi använder analyscookies för att samla in information om användarnas surfning och därmed förbättra de tjänster vi tillhandahåller via digitala kanaler.",
+            "cookieName": "analys"
+        },
+        {
+            "title": "Väsentliga cookies",
+            "description": "Vi använder viktiga cookies för att underlätta navigering på webbplatsen och för att komma ihåg användarinställningar. Det enda sättet att avvisa dem är att sluta surfa på denna webbplats.",
+            "cookieName": "viktigt"
+        }
+    ]
+}

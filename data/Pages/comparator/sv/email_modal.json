@@ -1,0 +1,23 @@
+{
+    "error": {
+        "name": "Ange ett giltigt namn",
+        "phone": "Ange ett giltigt mobilnummer",
+        "email": "Ange en giltig e-postadress",
+        "email_already_registered": "Användaren är redan registrerad"
+    },
+    "input": [
+        {
+            "title": "Förnamn och efternamn:*",
+            "placeholder": "Ange ditt namn"
+        },
+        {
+            "title": "Telefon:*",
+            "placeholder": "Ange ditt telefonnummer"
+        },
+        {
+            "title": "E-postadress:*",
+            "placeholder": "Ange din e-post"
+        }
+    ],
+    "button": "Genomför jämförelse"
+}

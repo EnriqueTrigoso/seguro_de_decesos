@@ -1,0 +1,22 @@
+.select {
+	cursor: pointer;
+	appearance: none;
+	outline: none;
+	border: none;
+	width: 100%;
+	height: 50px;
+	background: transparent;
+	background-image: url('~/assets/icons/arrow_down.svg');
+	background-repeat: no-repeat;
+	background-position-x: 100%;
+	background-position-y: 12px;
+}
+
+.select option {
+	background: var(--white);
+	color: var(--textos);
+}
+
+.select:focus {
+	outline: none;
+}

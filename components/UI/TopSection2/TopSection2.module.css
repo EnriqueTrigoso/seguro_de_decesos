@@ -1,0 +1,35 @@
+.topsection2 {
+	text-align: center;
+	display: grid;
+	gap: 1.5rem;
+}
+
+
+.h2 {
+	color: var(--blue-primary);
+	font-size: 2rem;
+	font-style: normal;
+	font-weight: 700;
+	line-height: 120%;
+}
+
+.p {
+	color: var(--textos);
+	font-size: 1rem;
+	font-style: normal;
+	font-weight: 500;
+	line-height: 140%;
+	letter-spacing: 0.01rem;
+}
+
+@media (min-width: 1024px) {
+
+	.h2 {
+		font-size: 2.5rem;
+		text-align: center;
+	}
+
+	.p {
+		font-size: 1.25rem;
+	}
+}

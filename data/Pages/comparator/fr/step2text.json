@@ -1,0 +1,30 @@
+{
+	"title": "Combien de personnes allez-vous inclure dans l'assurance ?",
+	"subtitle": "Sélectionnez l'une des options",
+	"options": [
+		{
+			"text": "Seulement moi »",
+			"userDataValue": 1
+		},
+		{
+			"text": "2 personnes »",
+			"userDataValue": 2
+		},
+		{
+			"text": "3 personnes »",
+			"userDataValue": 3
+		},
+		{
+			"text": "4 personnes »",
+			"userDataValue": 4
+		},
+		{
+			"text": "5 personnes »",
+			"userDataValue": 5
+		},
+		{
+			"text": "Plus de 5 personnes »",
+			"userDataValue": "5+"
+		}
+	]
+}

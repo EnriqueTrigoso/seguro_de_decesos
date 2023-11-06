@@ -1,0 +1,40 @@
+.cookies_policy_content h1 {
+    text-align: center;
+}
+
+.cookies_policy_content h2 {
+    margin: 6px 0;
+}
+
+.cookies_policy_content h3 {
+    margin: 6px 0;
+}
+
+.cookies_policy_content p {
+    margin-bottom: 6px;
+}
+
+.cookies_policy_content ul {
+    list-style-type: disc;
+    margin: 8px 0 8px 28px;
+}
+
+.cookies_policy_content table th,
+.cookies_policy_content table td {
+    border: 1px solid #000;
+    padding: 10px;
+    line-height: 1.3em;
+    border: 1px solid #E2EAF0;
+}
+
+.cookies_policy_content table {
+    border-collapse: collapse;
+    font-size: 14px;
+    width: 100%;
+    overflow: auto;
+}
+
+.cookies_policy_content table tbody tr:first-child {
+    text-align: center;
+    font-weight: bold;
+}

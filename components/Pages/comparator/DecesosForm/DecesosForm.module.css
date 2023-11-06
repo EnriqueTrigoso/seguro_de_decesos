@@ -1,0 +1,57 @@
+.form_container {
+  display: flex;
+  justify-content: center;
+  gap: 2rem;
+  height: 100%;
+  padding-top: 2.5rem;
+}
+
+.content {
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+}
+
+.container {
+  padding: 0 20px;
+  max-width: 538px;
+  margin: 0 auto;
+}
+
+@media (min-width: 1024px) {
+
+  .container {
+    width: 100%;
+    max-width: 850px;
+    margin: unset;
+  }
+
+  .form_container {
+    padding-top: 50px;
+    max-width: 600px;
+    justify-content: unset;
+    min-height: 80vh;
+  }
+
+  .content {
+    display: flex;
+    flex-direction: column;
+    gap: 3rem;
+    margin-left: 88px;
+  }
+
+  .grid {
+    display: flex;
+    align-items: center;
+    position: relative;
+  }
+
+  .stepper_container {
+    display: flex;
+    align-items: center;
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+  }
+}

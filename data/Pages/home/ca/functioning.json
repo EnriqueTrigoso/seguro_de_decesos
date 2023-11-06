@@ -1,0 +1,26 @@
+{
+    "functioning": {
+        "title": "T'atreveixes a mossegar la /poma/?",
+        "description": "Gaudeix dels beneficis de les línies mòbils gràcies a la teva assegurança funerària.",
+        "list_info": [
+            {
+                "title": "Trucades il·limitades."
+            },
+            {
+                "title": "/20GB/ de dades mòbils."
+            },
+            {
+                "title": "Itinerància gratuïta a la Unió Europea."
+            }
+        ],
+        "phrase": "Mantén-te sempre comunicat /gràcies a l'Eva Mòbil/!",
+        "button": {
+            "text": "Escriu-nos",
+            "link": "https://api.whatsapp.com/send?phone=34983666666&text=%C2%A1Hola%2C%20Eva%20M%C3%B3vil!%F0%9F%93%9EMe%20gustar%C3%ADa%20obtener%20informaci%C3%B3n%20sobre%20tus%20tarifas.%F0%9F%98%81"
+        },
+        "metadata": {
+            "alt": "Líneas móviles gratis",
+            "title": "Lineas moviles gratis"
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "faq": {
+        "title": "Madalas Itanong",
+        "description": "May mga tanong ka ba? Basahin ang ilang mga karaniwang tanong o makipag-ugnay sa aming mga tagapayo para sa tulong.",
+        "questions": [
+            {
+                "question": "Ano ang seguro ng pagkamatay?",
+                "answer": "Ang seguro ng pagkamatay ay ginawa upang tulungan ang mga pamilya sa mga oras ng mga pinaka-delikado at garantiyadong nagbibigay ng serbisyo para sa libing at mga hakbang kaugnay ng pagkamatay ng isang tao. Ito ay kinakontrata upang mapagaan ang pasaning pinansyal at logistikang nauugnay sa isang burol at mga legal at administratibong hakbang kaugnay sa pagkamatay."
+            },
+            {
+                "question": "Ano ang mga benepisyo ng pagkukumpara sa amin?",
+                "answer": "Magkumpara sa loob ng mas mababa sa 1 minuto mula sa isang madaling gamiting interface. Tinutulungan ka ng Eva Seguros na pumili mula sa pinakamahusay na kumpanya ng seguro ng pagkamatay sa Espanya."
+            },
+            {
+                "question": "Paano hanapin ang seguro ng pagkamatay na pinakabagay sa iyo?",
+                "answer": "Sa pamamagitan ng aming kumukumpara ng mga seguro ng pagkamatay, maaari mong salain ang mga alok mula sa mga pinakamahusay na kumpanya upang hanapin ang mga seguro ng pagkamatay na pinakabagay sa iyo."
+            },
+            {
+                "question": "Magkano ang halaga ng seguro ng pagkamatay?",
+                "answer": "Mayroong malawak na saklaw ng mga premyo na nakasalalay sa dami ng mga karagdagang kover na iyong kinukuha at sa paraan kung paano mo binabayaran ang premyo. Sa aming kumukumpara ng mga seguro ng pagkamatay, maaari mong matagpuan ang pinakamurang presyo."
+            },
+            {
+                "question": "Sino ang puwedeng kumuha ng seguro ng pagkamatay?",
+                "answer": "Ang sinuman na may edad na higit sa 18 ay puwedeng kumuha ng seguro ng pagkamatay."
+            }
+        ]
+    }
+}

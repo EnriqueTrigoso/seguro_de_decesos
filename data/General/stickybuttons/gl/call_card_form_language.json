@@ -1,0 +1,13 @@
+{
+  "title": "Introduce o teu teléfono e o teu nome e contactarán contigo.",
+  "phonePlaceholder": "Teléfono",
+  "errorMsgPhone": "Por favor, introduza un número válido",
+  "namePlaceholder": "Nome",
+  "errorMsgName": "O campo 'Nome' só acepta letras e espazos en branco",
+  "callQuestion": "Cando queres que che chamen?",
+  "timeRightNow": "Ahora mismo",
+  "timeTomorrow": "Mañá",
+  "timeOneWeek": "Dentro dunha semana",
+  "btnCallMe": "Que me chamen",
+  "gratitude": "Grazas por compartir os vosos datos connosco. /Poremos en contacto con vostede o máis axiña posible./"
+}

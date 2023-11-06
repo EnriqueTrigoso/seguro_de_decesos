@@ -1,0 +1,21 @@
+{
+    "help": {
+        "title": "Ti aiutiamo a trovare la migliore /assicurazione funebre/",
+        "description": "Siamo a disposizione per rispondere a tutte le tue domande e aiutarti a scegliere l'assicurazione funebre più adatta alle tue esigenze e a quelle della tua famiglia.",
+        "schedule": [
+            "Dal lunedì al venerdì: dalle 8:00 alle 20:00",
+            "Sabato e domenica: dalle 9:00 alle 17:00"
+        ],
+        "buttons": [
+            {
+                "text": "Confronta ora",
+                "url": "#"
+            }
+        ],
+        "contact_phone": "(01) 411-6001",
+        "metadata": {
+            "alt": "encuentra el mejor seguro de decesos",
+            "title": "mejor seguro de decesos"
+        }
+    }
+}

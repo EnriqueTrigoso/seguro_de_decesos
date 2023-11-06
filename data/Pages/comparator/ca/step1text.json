@@ -1,0 +1,26 @@
+{
+	"title": "Tens una pòlissa de defuncions actualment?",
+	"subtitle": "Selecciona una de les opcions.",
+	"option_cards": [
+		{
+			"text": "No estic assegurat »",
+			"userDataValue": "No"
+		},
+		{
+			"text": "Sí, Santalucia »",
+			"userDataValue": "Santalucia"
+		},
+		{
+			"text": "Sí, Ocaso »",
+			"userDataValue": "Ocaso"
+		},
+		{
+			"text": "Sí, Mapfre »",
+			"userDataValue": "Mapfre"
+		},
+		{
+			"text": "Sí, Una altra »",
+			"userDataValue": "Otros"
+		}
+	]
+}

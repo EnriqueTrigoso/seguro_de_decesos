@@ -1,0 +1,7 @@
+{
+	"title": "Kodigo ng Zip (Kailangan)",
+	"placeholder": "Ilagay ang kodigo ng zip...",
+	"error_msg": "Mangyaring ilagay ang 5 digitong kodigo",
+	"verify_msg": "Nag-ve-verify...",
+	"fail_msg": "Maling kodigo ng zip"
+}

@@ -1,0 +1,7 @@
+{
+	"title": "Code Postal (Obligatoire)",
+	"placeholder": "Entrez le code postal...",
+	"error_msg": "Veuillez entrer 5 chiffres",
+	"verify_msg": "Vérification...",
+	"fail_msg": "Code postal incorrect"
+}

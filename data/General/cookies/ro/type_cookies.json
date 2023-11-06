@@ -1,0 +1,25 @@
+{
+    "showListCookies": "Vezi lista de cookie-uri",
+    "cookies": [
+        {
+            "title": "Cookie-uri de marketing",
+            "description": "Folosim cookie-uri de marketing pentru a afișa publicitate bazată pe interesele utilizatorului printr-un profil anonim.",
+            "cookieName": "comercializare"
+        },
+        {
+            "title": "Cookie-uri de personalizare",
+            "description": "Folosim cookie-uri de personalizare bazate pe navigarea utilizatorului pentru a vă face experiența funcțională și personalizată.",
+            "cookieName": "personalizare"
+        },
+        {
+            "title": "Cookie-uri de analiză",
+            "description": "Folosim cookie-uri analitice pentru a colecta informații despre navigarea utilizatorilor și, astfel, pentru a îmbunătăți serviciile pe care le oferim prin intermediul canalelor digitale.",
+            "cookieName": "analitice"
+        },
+        {
+            "title": "Cookie-uri esențiale",
+            "description": "Folosim cookie-uri esențiale pentru a facilita navigarea pe site și pentru a reține preferințele utilizatorului. Singura modalitate de a le respinge este să opriți navigarea pe acest site web.",
+            "cookieName": "esenţial"
+        }
+    ]
+}

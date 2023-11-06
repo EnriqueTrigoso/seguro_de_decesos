@@ -1,0 +1,30 @@
+{
+	"title": "Quante persone vuoi includere nella polizza?",
+	"subtitle": "Seleziona una delle opzioni",
+	"options": [
+		{
+			"text": "Solo io »",
+			"userDataValue": 1
+		},
+		{
+			"text": "2 persone »",
+			"userDataValue": 2
+		},
+		{
+			"text": "3 persone »",
+			"userDataValue": 3
+		},
+		{
+			"text": "4 persone »",
+			"userDataValue": 4
+		},
+		{
+			"text": "5 persone »",
+			"userDataValue": 5
+		},
+		{
+			"text": "Più di 5 persone »",
+			"userDataValue": "5+"
+		}
+	]
+}

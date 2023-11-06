@@ -1,0 +1,26 @@
+{
+	"title": "Ai o poliță de deces în prezent?",
+	"subtitle": "Selectează una dintre opțiuni",
+	"option_cards": [
+		{
+			"text": "Nu sunt asigurat »",
+			"userDataValue": "No"
+		},
+		{
+			"text": "Da, Santalucia »",
+			"userDataValue": "Santalucia"
+		},
+		{
+			"text": "Da, Ocaso »",
+			"userDataValue": "Ocaso"
+		},
+		{
+			"text": "Da, Mapfre »",
+			"userDataValue": "Mapfre"
+		},
+		{
+			"text": "Da, Altul »",
+			"userDataValue": "Otros"
+		}
+	]
+}

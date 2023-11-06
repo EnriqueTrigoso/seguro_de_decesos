@@ -1,0 +1,165 @@
+.hire_message {
+    overflow: hidden;
+    position: relative;
+    width: 100%;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.hire_message img {
+    display: block;
+    width: 100%;
+    height: auto;
+}
+
+.content {
+    position: absolute;
+    top: 5%;
+    left: 11%;
+    width: 79%;
+    text-align: center;
+}
+
+.logo_container {
+    display: flex;
+    justify-content: center;
+}
+
+.logo_container svg {
+    margin-bottom: 3%;
+}
+
+.title_white {
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 25px;
+    letter-spacing: 0.03em;
+    font-variant: small-caps;
+    color: #232263;
+    margin-bottom: 10px;
+}
+
+.title_green {
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 25px;
+    letter-spacing: 0.03em;
+    color: #00983A;
+}
+
+.button_container {
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+}
+
+.button_container button {
+    height: 42px;
+}
+
+@media (min-width: 500px) {
+
+    .title_white {
+        font-size: 4.2vw;
+    }
+
+    .title_green {
+        font-size: 4vw;
+    }
+}
+
+@media (min-width: 600px) {
+
+    .title_white {
+        font-size: 3.5vw;
+    }
+
+    .title_green {
+        font-size: 3.5vw;
+    }
+}
+
+@media (min-width: 700px) {
+
+    .title_white {
+        font-size: 3vw;
+    }
+
+    .title_green {
+        font-size: 3vw;
+    }
+}
+
+@media (min-width: 800px) {
+
+    .title_white {
+        font-size: 2.7vw;
+    }
+
+    .title_green {
+        font-size: 2.7vw;
+    }
+}
+
+@media (min-width: 900px) {
+
+    .title_white {
+        font-size: 2.5vw;
+    }
+
+    .title_green {
+        font-size: 2.4vw;
+    }
+}
+
+@media (min-width: 1000px) {
+
+    .title_white {
+        font-size: 2.3vw;
+    }
+
+    .title_green {
+        font-size: 2.3vw;
+    }
+}
+
+
+@media (min-width: 1024px) {
+
+    .hire_message {}
+
+    .content {
+        top: 0;
+        left: 0;
+        margin-top: 5%;
+        margin-left: 4%;
+        max-width: 590px;
+        text-align: left;
+    }
+
+    .title_white {
+        font-size: 36px;
+        line-height: 40px;
+    }
+
+    .title_green {
+        font-size: 30px;
+        line-height: 30px;
+        transform: scaleX(1.2) scaleY(1.5);
+        margin: 50px;
+    }
+
+    .button_container {
+        display: block;
+        width: 200px;
+    }
+
+    .button_container button {
+        height: 62px;
+    }
+
+    .logo_container {
+        justify-content: flex-start;
+    }
+
+}

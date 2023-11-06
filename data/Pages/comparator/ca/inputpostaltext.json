@@ -1,0 +1,7 @@
+{
+	"title": "Codi Postal (Obligatori)",
+	"placeholder": "Escriu el codi postal...",
+	"error_msg": "Si us plau, ingressa 5 dígits.",
+	"verify_msg": "Verificant..",
+	"fail_msg": "Codi postal incorrecte"
+}

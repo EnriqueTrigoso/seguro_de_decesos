@@ -1,0 +1,461 @@
+{
+    "cookies_policy": {
+        "content": {
+            "title": "Patakaran ng Cookies",
+            "whatIsAcookie": {
+                "title": "Ano ang cookie?",
+                "content": [
+                    "Ang isang cookie ay isang maliit na halaga ng impormasyon na ipinapadala mula sa isang website at nag-aalala ng impormasyon tungkol sa iyong pagbisita, karaniwang teknikal, estadistik, personal na mga kagustuhan, at iba pa, ngunit hindi kailanman ang mga sensitibong datos o impormasyon. Ang mga cookie ay hindi maaaring maka-damage sa iyong aparato at may mahalagang papel, dahil kung wala ang mga ito, ang paggamit ng web ay magiging isang mas nakakainis na karanasan."
+                ]
+            },
+            "typeOfCookies": {
+                "title": "Uri ng mga Cookie",
+                "content": [
+                    "Iniiwasan ng batas na maglagay ng cookies sa iyong aparato maliban na lamang kung ito ay labis na kinakailangan para sa operasyon ng aming website (ito ang tinatawag na mga teknikal na cookies). Para sa lahat ng iba pang uri ng cookies, kinakailangan ang iyong pahintulot. Bukod sa mga teknikal na cookies, ginagamit din namin sa {domain} ang mga cookies para sa analitika at reklamo. Ang ilan sa mga cookies ay inilalagay ng mga serbisyong pampatigilid na aming pinagtatrabahuhan. Ang mga uri ng cookies na ito ay detalyado sa Konfigurasyon ng Cookies, kung saan maaari mong baguhin o bawiin ang iyong pahintulot sa anumang oras. Bukod pa sa layunin nito, ang mga cookies ay maaaring:",
+                    "Batay sa may-ari ng mga cookies na ito:",
+                    "Sariling cookies: ang mga ito ay tinutukoy at inuulat sa iyo nang direkta ng ONE SPAIN INSURANCE RISK MANAGEMENTS.",
+                    "Mga third-party cookies: ang mga ito ay kinokontrol at iniuulat sa iyo ng iba pang mga tagapagtustos ng ONE SPAIN INSURANCE RISK MANAGEMENTS.",
+                    "Ayon sa tagal ng pag-iral ng mga cookies na ito:",
+                    "Session cookies: nagtatrabaho lamang habang ikaw ay nagbabasa ng aming website at pagkatapos mong iwanan itong pahina, ang mga ito ay tumitigil sa pagkilos.",
+                    "Persistent cookies: patuloy na nagtatrabaho matapos mong iwanan ang aming website sa loob ng tiyak na oras na itinakda ng tagapangasiwa ng cookie.",
+                    "Narito ang mga detalyadong listahan ng lahat ng mga cookies na ginagamit sa ONE SPAIN INSURANCE RISK MANAGEMENTS:"
+                ]
+            },
+            "deleteCookies": {
+                "title": "Paano i-deactivate o alisin ang mga cookies",
+                "content": [
+                    "Maaari mong bawiin o baguhin ang iyong pahintulot anumang oras sa pamamagitan ng Konfigurasyon ng Cookies, kung saan maaari kang mag-access anumang oras sa pamamagitan ng link na ito sa patakaran na ito sa website. Bukod dito, nais naming ipaalala sa iyo na sa website, maaari mong baguhin ang mga setting ng iyong browser sa bahagi ng 'mga opsyon' o 'mga kagustuhan' sa menu ng iyong browser, kung saan maaari mong burahin ang lahat ng mga cookies na na-accept na noon. Inirerekomenda namin ang paggamit ng 'Tulong' sa iyong browser upang tukuyin kung paano burahin ang mga cookies."
+                ]
+            }
+        },
+        "tables": {
+            "technicalCookies": {
+                "title": "Teknikal na Cookies.",
+                "content": [
+                    {
+                        "name": "Pangalan ng Cookie",
+                        "description": "Deskripsyon",
+                        "duration": "Tagal",
+                        "property": "Ari-arian"
+                    },
+                    {
+                        "name": "ASP.NET_SessionId",
+                        "description": "Kinakailangan upang mapanatili ang pag-andar ng aplikasyon",
+                        "duration": "Sesyon",
+                        "property": "Sariling Pag-aari"
+                    },
+                    {
+                        "name": "CJSession",
+                        "description": "Nagbibigay ng isang halaga na random at encrypted sa mga user (ID value) na nagpapahintulot sa pagkilala sa kanila bilang mga natatanging user nang walang pag-treat ng mga personal na impormasyong nagpapakilala",
+                        "duration": "1 oras",
+                        "property": "Sariling Pag-aari"
+                    },
+                    {
+                        "name": "ExpirySession",
+                        "description": "Nagpapahintulot na tiyakin kung ang isang user ay aktibo pa matapos ng isang oras",
+                        "duration": "30 araw",
+                        "property": "Sariling Pag-aari"
+                    },
+                    {
+                        "name": "GASession",
+                        "description": "Nagpapahintulot sa paglilipat ng ID value mula sa CJSession cookie patungo sa Google Analytics",
+                        "duration": "1 oras",
+                        "property": "Sariling Pag-aari"
+                    },
+                    {
+                        "name": "UserTracker",
+                        "description": "Naglalaman ng unang ID ng sesyon ng isang user sa kanilang unang pagbisita sa website",
+                        "duration": "5 taon",
+                        "property": "Sariling Pag-aari"
+                    },
+                    {
+                        "name": "Uri ng User",
+                        "description": "Nagpapahintulot sa pagkilala kung ang isang user ay bumalik o bumisita sa website para sa unang pagkakataon",
+                        "duration": "1 oras",
+                        "property": "Sariling Pag-aari"
+                    },
+                    {
+                        "name": "__utmz",
+                        "description": "Nagpapahintulot sa pag-alam ng pinagmulan ng pag-navigate ng user",
+                        "duration": "1 oras",
+                        "property": "Sariling Pag-aari"
+                    },
+                    {
+                        "name": "Cookie_rst",
+                        "description": "Nagpapahintulot sa pagpapakita ng abiso ng banner at impormasyon tungkol sa mga cookies",
+                        "duration": "1 taon",
+                        "property": "Sariling Pag-aari"
+                    },
+                    {
+                        "name": "Consent",
+                        "description": "Nagpapahintulot sa pagkilala kung ang user ay nag-grant ng pahintulot para sa mga cookies",
+                        "duration": "1 taon",
+                        "property": "Sariling Pag-aari"
+                    },
+                    {
+                        "name": "IsSessionReset",
+                        "description": "Nagpapahintulot sa pagsunod kung ang sesyon ng user ay nagbago o nag-renew",
+                        "duration": "1 araw",
+                        "property": "Sariling Pag-aari"
+                    },
+                    {
+                        "name": "CarCJSessionId",
+                        "description": "Nagbibigay ng isang halaga na random at encrypted sa mga user (ID value) para sa produkto ng seguro ng kotse na nagpapahintulot sa pagkilala sa kanila bilang mga natatanging user nang walang pag-treat ng mga personal na impormasyong nagpapakilala",
+                        "duration": "1 oras",
+                        "property": "Sariling Pag-aari"
+                    },
+                    {
+                        "name": "QPe8d4cca2e2e9",
+                        "description": "Nagpapahintulot, sa mga user na nakarating sa pahina ng mga presyo, na bumalik dito kung sakaling i-press ang 'Back' button",
+                        "duration": "1 araw",
+                        "property": "Sariling Pag-aari"
+                    },
+                    {
+                        "name": "HealthQuotePage",
+                        "description": "Nagpapahintulot, sa mga user na nakarating sa pahina ng mga presyo para sa produkto ng seguro sa kalusugan, na bumalik dito kung sakaling i-press ang 'Back' button",
+                        "duration": "1 araw",
+                        "property": "Sariling Pag-aari"
+                    },
+                    {
+                        "name": "captchav3_{Session ID}",
+                        "description": "Nagpapahintulot na tiyakin kung na-save ang impormasyon ng Captcha (aplikasyon para sa pag-identify ng mga robot) para sa isang ID ng sesyon",
+                        "duration": "2 araw",
+                        "property": "Sariling Pag-aari"
+                    },
+                    {
+                        "name": "ip_{cookie ID}",
+                        "description": "Nagpapahintulot na tiyakin kung na-save ang impormasyon ng IP address para sa isang ID ng cookie",
+                        "duration": "36 oras",
+                        "property": "Sariling Pag-aari"
+                    },
+                    {
+                        "name": "Userinformation",
+                        "description": "Nagpapahintulot na i-save ang impormasyon ng IP address ng user sa pahina ng pagbenta",
+                        "duration": "Sesyon",
+                        "property": "Sariling Pag-aari"
+                    },
+                    {
+                        "name": "Last_Quote",
+                        "description": "Nagpapahintulot sa mga user na suriin ang mga presyo na nakuha sa huling paghahambing at recalculahin ang mga ito nang hindi na kailangang sagutin muli ang lahat ng mga tanong",
+                        "duration": "5 taon",
+                        "property": "Sariling Pag-aari"
+                    },
+                    {
+                        "name": "CJSession",
+                        "description": "Nagbibigay ng isang halaga na random at encrypted sa mga user (ID value) na nagpapahintulot sa pagkilala sa kanila bilang mga natatanging user nang walang pag-treat ng mga personal na impormasyong nagpapakilala",
+                        "duration": "1 oras",
+                        "property": "Sariling Pag-aari"
+                    },
+                    {
+                        "name": "ExpirySession",
+                        "description": "Nagpapahintulot na tiyakin kung ang isang user ay aktibo pa matapos ng isang oras",
+                        "duration": "30 araw",
+                        "property": "Sariling Pag-aari"
+                    },
+                    {
+                        "name": "GASession",
+                        "description": "Nagpapahintulot sa paglilipat ng ID value mula sa cookie CJSession patungo sa Google Analytics",
+                        "duration": "1 oras",
+                        "property": "Sariling Pag-aari"
+                    }
+                ]
+            },
+            "analyticalCookies": {
+                "title": "Mga Analitikong Cookies.",
+                "content": [
+                    {
+                        "name": "Pangalan ng Cookie",
+                        "description": "Deskripsyon",
+                        "duration": "Tagal",
+                        "property": "Ari-arian"
+                    },
+                    {
+                        "name": "_ga",
+                        "description": "Ginagamit para sa pagsusuri ng kahandaan ng mga pahina ng website",
+                        "duration": "2 taon",
+                        "property": "Sariling Pag-aari"
+                    },
+                    {
+                        "name": "_glc_au",
+                        "description": "Ginagamit ng Google AdSense para sa eksperimento sa kahusayan ng advertising sa mga website na gumagamit ng kanilang mga serbisyo",
+                        "duration": "90 araw",
+                        "property": "Sariling Pag-aari"
+                    },
+                    {
+                        "name": "_dc_gtm_UA-7713710-1",
+                        "description": "Ginagamit upang limitahan ang porsiyento ng mga kahilingan na ginagawa ng browser sa mga server ng Google",
+                        "duration": "1 minuto",
+                        "property": "Sariling Pag-aari"
+                    },
+                    {
+                        "name": "_gid",
+                        "description": "Ginagamit upang magtukoy ng mga user ngunit hindi sila kinikilala",
+                        "duration": "24 oras",
+                        "property": "Sariling Pag-aari"
+                    },
+                    {
+                        "name": "_gat_UA-7713710-1",
+                        "description": "Ginagamit ng Google AdSense para sa eksperimento sa kahusayan ng advertising sa mga website na gumagamit ng kanilang mga serbisyo",
+                        "duration": "1 minuto",
+                        "property": "Sariling Pag-aari"
+                    },
+                    {
+                        "name": "_gac_UA-7713710-1",
+                        "description": "Kasama ang impormasyon tungkol sa kampanya na nauugnay sa user",
+                        "duration": "90 araw",
+                        "property": "Sariling Pag-aari"
+                    },
+                    {
+                        "name": "vtstep",
+                        "description": "Ginagamit para sa pagsusuri at pag-unawa kung ilan ang nagtatapos sa mga benta",
+                        "duration": "30 araw",
+                        "property": "Sariling Pag-aari"
+                    },
+                    {
+                        "name": "datadome",
+                        "description": "Ginagamit para makadiskubre ng mga robot at mga DDoS attack",
+                        "duration": "1 taon",
+                        "property": "Sariling Pag-aari"
+                    }
+                ]
+            },
+            "thirdCookies": {
+                "title": "Cookies mula sa Iba.",
+                "content": [
+                    {
+                        "name": "Pangalan ng Cookie",
+                        "description": "Deskripsyon",
+                        "duration": "Tagal",
+                        "property": "Ari-arian"
+                    },
+                    {
+                        "name": "Conversion, IDE, ANID, DSID, FLC, AID, TAID, exchange_uid",
+                        "description": "Ginagamit upang maghatid ng mga nakatutok na ad sa buong web. Maaring makakita ka ng mga nakatutok na ad batay sa iyong mga nakaraang pagbisita sa website na ito",
+                        "duration": "1 taon",
+                        "property": "Mula sa Iba"
+                    },
+                    {
+                        "name": "AID, DSID, TAID",
+                        "description": "Ginagamit upang i-link ang iyong aktibidad sa mga aparato. Sa ganitong paraan, itinutugma ang mga ad na lumalabas sa kanila at sinusukat ang mga kaganapan ng pag-convert",
+                        "duration": "1 taon",
+                        "property": "Mula sa Iba"
+                    },
+                    {
+                        "name": "_fbc",
+                        "description": "Ginagamit upang maghatid ng mga ad, sukatin ang kanilang mga resulta, at mapabuti ang kanilang kahalagahan",
+                        "duration": "90 araw",
+                        "property": "Mula sa Iba"
+                    },
+                    {
+                        "name": "_fbp",
+                        "description": "Nagpapakilala sa mga browser upang magbigay ng serbisyong ad at analisis sa mga website",
+                        "duration": "90 araw",
+                        "property": "Mula sa Iba"
+                    },
+                    {
+                        "name": "_uetmsclkid",
+                        "description": "Ginagamit upang sukatin ng tama ang mga pag-convert dahil nag-aalok ito ng isang natatanging id para sa bawat click sa ad at pahina ng landing",
+                        "duration": "90 araw",
+                        "property": "Mula sa Iba"
+                    },
+                    {
+                        "name": "Pangalan ng Cookie",
+                        "description": "Deskripsyon",
+                        "duration": "Tagal",
+                        "property": "Ari-arian"
+                    },
+                    {
+                        "name": "_uetsid",
+                        "description": "Ginagamit upang mapabuti ang kumpirmasyon ng mga pag-convert sa Bing dahil ito'y nagbibigay ng natatanging id para sa bawat sesyon.",
+                        "duration": "30 minuto",
+                        "property": "Mula sa Iba"
+                    },
+                    {
+                        "name": "MUID",
+                        "description": "Ginagamit upang sukatin ang mga natatanging user ng Microsoft.",
+                        "duration": "13 buwan",
+                        "property": "Mula sa Iba"
+                    },
+                    {
+                        "name": "MUIDB",
+                        "description": "Ginagamit upang sukatin ang mga natatanging user ng Microsoft. Ang cookie na ito ay ginagamit upang ibalik ang natatanging id na hawak ng cookie MUID.",
+                        "duration": "13 buwan",
+                        "property": "Mula sa Iba"
+                    },
+                    {
+                        "name": "Obuid",
+                        "description": "Plataforma ng Native Ads: Nag-iimbak ng anonymous ID ng user upang magrehistro ng mga aksyon tulad ng clicks, conversions, at iba pa.",
+                        "duration": "3 buwan",
+                        "property": "Mula sa Iba"
+                    },
+                    {
+                        "name": "t_gid",
+                        "description": "Plataforma ng Native Ads: Natatanging ID ng user para sa pagtukoy ng attribution (clicks, conversions, at iba pa).",
+                        "duration": "1 taon",
+                        "property": "Mula sa Iba"
+                    },
+                    {
+                        "name": "obuid",
+                        "description": "Plataforma ng Native Ads: Nag-iimbak ng anonymous ID ng user upang magrehistro ng mga aksyon tulad ng clicks, conversions, at iba pa.",
+                        "duration": "3 buwan",
+                        "property": "Mula sa Iba"
+                    },
+                    {
+                        "name": "t_gid",
+                        "description": "Plataforma ng Native Ads: Natatanging ID ng user para sa pagtukoy ng attribution (clicks, conversions, at iba pa).",
+                        "duration": "1 taon",
+                        "property": "Mula sa Iba"
+                    },
+                    {
+                        "name": "Pangalan ng Cookie",
+                        "description": "Deskripsyon",
+                        "duration": "Tagal",
+                        "property": "Ari-arian"
+                    },
+                    {
+                        "name": "Fr",
+                        "description": "Ito ay pangunahing cookie ng Facebook para sa advertising. Ginagamit ito upang mag-alok, suriin, at mapabuti ang kahalagahan ng mga ad",
+                        "duration": "90 araw",
+                        "property": "Mula sa Iba"
+                    },
+                    {
+                        "name": "oo",
+                        "description": "Ginagamit upang irehistro ang mga desisyon na huwag tanggapin ang advertising",
+                        "duration": "5 taon",
+                        "property": "Mula sa Iba"
+                    },
+                    {
+                        "name": "ddid",
+                        "description": "Ginagamit upang buksan ang isang partikular na lokasyon sa aplikasyon ng isang advertiser matapos itong i-install",
+                        "duration": "28 araw",
+                        "property": "Mula sa Iba"
+                    }
+                ]
+            },
+            "advertisingCookies": {
+                "title": "Cookies ng Pampasiklaban",
+                "content": [
+                    {
+                        "domain": "Dominyo",
+                        "name": "Pangalan",
+                        "description": "Deskripsyon",
+                        "duration": "Tagal",
+                        "property": "Ari-arian"
+                    },
+                    {
+                        "domain": "static.aroa.io",
+                        "name": "_adobator",
+                        "description": "Ang mga cookies ng Adobe na ito ay nagbibigay-daan upang makakuha ng kaugnayan sa pag-uugali ng isang user sa web at sa device kung saan ito ini-surf",
+                        "duration": "3 buwan",
+                        "property": "Mula sa Iba"
+                    },
+                    {
+                        "domain": "_",
+                        "name": "_adobator_exp",
+                        "description": "Ang mga cookies ng Adobe na ito ay nagbibigay-daan upang malaman kung mayroong user na may kaugnayang adobe identifier",
+                        "duration": "3 buwan",
+                        "property": "Mula sa Iba"
+                    },
+                    {
+                        "domain": "_",
+                        "name": "_alphonse",
+                        "description": "Ang mga cookies ng AppNexus na ito ay nagbibigay-daan upang makakuha ng kaugnayan sa pag-uugali ng isang user sa web at sa device kung saan ito ini-surf",
+                        "duration": "3 buwan",
+                        "property": "Mula sa Iba"
+                    },
+                    {
+                        "domain": "_",
+                        "name": "_alphonse_exp",
+                        "description": "Ang mga cookies ng AppNexus na ito ay nagbibigay-daan upang malaman kung mayroong user na may kaugnayang adobe identifier",
+                        "duration": "3 buwan",
+                        "property": "Mula sa Iba"
+                    },
+                    {
+                        "domain": "_",
+                        "name": "_darenso",
+                        "description": "Ang mga cookies ng Datmean na ito ay nagbibigay-daan upang makilala ang isang user sa web at sa device kung saan ito ini-surf",
+                        "duration": "3 buwan",
+                        "property": "Mula sa Iba"
+                    },
+                    {
+                        "domain": "_",
+                        "name": "_deformer_exp",
+                        "description": "Ang cookie ng Adform na ito ay nagbibigay-daan upang malaman kung mayroong user na may kaugnayang adobe identifier",
+                        "duration": "3 buwan",
+                        "property": "Mula sa Iba"
+                    },
+                    {
+                        "domain": "_",
+                        "name": "_killinchu",
+                        "description": "Ang cookie na ito mula sa Salesforce ay nagbibigay-daan upang makakuha ng kaugnayan sa pag-uugali ng isang user sa web at sa device kung saan ito ini-surf",
+                        "duration": "3 buwan",
+                        "property": "Mula sa Iba"
+                    },
+                    {
+                        "domain": "_",
+                        "name": "_killinchu_exp",
+                        "description": "Ang cookie na ito mula sa Salesforce ay nagbibigay-daan upang malaman kung mayroong user na may kaugnayang adobe identifier",
+                        "duration": "3 buwan",
+                        "property": "Mula sa Iba"
+                    },
+                    {
+                        "domain": "_",
+                        "name": "_richierich",
+                        "description": "Ang cookie na ito mula sa RichAudience ay nagbibigay-daan upang makakuha ng kaugnayan sa pag-uugali ng isang user sa web at sa device kung saan ito ini-surf",
+                        "duration": "3 buwan",
+                        "property": "Mula sa Iba"
+                    },
+                    {
+                        "domain": "_",
+                        "name": "_sesamo",
+                        "description": "Ang mga cookies na ito mula sa Datmean ay nagbibigay-daan upang makilala ang sesyon ng isang user sa isang partikular na device",
+                        "duration": "3 buwan",
+                        "property": "Mula sa Iba"
+                    },
+                    {
+                        "domain": "_",
+                        "name": "_tortillami",
+                        "description": "Ang cookie na ito mula sa Lotame ay nagbibigay-daan upang makakuha ng kaugnayan sa pag-uugali ng isang user sa web at sa device kung saan ito ini-surf",
+                        "duration": "3 buwan",
+                        "property": "Mula sa Iba"
+                    },
+                    {
+                        "domain": "_",
+                        "name": "_tortillami_exp",
+                        "description": "Ang cookie na ito mula sa Lotame ay nagbibigay-daan upang malaman kung mayroong user na may kaugnayang adobe identifier",
+                        "duration": "3 buwan",
+                        "property": "Mula sa Iba"
+                    },
+                    {
+                        "domain": "_",
+                        "name": "_trybolera",
+                        "description": "Ang cookie na ito mula sa TTD ay nagbibigay-daan upang makakuha ng kaugnayan sa pag-uugali ng isang user sa web at sa device kung saan ito ini-surf",
+                        "duration": "3 buwan",
+                        "property": "Mula sa Iba"
+                    },
+                    {
+                        "domain": "_",
+                        "name": "_wally",
+                        "description": "Ang mga cookies na ito mula sa Weborama ay nagbibigay-daan upang makakuha ng kaugnayan sa pag-uugali ng isang user sa web at sa device kung saan ito ini-surf",
+                        "duration": "3 buwan",
+                        "property": "Mula sa Iba"
+                    },
+                    {
+                        "domain": "_",
+                        "name": "_wally_exp",
+                        "description": "Ang mga cookies na ito mula sa Weborama ay nagbibigay-daan upang malaman kung mayroong user na may kaugnayang adobe identifier",
+                        "duration": "3 buwan",
+                        "property": "Mula sa Iba"
+                    },
+                    {
+                        "domain": "_",
+                        "name": "_beyota",
+                        "description": "Ang mga cookies na ito mula sa Eyeota ay nagbibigay-daan upang makakuha ng kaugnayan sa pag-uugali ng isang user sa web at sa device kung saan ito ini-surf",
+                        "duration": "3 buwan",
+                        "property": "Mula sa Iba"
+                    }
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "error": {
+        "name": "유효한 이름을 입력하세요",
+        "phone": "유효한 휴대전화 번호를 입력하세요",
+        "email": "유효한 이메일 주소를 입력하세요",
+        "email_already_registered": "사용자가 이미 등록되어 있습니다"
+    },
+    "input": [
+        {
+            "title": "이름과 성씨:*",
+            "placeholder": "이름을 입력하세요"
+        },
+        {
+            "title": "전화번호:*",
+            "placeholder": "전화번호를 입력하세요"
+        },
+        {
+            "title": "이메일 주소:*",
+            "placeholder": "이메일 주소를 입력하세요"
+        }
+    ],
+    "button": "비교하기"
+}

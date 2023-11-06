@@ -1,0 +1,26 @@
+{
+    "title": "Έχετε επί του παρόντος ασφάλιση κηδείας;",
+    "subtitle": "Επιλέξτε μία από τις επιλογές",
+    "option_cards": [
+        {
+            "text": "Δεν είμαι ασφαλισμένος»",
+            "userDataValue": "No"
+        },
+        {
+            "text": "Ναι, Σανταλούσια»",
+            "userDataValue": "Santalucia"
+        },
+        {
+            "text": "Ναι, Οκάζο»",
+            "userDataValue": "Ocaso"
+        },
+        {
+            "text": "Μάλιστα, Χάρτφρε»",
+            "userDataValue": "Mapfre"
+        },
+        {
+            "text": "Ναι, ένα άλλο»",
+            "userDataValue": "Otros"
+        }
+    ]
+}

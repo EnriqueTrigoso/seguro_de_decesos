@@ -1,0 +1,27 @@
+.buttons {
+    display: flex;
+    gap: 2rem;
+}
+
+/* .left_button {
+    width: 160px;
+    height: 56px;
+}
+
+.right_button {
+    width: 160px;
+    height: 56px;
+}
+
+@media (min-width: 1024px) {
+    .left_button {
+        width: 190px;
+        height: 62px;
+    }
+
+    .right_button {
+        width: 198px;
+        height: 62px;
+    }
+
+} */

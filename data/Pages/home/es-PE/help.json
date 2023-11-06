@@ -1,0 +1,21 @@
+{
+    "help": {
+        "title": "Te ayudamos a encontrar el mejor /seguro de sepelio/",
+        "description": "Estamos disponibles para responder todas tus preguntas y ayudarte a elegir el seguro de sepelio que mejor se ajuste a tus necesidades y las de tu familia.",
+        "schedule": [
+            "Lunes a viernes: 8 a.m. - 8 p.m.",
+            "Sábado y domingo: 9 a.m. - 5 p.m."
+        ],
+        "buttons": [
+            {
+                "text": "Compara ahora",
+                "url": "#"
+            }
+        ],
+        "contact_phone": "(01) 411-6001",
+        "metadata": {
+            "alt": "encuentra el mejor seguro de sepelio",
+            "title": "mejor seguro de sepelio"
+        }
+    }
+}

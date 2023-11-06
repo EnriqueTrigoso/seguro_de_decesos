@@ -1,0 +1,29 @@
+.icon_container {
+	display: grid;
+	place-items: center;
+	width: 82px;
+	height: 82px;
+	background: rgba(0, 152, 58, 0.05);
+	border-radius: 8px;
+}
+
+.title {
+	font-style: normal;
+	font-weight: 700;
+	font-size: 18px;
+	line-height: 24px;
+	display: flex;
+	align-items: center;
+	color: #024430;
+}
+
+.description {
+	font-style: normal;
+	font-weight: 500;
+	font-size: 16px;
+	line-height: 24px;
+	display: flex;
+	align-items: center;
+	color: #3D565F;
+	white-space: pre-wrap;
+}

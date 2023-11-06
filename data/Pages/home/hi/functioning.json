@@ -1,0 +1,26 @@
+{
+    "functioning": {
+        "title": "क्या तुम /सेब/ काटने के लिए हिम्मत रखते हो?",
+        "description": "अपने अंतिम संस्कार बीमा की बदौलत मोबाइल लाइनों के लाभों का आनंद लें।",
+        "list_info": [
+            {
+                "title": "असीमित कॉल।"
+            },
+            {
+                "title": "/20GB/ मोबाइल डेटा।"
+            },
+            {
+                "title": "यूरोपीय संघ में मुफ्त रोमिंग।"
+            }
+        ],
+        "phrase": "हमेशा संपर्क में रहें /ईवा मोविल को धन्यवाद! /",
+        "button": {
+            "text": "लिखिए",
+            "link": "https://api.whatsapp.com/send?phone=34983666666&text=%C2%A1Hola%2C%20Eva%20M%C3%B3vil!%F0%9F%93%9EMe%20gustar%C3%ADa%20obtener%20informaci%C3%B3n%20sobre%20tus%20tarifas.%F0%9F%98%81"
+        },
+        "metadata": {
+            "alt": "मुफ़्त मोबाइल लाइनें",
+            "title": "मुफ़्त मोबाइल लाइनें"
+        }
+    }
+}

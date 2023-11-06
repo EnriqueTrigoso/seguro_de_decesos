@@ -1,0 +1,25 @@
+{
+	"404": {
+		"metadata": {
+			"title": "Aaai! orrialdea ez da existitzen.",
+			"description": "Bilatzen ari zaren orrialdea ez dago."
+		},
+		"content": {
+			"title": "Aaai! orrialdea ez da existitzen.",
+			"description": "Ezin izan da eskatutako orrialdea aurkitu",
+			"button_text": "Itzuli hasiera orrira",
+			"cards": [
+				{
+					"title": "Laguntza eta sostengua",
+					"subtitle": "Emaila: support@evaseguros.es",
+					"description": "Gaur egungo produktu edo zerbitzuekin laguntza lortzeko edo galderak ikusteko"
+				},
+				{
+					"title": "Deitu gaitzazu",
+					"subtitle": "Deitu gaitzazu gure taldeko kide batekin hitz egiteko.",
+					"description": "(+01) 234 567 89"
+				}
+			]
+		}
+	}
+}

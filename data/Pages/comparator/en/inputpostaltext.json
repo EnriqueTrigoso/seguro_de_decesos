@@ -1,0 +1,7 @@
+{
+	"title": "Postal Code (Required)",
+	"placeholder": "Enter postal code...",
+	"error_msg": "Please enter 5 digits",
+	"verify_msg": "Verifying...",
+	"fail_msg": "Incorrect postal code"
+}

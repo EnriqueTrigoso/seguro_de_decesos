@@ -1,0 +1,25 @@
+{
+	"404": {
+		"metadata": {
+			"title": "Ooops! Ang pahinang iyon ay hindi umiiral.",
+			"description": "Hindi matagpuan ang pahinang hinahanap mo."
+		},
+		"content": {
+			"title": "Ooops! Ang pahinang iyon ay hindi umiiral.",
+			"description": "Hindi matagpuan ang pahinang hinihingi mo",
+			"button_text": "Bumalik sa pahinang pangunahin",
+			"cards": [
+				{
+					"title": "Tulong at Suporta",
+					"subtitle": "Email: support@evaseguros.es",
+					"description": "Para makakuha ng tulong ukol sa kasalukuyang produkto o serbisyo o tingnan ang mga madalas na tanong"
+				},
+				{
+					"title": "Tumawag sa Amin",
+					"subtitle": "Tawagan kami para makipag-usap sa isa sa aming koponan.",
+					"description": "(+01) 234 567 89"
+				}
+			]
+		}
+	}
+}

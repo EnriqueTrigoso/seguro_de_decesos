@@ -1,0 +1,7 @@
+{
+    "input_title": "생년월일",
+    "title1": "재직자: (필수)",
+    "title2": "1인칭: (선택 사항)",
+    "placeholder": "일/월/aaaa",
+    "error_msg": "유효한 날짜를 입력하세요"
+}

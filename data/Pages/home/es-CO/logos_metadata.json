@@ -1,0 +1,54 @@
+{
+    "logos_metadata": [
+        {
+            "id": 1,
+            "alt": "Europea Seguros",
+            "title": "europea seguros"
+        },
+        {
+            "id": 2,
+            "alt": "Aura Seguros",
+            "title": "aura seguros"
+        },
+        {
+            "id": 3,
+            "alt": "Preventiva Seguros",
+            "title": "preventiva seguros"
+        },
+        {
+            "id": 4,
+            "alt": "Fiatc Seguros",
+            "title": "fiatc seguros"
+        },
+        {
+            "id": 5,
+            "alt": "Helvetia Seguros",
+            "title": "helvetia seguros"
+        },
+        {
+            "id": 6,
+            "alt": "Santalucía Seguros",
+            "title": "santalucia seguros"
+        },
+        {
+            "id": 7,
+            "alt": "Active Seguros",
+            "title": "active seguros"
+        },
+        {
+            "id": 8,
+            "alt": "Meridiano Seguros",
+            "title": "meridiano seguros"
+        },
+        {
+            "id": 9,
+            "alt": "Adeslas Seguros",
+            "title": "adeslas seguros"
+        },
+        {
+            "id": 10,
+            "alt": "Reale Seguros",
+            "title": "reale seguros"
+        }
+    ]
+}

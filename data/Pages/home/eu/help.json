@@ -1,0 +1,21 @@
+{
+    "help": {
+        "title": "Zure /heriotza asegurua/ onena aurkitzen laguntzen dizugu",
+        "description": "Gure espezialistak zure galderak erantzuteko eta zure beharrei eta zure familiaren beharrei egokitu zaizkion heriotzako asegurua hautatzeko lagundu ahal izango zaituzte.",
+        "schedule": [
+            "Astelehena astearte arte: 8:00etatik 20:00etara.",
+            "Larunbata eta igandea: 9:00etatik 17:00etara."
+        ],
+        "buttons": [
+            {
+                "text": "Konparatu orain",
+                "url": "#"
+            }
+        ],
+        "contact_phone": "(01) 411-6001",
+        "metadata": {
+            "alt": "encuentra el mejor seguro de decesos",
+            "title": "mejor seguro de decesos"
+        }
+    }
+}

@@ -1,0 +1,20 @@
+.circle {
+	width: 55px;
+	height: 55px;
+	background-color: var(--white);
+	border: 10px solid #E9E9E9;
+	color: #6F6C90;
+	border-radius: 55px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	font-weight: 700;
+	font-size: 20px;
+	line-height: 40px;;
+	user-select: none;
+}
+
+.circle_active {
+	border-color: var(--green-primary);
+	color: var(--green-primary);
+}

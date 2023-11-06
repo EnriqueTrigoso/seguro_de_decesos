@@ -1,0 +1,73 @@
+{
+	"legal_warning": {
+		"metadata": {
+			"title": "Aviso Legal",
+			"description": "Aviso Legal"
+		},
+		"title": "AVISO LEGAL",
+		"section1": {
+			"title": "INFORMACIÓN AO USUARIO:",
+			"description": "O presente documento ten como obxectivo informar ao Usuario sobre o tratamento dos seus datos persoais por parte de EVA SEGUROS, de agora en diante denominado o RESPONSABLE, de acordo coas normativas vixentes en protección de datos persoais, incluíndo o Regulamento (UE) 2016/679 do 27 de abril de 2016 (RGPD) e a Lei Orgánica 3/2018, do 5 de decembro, de protección de datos persoais e garantía dos dereitos dixitais (LOPDGDD). A continuación, proporcióase a seguinte información:",
+			"purpose_of_the_treatment": "{Finalidade do tratamento:} O tratamento dos datos persoais ten como finalidade manter unha relación comercial co Usuario. As operacións previstas para levar a cabo dito tratamento son as seguintes:",
+			"operations": [
+				"Xestión de pólizas, sinistros, e calquera tipo de consulta ou solicitude realizada polo Usuario a través dos diferentes canles de contacto dispoñibles.",
+				"Envío de comunicacións comerciais e publicitarias por medios electrónicos ou físicos, incluíndo correo electrónico, fax, SMS, MMS e redes sociais, relacionadas cos produtos e servizos de EVA SEGUROS, así como dos seus colaboradores ou provedores cos que se establecese acordos de promoción.",
+				"Cesión de datos a patrocinadores e terceiras empresas do sector asegurador para o envío de información personalizada sobre os seus produtos e servizos.",
+				"Realización de estudos de mercado, enquisas de avaliación e análises estatísticos.",
+				"Inclusión en listas ou servizos informativos.",
+				"Xestión de suxestións e reclamacións.",
+				"Cumprimento de obrigas legais ou regulamentarias.",
+				"Realización de perfiles ou cruces de datos con listas públicas ou privadas.",
+				"Organización de concursos e ofertas."
+			],
+			"data_treatment": [
+				"En cumprimento das finalidades mencionadas, EVA SEGUROS poderá interconectar os datos recollidos co fin de actualizar e completar a información.",
+				"Sectores de actividade e cesión de datos: Os datos persoais poderán ser cedidos a terceiras empresas do sector asegurador, entidades financeiras, e outros sectores relacionados, co propósito de proporcionar aos interesados información relacionada con seguros e servizos afíns. Recollida e tratamento de datos: EVA SEGUROS trata os datos persoais facilitados polos usuarios, que inclúen información:"
+			],
+			"data_treatment_list": [
+				"De identificación (nome, apelidos, NIF, dirección postal, teléfonos, correo electrónico).",
+				"Características persoais (estado civil, data e lugar de nacemento, idade, sexo, nacionalidade, datos familiares).",
+				"Datos académicos e profesionais (formación e posto de traballo).",
+				"Datos bancarios (para a xestión de pagos e pólizas).",
+				"Información comercial (actividades e negocios, subscricións a publicacións, licenza comercial).",
+				"Datos económicos, financeiros e de seguros (créditos, préstamos, seguros), entre outros."
+			],
+			"data_retention": "{Conservación de datos:} Os datos proporcionados conservaranse mentres exista unha relación comercial vixente ou durante o tempo necesario para cumprir coas obrigas legais establecidas.",
+			"legitimation_of_the_treatment": "{Lexitimación do tratamento:} O tratamento dos datos persoais baséase no consentimento previo do interesado, de acordo co Artigo 6.1 a) do RGPD. O interesado deu o seu consentimento para o tratamento dos seus datos persoais para un ou varios fins específicos.",
+			"data_retention_criteria": "{Criterios de conservación dos datos:} Os datos conservaranse mentres exista un interese mutuo para manter a finalidade do tratamento. Unha vez que os datos xa non sexan necesarios para dita finalidade, serán eliminados utilizando medidas de seguridade adecuadas para garantir a seudonimización ou a destrución completa dos mesmos.",
+			"transfer_of_data": "{Cesión de datos:} EVA SEGUROS poderá compartir os datos recollidos coas seguintes entidades, respectando a confidencialidade e o propósito da súa recollida:",
+			"transfer_of_data_list": [
+				"Responsables do tratamento de datos persoais (patrocinadores) e terceiras empresas do sector asegurador.",
+				"Empresas de reclutamento e selección."
+			],
+			"information_to_third_parties": "EVA SEGUROS poderá ceder información a terceiros sen o consentimento previo dos usuarios nos casos nos que a cesión estea autorizada por lei, cando se trate de datos obtidos de fontes accesibles ao público, cando a cesión estea destinada ao Defensor do Pobo, Ministerio Fiscal, Xuíces ou Tribunais, Tribunal de Contas, institucións autonómicas con funcións similares ao Defensor do Pobo ou ao Tribunal de Contas, ou cando a comunicación se realice tras un proceso de disociación.",
+			"contact_text": "Se tes algunha outra pregunta ou precisas máis información, non dubides en contactarnos. Estaremos encantados de axudarte.",
+			"subtitle_user_rights": "Dereitos do Usuario:",
+			"user_rights_text": "Como titular dos datos, posúes unha serie de dereitos, aínda que debes ter en conta que non todos aplican en todas as situacións. En caso de que corresponda, estes son os teus dereitos:",
+			"user_rights_list": [
+				"Dereito a obter acceso aos teus datos persoais: isto implica obter información sobre se os teus datos están sendo procesados e como se están tratando. Se a túa solicitude inclúe datos persoais de outras persoas ou se estás actuando en nome de alguén máis, será necesario proporcionar identificación desas persoas e unha carta ou documento de autorización asinado que confirme o seu consentimento para que actúes no seu nome.",
+				"Dereito a recibir información sobre o tratamento dos teus datos persoais: cumprimos con este dereito a través desta Política.",
+				"Dereito de rectificación: é dicir, o dereito a corrixir os teus datos persoais en caso de que sexan incorrectos ou completalos se están incompletos.",
+				"Dereito a opoñerte ao procesamento dos teus datos persoais.",
+				"Dereito de supresión: isto implica a posibilidade de solicitar que os teus datos persoais sexan eliminados ou bloqueados.",
+				"Dereito a trasladar, copiar ou transferir os teus datos persoais a unha entidade que ti elixas (portabilidade de datos).",
+				"Dereitos relacionados coa toma de decisións automatizadas baseadas nos teus datos, incluído o dereito a que non se realicen perfiles cos teus datos."
+			],
+			"subtitle_claim": "Dereito a presentar unha reclamación ante a AEPD:",
+			"subtitle_claim_text": "Se consideras que os teus dereitos en relación ao tratamento dos teus datos persoais foron vulnerados, tamén tes dereito a presentar unha reclamación ante a autoridade supervisora correspondente. En España, esta autoridade é a Axencia Española de Protección de Datos (AEPD). Podes poñerte en contacto con eles na súa sede ubicada en Rúa Jorge Juan 6, 28001 - Madrid, ou visitar o seu sitio web: https://www.aepd.es/es. Ten en conta que só podes presentar reclamacións ante a AEPD relacionadas co tratamento dos teus datos persoais. As reclamacións relacionadas coa prestación dos nosos servizos deben presentarse de acordo co establecido no noso Aviso Legal, no apartado correspondente a cada servizo.",
+			"claim_contact_text": "Datos de contacto para exercer os teus dereitos:",
+			"claim_contact_list": [
+				"Dirección postal: RÚA HOSPITAL STA. MARGARITA, 1 TRASEIRA BAIXO 2, 20303, IRUN, GUIPÚZCOA",
+				"Dirección de correo electrónico: atencionalcliente@evaseguros.es"
+			]
+		},
+		"section2": {
+			"title": "CARÁCTER OBRIGATORIO OU FACULTATIVO DA INFORMACIÓN PROPORCIONADA POLO USUARIO:",
+			"description": "Ao marcar as caixas correspondentes e completar os campos marcados cun asterisco (*) no formulario de contacto ou nos formularios de descarga, os Usuarios aceptan de maneira expresa, libre e inequívoca que os seus datos son necesarios para atender a súa solicitude por parte do provedor, sendo opcional a inclusión de datos nos demais campos. O Usuario garante a veracidade dos datos persoais proporcionados ao RESPONSABLE e comprométese a informar de calquera modificación nos mesmos. O RESPONSABLE informa e garante de maneira expresa aos usuarios que, sempre que realice algunha cesión de datos persoais, solicitará previamente o consentimento expreso, informado e inequívoco por parte dos Usuarios. Todos os datos solicitados a través do sitio web son obrigatorios, xa que son necesarios para ofrecer un servizo óptimo ao Usuario. Se non se proporcionan todos os datos, non se pode garantir que a información e os servizos proporcionados sexan totalmente adecuados ás súas necesidades."
+		},
+		"section3": {
+			"title": "MEDIDAS DE SEGURIDADE:",
+			"description": "De acordo coas normativas vixentes en protección de datos persoais, o RESPONSABLE cumpre con todas as disposicións establecidas no RGPD e a LOPDGDD para o tratamento dos datos persoais baixo a súa responsabilidade. De maneira explícita, os datos son tratados de forma lícita, xusta e transparente en relación co interesado, e limítanse ao necesario e adecuado aos fins para os que se tratan, tal como se describe no artigo 5 do RGPD e o artigo 4 da LOPDGDD. O RESPONSABLE garante que implementou políticas técnicas e organizativas apropiadas para aplicar as medidas de seguridade requiridas polo RGPD e a LOPDGDD, co fin de protexer os dereitos e liberdades dos Usuarios. Ademais, proporcionouse a información adecuada aos Usuarios para que poidan exercer os seus dereitos."
+		}
+	}
+}

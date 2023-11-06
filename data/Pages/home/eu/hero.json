@@ -1,0 +1,12 @@
+{
+    "hero": {
+        "title": "Konparatu zure heriotza asegurua /1 minututan eta %40 arteko aurrezpena izan ezazu/",
+        "description": "/Eva Seguros/-en zure /heriotza asegurua/ onena lortuko duzu, eta baita /prezio onenetan ere/. Gainera, /220€ urtero aurreztu ahal izango dituzu, bi telefono mugikorrak doan lortuz./",
+        "buttons": [
+            {
+                "text": "Konparatu orain",
+                "url": "#"
+            }
+        ]
+    }
+}

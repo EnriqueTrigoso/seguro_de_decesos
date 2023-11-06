@@ -1,0 +1,23 @@
+.form_wrapper {
+  /* overflow-x: hidden;
+  min-height: 100vh; */
+}
+
+.copyright {
+  text-align: center;
+  margin-bottom: 14px;
+}
+
+@media (min-width: 1024px) {
+
+  .form_wrapper {
+
+  }
+
+  .container {
+    position: relative;
+    display: grid;
+    grid-template-columns: 0.6fr 1fr;
+    grid-gap: 4rem;
+  }
+}

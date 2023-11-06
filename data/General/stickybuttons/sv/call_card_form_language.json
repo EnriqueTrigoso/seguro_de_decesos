@@ -1,0 +1,13 @@
+{
+    "title": "Ange ditt telefonnummer och ditt namn så kontaktar de dig",
+    "phonePlaceholder": "Telefon",
+    "errorMsgPhone": "Ange ett giltigt nummer",
+    "namePlaceholder": "Namn",
+    "errorMsgName": "Fältet ”Namn” accepterar endast bokstäver och tomma mellanslag",
+    "callQuestion": "När vill du bli kallad?",
+    "timeRightNow": "Just nu",
+    "timeTomorrow": "morgon",
+    "timeOneWeek": "Inom 1 vecka",
+    "btnCallMe": "Låt dem ringa mig",
+    "gratitude": "Tack för att du delar dina data med oss. /Vi kommer att kontakta dig så snart som möjligt./"
+}

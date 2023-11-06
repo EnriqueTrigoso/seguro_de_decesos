@@ -1,0 +1,26 @@
+{
+    "solidarity_projects": {
+        "title": "El món no /millore amb paraules/, sinó amb l'/exemple/",
+        "description": "“No podem endevinar el futur, però podem ajudar a construir-lo”",
+        "buttons": [
+            {
+                "text": "Veure projectes solidaris",
+                "url": "#"
+            }
+        ],
+        "cards": [
+            {
+                "title": "Fundació Univers Accessible",
+                "description": "A Eva Assegurances busquem millorar la qualitat de vida de les persones amb discapacitat juntament amb la Fundació Univers Accessible i el seu projecte Univers Santi.",
+                "url": "https://universoaccesible.org",
+                "url_text": "Conéixer més"
+            },
+            {
+                "title": "Plant For The Planet",
+                "description": "Un arbre per client. A Eva Assegurances i Plant For The Planet treballem per un món més verd i tenim com a objectiu 1 milió d'arbres plantats per al 2030.",
+                "url": "https://www.plant-for-the-planet.org",
+                "url_text": "Conéixer més"
+            }
+        ]
+    }
+}

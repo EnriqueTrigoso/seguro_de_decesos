@@ -1,0 +1,23 @@
+{
+    "error": {
+        "name": "Introduza un nome válido",
+        "phone": "Introduza un número de móbil válido",
+        "email": "Introduza un correo electrónico válido",
+        "email_already_registered": "O usuario xa está rexistrado"
+    },
+    "input": [
+        {
+            "title": "Nomes e Apelidos:*",
+            "placeholder": "Introduza os seus nomes"
+        },
+        {
+            "title": "Teléfono:*",
+            "placeholder": "Introduza o seu teléfono"
+        },
+        {
+            "title": "Correo electrónico:*",
+            "placeholder": "Introduza o seu correo"
+        }
+    ],
+    "button": "Realizar comparación"
+}

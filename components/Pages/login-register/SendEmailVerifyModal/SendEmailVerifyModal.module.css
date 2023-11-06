@@ -1,0 +1,41 @@
+.email_container {
+	display: grid;
+	place-content: center;
+	padding: 25px;
+	height: 100%;
+}
+
+.logo_container {
+	margin: auto;
+}
+
+.logo_container svg {
+	width: 150px;
+	height: 60px;
+}
+
+.card_container {
+	position: relative;
+	max-width: 500px;
+}
+
+.image_container {
+	display: flex;
+	justify-content: center;
+	border-top: 2px solid var(--green-primary);
+}
+
+.image_container img {
+	max-width: 220px;
+}
+
+.email {
+	font-weight: bold;
+	color: var(--blue-primary);
+}
+
+.close_button_container {
+	position: absolute;
+	top: 25px;
+	right: 25px;
+}

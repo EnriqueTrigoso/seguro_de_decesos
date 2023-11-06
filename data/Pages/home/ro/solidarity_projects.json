@@ -1,0 +1,26 @@
+{
+    "solidarity_projects": {
+        "title": "Lumea nu se /îmbunătățește cu vorbele/, ci cu /exemplul/",
+        "description": "„Nu putem ghici viitorul, dar putem contribui la construirea lui”",
+        "buttons": [
+            {
+                "text": "Vizualizați proiectele de solidaritate",
+                "url": "#"
+            }
+        ],
+        "cards": [
+            {
+                "title": "Fundația Univers accesibil",
+                "description": "La Eva Seguros, căutăm să îmbunătățim calitatea vieții persoanelor cu dizabilități împreună cu Fundația Universo Accesibilă și proiectul său Universo Santi.",
+                "url": "https://universoaccesible.org",
+                "url_text": "Află mai multe"
+            },
+            {
+                "title": "Planta pentru planetă",
+                "description": "Un copac pe client. La Eva Seguros și Plant For The Planet, lucrăm pentru o lume mai verde și avem un obiectiv de 1 milion de copaci plantați până în 2030.",
+                "url": "https://www.plant-for-the-planet.org",
+                "url_text": "Află mai multe"
+            }
+        ]
+    }
+}

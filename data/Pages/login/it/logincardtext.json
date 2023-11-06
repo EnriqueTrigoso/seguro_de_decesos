@@ -1,0 +1,76 @@
+{
+  "login": {
+    "title": "Accedi",
+    "description": "Accedi al tuo account su {domain} Potrai visualizzare offerte e raccomandazioni personalizzate.",
+    "input_email": {
+      "title": "Indirizzo email*",
+      "placeholder": [
+        "Inserisci lindirizzo email",
+        "Email"
+      ],
+      "error_msg": "Indirizzo email non valido"
+    },
+    "input_password": {
+      "title": "Password*",
+      "placeholder": "Inserisci la password",
+      "error_msg": "Password errata, riprova"
+    },
+    "checkbox": "Ricordami",
+    "forgetPassword": "Hai dimenticato la password?",
+    "button": "Accedi",
+    "description2": "Oppure puoi accedere con:",
+    "social_buttons": [
+      "Continua con Google",
+      "Continua con Facebook"
+    ],
+    "accion": [
+      "Non hai un account?",
+      "Crea un account"
+    ]
+  },
+  "register": {
+    "title": "Registrati",
+    "description": "Registrati su SegurodeDecesos.com. Potrai visualizzare offerte e raccomandazioni personalizzate.",
+    "input_name": {
+      "title": "Nome*",
+      "placeholder": "Inserisci il nome",
+      "error_msg": "Inserisci un nome valido, solo lettere"
+    },
+    "input_p_surname": {
+      "title": "Cognome*",
+      "placeholder": "Inserisci il cognome",
+      "error_msg": "Inserisci un cognome valido, solo lettere"
+    },
+    "input_m_surname": {
+      "title": "Secondo Cognome",
+      "placeholder": "Inserisci il secondo cognome",
+      "error_msg": "Inserisci un cognome valido, solo lettere"
+    },
+    "input_email": {
+      "title": "Indirizzo email*",
+      "placeholder": [
+        "Inserisci lindirizzo email",
+        "Email"
+      ],
+      "error_msg": [
+        "Indirizzo email non valido"
+      ]
+    },
+    "input_password": {
+      "title": "Password*",
+      "placeholder": "Inserisci la password",
+      "error_msg": "Inserisci una password di almeno 8 caratteri alfanumerici"
+    },
+    "checkbox": "Cliccando sul pulsante \"Registrati\", accetti i nostri /termini e condizioni./",
+    "button": "Registrati",
+    "description2": "Oppure puoi registrarti con:",
+    "social_buttons": [
+      "Crea un account con Google",
+      "Crea un account con Facebook"
+    ],
+    "accion": [
+      "Hai già un account?",
+      "Accedi"
+    ]
+  }
+}

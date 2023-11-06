@@ -1,0 +1,38 @@
+.option_card {
+	height: 60px;
+	background: #FFFFFF;
+	padding: 1.5rem 1rem;
+	text-align: center;
+	border: 1px solid #D0D5DD;
+	border-radius: 8px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	cursor: pointer;
+	user-select: none;
+	color: var(--blue-primary);
+	font-size: 0.875rem;
+	font-style: normal;
+	font-weight: 500;
+	line-height: 140%;
+	letter-spacing: 0.01125rem;
+
+}
+
+.option_card:hover,
+.active {
+	border: 2px solid #00983A;
+	font-weight: 600;
+	box-shadow: 0px 5px 16px rgba(0, 152, 58, 0.25);
+}
+
+@media (min-width: 1024px) {
+	.option_card {
+		width: 250px;
+		height: 80px;
+		color: var(--blue-primary);
+		font-size: 1.125rem;
+		padding: 2rem 1.5rem;
+		text-align: none;
+	}
+}

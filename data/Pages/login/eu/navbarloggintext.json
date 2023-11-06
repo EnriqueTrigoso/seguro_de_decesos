@@ -1,0 +1,10 @@
+{
+  "login": {
+    "title1": "Ez duzu konturik?",
+    "title2": "Izena eman zaitez"
+  },
+  "register": {
+    "title1": "Baduzu jada kontu bat?",
+    "title2": "Hasi saioa"
+  }
+}

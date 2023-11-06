@@ -1,0 +1,25 @@
+.logo_container {
+    display: grid;
+    place-content: center;
+}
+
+.logo_container svg {
+    width: 120px;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    gap: 1.5rem;
+}
+
+@media (min-width: 1024px) {
+    .container {
+        gap: 2rem;
+    }
+
+    .logo_container svg {
+        width: 150px;
+    }
+
+}

@@ -1,0 +1,26 @@
+{
+    "solidarity_projects": {
+        "title": "世界不是靠/言辞改善/，而是靠/榜样/",
+        "description": "“我们无法猜测未来，但我们可以帮助建设未来”",
+        "buttons": [
+            {
+                "text": "查看团结项目",
+                "url": "#"
+            }
+        ],
+        "cards": [
+            {
+                "title": "无障碍宇宙基金会",
+                "description": "在Eva Seguros，我们力求与Universo Accessible Foundation及其Universo Santi项目一起改善残疾人的生活质量。",
+                "url": "https://universoaccesible.org",
+                "url_text": "了解更多"
+            },
+            {
+                "title": "为地球植物",
+                "description": "每位顾客一棵树。在Eva Seguros和Plant For The Planet，我们正在努力建设一个更绿色的世界，我们的目标是到2030年种植100万棵树。",
+                "url": "https://www.plant-for-the-planet.org",
+                "url_text": "了解更多"
+            }
+        ]
+    }
+}

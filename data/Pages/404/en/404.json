@@ -1,0 +1,25 @@
+{
+    "404": {
+        "metadata": {
+            "title": "Wow! that page doesn't exist.",
+            "description": "The page you are looking for doesn't exist."
+        },
+        "content": {
+            "title": "Wow! that page doesn't exist.",
+            "description": "The page you requested could not be found",
+            "button_text": "Return to the home page",
+            "cards": [
+                {
+                    "title": "Help and support",
+                    "subtitle": "E-Mail: support@evaseguros.es",
+                    "description": "For help with a current product or service or check out the frequently asked questions"
+                },
+                {
+                    "title": "Call us",
+                    "subtitle": "Call us to speak with a member of our team.",
+                    "description": "(+01) 234 567 89"
+                }
+            ]
+        }
+    }
+}

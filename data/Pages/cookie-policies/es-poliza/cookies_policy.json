@@ -1,0 +1,449 @@
+{
+    "cookies_policy": {
+        "content": {
+            "title": "Políticas de Cookies",
+            "whatIsAcookie": {
+                "title": "¿Qué es una cookie?",
+                "content": [
+                    "Una cookie es una pequeña cantidad de información que se envía por un sitio web y se recordar información sobre tu visita, generalmente información de tipo técnico, estadístico, de preferencias personales, etc. pero nunca datos o información sensible. Las cookies no pueden dañar tu dispositivo y tienen un papel importante, ya que sin ellas el uso de la web sería una experiencia más frustrante."
+                ]
+            },
+            "typeOfCookies": {
+                "title": "Tipos de cookies",
+                "content": [
+                    "La ley nos permite almacenar cookies en tu dispositivo si son estrictamente necesarias para el funcionamiento de nuestra página (éstas son las llamadas cookies técnicas). Para todos los demás tipos de cookies necesitamos tu permiso. Además de cookies técnicas, en {domain} utilizamos cookies analíticas y publicitarias. Algunas cookies son colocadas por servicios de terceros con los que colaboramos. Estos tipos de cookies están detallados en el Configurador de Cookies, donde puedes cambiar o retirar tu consentimiento en cualquier momento. Además de por su finalidad, las cookies también pueden ser:",
+                    "Según a quién pertenezcan esas cookies:",
+                    "Cookies propias: las que gestiona y te envía directamente ONE SPAIN INSRANCE RISK MANAGEMENTS.",
+                    "De terceros: las que gestionan y te envían otros colaboradores de ONE SPAIN INSRANCE RISK MANAGEMENTS.",
+                    "Según el tiempo que duren estas cookies:",
+                    "Cookies de sesión: solo funcionan mientras estás visitando nuestra web y una vez abandonas esta página, dejan de funcionar.",
+                    "Cookies persistentes: funcionan después de que hayas abandonado nuestra web durante un tiempo concreto definido por el responsable de la cookie.",
+                    "A continuación, se detallan todas las cookies utilizadas en ONE SPAIN INSRANCE RISK MANAGEMENTS:"
+                ]
+            },
+            "deleteCookies": {
+                "title": "Cómo desactivar o eliminar cookies",
+                "content": [
+                    "Puedes retirar o cambiar tu consentimiento en cualquier momento a través del Configurador de cookies, al que podrás acceder en todo momento desde el link en esta política en el caso de la web. Pero además te recordamos que, en la web, puedes modificar la configuración de tu navegador, en el apartado de “opciones” o “preferencias” del menú de tu navegador, donde podrás borrar todas las cookies que se hubieran aceptado previamente. Te recomendamos utilizar la función de “Ayuda” de tu navegador para comprobar cómo puedes borrar las cookies."
+                ]
+            }
+        },
+        "tables": {
+            "technicalCookies": {
+                "title": "COOKIES TÉCNICAS",
+                "content": [
+                    {
+                        "name": "Nombre de la cookie",
+                        "description": "Descripción",
+                        "duration": "Duración",
+                        "property": "Propiedad"
+                    },
+                    {
+                        "name": "ASP.NET_SessionId",
+                        "description": "Necesaria para ejecutar la aplicación",
+                        "duration": "Sesión",
+                        "property": "Propia"
+                    },
+                    {
+                        "name": "CJSession",
+                        "description": "Otorga un valor aleatorio y encriptado a los usuarios (valor ID) que permite identificarlos como usuarios únicos sin tratar datos personales identificativos",
+                        "duration": "1 hora",
+                        "property": "Propia"
+                    },
+                    {
+                        "name": "ExpirySession",
+                        "description": "Permite verificar si un usuario sigue activo después de una hora",
+                        "duration": "30 días",
+                        "property": "Propia"
+                    },
+                    {
+                        "name": "GASession",
+                        "description": "Permite trasladar el valor ID de la cookie CJSession a Google Analytics",
+                        "duration": "1 hora",
+                        "property": "Propia"
+                    },
+                    {
+                        "name": "UserTracker",
+                        "description": "Contiene la primera ID de sesión de un usuario en la primera visita a la web",
+                        "duration": "5 años",
+                        "property": "Propia"
+                    },
+                    {
+                        "name": "UserType",
+                        "description": "Permite identificar si un usuario regresa o visita la web por primera vez",
+                        "duration": "1 hora",
+                        "property": "Propia"
+                    },
+                    {
+                        "name": "__utmz",
+                        "description": "Permite obtener el punto de origen de navegación del usuario",
+                        "duration": "1 hora",
+                        "property": "Propia"
+                    },
+                    {
+                        "name": "Cookie_rst",
+                        "description": "Permite mostrar el banner de aviso e información de cookies",
+                        "duration": "1 año",
+                        "property": "Propia"
+                    },
+                    {
+                        "name": "Consent",
+                        "description": "Permite identificar si el usuario ha otorgado consentimiento a las cookies",
+                        "duration": "1 año",
+                        "property": "Propia"
+                    },
+                    {
+                        "name": "IsSessionReset",
+                        "description": "Permite realizar un seguimiento en caso de que la sesión del usuario haya cambiado o se haya renovado",
+                        "duration": "1 día",
+                        "property": "Propia"
+                    },
+                    {
+                        "name": "CarCJSessionId",
+                        "description": "Otorga un valor aleatorio y encriptado a los usuarios (valor ID) para el producto de póliza de coche que permite identificarlos como usuarios únicos sin tratar datos personales identificativos",
+                        "duration": "1 hora",
+                        "property": "Propia"
+                    },
+                    {
+                        "name": "QPe8d4cca2e2e9",
+                        "description": "Permite, a los usuarios que hayan llegado a página de precios, regresar a la misma si presionan el botón “Atrás”",
+                        "duration": "1 día",
+                        "property": "Propia"
+                    },
+                    {
+                        "name": "HealthQuotePage",
+                        "description": "Permite, a los usuarios que hayan llegado a página de precios en el producto de pólizas de salud, regresar a la misma si presionan el botón “Atrás”",
+                        "duration": "1 día",
+                        "property": "Propia"
+                    },
+                    {
+                        "name": "captchav3_{Session ID}",
+                        "description": "Permite verificar si se ha guardado la información de Captcha (aplicación para identificar robots) para una ID de sesión",
+                        "duration": "2 días",
+                        "property": "Propia"
+                    },
+                    {
+                        "name": "ip_{cookie ID}",
+                        "description": "Permite verificar si se ha guardado la dirección IP para una ID de cookie",
+                        "duration": "36 horas",
+                        "property": "Propia"
+                    },
+                    {
+                        "name": "Userinformation",
+                        "description": "Permite guardar información de la IP del usuario en página de ventas",
+                        "duration": "Sesión",
+                        "property": "Propia"
+                    },
+                    {
+                        "name": "Last_Quote",
+                        "description": "Permite a los usuarios verificar los precios obtenidos en la última comparativa y recalcularlos sin volver a contestar todas las preguntas",
+                        "duration": "5 años",
+                        "property": "Propia"
+                    },
+                    {
+                        "name": "CJSession",
+                        "description": "Otorga un valor aleatorio y encriptado a los usuarios (valor ID) que permite identificarlos como usuarios únicos sin tratar datos personales identificativos",
+                        "duration": "1 hora",
+                        "property": "Propia"
+                    },
+                    {
+                        "name": "ExpirySession",
+                        "description": "Permite verificar si un usuario sigue activo después de una hora",
+                        "duration": "30 días",
+                        "property": "Propia"
+                    },
+                    {
+                        "name": "GASession",
+                        "description": "Permite trasladar el valor ID de la cookie CJSession a Google Analytics",
+                        "duration": "1 hora",
+                        "property": "Propia"
+                    }
+                ]
+            },
+            "analyticalCookies": {
+                "title": "COOKIES ANALÍTICAS",
+                "content": [
+                    {
+                        "name": "Nombre de la cookie",
+                        "description": "Descripción",
+                        "duration": "Duración",
+                        "property": "Propiedad"
+                    },
+                    {
+                        "name": "_ga",
+                        "description": "Utilizada para seguimiento de la disponibilidad de las páginas de la web",
+                        "duration": "2 años",
+                        "property": "Propia"
+                    },
+                    {
+                        "name": "_glc_au",
+                        "description": "Utilizado por Google AdSense para experimentar con la eficiencia publicitaria en los sitios web que utilizan sus servicios",
+                        "duration": "90 días",
+                        "property": "Propia"
+                    },
+                    {
+                        "name": "_dc_gtm_UA-7713710-1",
+                        "description": "Se usa para limitar el porcentaje de solicitudes que el navegador hace a los servidores de google",
+                        "duration": "1 minuto",
+                        "property": "Propia"
+                    },
+                    {
+                        "name": "_gid",
+                        "description": "Se usa para distinguir a unos usuarios de otros aunque sin identificarlos",
+                        "duration": "24 horas",
+                        "property": "Propia"
+                    },
+                    {
+                        "name": "_gat_UA-7713710-1",
+                        "description": "Utilizado por Google AdSense para experimentar con la eficiencia publicitaria en los sitios web que utilizan sus servicios",
+                        "duration": "1 minuto",
+                        "property": "Propia"
+                    },
+                    {
+                        "name": "_gac_UA-7713710-1",
+                        "description": "Incluye información de la campaña relativa al usuario",
+                        "duration": "90 días",
+                        "property": "Propia"
+                    },
+                    {
+                        "name": "vtstep",
+                        "description": "Utilizada para hacer seguimiento de los usuarios y entender cuántos terminan en ventas",
+                        "duration": "30 días",
+                        "property": "Propia"
+                    },
+                    {
+                        "name": "datadome",
+                        "description": "Utilizada para detectar robots y ataques DDoS",
+                        "duration": "1 año",
+                        "property": "Propia"
+                    }
+                ]
+            },
+            "thirdCookies": {
+                "title": "COOKIES DE TERCEROS",
+                "content": [
+                    {
+                        "name": "Nombre de la cookie",
+                        "description": "Descripción",
+                        "duration": "Duración",
+                        "property": "Propiedad"
+                    },
+                    {
+                        "name": "Conversion, IDE, ANID, DSID, FLC, AID, TAID, exchange_uid",
+                        "description": "Se utilizan para servir anuncios dirigidos en toda la web. Es posible que se le muestren anuncios dirigidos en función de sus visitas anteriores a este sitio web",
+                        "duration": "1 año",
+                        "property": "De terceros"
+                    },
+                    {
+                        "name": "AID, DSID, TAID",
+                        "description": "Se utilizan para enlazar tu actividad en los dispositivos. De este modo, se coordinan los anuncios que aparecen en ellos y medimos los eventos de conversión",
+                        "duration": "1 año",
+                        "property": "De terceros"
+                    },
+                    {
+                        "name": "_fbc",
+                        "description": "Se utiliza para entregar los anuncios, medir sus resultados y mejorar su relevancia",
+                        "duration": "90 días",
+                        "property": "De terceros"
+                    },
+                    {
+                        "name": "_fbp",
+                        "description": "Identifica los navegadores para proporcionar servicios publicitarios y de análisis de sitios web",
+                        "duration": "90 días",
+                        "property": "De terceros"
+                    },
+                    {
+                        "name": "_uetmsclkid",
+                        "description": "Se utiliza para medir con exactitud las conversiones gracias a que asigna un id único a cada click en el anuncio y página de aterrizaje",
+                        "duration": "90 días",
+                        "property": "De terceros"
+                    },
+                    {
+                        "name": "_uetsid",
+                        "description": "Se utiliza para mejorar la precisión de las conversiones ¿bing? gracias a que asigna un id único a cada sesión.",
+                        "duration": "30 minutos",
+                        "property": "De terceros"
+                    },
+                    {
+                        "name": "MUID",
+                        "description": "Se utiliza para medir usuarios únicos de Microsoft.",
+                        "duration": "13 meses",
+                        "property": "De terceros"
+                    },
+                    {
+                        "name": "MUIDB",
+                        "description": "Se utiliza para medir usuarios únicos de Microsoft. Esta cookie sirve para restaurar el id único que maneja la cookie MUID",
+                        "duration": "13 meses",
+                        "property": "De terceros"
+                    },
+                    {
+                        "name": "Obuid",
+                        "description": "Plataforma de Native Ads: se guarda el ID anónimo del usuario para registrar las acciones, como clics, conversiones, etc.",
+                        "duration": "3 meses",
+                        "property": "De terceros"
+                    },
+                    {
+                        "name": "t_gid",
+                        "description": "Plataforma de Native Ads: ID único de usuario para asignar la atribución (clics, conversiones…)",
+                        "duration": "1 año",
+                        "property": "De terceros"
+                    },
+                    {
+                        "name": "obuid",
+                        "description": "Plataforma de Native Ads: se guarda el ID anónimo del usuario para registrar las acciones, como clics, conversiones, etc.",
+                        "duration": "3 meses",
+                        "property": "De terceros"
+                    },
+                    {
+                        "name": "t_gid",
+                        "description": "Plataforma de Native Ads: ID único de usuario para asignar la atribución (clics, conversiones…)",
+                        "duration": "1 año",
+                        "property": "De terceros"
+                    },
+                    {
+                        "name": "Fr",
+                        "description": "Se trata de la cookie de publicidad principal de Facebook. Se utiliza para ofrecer, analizar y mejorar la relevancia de los anuncios",
+                        "duration": "90 días",
+                        "property": "De terceros"
+                    },
+                    {
+                        "name": "oo",
+                        "description": "Se utiliza para registrar las decisiones de dejar de recibir publicidad",
+                        "duration": "5 años",
+                        "property": "De terceros"
+                    },
+                    {
+                        "name": "ddid",
+                        "description": "Se utiliza para abrir una ubicación específica en la aplicación de un anunciante tras su instalación",
+                        "duration": "28 días",
+                        "property": "De terceros"
+                    }
+                ]
+            },
+            "advertisingCookies": {
+                "title": "COOKIES DE PUBLICIDAD",
+                "content": [
+                    {
+                        "domain": "Dominio",
+                        "name": "Nombre",
+                        "description": "Descripción",
+                        "duration": "Duración",
+                        "property": "Propiedad"
+                    },
+                    {
+                        "domain": "static.aroa.io",
+                        "name": "_adobator",
+                        "description": "Estas cookies de adobe permiten obtener una relación entre el comportamiento de un usuario en la web y el dispositivo desde el cual se está consultando",
+                        "duration": "3 meses",
+                        "property": "De terceros"
+                    },
+                    {
+                        "domain": "_",
+                        "name": "_adobator_exp",
+                        "description": "Estas cookies de adobe permiten saber si un usuario tiene asignado o menos un identificador de adobe",
+                        "duration": "3 meses",
+                        "property": "De terceros"
+                    },
+                    {
+                        "domain": "_",
+                        "name": "_alphonse",
+                        "description": "Estas cookies de appnexus permiten obtener una relación entre el comportamiento de un usuario en la web y el dispositivo desde el cual se está consultando",
+                        "duration": "3 meses",
+                        "property": "De terceros"
+                    },
+                    {
+                        "domain": "_",
+                        "name": "_alphonse_exp",
+                        "description": "Estas cookies de appnexus permiten saber si un usuario tiene asignado o menos un identificador de adobe",
+                        "duration": "3 meses",
+                        "property": "De terceros"
+                    },
+                    {
+                        "domain": "_",
+                        "name": "_darenso",
+                        "description": "Estas cookies de datmean permiten identificar un usuario en la web y el dispositivo desde el cual se está consultando",
+                        "duration": "3 meses",
+                        "property": "De terceros"
+                    },
+                    {
+                        "domain": "_",
+                        "name": "_deformer_exp",
+                        "description": "Esta cookie de adform permite saber si un usuario tiene asignado o menos un identificador de adobe",
+                        "duration": "3 meses",
+                        "property": "De terceros"
+                    },
+                    {
+                        "domain": "_",
+                        "name": "_killinchu",
+                        "description": "Esta cookie de salesforce permite obtener una relación entre el comportamiento de un usuario en la web y el dispositivo desde el cual se está consultando",
+                        "duration": "3 meses",
+                        "property": "De terceros"
+                    },
+                    {
+                        "domain": "_",
+                        "name": "_killinchu_exp",
+                        "description": "Esta cookie de salesforce permite saber si un usuario tiene asignado o menos un identificador de adobe",
+                        "duration": "3 meses",
+                        "property": "De terceros"
+                    },
+                    {
+                        "domain": "_",
+                        "name": "_richierich",
+                        "description": "Esta cookie de richaudience permite obtener una relación entre el comportamiento de un usuario en la web y el dispositivo desde el cual se está consultando",
+                        "duration": "3 meses",
+                        "property": "De terceros"
+                    },
+                    {
+                        "domain": "_",
+                        "name": "_sesamo",
+                        "description": "Estas cookies de datmean permiten identificar la sesion de un usuario en un determinado dispositivo",
+                        "duration": "3 meses",
+                        "property": "De terceros"
+                    },
+                    {
+                        "domain": "_",
+                        "name": "_tortillami",
+                        "description": "Esta cookie de lotame permite obtener una relación entre el comportamiento de un usuario en la web y el dispositivo desde el cual se está consultando",
+                        "duration": "3 meses",
+                        "property": "De terceros"
+                    },
+                    {
+                        "domain": "_",
+                        "name": "_tortillami_exp",
+                        "description": "Esta cookie de lotame permite saber si un usuario tiene asignado o menos un identificador de adobe",
+                        "duration": "3 meses",
+                        "property": "De terceros"
+                    },
+                    {
+                        "domain": "_",
+                        "name": "_trybolera",
+                        "description": "Esta cookie de ttd permite obtener una relación entre el comportamiento de un usuario en la web y el dispositivo desde el cual se está consultando",
+                        "duration": "3 meses",
+                        "property": "De terceros"
+                    },
+                    {
+                        "domain": "_",
+                        "name": "_wally",
+                        "description": "Estas cookies de weborama permite obtener una relación entre el comportamiento de un usuario en la web y el dispositivo desde el cual se está consultando",
+                        "duration": "3 meses",
+                        "property": "De terceros"
+                    },
+                    {
+                        "domain": "_",
+                        "name": "_wally_exp",
+                        "description": "Estas cookies de weborama permite saber si un usuario tiene asignado o menos un identificador de adobe",
+                        "duration": "3 meses",
+                        "property": "De terceros"
+                    },
+                    {
+                        "domain": "_",
+                        "name": "_beyota",
+                        "description": "Estas cookies de eyeota permiten obtener una relación entre el comportamiento de un usuario en la web y el dispositivo desde el cual se está consultando",
+                        "duration": "3 meses",
+                        "property": "De terceros"
+                    }
+                ]
+            }
+        }
+    }
+}

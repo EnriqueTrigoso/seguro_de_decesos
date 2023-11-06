@@ -1,0 +1,25 @@
+{
+    "showListCookies": "查看 cookie 清单",
+    "cookies": [
+        {
+            "title": "营销饼干",
+            "description": "我们使用营销 Cookie，通过匿名个人资料根据用户的兴趣展示广告。",
+            "cookieName": "营销"
+        },
+        {
+            "title": "个性化饼干",
+            "description": "我们使用基于用户导航的个性化 Cookie 来使您的体验既实用又个性化。",
+            "cookieName": "个性化"
+        },
+        {
+            "title": "分析 Cookie",
+            "description": "我们使用分析 Cookie 来收集有关用户浏览的信息，从而改善我们通过数字渠道提供的服务。",
+            "cookieName": "分析"
+        },
+        {
+            "title": "必备饼干",
+            "description": "我们使用基本的 Cookie 来促进网站浏览并记住用户的偏好。拒绝他们的唯一方法是停止浏览本网站。",
+            "cookieName": "必不可少的"
+        }
+    ]
+}

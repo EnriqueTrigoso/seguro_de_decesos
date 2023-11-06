@@ -1,0 +1,6 @@
+{
+  "title": "Ingresa tu nueva contraseña",
+  "button_text": "Cambiar Contraseña",
+  "placeholder": "Escribe tu nueva contraseña",
+  "error_msg": "Ingresa una contraseña de al menos 8 caracteres alfanuméricos"
+}

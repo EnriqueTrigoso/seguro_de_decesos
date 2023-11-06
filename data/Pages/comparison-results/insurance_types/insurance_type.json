@@ -1,0 +1,42 @@
+{
+  "mensual": {
+    "es": "Mensual",
+    "eus": "Hilero",
+    "cat": "Mensual",
+    "ga": "Mensual",
+    "it": "Mensile",
+    "ro": "Lunar",
+    "ru": "Ежемесячный",
+    "uk": "Щомісячний",
+    "es-CO": "Mensual",
+    "es-PE": "Mensual",
+    "hi": "मासिक",
+    "ar": "شهري",
+    "en": "Mensual",
+    "fr": "Mensuel",
+    "zh": "每月",
+    "el": "Μηνιαίος",
+    "sv": "Månadsvis",
+    "ko": "월간"
+  },
+  "trimestral": {
+    "es": "Trimestral",
+    "eus": "Hiruhilekoa",
+    "cat": "Trimestral",
+    "ga": "Trimestral",
+    "it": "Trimestrale",
+    "ro": "Trimestrial",
+    "ru": "Ежеквартальный",
+    "uk": "Щоквартальний",
+    "es-CO": "Trimestral",
+    "es-PE": "Trimestral",
+    "hi": "त्रैमासिक",
+    "ar": "ربع سنوي",
+    "en": "Quarterly",
+    "fr": "Trimestriel",
+    "zh": "季度的",
+    "el": "Τριμηνιαίος",
+    "sv": "Kvartalsvis",
+    "ko": "분기별"
+  }
+}

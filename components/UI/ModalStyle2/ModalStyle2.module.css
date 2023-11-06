@@ -1,0 +1,45 @@
+.fundation_modal {
+	background-color: #ffffff;
+	width: 100%;
+	height: 100%;
+	position: fixed;
+	z-index: 999;
+	top: 0;
+	left: 0;
+	display: flex;
+	align-items: flex-start;
+	justify-content: center;
+	overflow-y: auto;
+}
+
+.fundation_cards {
+	padding: 30px;
+}
+
+.close_btn_container {
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    cursor: pointer;
+    gap: 8px;
+	margin-bottom: 15px;
+}
+
+.close_btn_container div {
+    border: 1px solid #5E6788;
+    padding: 6px;
+    border-radius: 50%;
+}
+
+
+@media (min-width: 1024px) {
+
+	.fundation_cards {
+		padding: 60px 93px 0px 97px;
+	}
+
+	.close_btn_container {
+		margin-bottom: 36px;
+	}
+
+}

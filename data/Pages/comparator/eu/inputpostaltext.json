@@ -1,0 +1,7 @@
+{
+	"title": "Posta-kodea (Derrigorrezkoa)",
+	"placeholder": "Idatzi posta-kodea...",
+	"error_msg": "Mesedez, 5 digitu sartu",
+	"verify_msg": "Egiaztatzen..",
+	"fail_msg": "Posta-kode ezegokia"
+}

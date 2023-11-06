@@ -1,0 +1,26 @@
+{
+    "solidarity_projects": {
+        "title": "Världen förbättras inte med ord, utan med /exemplet/",
+        "description": "”Vi kan inte gissa framtiden, men vi kan hjälpa till att bygga den”",
+        "buttons": [
+            {
+                "text": "Visa solidaritetsprojekt",
+                "url": "#"
+            }
+        ],
+        "cards": [
+            {
+                "title": "Stiftelsen för tillgängligt universum",
+                "description": "På Eva Seguros strävar vi efter att förbättra livskvaliteten för personer med funktionsnedsättning tillsammans med Universo Accessible Foundation och dess Universo Santi-projekt.",
+                "url": "https://universoaccesible.org",
+                "url_text": "Läs mer"
+            },
+            {
+                "title": "Växt för planeten",
+                "description": "Ett träd per kund. På Eva Seguros och Plant For The Planet arbetar vi för en grönare värld och vi har som mål att 1 miljon träd planteras fram till 2030.",
+                "url": "https://www.plant-for-the-planet.org",
+                "url_text": "Läs mer"
+            }
+        ]
+    }
+}

@@ -1,0 +1,17 @@
+.button {
+	background-color: var(--green-primary);
+	border-radius: 100%;
+	display: grid;
+	place-items: center;
+	user-select: none;
+	align-content: center;
+	width: 60px;
+	height: 60px;
+}
+
+@media (max-width: 1024px) {
+	.button {
+		width: 45px;
+		height: 45px;
+	}
+}

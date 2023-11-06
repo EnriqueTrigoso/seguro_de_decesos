@@ -1,0 +1,33 @@
+{
+    "testimonials": {
+        "subtitle": "Testimonios",
+        "title": "Cada vez hay más /personas/ que confían en /nosotros./",
+        "description": "Comprender las opiniones de los clientes sobre Eva Seguros es la forma más eficiente para evaluar el desempeño de nuestros servicios.",
+        "cards": [
+            {
+                "name": "Antonia García",
+                "image": "#",
+                "city": "Madrid",
+                "description": "“El comparador de Eva me ayudó a conseguir el seguro de sepelio más conveniente para mi economía. Ahorré y contraté un seguro completo”.",
+                "alt": "seguro de sepelio testimonio",
+                "title": "seguro de sepelio-testimonios"
+            },
+            {
+                "name": "Sofía Sánchez",
+                "image": "#",
+                "city": "Girona",
+                "description": "“Hay tantas compañías que no sabía cuál seguro de sepelio elegir. Pero usé el comparador de seguros de Eva y me ayudaron a conseguir una póliza ideal para papá, mamá y para m”.",
+                "alt": "seguro de sepelio testimonio",
+                "title": "seguro de sepelio-testimonios"
+            },
+            {
+                "name": "Antonio Rodríguez",
+                "image": "#",
+                "city": "Salamanca",
+                "description": "“En Eva encontré comparadores para todo tipo de seguros. En una misma página web comparé seguros de salud, seguros de hogar y seguros de subsidios, pero hay muchos más. Además, fue ¡muy rápido y fácil!”.",
+                "alt": "seguro de sepelio testimonio",
+                "title": "seguro de sepelio-testimonios"
+            }
+        ]
+    }
+}

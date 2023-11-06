@@ -1,0 +1,14 @@
+{
+  "title": "Et trucarem aviat",
+  "description": "Un dels nostres agents especialitzats es posarà en contacte amb tu tan aviat com sigui possible.",
+  "phonePlaceholder": "Telèfon",
+  "errorMsgPhone": "Introduïu un número vàlid",
+  "namePlaceholder": "Nom",
+  "errorMsgName": "El camp 'Nom' només accepta lletres i espais en blanc",
+  "callQuestion": "Quan vols que et truquem?",
+  "timeRightNow": "Ara mateix",
+  "timeTomorrow": "Demà",
+  "timeOneWeek": "D'aquí a 1 setmana",
+  "btnCallMe": "Que m'ho truquin",
+  "gratitude": "Gràcies per compartir les seves dades amb nosaltres. /Ens posarem en contacte amb vostè tan aviat com sigui possible./"
+}

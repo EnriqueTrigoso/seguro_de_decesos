@@ -1,0 +1,33 @@
+{
+    "testimonials": {
+        "subtitle": "Testimoniyo",
+        "title": "Lalo nang dumarami ang mga /taong/ nagtitiwala sa /atin./",
+        "description": "Ang pag-unawa sa mga opinyon ng mga kliyente hinggil sa Eva Seguros ay ang pinakaepektibong paraan para suriin ang aming serbisyong pagganap.",
+        "cards": [
+            {
+                "name": "Antonio García",
+                "image": "#",
+                "city": "Madrid",
+                "description": "“Ang komparator ng Eva ay tumulong sa akin na makakuha ng pinakamurang seguro para sa pagkamatay na akma sa aking ekonomiya. Nakatipid ako at nakakuha ng kumpletong seguro”.",
+                "alt": "testimoniyo sa seguro para sa pagkamatay",
+                "title": "testimoniyo sa seguro para sa pagkamatay"
+            },
+            {
+                "name": "Sofía",
+                "image": "#",
+                "city": "Girona",
+                "description": "“May maraming kumpanya kaya hindi ko alam kung aling seguro para sa pagkamatay ang pipiliin. Pero gumamit ako ng komparator ng seguro mula kay Eva at tinulungan nila akong makakuha ng tamang pólisa para sa aking ama, ina, at para sa akin”.",
+                "alt": "testimoniyo sa seguro para sa pagkamatay",
+                "title": "testimoniyo sa seguro para sa pagkamatay"
+            },
+            {
+                "name": "Marta Rodríguez",
+                "image": "#",
+                "city": "Salamanca",
+                "description": "“Sa Eva, natagpuan ko ang mga komparator para sa lahat ng uri ng seguro. Sa iisang website, nai-kumpara ko ang mga seguro para sa kalusugan, seguro para sa tahanan, at seguro para sa kahirapan, ngunit marami pang iba. Bukod dito, napakabilis at madali!”.",
+                "alt": "testimoniyo sa seguro para sa pagkamatay",
+                "title": "testimoniyo sa seguro para sa pagkamatay"
+            }
+        ]
+    }
+}

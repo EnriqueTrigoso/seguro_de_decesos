@@ -1,0 +1,72 @@
+{
+    "footer_text": {
+        "social_title": "Comparați cele mai bune companii de asigurări funerare de pe piață.",
+        "social_description": "Urmăriți-ne pe rețelele noastre de socializare",
+        "section1": {
+            "title": "Despre noi",
+            "options": [
+                {
+                    "title": "Viziunea Misiunii",
+                    "href": "#"
+                },
+                {
+                    "title": "Echipa noastra",
+                    "href": "#"
+                }
+            ]
+        },
+        "section2": {
+            "title": "Află mai multe",
+            "options": [
+                {
+                    "title": "Faceți cunoștință cu Eva",
+                    "href": "#"
+                },
+                {
+                    "title": "Planta pentru planetă",
+                    "href": "#"
+                },
+                {
+                    "title": "Univers accesibil",
+                    "href": "#"
+                },
+                {
+                    "title": "Universul Santi",
+                    "href": "#"
+                }
+            ]
+        },
+        "section3": {
+            "title": "Oferim",
+            "options": [
+                {
+                    "title": "Politica funerară",
+                    "href": "#"
+                },
+                {
+                    "title": "Politica de viață",
+                    "href": "#"
+                },
+                {
+                    "title": "Acasă Politica",
+                    "href": "#"
+                }
+            ]
+        },
+        "section4": {
+            "title": "Legal",
+            "options": [
+                {
+                    "title": "Aviz juridic"
+                },
+                {
+                    "title": "Politica de Confidențialitate"
+                },
+                {
+                    "title": "Politica privind cookie-urile"
+                }
+            ]
+        },
+        "copyright": "{domain} 2023. Toate drepturile rezervate."
+    }
+}

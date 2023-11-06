@@ -1,0 +1,26 @@
+{
+    "information": {
+        "title": "Jämför bland de bästa försäkringsbolagen /för dödsfall på marknaden/",
+        "description": "Vi följer dig under hela processen för att svara på alla dina tvivel. Du kan ringa oss eller lämna ditt nummer så att vi kan ringa dig.",
+        "link_compare": "Jämför nu",
+        "link_contact": "Kontakta oss",
+        "cards": [
+            {
+                "text": "Vi anpassar oss till din ekonomi",
+                "alt": "Tankeväckande ung kvinna utomhus"
+            },
+            {
+                "text": "Inkluderar inrikes och internationell transport",
+                "alt": "Lycklig dam som lyfter armarna"
+            },
+            {
+                "text": "Inkluderar gratis medicinska tjänster",
+                "alt": "Mor och tonårsdotter kramar"
+            },
+            {
+                "text": "Fullständig dödstäckning",
+                "alt": "Mamma och hennes bebis kramar"
+            }
+        ]
+    }
+}

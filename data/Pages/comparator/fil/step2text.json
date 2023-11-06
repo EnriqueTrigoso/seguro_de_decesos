@@ -1,0 +1,30 @@
+{
+	"title": "Ilang mga tao ang nais mong isama sa seguro?",
+	"subtitle": "Pumili ng isa sa mga opsyon",
+	"options": [
+		{
+			"text": "Ako lang »",
+			"userDataValue": 1
+		},
+		{
+			"text": "2 mga tao »",
+			"userDataValue": 2
+		},
+		{
+			"text": "3 mga tao »",
+			"userDataValue": 3
+		},
+		{
+			"text": "4 mga tao »",
+			"userDataValue": 4
+		},
+		{
+			"text": "5 mga tao »",
+			"userDataValue": 5
+		},
+		{
+			"text": "Higit sa 5 mga tao »",
+			"userDataValue": "5+"
+		}
+	]
+}

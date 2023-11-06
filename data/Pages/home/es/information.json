@@ -1,0 +1,30 @@
+{
+    "information": {
+        "title": "Compara entre las mejores aseguradoras /de decesos del mercado/",
+        "description": "Te acompañamos durante todo el proceso para despejar todas tus dudas. Puedes llamarnos o dejarnos tu número para que te llamemos.",
+        "link_compare": "Compara ahora",
+        "link_contact": "Contáctanos",
+        "cards": [
+            {
+                "text": "Nos adaptamos a tu economía",
+                "alt": "aseguradoras de decesos",
+                "title": "aseguradoras de decesos"
+            },
+            {
+                "text": "Incluye traslado nacional e internacional",
+                "alt": "aseguradoras de decesos traslado nacional e internacional",
+                "title": "aseguradoras de decesos-traslado nacional-internacional"
+            },
+            {
+                "text": "Incluye servicios médicos gratuitos",
+                "alt": "aseguradoras de decesos servicios médicos gratuitos",
+                "title": "aseguradoras de decesosservicios medicos-gratuitos"
+            },
+            {
+                "text": "Cobertura de decesos completa",
+                "alt": "aseguradoras de decesos cobertura de decesos completa",
+                "title": "aseguradoras de decesos-cobertura de decesos-completa"
+            }
+        ]
+    }
+}

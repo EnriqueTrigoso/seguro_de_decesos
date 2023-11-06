@@ -1,0 +1,25 @@
+{
+    "404": {
+        "metadata": {
+            "title": "와우!그 페이지는 존재하지 않아요.",
+            "description": "찾으시는 페이지가 존재하지 않습니다."
+        },
+        "content": {
+            "title": "와우!그 페이지는 존재하지 않아요.",
+            "description": "요청하신 페이지를 찾을 수 없습니다",
+            "button_text": "홈 페이지로 돌아가기",
+            "cards": [
+                {
+                    "title": "도움말 및 지원",
+                    "subtitle": "이메일: support@evaseguros.es",
+                    "description": "현재 제품 또는 서비스에 대한 도움이 필요하거나 자주 묻는 질문을 확인하세요."
+                },
+                {
+                    "title": "전화주세요",
+                    "subtitle": "저희 팀원과 이야기를 나누시려면 저희에게 전화해 주세요.",
+                    "description": "(+01) 234 567 89"
+                }
+            ]
+        }
+    }
+}

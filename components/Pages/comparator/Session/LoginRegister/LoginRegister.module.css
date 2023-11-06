@@ -1,0 +1,112 @@
+/* This is for card login */
+.card {
+    background-color: var(--white);
+    padding: 30px;
+    display: flex;
+    align-items: center;
+    width: 100%;
+    height: 100%;
+    border-radius: 20px;
+}
+
+.header {
+    text-align: center;
+}
+
+.title {
+    display: block;
+    text-align: center;
+    color: var(--blue-primary);
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 28px;
+    padding: 0 40px;
+}
+
+.description {
+    margin-top: 6px;
+    font-size: 16px;
+    line-height: 21px;
+    text-align: center;
+    color: var(--textos);
+    padding: 0 10px;
+}
+
+.wrapper_help {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    user-select: none;
+    margin-top: 12px;
+}
+
+.wrapper_help p {
+    font-size: 12px;
+}
+
+.remember_me {
+    display: grid;
+    grid-template-columns: auto 1fr;
+    gap: 10px;
+    align-items: center;
+}
+
+.container_login_btn {
+    margin-top: 20px;
+}
+
+.container_action {
+    /*This is for CAPTCHA*/
+    margin-top: 50px;
+    /* ---- */
+    display: flex;
+    gap: 10px;
+}
+
+.show_register {
+    cursor: pointer;
+}
+
+/*This is for two componentes*/
+.error_msg {
+    color: #f55353;
+	font-size: 12px;
+	font-weight: 500;
+}
+
+@media (min-width: 1024px) {
+    .card {
+        padding: 48px 50px;
+        border: 1px solid #CDE3E7;
+        border-radius: 34px;
+    }
+
+    .title {
+        font-size: 34px;
+        line-height: 34px;
+    }
+
+    .description {
+        font-size: 18px;
+        line-height: 30px;
+    }
+
+    .wrapper_help p {
+        font-size: 14px;
+    }
+
+    .container_login_btn {
+        margin-top: 25px;
+    }
+
+    .container_action {
+        /*This is for CAPTCHA*/
+        margin-top: 61px;
+        /* ---- */
+    }
+    
+    /*This is for two componentes*/
+    .error_msg {
+        font-size: 14px;
+    }
+}

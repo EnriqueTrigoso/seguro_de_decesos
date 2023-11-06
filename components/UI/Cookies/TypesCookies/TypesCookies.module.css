@@ -1,0 +1,35 @@
+.type_cookie_container {
+    border-bottom: 1px solid#D7DBF5;
+    margin-bottom: 38px;
+}
+
+.type_cookie {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 28px;
+}
+
+.type_cookie h3 {
+    font-size: 18px;
+}
+
+.type_cookie_container p {
+    font-size: 16px;
+    margin-bottom: 42px;
+    text-align: justify;
+    width: 90%;
+}
+
+.show_cookie_list_btn {
+    border: none;
+    color: #3817FF;
+    margin-bottom: 36px;
+    font-size: 16px;
+}
+
+@media (min-width: 1024px) {
+    .type_cookie h3 {
+        font-size: 24px;
+    }
+}

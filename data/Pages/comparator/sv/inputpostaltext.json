@@ -1,0 +1,7 @@
+{
+    "title": "Postnummer (Obligatoriskt)",
+    "placeholder": "Skriv postnummer...",
+    "error_msg": "Ange 5 siffror",
+    "verify_msg": "Kontroll..",
+    "fail_msg": "Felaktigt postnummer"
+}

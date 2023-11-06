@@ -1,0 +1,449 @@
+{
+    "cookies_policy": {
+        "content": {
+            "title": "Policyer för cookies",
+            "whatIsAcookie": {
+                "title": "Vad är en cookie?",
+                "content": [
+                    "En cookie är en liten mängd information som skickas av en webbplats och den kommer ihåg information om ditt besök, i allmänhet teknisk, statistisk, personlig preferensinformation etc. men aldrig känslig data eller information. Cookies kan inte skada din enhet och spela en viktig roll, eftersom utan dem skulle det vara en mer frustrerande upplevelse att använda webben."
+                ]
+            },
+            "typeOfCookies": {
+                "title": "Typer av cookies",
+                "content": [
+                    "Lagen tillåter oss att lagra cookies på din enhet om de är absolut nödvändiga för driften av vår sida (dessa är så kallade tekniska cookies). För alla andra typer av cookies behöver vi din tillåtelse. Förutom tekniska cookies använder vi på {domain} analys- och reklamcookies. Vissa cookies placeras av tredjepartstjänster som vi samarbetar med. Dessa typer av cookies beskrivs i Cookie Configurator, där du kan ändra eller återkalla ditt samtycke när som helst. Förutom deras syfte kan cookies också vara:",
+                    "Beroende på vem dessa cookies tillhör:",
+                    "Egna cookies: de som hanteras och skickas till dig direkt av ONE SPAIN INSRANCE RISK MANAGEMENTS.",
+                    "Från tredje part: de som hanteras och skickas till dig av andra ONE SPAIN INSRANCE RISKHANTERING-anställda.",
+                    "Beroende på hur länge dessa cookies varar:",
+                    "Sessionscookies: de fungerar bara när du besöker vår webbplats och när du lämnar den här sidan slutar de fungera.",
+                    "Beständiga cookies: de fungerar efter att du har lämnat vår webbplats under en viss tid som definieras av den person som ansvarar för cookien.",
+                    "Nedan beskrivs alla cookies som används i ONE SPAIN INSRANCE RISKHANTERINGAR:"
+                ]
+            },
+            "deleteCookies": {
+                "title": "Hur du inaktiverar eller tar bort cookies",
+                "content": [
+                    "Du kan när som helst återkalla eller ändra ditt samtycke via Cookie-konfiguratorn, som du kan komma åt när som helst från länken i denna policy när det gäller webben. Men vi påminner dig också om att du på webben kan ändra dina webbläsarinställningar, i avsnittet ”alternativ” eller ”preferenser” i din webbläsarmeny, där du kan radera alla cookies som har accepterats tidigare. Vi rekommenderar att du använder ”Hjälp” -funktionen i din webbläsare för att kontrollera hur du kan ta bort cookies."
+                ]
+            }
+        },
+        "tables": {
+            "technicalCookies": {
+                "title": "TEKNISKA COOKIES",
+                "content": [
+                    {
+                        "name": "Cookie-nummer",
+                        "description": "Beskrivning",
+                        "duration": "Varaktighet",
+                        "property": "Egendom"
+                    },
+                    {
+                        "name": "ASP.NET_SessionId",
+                        "description": "Krävs för att köra programmet",
+                        "duration": "Session",
+                        "property": "Egen"
+                    },
+                    {
+                        "name": "CJsession",
+                        "description": "Det ger användarna ett slumpmässigt och krypterat värde (ID-värde) som gör att de kan identifieras som unika användare utan att behandla personuppgifter",
+                        "duration": "1 timme",
+                        "property": "Egen"
+                    },
+                    {
+                        "name": "Utgångstid",
+                        "description": "Låter dig kontrollera om en användare fortfarande är aktiv efter en timme",
+                        "duration": "30 dagar",
+                        "property": "Egen"
+                    },
+                    {
+                        "name": "Gasession",
+                        "description": "Låter dig överföra ID-värdet för CJsession-cookien till Google Analytics",
+                        "duration": "1 timme",
+                        "property": "Egen"
+                    },
+                    {
+                        "name": "UserTracker",
+                        "description": "Den innehåller det första sessions-ID för en användare vid det första besöket på webben",
+                        "duration": "5 år",
+                        "property": "Egen"
+                    },
+                    {
+                        "name": "UserType",
+                        "description": "Det gör att du kan identifiera om en användare återvänder eller besöker webbplatsen för första gången",
+                        "duration": "1 timme",
+                        "property": "Egen"
+                    },
+                    {
+                        "name": "__utmz",
+                        "description": "Låter dig hämta användarens navigeringspunkt",
+                        "duration": "1 timme",
+                        "property": "Egen"
+                    },
+                    {
+                        "name": "Cookie_RST",
+                        "description": "Låter dig visa varningsbannern och cookie-informationen",
+                        "duration": "1 år",
+                        "property": "Egen"
+                    },
+                    {
+                        "name": "Samtycke",
+                        "description": "Det gör att du kan identifiera om användaren har gett sitt samtycke till cookies",
+                        "duration": "1 år",
+                        "property": "Egen"
+                    },
+                    {
+                        "name": "IssessionReset",
+                        "description": "Låter dig spåra om användarens session har ändrats eller har förnyats",
+                        "duration": "1 dag",
+                        "property": "Egen"
+                    },
+                    {
+                        "name": "CARCJ Sessions-ID",
+                        "description": "Det ger användarna ett slumpmässigt och krypterat värde (ID-värde) för bilförsäkringsprodukten som gör att de kan identifieras som unika användare utan att behandla personuppgifter",
+                        "duration": "1 timme",
+                        "property": "Egen"
+                    },
+                    {
+                        "name": "QpE8d4cca2e2e9",
+                        "description": "Det tillåter användare som har kommit till prissidan att återvända till den om de trycker på ”Tillbaka” -knappen",
+                        "duration": "1 dag",
+                        "property": "Egen"
+                    },
+                    {
+                        "name": "HealthQuotePage",
+                        "description": "Det tillåter användare som har nått prissidan i sjukförsäkringsprodukten att återvända till den om de trycker på ”Tillbaka” -knappen",
+                        "duration": "1 dag",
+                        "property": "Egen"
+                    },
+                    {
+                        "name": "captchav3_ {Sessions-ID}",
+                        "description": "Låter dig kontrollera om Captcha (applikation för identifiering av robotar) information har sparats för ett sessions-ID",
+                        "duration": "2 dagar",
+                        "property": "Egen"
+                    },
+                    {
+                        "name": "ip_ {cookie-ID}",
+                        "description": "Låter dig kontrollera om IP-adressen har sparats för ett cookie-ID",
+                        "duration": "36 timmar",
+                        "property": "Egen"
+                    },
+                    {
+                        "name": "Användarinformation",
+                        "description": "Låter dig spara information om användarens IP på försäljningssidan",
+                        "duration": "Session",
+                        "property": "Egen"
+                    },
+                    {
+                        "name": "Last_Quote",
+                        "description": "Det gör det möjligt för användare att kontrollera de priser som erhållits i den senaste jämförelsen och räkna om dem utan att svara på alla frågor igen",
+                        "duration": "5 år",
+                        "property": "Egen"
+                    },
+                    {
+                        "name": "CJsession",
+                        "description": "Det ger användarna ett slumpmässigt och krypterat värde (ID-värde) som gör att de kan identifieras som unika användare utan att behandla personuppgifter",
+                        "duration": "1 timme",
+                        "property": "Egen"
+                    },
+                    {
+                        "name": "Utgångstid",
+                        "description": "Låter dig kontrollera om en användare fortfarande är aktiv efter en timme",
+                        "duration": "30 dagar",
+                        "property": "Egen"
+                    },
+                    {
+                        "name": "Gasession",
+                        "description": "Låter dig överföra ID-värdet för CJsession-cookien till Google Analytics",
+                        "duration": "1 timme",
+                        "property": "Egen"
+                    }
+                ]
+            },
+            "analyticalCookies": {
+                "title": "ANALYTISKA COOKIES",
+                "content": [
+                    {
+                        "name": "Cookie-nummer",
+                        "description": "Beskrivning",
+                        "duration": "Varaktighet",
+                        "property": "Egendom"
+                    },
+                    {
+                        "name": "_ga",
+                        "description": "Används för att övervaka tillgängligheten av webbsidor",
+                        "duration": "2 år",
+                        "property": "Egen"
+                    },
+                    {
+                        "name": "_glc_au",
+                        "description": "Används av Google AdSense för att experimentera med annonseffektivitet på webbplatser som använder dess tjänster",
+                        "duration": "90 dagar",
+                        "property": "Egen"
+                    },
+                    {
+                        "name": "_DC_GTM_UA-7713710-1",
+                        "description": "Den används för att begränsa procentandelen förfrågningar som webbläsaren gör till Googles servrar",
+                        "duration": "1 minut",
+                        "property": "Egen"
+                    },
+                    {
+                        "name": "_gid",
+                        "description": "Det används för att skilja vissa användare från andra utan att identifiera dem.",
+                        "duration": "24 timmar",
+                        "property": "Egen"
+                    },
+                    {
+                        "name": "_Gat_UA-7713710-1",
+                        "description": "Används av Google AdSense för att experimentera med annonseffektivitet på webbplatser som använder dess tjänster",
+                        "duration": "1 minut",
+                        "property": "Egen"
+                    },
+                    {
+                        "name": "_gac_ua-7713710-1",
+                        "description": "Inkluderar kampanjinformation relaterad till användaren",
+                        "duration": "90 dagar",
+                        "property": "Egen"
+                    },
+                    {
+                        "name": "vtstep",
+                        "description": "Används för att spåra användare och förstå hur många som hamnar i försäljningen",
+                        "duration": "30 dagar",
+                        "property": "Egen"
+                    },
+                    {
+                        "name": "Datadome",
+                        "description": "Används för att upptäcka robotar och DDoS-attacker",
+                        "duration": "1 år",
+                        "property": "Egen"
+                    }
+                ]
+            },
+            "thirdCookies": {
+                "title": "COOKIES FRÅN TREDJE PART",
+                "content": [
+                    {
+                        "name": "Cookie-nummer",
+                        "description": "Beskrivning",
+                        "duration": "Varaktighet",
+                        "property": "Egendom"
+                    },
+                    {
+                        "name": "Konvertering, IDE, ANID, DSID, FLC, AID, TAID, utbyte_uid",
+                        "description": "De används för att visa riktade annonser över hela webben. Du kan visas riktade annonser baserat på dina tidigare besök på denna webbplats.",
+                        "duration": "1 år",
+                        "property": "Från tredje part"
+                    },
+                    {
+                        "name": "HJÄLP, DSID, TAID",
+                        "description": "De används för att länka din aktivitet på enheter. På detta sätt samordnas annonserna som visas i dem och vi mäter konverteringshändelser",
+                        "duration": "1 år",
+                        "property": "Från tredje part"
+                    },
+                    {
+                        "name": "_fbc",
+                        "description": "Den används för att leverera annonser, mäta deras resultat och förbättra deras relevans",
+                        "duration": "90 dagar",
+                        "property": "Från tredje part"
+                    },
+                    {
+                        "name": "_fbp",
+                        "description": "Identifierar webbläsare för att tillhandahålla reklam- och webbplatsanalystjänster",
+                        "duration": "90 dagar",
+                        "property": "Från tredje part"
+                    },
+                    {
+                        "name": "_uetmslkid",
+                        "description": "Den används för att noggrant mäta konverteringar genom att tilldela ett unikt ID till varje klick på annonsen och målsidan.",
+                        "duration": "90 dagar",
+                        "property": "Från tredje part"
+                    },
+                    {
+                        "name": "_uetsid",
+                        "description": "Används för att förbättra noggrannheten i omvandlingar. Bing? tack vare det faktum att det tilldelar ett unikt ID till varje session.",
+                        "duration": "30 minuter",
+                        "property": "Från tredje part"
+                    },
+                    {
+                        "name": "VI",
+                        "description": "Det används för att mäta unika Microsoft-användare.",
+                        "duration": "13 månader",
+                        "property": "Från tredje part"
+                    },
+                    {
+                        "name": "MUIDB",
+                        "description": "Det används för att mäta unika Microsoft-användare. Denna cookie används för att återställa det unika ID som hanterar MUID-cookien.",
+                        "duration": "13 månader",
+                        "property": "Från tredje part"
+                    },
+                    {
+                        "name": "Obuid",
+                        "description": "Native Ads-plattformen: användarens anonyma ID sparas för att registrera åtgärder, till exempel klick, konverteringar etc.",
+                        "duration": "3 månader",
+                        "property": "Från tredje part"
+                    },
+                    {
+                        "name": "t_gid",
+                        "description": "Native Ads-plattform: unikt användar-ID för att tilldela attribution (klick, konverteringar...)",
+                        "duration": "1 år",
+                        "property": "Från tredje part"
+                    },
+                    {
+                        "name": "obuid",
+                        "description": "Native Ads-plattformen: användarens anonyma ID sparas för att registrera åtgärder, till exempel klick, konverteringar etc.",
+                        "duration": "3 månader",
+                        "property": "Från tredje part"
+                    },
+                    {
+                        "name": "t_gid",
+                        "description": "Native Ads-plattform: unikt användar-ID för att tilldela attribution (klick, konverteringar...)",
+                        "duration": "1 år",
+                        "property": "Från tredje part"
+                    },
+                    {
+                        "name": "Fr",
+                        "description": "Detta är Facebooks viktigaste reklamcookie. Det används för att erbjuda, analysera och förbättra relevansen av annonser",
+                        "duration": "90 dagar",
+                        "property": "Från tredje part"
+                    },
+                    {
+                        "name": "oo",
+                        "description": "Det används för att registrera beslut för att sluta ta emot reklam.",
+                        "duration": "5 år",
+                        "property": "Från tredje part"
+                    },
+                    {
+                        "name": "skulle",
+                        "description": "Används för att öppna en specifik plats i en annonsörs applikation efter installationen",
+                        "duration": "28 dagar",
+                        "property": "Från tredje part"
+                    }
+                ]
+            },
+            "advertisingCookies": {
+                "title": "REKLAM COOKIES",
+                "content": [
+                    {
+                        "domain": "Herravälde",
+                        "name": "Namn",
+                        "description": "Beskrivning",
+                        "duration": "Varaktighet",
+                        "property": "Egendom"
+                    },
+                    {
+                        "domain": "static.aroa.io",
+                        "name": "_adobator",
+                        "description": "Dessa Adobe-cookies gör det möjligt att få en relation mellan en användares beteende på webben och den enhet från vilken den visas.",
+                        "duration": "3 månader",
+                        "property": "Från tredje part"
+                    },
+                    {
+                        "domain": "_",
+                        "name": "_adobator_exp",
+                        "description": "Dessa Adobe-cookies tillåter oss att veta om en användare har ett Adobe ID tilldelat eller inte.",
+                        "duration": "3 månader",
+                        "property": "Från tredje part"
+                    },
+                    {
+                        "domain": "_",
+                        "name": "_alphonse",
+                        "description": "Dessa appnexus-cookies gör det möjligt att få en relation mellan en användares beteende på webben och den enhet från vilken den konsulteras.",
+                        "duration": "3 månader",
+                        "property": "Från tredje part"
+                    },
+                    {
+                        "domain": "_",
+                        "name": "_alphonse_exp",
+                        "description": "Dessa appnexus-cookies gör det möjligt att veta om en användare har en Adobe-identifierare tilldelad eller inte",
+                        "duration": "3 månader",
+                        "property": "Från tredje part"
+                    },
+                    {
+                        "domain": "_",
+                        "name": "_darenso",
+                        "description": "Dessa datmean cookies gör det möjligt att identifiera en användare på webben och enheten från vilken de surfar.",
+                        "duration": "3 månader",
+                        "property": "Från tredje part"
+                    },
+                    {
+                        "domain": "_",
+                        "name": "_deformer_exp",
+                        "description": "Denna adform-cookie gör det möjligt för oss att veta om en användare har en Adobe-identifierare tilldelad eller inte",
+                        "duration": "3 månader",
+                        "property": "Från tredje part"
+                    },
+                    {
+                        "domain": "_",
+                        "name": "_killinchu",
+                        "description": "Denna salesforce-cookie gör det möjligt att få en relation mellan en användares beteende på webben och den enhet från vilken den konsulteras.",
+                        "duration": "3 månader",
+                        "property": "Från tredje part"
+                    },
+                    {
+                        "domain": "_",
+                        "name": "_killinchu_exp",
+                        "description": "Denna Salesforce-cookie gör det möjligt för oss att veta om en användare har en Adobe-identifierare tilldelad eller inte.",
+                        "duration": "3 månader",
+                        "property": "Från tredje part"
+                    },
+                    {
+                        "domain": "_",
+                        "name": "_Richierich",
+                        "description": "Denna richaudience-cookie gör det möjligt att få en relation mellan en användares beteende på webben och den enhet från vilken den konsulteras.",
+                        "duration": "3 månader",
+                        "property": "Från tredje part"
+                    },
+                    {
+                        "domain": "_",
+                        "name": "_sesamo",
+                        "description": "Dessa datmean cookies gör det möjligt att identifiera en användares session på en viss enhet",
+                        "duration": "3 månader",
+                        "property": "Från tredje part"
+                    },
+                    {
+                        "domain": "_",
+                        "name": "_tortillami",
+                        "description": "Denna batchcookie tillåter oss att få en relation mellan en användares beteende på webben och enheten från vilken den konsulteras.",
+                        "duration": "3 månader",
+                        "property": "Från tredje part"
+                    },
+                    {
+                        "domain": "_",
+                        "name": "_tortillami_exp",
+                        "description": "Denna batchcookie låter mig veta om en användare har en Adobe-identifierare tilldelad honom eller inte",
+                        "duration": "3 månader",
+                        "property": "Från tredje part"
+                    },
+                    {
+                        "domain": "_",
+                        "name": "_trybolera",
+                        "description": "Denna ttd-cookie gör det möjligt att få en relation mellan en användares beteende på webben och den enhet från vilken den konsulteras",
+                        "duration": "3 månader",
+                        "property": "Från tredje part"
+                    },
+                    {
+                        "domain": "_",
+                        "name": "_wally",
+                        "description": "Dessa weborama-cookies gör det möjligt att få en relation mellan en användares beteende på webben och den enhet från vilken den konsulteras.",
+                        "duration": "3 månader",
+                        "property": "Från tredje part"
+                    },
+                    {
+                        "domain": "_",
+                        "name": "_wally_exp",
+                        "description": "Dessa weborama-cookies tillåter oss att veta om en användare har en Adobe-identifierare tilldelad eller inte.",
+                        "duration": "3 månader",
+                        "property": "Från tredje part"
+                    },
+                    {
+                        "domain": "_",
+                        "name": "_beyota",
+                        "description": "Dessa eyeota cookies gör det möjligt att få en relation mellan en användares beteende på webben och den enhet från vilken den konsulteras.",
+                        "duration": "3 månader",
+                        "property": "Från tredje part"
+                    }
+                ]
+            }
+        }
+    }
+}

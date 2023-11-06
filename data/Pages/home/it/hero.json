@@ -1,0 +1,12 @@
+{
+    "hero": {
+        "title": "Confronta la tua assicurazione funebre in /1 minuto e risparmia fino al 40% /",
+        "description": "In /Eva Seguros/ otterrai la migliore /assicurazione funebre/ al /miglior prezzo/ e inoltre /puoi risparmiare 220€ all'anno, ottenendo due linee mobili gratuite. /",
+        "buttons": [
+            {
+                "text": "Confronta ora",
+                "url": "#"
+            }
+        ]
+    }
+}

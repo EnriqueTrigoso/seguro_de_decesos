@@ -1,0 +1,7 @@
+{
+	"title": "Cod poștal (Obligatoriu)",
+	"placeholder": "Introduceți codul poștal...",
+	"error_msg": "Introduceți 5 cifre",
+	"verify_msg": "Verificând..",
+	"fail_msg": "Cod poștal greșit"
+}

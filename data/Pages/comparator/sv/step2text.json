@@ -1,0 +1,30 @@
+{
+    "title": "Hur många personer ska inkluderas i försäkringen?",
+    "subtitle": "Välj ett av alternativen",
+    "options": [
+        {
+            "text": "Endast jag »",
+            "userDataValue": 1
+        },
+        {
+            "text": "2 personer »",
+            "userDataValue": 2
+        },
+        {
+            "text": "3 personer »",
+            "userDataValue": 3
+        },
+        {
+            "text": "4 personer »",
+            "userDataValue": 4
+        },
+        {
+            "text": "5 personer »",
+            "userDataValue": 5
+        },
+        {
+            "text": "Fler än 5 personer »",
+            "userDataValue": "5+"
+        }
+    ]
+}

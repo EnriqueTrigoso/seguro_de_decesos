@@ -1,0 +1,25 @@
+{
+    "404": {
+        "metadata": {
+            "title": "Uau! Această pagină nu există.",
+            "description": "Pagina pe care o cautati nu exista."
+        },
+        "content": {
+            "title": "Uau! Această pagină nu există.",
+            "description": "Pagina pe care ați solicitat-o nu a putut fi găsită",
+            "button_text": "Reveniți la pagina principală",
+            "cards": [
+                {
+                    "title": "Ajutor și sprijin",
+                    "subtitle": "Email: support@evaseguros.es",
+                    "description": "Pentru ajutor cu un produs sau serviciu curent sau consultați întrebările frecvente"
+                },
+                {
+                    "title": "Sună-ne",
+                    "subtitle": "Sunați-ne pentru a vorbi cu un membru al echipei noastre.",
+                    "description": "(+01) ۲۳۴ ۵۶۷ ۸۹"
+                }
+            ]
+        }
+    }
+}

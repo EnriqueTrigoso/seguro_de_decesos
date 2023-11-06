@@ -1,0 +1,26 @@
+{
+	"title": "У вас є поточний поліс поховального страхування?",
+	"subtitle": "Виберіть один з варіантів",
+	"option_cards": [
+		{
+			"text": "Я не маю страхування »",
+			"userDataValue": "No"
+		},
+		{
+			"text": "Так, Santalucia »",
+			"userDataValue": "Santalucia"
+		},
+		{
+			"text": "Так, Ocaso »",
+			"userDataValue": "Ocaso"
+		},
+		{
+			"text": "Так, Mapfre »",
+			"userDataValue": "Mapfre"
+		},
+		{
+			"text": "Так, Інше »",
+			"userDataValue": "Otros"
+		}
+	]
+}

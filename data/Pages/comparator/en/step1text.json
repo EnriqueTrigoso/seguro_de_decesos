@@ -1,0 +1,26 @@
+{
+	"title": "Do you currently have a funeral insurance?",
+	"subtitle": "Select one of the options",
+	"option_cards": [
+		{
+			"text": "I am not insured »",
+			"userDataValue": "No"
+		},
+		{
+			"text": "Yes, Santalucia »",
+			"userDataValue": "Santalucia"
+		},
+		{
+			"text": "Yes, Ocaso »",
+			"userDataValue": "Ocaso"
+		},
+		{
+			"text": "Yes, Mapfre »",
+			"userDataValue": "Mapfre"
+		},
+		{
+			"text": "Yes, Other »",
+			"userDataValue": "Otros"
+		}
+	]
+}

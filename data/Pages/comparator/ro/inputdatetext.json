@@ -1,0 +1,7 @@
+{
+	"input_title": "Data nașterii",
+	"title1": "Persoană titulară: (Obligatoriu)",
+	"title2": "° persoană: (Opțional)",
+	"placeholder": "zz/ll/aaaa",
+	"error_msg": "Vă rugăm să introduceți o dată validă"
+}

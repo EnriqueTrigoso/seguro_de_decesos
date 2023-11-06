@@ -1,0 +1,139 @@
+.footer {
+	background: var(--blue-primary);
+	padding-top: 40px;
+	padding-bottom: 40px;
+	overflow: hidden;
+	position: relative;
+	/* z-index: 10; */
+}
+
+.footer_site {
+	display: grid;
+	grid-template-columns: 1fr;
+	grid-gap: 40px;
+}
+
+.social {
+	max-width: 100%;
+	display: flex;
+	flex-direction: column;
+	gap: 24px;
+}
+
+.subtitle {
+	color: var(--aplications-text-white, #FFF);
+	font-size: 16px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: 140%;
+	letter-spacing: 0.16px;
+}
+
+.social_media {
+	display: flex;
+	gap: 12px;
+}
+
+.cards_container {
+	display: grid;
+	grid-template-columns: repeat(2, 1fr);
+	grid-gap: 20px;
+}
+
+.cards_container a {
+	padding-bottom: 1px;
+}
+
+.cards_container a:hover {
+	border-bottom: 2px solid #fff;
+}
+
+.social_media a {
+	display: inline-block;
+	width: 21px;
+	height: 21px;
+	background-size: 21px 21px;
+}
+
+.footer_copyright {
+	margin-top: 20px;
+	border-top: 1px solid #4E4E82;
+	display: flex;
+	font-size: 14px;
+	line-height: 22px;
+	width: 100%;
+	justify-content: center;
+	padding: 0 15px;
+}
+
+.links {
+	margin-top: 15px;
+	margin-bottom: 15px;
+	display: flex;
+	flex-direction: column;
+	gap: 10px;
+	color: #fff;
+}
+
+.logo_container {
+	margin-bottom: 15px;
+}
+
+.logo_container svg {
+	width: 191px;
+	height: 61px;
+}
+
+.copyright {
+	color: #ffffff;
+	font-size: 0.875rem;
+	font-style: normal;
+	font-weight: 400;
+	line-height: 130%;
+	letter-spacing: 0.0175rem;
+	padding-top: 2rem;
+}
+
+@media (min-width: 1024px) {
+
+	.footer_site {
+		grid-template-columns: 0.8fr 1fr;
+		gap: 20px;
+	}
+
+	.social {
+		max-width: 250px;
+	}
+
+	.social_media {
+		gap: 15px;
+	}
+
+	.footer_copyright {
+		margin-top: 60px;
+		flex-direction: row;
+		height: 55px;
+		align-items: center;
+		grid-column: span 2;
+	}
+
+	.links {
+		flex-direction: row;
+		gap: 23px;
+	}
+
+	.logo_container {
+		margin-bottom: 15px;
+	}
+
+	.logo_container svg {
+		width: 191px;
+		height: 61px;
+	}
+
+	.cards_container {
+		grid-template-columns: repeat(4, 1fr);
+		grid-gap: 20px;
+	}
+
+}

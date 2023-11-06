@@ -1,0 +1,26 @@
+{
+    "information": {
+        "title": "Compara entre las mejores aseguradoras /de pólizas del mercado/",
+        "description": "Te acompañamos durante todo el proceso para despejar todas tus dudas. Puedes llamarnos o dejarnos tu número para que te llamemos.",
+        "link_compare": "Compara ahora",
+        "link_contact": "Contáctanos",
+        "cards": [
+            {
+                "text": "Nos adaptamos a tu economía",
+                "alt": "Joven pensativa al aire libre"
+            },
+            {
+                "text": "Incluye traslado nacional e internacional",
+                "alt": "Señora feliz levantando los brazos"
+            },
+            {
+                "text": "Incluye servicios médicos gratuitos",
+                "alt": "Madre e hija adolescente abrazandose"
+            },
+            {
+                "text": "Cobertura de decesos completa",
+                "alt": "Madre y su bebe abrazandose"
+            }
+        ]
+    }
+}

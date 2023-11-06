@@ -1,0 +1,30 @@
+{
+	"title": "Câte persoane vei include în polița?",
+	"subtitle": "Selectează una dintre opțiuni",
+	"options": [
+		{
+			"text": "Doar eu »",
+			"userDataValue": 1
+		},
+		{
+			"text": "2 persoane »",
+			"userDataValue": 2
+		},
+		{
+			"text": "3 persoane »",
+			"userDataValue": 3
+		},
+		{
+			"text": "4 persoane »",
+			"userDataValue": 4
+		},
+		{
+			"text": "5 persoane »",
+			"userDataValue": 5
+		},
+		{
+			"text": "Mai mult de 5 persoane »",
+			"userDataValue": "5+"
+		}
+	]
+}

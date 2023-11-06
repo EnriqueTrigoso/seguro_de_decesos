@@ -1,0 +1,24 @@
+.multistep {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 3rem;
+}
+
+.step {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+@media (min-width: 1024px) {
+    
+  .multistep {
+    flex-direction: column;
+  }
+
+
+  .step {
+    gap: 5px;
+  }
+}

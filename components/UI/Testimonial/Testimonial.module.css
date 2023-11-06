@@ -1,0 +1,144 @@
+.testimonial {
+  position: relative;
+  max-width: 500px;
+  margin: 0 auto;
+  height: 100%;
+  background: #f9fafb;
+  overflow: hidden;
+  padding: 2.5rem 0;
+}
+
+.testimonial_wrapper {
+  display: grid;
+  grid-template-columns: 1fr;
+  grid-gap: 25px;
+  justify-items: center;
+}
+
+.content {
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+}
+
+.subtitle {
+  position: relative;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 24px;
+  margin-left: 60px;
+  margin-bottom: 10px;
+  color: var(--green-primary);
+}
+
+.subtitle::before {
+  content: "";
+  display: block;
+  position: absolute;
+  left: -55px;
+  top: 12px;
+  width: 48px;
+  height: 1px;
+  background: var(--green-primary);
+}
+
+.title {
+  font-weight: 500;
+  font-size: 26px;
+  line-height: 36px;
+  color: var(--blue-primary);
+}
+
+.description {
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 21.79px;
+  width: 100%;
+}
+
+.cards {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+  z-index: 5;
+}
+
+.h2 {
+  color: var(--blue-primary);
+  font-size: 2rem;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 120%;
+}
+
+@media (min-width: 1024px) {
+  .testimonial {
+    position: relative;
+    max-width: 100%;
+    padding: 3rem 0;
+  }
+
+  .testimonial_wrapper {
+    grid-template-columns: 1fr;
+    grid-gap: 4.5rem;
+  }
+
+  .cards {
+    position: relative;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    flex-direction: column;
+    gap: 1.5rem;
+    z-index: 5;
+    gap: 3.5rem;
+  }
+
+  .content {
+    justify-content: center;
+    gap: 20px;
+    max-width: 840px;
+    text-align: center;
+  }
+
+  .subtitle {
+    font-size: 20px;
+  }
+
+  .h2 {
+    text-align: center;
+    font-size: 2.5rem;
+  }
+
+  .description {
+    font-size: 18px;
+    line-height: 28px;
+    width: 465px;
+  }
+
+  .cards::before {
+    content: "";
+    position: absolute;
+    left: -80px;
+    top: -65px;
+    width: 180px;
+    height: 180px;
+    background: url("../../../assets/imgs/shape.webp") no-repeat;
+    background-size: contain;
+    background-position: left;
+    z-index: -1;
+  }
+
+  .cards::after {
+    content: "";
+    position: absolute;
+    right: -80px;
+    top: -65px;
+    width: 180px;
+    height: 180px;
+    background: url("../../../assets/imgs/shape.webp") no-repeat;
+    background-size: contain;
+    background-position: left;
+    z-index: -1;
+  }
+}

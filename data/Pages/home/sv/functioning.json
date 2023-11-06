@@ -1,0 +1,26 @@
+{
+    "functioning": {
+        "title": "Vågar du bita i /äpplet/?",
+        "description": "Njut av fördelarna med mobillinjer tack vare din begravningsförsäkring.",
+        "list_info": [
+            {
+                "title": "Obegränsade samtal."
+            },
+            {
+                "title": "/20GB/ mobildata."
+            },
+            {
+                "title": "Gratis roaming i Europeiska unionen."
+            }
+        ],
+        "phrase": "Håll alltid kontakten /tack till Eva Móvil! /",
+        "button": {
+            "text": "Kirjoita meille",
+            "link": "https://api.whatsapp.com/send?phone=34983666666&text=%C2%A1Hola%2C%20Eva%20M%C3%B3vil!%F0%9F%93%9EMe%20gustar%C3%ADa%20obtener%20informaci%C3%B3n%20sobre%20tus%20tarifas.%F0%9F%98%81"
+        },
+        "metadata": {
+            "alt": "Líneas móviles gratis",
+            "title": "Lineas moviles gratis"
+        }
+    }
+}

@@ -1,0 +1,73 @@
+.faq_card {
+	display: grid;
+	grid-template-columns: 1fr;
+	align-items: center;
+	padding: 25px 20px;
+	grid-gap: 0 80px;
+	width: 100%;
+	height: 100%;
+	cursor: pointer;
+	border-radius: 0.5rem;
+	background: #F9FAFB;
+	border: 1px solid #F9FAFB;
+	gap: 1.5rem;
+}
+
+.top_card {
+	width: 100%;
+	display: grid;
+	grid-template-columns: 1fr auto;
+	gap: 1.5rem;
+}
+
+.title {
+	width: 100%;
+	font-size: 15px;
+	font-weight: 500;
+	line-height: 25px;
+	color: var(--blue-primary);
+}
+
+.greenBackground {
+	background-color: rgba(0, 152, 58, 0.07);
+}
+
+.p {
+	color: #344054;
+	font-size: 1rem;
+	font-style: normal;
+	font-weight: 400;
+	line-height: 140%;
+	letter-spacing: 0.01rem;
+}
+
+.content {
+	padding-top: 1.5rem;
+	border-top: 1px solid var(--green-primary);
+}
+
+@media (min-width: 1024px) {
+
+	.faq_card {
+		padding: 22px 30px;
+	}
+
+	.faq_card:hover {
+		background: #F9FAFB;
+	}
+
+	.title {
+		width: 461px;
+		font-size: 18px;
+		line-height: 28px;
+	}
+
+	.h4 {
+		color: var(--blue-primary);
+		font-size: 1.125rem;
+		font-style: normal;
+		font-weight: 700;
+		line-height: 140%;
+		letter-spacing: 0.01125rem;
+	}
+}

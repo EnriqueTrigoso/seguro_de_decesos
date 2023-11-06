@@ -1,0 +1,6 @@
+{
+  "title": "Introduceți noua parolă",
+  "button_text": "Schimbă Parola",
+  "placeholder": "Introduceți noua parolă",
+  "error_msg": "Introduceți o parolă de cel puțin 8 caractere alfanumerice"
+}

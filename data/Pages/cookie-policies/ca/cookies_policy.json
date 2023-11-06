@@ -1,0 +1,449 @@
+{
+    "cookies_policy": {
+        "content": {
+            "title": "Polítiques de Cookies",
+            "whatIsAcookie": {
+                "title": "Què és una cookie?",
+                "content": [
+                    "Una galeta és una petita quantitat d'informació que s'envia per un lloc web i recordar informació sobre la teva visita, generalment informació de tipus tècnic, estadístic, de preferències personals, etc. però mai dades o informació sensible. Les cookies no poden fer malbé el teu dispositiu i tenen un paper important, ja que sense elles l'ús de la web seria una experiència més frustrant."
+                ]
+            },
+            "typeOfCookies": {
+                "title": "Tipus de cookies",
+                "content": [
+                    "La llei ens permet emmagatzemar cookies al vostre dispositiu si són estrictament necessàries per al funcionament de la nostra pàgina (aquestes són les anomenades cookies tècniques). Per a tots els altres tipus de galetes necessitem el teu permís. A més de cookies tècniques, a {domain} utilitzem cookies analítiques i publicitàries. Algunes galetes són col·locades per serveis de tercers amb els que col·laborem. Aquests tipus de cookies estan detallats al Configurador de Cookies, on pots canviar o retirar el teu consentiment en qualsevol moment. A més de per la seva finalitat, les galetes també poden ser:",
+                    "Segons a qui pertanyin aquestes galetes:",
+                    "Cookies pròpies: les que gestiona i t'envia directament ONE SPAIN INSRANCE RISK MANAGEMENTS.",
+                    "De tercers: les que gestionen i t'envien altres col·laboradors de ONE SPAIN INSRANCE RISK MANAGEMENTS.",
+                    "Segons el temps que durin aquestes cookies:",
+                    "Galetes de sessió: només funcionen mentre estàs visitant la nostra web i un cop abandones aquesta pàgina, deixen de funcionar.",
+                    "Galetes persistents: funcionen després que hagis abandonat la nostra web durant un temps concret definit pel responsable de la galeta.",
+                    "A continuació, es detallen totes les cookies utilitzades a ONE SPAIN INSRANCE RISK MANAGEMENTS:"
+                ]
+            },
+            "deleteCookies": {
+                "title": "Com desactivar o eliminar cookies",
+                "content": [
+                    "Podeu retirar o canviar el vostre consentiment en qualsevol moment a través del Configurador de cookies, al qual podreu accedir en tot moment des del link en aquesta política en el cas del web. Però a més et recordem que, a la web, pots modificar la configuració del teu navegador, a l'apartat d'”opcions” o “preferències” del menú del teu navegador, on podràs esborrar totes les galetes que s'haguessin acceptat prèviament. Et recomanem utilitzar la funció “Ajuda” del teu navegador per comprovar com pots esborrar les cookies."
+                ]
+            }
+        },
+        "tables": {
+            "technicalCookies": {
+                "title": "COOKIES TÈCNIQUES",
+                "content": [
+                    {
+                        "name": "Nom de la cookie",
+                        "description": "Descripció",
+                        "duration": "Durada",
+                        "property": "Propietat"
+                    },
+                    {
+                        "name": "ASP.NET_SessionId",
+                        "description": "Necessària per executar l'aplicació",
+                        "duration": "sessió",
+                        "property": "Pròpia"
+                    },
+                    {
+                        "name": "CJSession",
+                        "description": "Atorga un valor aleatori i encriptat als usuaris (valor ID) que permet identificar-los com a usuaris únics sense tractar dades personals identificatives",
+                        "duration": "1 hora",
+                        "property": "Pròpia"
+                    },
+                    {
+                        "name": "ExpirySession",
+                        "description": "Permet verificar si un usuari continua actiu després d'una hora",
+                        "duration": "30 dies",
+                        "property": "Pròpia"
+                    },
+                    {
+                        "name": "GASession",
+                        "description": "Permet traslladar el valor ID de la galeta CJSession a Google Analytics",
+                        "duration": "1 hora",
+                        "property": "Pròpia"
+                    },
+                    {
+                        "name": "UserTracker",
+                        "description": "Conté la primera ID de sessió d'un usuari a la primera visita a la web",
+                        "duration": "5 anys",
+                        "property": "Pròpia"
+                    },
+                    {
+                        "name": "UserType",
+                        "description": "Permet identificar si un usuari torna o visita la web per primer cop",
+                        "duration": "1 hora",
+                        "property": "Pròpia"
+                    },
+                    {
+                        "name": "__utmz",
+                        "description": "Permet obtenir el punt d'origen de navegació de l'usuari",
+                        "duration": "1 hora",
+                        "property": "Pròpia"
+                    },
+                    {
+                        "name": "Cookie_rst",
+                        "description": "Permet mostrar el banner d'avís i informació de cookies",
+                        "duration": "1 any",
+                        "property": "Pròpia"
+                    },
+                    {
+                        "name": "Consent",
+                        "description": "Permet identificar si l'usuari ha atorgat consentiment a les galetes",
+                        "duration": "1 any",
+                        "property": "Pròpia"
+                    },
+                    {
+                        "name": "IsSessionReset",
+                        "description": "Permet fer un seguiment en cas que la sessió de l'usuari hagi canviat o s'hagi renovat",
+                        "duration": "1 dia",
+                        "property": "Pròpia"
+                    },
+                    {
+                        "name": "CarCJSessionId",
+                        "description": "Atorga un valor aleatori i encriptat als usuaris (valor ID) per al producte d'assegurança de cotxe que permet identificar-los com a usuaris únics sense tractar dades personals identificatives",
+                        "duration": "1 hora",
+                        "property": "Pròpia"
+                    },
+                    {
+                        "name": "QPe8d4cca2e2e9",
+                        "description": "Permet, als usuaris que hagin arribat a pàgina de preus, tornar-hi si pressionen el botó “Enrere”",
+                        "duration": "1 dia",
+                        "property": "Pròpia"
+                    },
+                    {
+                        "name": "HealthQuotePage",
+                        "description": "Permet, als usuaris que hagin arribat a pàgina de preus al producte d'assegurances de salut, tornar-hi si pressionen el botó “Enrere”",
+                        "duration": "1 dia",
+                        "property": "Pròpia"
+                    },
+                    {
+                        "name": "captchav3_{Session ID}",
+                        "description": "Permet verificar si s'ha desat la informació de Captcha (aplicació per identificar robots) per a una ID de sessió",
+                        "duration": "2 dies",
+                        "property": "Pròpia"
+                    },
+                    {
+                        "name": "ip_{cookie ID}",
+                        "description": "Permet verificar si s'ha desat l'adreça IP per a una ID de galeta",
+                        "duration": "36 hores",
+                        "property": "Pròpia"
+                    },
+                    {
+                        "name": "Userinformation",
+                        "description": "Permet desar informació de la IP de l'usuari a la pàgina de vendes",
+                        "duration": "sessió",
+                        "property": "Pròpia"
+                    },
+                    {
+                        "name": "Last_Quote",
+                        "description": "Permet als usuaris verificar els preus obtinguts a l'última comparativa i recalcular-los sense tornar a contestar totes les preguntes",
+                        "duration": "5 anys",
+                        "property": "Pròpia"
+                    },
+                    {
+                        "name": "CJSession",
+                        "description": "Atorga un valor aleatori i encriptat als usuaris (valor ID) que permet identificar-los com a usuaris únics sense tractar dades personals identificatives",
+                        "duration": "1 hora",
+                        "property": "Pròpia"
+                    },
+                    {
+                        "name": "ExpirySession",
+                        "description": "Permet verificar si un usuari continua actiu després d'una hora",
+                        "duration": "30 dies",
+                        "property": "Pròpia"
+                    },
+                    {
+                        "name": "GASession",
+                        "description": "Permet traslladar el valor ID de la galeta CJSession a Google Analytics",
+                        "duration": "1 hora",
+                        "property": "Pròpia"
+                    }
+                ]
+            },
+            "analyticalCookies": {
+                "title": "COOKIES ANALÍTIQUES",
+                "content": [
+                    {
+                        "name": "Nom de la cookie",
+                        "description": "Descripció",
+                        "duration": "Durada",
+                        "property": "Propietat"
+                    },
+                    {
+                        "name": "_ga",
+                        "description": "Utilitzada per a seguiment de la disponibilitat de les pàgines de la web",
+                        "duration": "2 anys",
+                        "property": "Pròpia"
+                    },
+                    {
+                        "name": "_glc_au",
+                        "description": "Utilitzat per Google AdSense per experimentar amb l'eficiència publicitària als llocs web que utilitzen els seus serveis",
+                        "duration": "90 dies",
+                        "property": "Pròpia"
+                    },
+                    {
+                        "name": "_dc_gtm_UA-7713710-1",
+                        "description": "Es fa servir per limitar el percentatge de sol·licituds que el navegador fa als servidors de google",
+                        "duration": "1 minut",
+                        "property": "Pròpia"
+                    },
+                    {
+                        "name": "_gid",
+                        "description": "S'usa per distingir uns usuaris dels altres encara que sense identificar-los",
+                        "duration": "24 hores",
+                        "property": "Pròpia"
+                    },
+                    {
+                        "name": "_gat_UA-7713710-1",
+                        "description": "Utilitzat per Google AdSense per experimentar amb l'eficiència publicitària als llocs web que utilitzen els seus serveis",
+                        "duration": "1 minut",
+                        "property": "Pròpia"
+                    },
+                    {
+                        "name": "_gac_UA-7713710-1",
+                        "description": "Inclou informació sobre la campanya relativa a l'usuari",
+                        "duration": "90 dies",
+                        "property": "Pròpia"
+                    },
+                    {
+                        "name": "vtstep",
+                        "description": "Utilitzada per fer seguiment dels usuaris i entendre quants acaben en vendes",
+                        "duration": "30 dies",
+                        "property": "Pròpia"
+                    },
+                    {
+                        "name": "datadome",
+                        "description": "Utilitzada per detectar robots i atacs DDoS",
+                        "duration": "1 any",
+                        "property": "Pròpia"
+                    }
+                ]
+            },
+            "thirdCookies": {
+                "title": "COOKIES DE TERCERS",
+                "content": [
+                    {
+                        "name": "Nom de la cookie",
+                        "description": "Descripció",
+                        "duration": "Durada",
+                        "property": "Propietat"
+                    },
+                    {
+                        "name": "Conversion, IDE, ANID, DSID, FLC, AID, TAID, exchange_uid",
+                        "description": "S'utilitzen per servir anuncis dirigits a tota la web. És possible que se us mostrin anuncis dirigits en funció de les vostres visites anteriors a aquest lloc web",
+                        "duration": "1 any",
+                        "property": "De tercers"
+                    },
+                    {
+                        "name": "AID, DSID, TAID",
+                        "description": "S'utilitzen per enllaçar la vostra activitat als dispositius. D'aquesta manera, es coordinen els anuncis que hi apareixen i mesurem els esdeveniments de conversió",
+                        "duration": "1 any",
+                        "property": "De tercers"
+                    },
+                    {
+                        "name": "_fbc",
+                        "description": "S'utilitza per lliurar els anuncis, mesurar-ne els resultats i millorar-ne la rellevància",
+                        "duration": "90 dies",
+                        "property": "De tercers"
+                    },
+                    {
+                        "name": "_fbp",
+                        "description": "Identifica els navegadors per proporcionar serveis publicitaris i anàlisis de llocs web",
+                        "duration": "90 dies",
+                        "property": "De tercers"
+                    },
+                    {
+                        "name": "_uetmsclkid",
+                        "description": "S'utilitza per mesurar amb exactitud les conversions gràcies a que assigna un id únic a cada clic a l'anunci i la pàgina d'aterratge",
+                        "duration": "90 dies",
+                        "property": "De tercers"
+                    },
+                    {
+                        "name": "_uetsid",
+                        "description": "S'utilitza per millorar la precisió de les conversions bing? gràcies al fet que assigna un id únic a cada sessió.",
+                        "duration": "30 minuts",
+                        "property": "De tercers"
+                    },
+                    {
+                        "name": "MUID",
+                        "description": "S'utilitza per mesurar usuaris únics de Microsoft.",
+                        "duration": "13 mesos",
+                        "property": "De tercers"
+                    },
+                    {
+                        "name": "MUIDB",
+                        "description": "S'utilitza per mesurar usuaris únics de Microsoft. Aquesta galeta serveix per restaurar l'id únic que maneja la galeta MUID",
+                        "duration": "13 mesos",
+                        "property": "De tercers"
+                    },
+                    {
+                        "name": "Obuid",
+                        "description": "Plataforma de Native Ads: es desa l'ID anònim de l'usuari per registrar les accions, com ara clics, conversions, etc.",
+                        "duration": "3 mesos",
+                        "property": "De tercers"
+                    },
+                    {
+                        "name": "t_gid",
+                        "description": "Plataforma de Native Ads: ID únic d'usuari per assignar l'atribució (clics, conversions…)",
+                        "duration": "1 any",
+                        "property": "De tercers"
+                    },
+                    {
+                        "name": "obuid",
+                        "description": "Plataforma de Native Ads: es desa l'ID anònim de l'usuari per registrar les accions, com ara clics, conversions, etc.",
+                        "duration": "3 mesos",
+                        "property": "De tercers"
+                    },
+                    {
+                        "name": "t_gid",
+                        "description": "Plataforma de Native Ads: ID únic d'usuari per assignar l'atribució (clics, conversions…)",
+                        "duration": "1 any",
+                        "property": "De tercers"
+                    },
+                    {
+                        "name": "Fr",
+                        "description": "Es tracta de la galeta de publicitat principal de Facebook. S'utilitza per oferir, analitzar i millorar la rellevància dels anuncis",
+                        "duration": "90 dies",
+                        "property": "De tercers"
+                    },
+                    {
+                        "name": "oo",
+                        "description": "S'utilitza per registrar les decisions de deixar de rebre publicitat",
+                        "duration": "5 anys",
+                        "property": "De tercers"
+                    },
+                    {
+                        "name": "ddid",
+                        "description": "S'utilitza per obrir una ubicació específica a l'aplicació d'un anunciant després de la instal·lació",
+                        "duration": "28 dies",
+                        "property": "De tercers"
+                    }
+                ]
+            },
+            "advertisingCookies": {
+                "title": "COOKIES DE PUBLICITAT",
+                "content": [
+                    {
+                        "domain": "Domini",
+                        "name": "Nom",
+                        "description": "Descripció",
+                        "duration": "Durada",
+                        "property": "Propietat"
+                    },
+                    {
+                        "domain": "static.aroa.io",
+                        "name": "_adobator",
+                        "description": "Aquestes cookies de tova permeten obtenir una relació entre el comportament d'un usuari a la web i el dispositiu des del qual s'està consultant",
+                        "duration": "3 mesos",
+                        "property": "De tercers"
+                    },
+                    {
+                        "domain": "",
+                        "name": "_adobator_exp",
+                        "description": "Aquestes cookies de tova permeten saber si un usuari té assignat o menys un identificador de tova",
+                        "duration": "3 mesos",
+                        "property": "De tercers"
+                    },
+                    {
+                        "domain": "",
+                        "name": "_alphonse",
+                        "description": "Aquestes galetes d'appnexus permeten obtenir una relació entre el comportament d'un usuari a la web i el dispositiu des del qual s'està consultant",
+                        "duration": "3 mesos",
+                        "property": "De tercers"
+                    },
+                    {
+                        "domain": "",
+                        "name": "_alphonse_exp",
+                        "description": "Aquestes galetes d'appnexus permeten saber si un usuari té assignat o menys un identificador de tova",
+                        "duration": "3 mesos",
+                        "property": "De tercers"
+                    },
+                    {
+                        "domain": "",
+                        "name": "_darenso",
+                        "description": "Aquestes galetes de datmean permeten identificar un usuari a la web i el dispositiu des del qual s'està consultant",
+                        "duration": "3 mesos",
+                        "property": "De tercers"
+                    },
+                    {
+                        "domain": "",
+                        "name": "_deformer_exp",
+                        "description": "Aquesta galeta d'adform permet saber si un usuari té assignat o menys un identificador de tova",
+                        "duration": "3 mesos",
+                        "property": "De tercers"
+                    },
+                    {
+                        "domain": "",
+                        "name": "_killinchu",
+                        "description": "Aquesta galeta de salesforce permet obtenir una relació entre el comportament d'un usuari a la web i el dispositiu des del qual s'està consultant",
+                        "duration": "3 mesos",
+                        "property": "De tercers"
+                    },
+                    {
+                        "domain": "",
+                        "name": "_killinchu_exp",
+                        "description": "Aquesta galeta de salesforce permet saber si un usuari té assignat o menys un identificador de tova",
+                        "duration": "3 mesos",
+                        "property": "De tercers"
+                    },
+                    {
+                        "domain": "",
+                        "name": "_richierich",
+                        "description": "Aquesta galeta de richaudience permet obtenir una relació entre el comportament d'un usuari a la web i el dispositiu des del qual s'està consultant",
+                        "duration": "3 mesos",
+                        "property": "De tercers"
+                    },
+                    {
+                        "domain": "",
+                        "name": "_sesamo",
+                        "description": "Aquestes galetes de datmean permeten identificar la sessió d'un usuari en un determinat dispositiu",
+                        "duration": "3 mesos",
+                        "property": "De tercers"
+                    },
+                    {
+                        "domain": "",
+                        "name": "_tortillami",
+                        "description": "Aquesta galeta de lotame permet obtenir una relació entre el comportament d'un usuari a la web i el dispositiu des del qual s'està consultant",
+                        "duration": "3 mesos",
+                        "property": "De tercers"
+                    },
+                    {
+                        "domain": "",
+                        "name": "_tortillami_exp",
+                        "description": "Aquesta galeta de lotame permet saber si un usuari té assignat o menys un identificador de tova",
+                        "duration": "3 mesos",
+                        "property": "De tercers"
+                    },
+                    {
+                        "domain": "",
+                        "name": "_trybolera",
+                        "description": "Aquesta galeta de ttd permet obtenir una relació entre el comportament d'un usuari a la web i el dispositiu des del qual s'està consultant",
+                        "duration": "3 mesos",
+                        "property": "De tercers"
+                    },
+                    {
+                        "domain": "",
+                        "name": "_wally",
+                        "description": "Aquestes galetes de weborama permet obtenir una relació entre el comportament d'un usuari a la web i el dispositiu des del qual s'està consultant",
+                        "duration": "3 mesos",
+                        "property": "De tercers"
+                    },
+                    {
+                        "domain": "",
+                        "name": "_wally_exp",
+                        "description": "Aquestes cookies de weborama permet saber si un usuari té assignat o menys un identificador de tova",
+                        "duration": "3 mesos",
+                        "property": "De tercers"
+                    },
+                    {
+                        "domain": "",
+                        "name": "_beyota",
+                        "description": "Aquestes cookies d'eyeota permeten obtenir una relació entre el comportament d'un usuari a la web i el dispositiu des del qual esteu consultant",
+                        "duration": "3 mesos",
+                        "property": "De tercers"
+                    }
+                ]
+            }
+        }
+    }
+}

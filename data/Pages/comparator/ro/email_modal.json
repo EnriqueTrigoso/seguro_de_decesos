@@ -1,0 +1,23 @@
+{
+    "error": {
+        "name": "Vă rugăm să introduceți un nume valid",
+        "phone": "Vă rugăm să introduceți un telefon mobil valid",
+        "email": "Vă rugăm să introduceți un e-mail valid",
+        "email_already_registered": "Utilizatorul este deja înregistrat"
+    },
+    "input": [
+        {
+            "title": "Numele și prenumele: *",
+            "placeholder": "Introduceți numele"
+        },
+        {
+            "title": "Telefon: *",
+            "placeholder": "Introduceți telefonul"
+        },
+        {
+            "title": "E-mail: *",
+            "placeholder": "Introduceți adresa dvs. de e-mail"
+        }
+    ],
+    "button": "Faceți o comparație"
+}

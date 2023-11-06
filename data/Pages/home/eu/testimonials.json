@@ -1,0 +1,33 @@
+{
+    "testimonials": {
+        "subtitle": "Testimonioak",
+        "title": "Betiko gehiago daude /pertsonak/ guztion konfiantzan.",
+        "description": "Eva Seguros-i buruzko bezeroen iritziak ulertzea da gure zerbitzuen errendimendua ebaluatzeko modurik eraginkorrena.",
+        "cards": [
+            {
+                "name": "Antonia García",
+                "image": "#",
+                "city": "Madrid",
+                "description": "“Eva-ren konparagailuak lagundu zidan heriotzako asegururik merkeena aurkitzen. Aurreztu eta seguru osoa kontratatu nuen”.",
+                "alt": "seguro de decesos testimonio",
+                "title": "seguro de decesos-testimonios"
+            },
+            {
+                "name": "Sofía Sánchez",
+                "image": "#",
+                "city": "Girona",
+                "description": "“Konpainia asko daude eta ez nuen zerbitzu hobereneko heriotzako asegurua nola aukeratu jakin. Baina Eva-ren aseguru konparagailua erabili nuen eta paparentzako, mamarentzako eta niretzako poliza egokia eskuratzeko lagundu zidaten”.",
+                "alt": "seguro de decesos testimonio",
+                "title": "seguro de decesos-testimonios"
+            },
+            {
+                "name": "Antonio Rodríguez",
+                "image": "#",
+                "city": "Salamanca",
+                "description": "“Eva-n aseguru guztien konparagailuak aurkitu nituen. Web orri batean osagarri seguruak, etxebizitza seguruak eta laguntza aseguruak konparatu nituen, baina hainbat beste daude. Gainera, oso azkarra eta erraza izan zen!”.",
+                "alt": "seguro de decesos testimonio",
+                "title": "seguro de decesos-testimonios"
+            }
+        ]
+    }
+}

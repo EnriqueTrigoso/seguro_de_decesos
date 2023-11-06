@@ -1,0 +1,26 @@
+{
+    "functioning": {
+        "title": "May lakas ka bang kagatin ang /mansanas/?",
+        "description": "Tangkilikin ang mga benepisyo na iniaalok ng mga linyang mobile dahil sa iyong seguro para sa pagkamatay.",
+        "list_info": [
+            {
+                "title": "Walang hanggang mga tawag."
+            },
+            {
+                "title": "/20GB/ ng mobile data."
+            },
+            {
+                "title": "Libreng Roaming sa Unyon ng Europa."
+            }
+        ],
+        "phrase": "Laging manatiling konektado /salamat sa Eva Móvil/!",
+        "button": {
+            "text": "Sumulat sa amin",
+            "link": "https://api.whatsapp.com/send?phone=34983666666&text=%C2%A1Hola%2C%20Eva%20M%C3%B3vil!%F0%9F%93%9EMe%20gustar%C3%ADa%20obtener%20informaci%C3%B3n%20sobre%20tus%20tarifas.%F0%9F%98%81"
+        },
+        "metadata": {
+            "alt": "Libreng mga Linya ng Mobile",
+            "title": "Libreng mga Linya ng Mobile"
+        }
+    }
+}

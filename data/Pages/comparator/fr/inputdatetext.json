@@ -1,0 +1,7 @@
+{
+	"input_title": "Date de naissance",
+	"title1": "Personne titulaire: (Obligatoire)",
+	"title2": "° personne: (Optionnel)",
+	"placeholder": "jj/mm/aaaa",
+	"error_msg": "Veuillez entrer une date valide"
+}

@@ -1,0 +1,30 @@
+{
+	"title": "¿Tienes un seguro de decesos actualmente?",
+	"subtitle": "Selecciona una de las opciones",
+	"option_cards": [
+		{
+			"text": "No estoy asegurado »",
+			"userDataValue": "No"
+		},
+		{
+			"text": "Sí, Santalucia »",
+			"userDataValue": "Santalucia"
+		},
+		{
+			"text": "Sí, Mapfre »",
+			"userDataValue": "Mapfre"
+		},
+		{
+			"text": "Sí, Adeslas »",
+			"userDataValue": "Adeslas"
+		},
+		{
+			"text": "Sí, Helvetia »",
+			"userDataValue": "Helvetia"
+		},
+		{
+			"text": "Sí, Otra »",
+			"userDataValue": "Otros"
+		}
+	]
+}

@@ -1,0 +1,49 @@
+.sticky_buttons_container {
+	position: fixed;
+	bottom: 1rem;
+	left: 0;
+	z-index: 99;
+	display: grid;
+	justify-items: center;
+	width: 100%;
+	pointer-events: none;
+}
+
+.footer {
+	width: 100%;
+	height: 80px;
+	max-width: 500px;
+	padding: 0 0 15px;
+	padding-bottom: 25px;
+}
+
+.buttons_container {
+	display: flex;
+	justify-content: flex-end;
+}
+
+.buttons_container button {
+	pointer-events: all;
+}
+
+.copyright {
+	margin-top: 15px;
+	font-size: 14px;
+	color: var(--blue-primary);
+	user-select: none;
+}
+
+@media (min-width: 1024px) {
+
+	.footer {
+		width: 100%;
+		height: 80px;
+		max-width: 1324px;
+		padding: 0 0 25px;
+		padding-bottom: 25px;
+	}
+
+	.sticky_buttons_container {
+		bottom: 3rem;
+	}
+}

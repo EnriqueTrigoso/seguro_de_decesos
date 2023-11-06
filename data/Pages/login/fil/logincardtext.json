@@ -1,0 +1,76 @@
+{
+  "login": {
+    "title": "Mag-log in",
+    "description": "Mag-log in sa iyong {domain} account. Makikita mo ang mga personal na alok at rekomendasyon.",
+    "input_email": {
+      "title": "Email Address",
+      "placeholder": [
+        "Ilagay ang iyong email address",
+        "Email"
+      ],
+      "error_msg": "Hindi wastong email address"
+    },
+    "input_password": {
+      "title": "Password",
+      "placeholder": "Ilagay ang password",
+      "error_msg": "Maling password, subukan muli"
+    },
+    "checkbox": "Tandaan ako",
+    "forgetPassword": "Nakalimutan ang password?",
+    "button": "Mag-log in",
+    "description2": "Maari rin kayong:",
+    "social_buttons": [
+      "Magpatuloy gamit ang Google",
+      "Magpatuloy gamit ang Facebook"
+    ],
+    "accion": [
+      "Wala ka bang account?",
+      "Lumikha ng account"
+    ]
+  },
+  "register": {
+    "title": "Magparehistro",
+    "description": "Magparehistro sa SegurodeDecesos.com. Makikita mo ang mga personal na alok at rekomendasyon.",
+    "input_name": {
+      "title": "Pangalan",
+      "placeholder": "Ilagay ang pangalan",
+      "error_msg": "Ilagay ang pangalan, dapat ito ay mga titik lamang"
+    },
+    "input_p_surname": {
+      "title": "Unang Apelyido",
+      "placeholder": "Ilagay ang unang apelyido",
+      "error_msg": "Ilagay ang apelyido, dapat ito ay mga titik lamang"
+    },
+    "input_m_surname": {
+      "title": "Ikalawang Apelyido",
+      "placeholder": "Ilagay ang ikalawang apelyido",
+      "error_msg": "Ilagay ang apelyido, dapat ito ay mga titik lamang"
+    },
+    "input_email": {
+      "title": "Email Address",
+      "placeholder": [
+        "Ilagay ang email address",
+        "Email"
+      ],
+      "error_msg": [
+        "Hindi wastong email address"
+      ]
+    },
+    "input_password": {
+      "title": "Password",
+      "placeholder": "Ilagay ang password",
+      "error_msg": "Maglagay ng password na may hindi kukulangin sa 8 karakter na alfanumeriko"
+    },
+    "checkbox": "Sa pag-click sa pindutang Magparehistro, sumasang-ayon ka sa aming /mga tuntunin at patakaran./",
+    "button": "Magparehistro",
+    "description2": "Maari rin kayong:",
+    "social_buttons": [
+      "Lumikha ng account gamit ang Google",
+      "Lumikha ng account gamit ang Facebook"
+    ],
+    "accion": [
+      "Mayroon ka na bang account?",
+      "Mag-log in"
+    ]
+  }
+}

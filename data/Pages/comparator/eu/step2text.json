@@ -1,0 +1,30 @@
+{
+	"title": "Zenbat pertsona sartuko dituzu polizan?",
+	"subtitle": "Aukera bat hautatu",
+	"options": [
+		{
+			"text": "Ni bakarrik »",
+			"userDataValue": 1
+		},
+		{
+			"text": "2 pertsona »",
+			"userDataValue": 2
+		},
+		{
+			"text": "3 pertsona »",
+			"userDataValue": 3
+		},
+		{
+			"text": "4 pertsona »",
+			"userDataValue": 4
+		},
+		{
+			"text": "5 pertsona »",
+			"userDataValue": 5
+		},
+		{
+			"text": "5 pertsona baino gehiago",
+			"userDataValue": "5+"
+		}
+	]
+}

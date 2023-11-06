@@ -1,0 +1,449 @@
+{
+    "cookies_policy": {
+        "content": {
+            "title": "Politici Cookie",
+            "whatIsAcookie": {
+                "title": "Ce este un cookie?",
+                "content": [
+                    "Un cookie este o cantitate mică de informații care este trimisă de un site web și informațiile despre vizita dvs. vor fi amintite, în general informații tehnice, informații statistice, preferințe personale etc., dar niciodată date sau informații sensibile. Cookie-urile nu pot deteriora dispozitivul dvs. și joacă un rol important, deoarece fără ele, utilizarea web-ului ar fi o experiență mai frustrantă."
+                ]
+            },
+            "typeOfCookies": {
+                "title": "Tipuri de cookie-uri",
+                "content": [
+                    "Legea ne permite să stocăm cookie-uri pe dispozitivul dvs. dacă acestea sunt strict necesare pentru funcționarea site-ului nostru (acestea sunt așa-numitele cookie-uri tehnice). Pentru toate celelalte tipuri de cookie-uri, avem nevoie de permisiunea dvs. Pe lângă cookie-urile tehnice, pe {domain} folosim cookie-uri analitice și publicitare. Unele cookie-uri sunt plasate de servicii terțe cu care colaborăm. Aceste tipuri de cookie-uri sunt detaliate în Configuratorul de cookie-uri, unde vă puteți modifica sau retrage consimțământul în orice moment. Pe lângă scopul lor, cookie-urile pot fi, de asemenea:",
+                    "În funcție de cine aparțin aceste cookie-uri:",
+                    "Cookie-uri proprii: cele gestionate și trimise direct de ONE SPANIA ASIGURARE RISC MANAGEMENTS.",
+                    "De la terți: cele gestionate și trimise către dvs. de către alți angajați ONE SPANIA INSURANCE RISC MANAGEMENTS.",
+                    "În funcție de durata acestor cookie-uri:",
+                    "Cookie-uri de sesiune: acestea funcționează numai în timp ce vizitați site-ul nostru web și odată ce părăsiți această pagină, nu mai funcționează.",
+                    "Cookie-uri persistente: acestea funcționează după ce ați părăsit site-ul nostru web pentru o anumită perioadă de timp definită de persoana responsabilă de cookie.",
+                    "Următoarele sunt toate cookie-urile utilizate în gestionarea riscurilor de asigurare ONE SPANIA:"
+                ]
+            },
+            "deleteCookies": {
+                "title": "Cum să dezactivați sau să ștergeți cookie-urile",
+                "content": [
+                    "Vă puteți retrage sau modifica consimțământul în orice moment prin intermediul Configuratorului de cookie-uri, pe care îl puteți accesa în orice moment din linkul din această politică în cazul site-ului web. Dar vă reamintim, de asemenea, că, pe web, puteți modifica setările browserului, în secțiunea „opțiuni” sau „preferințe” din meniul browserului dvs., de unde puteți șterge toate cookie-urile care ar fi fost acceptate anterior. Vă recomandăm să utilizați funcția „Ajutor” a browserului dvs. pentru a verifica modul în care puteți șterge cookie-urile."
+                ]
+            }
+        },
+        "tables": {
+            "technicalCookies": {
+                "title": "COOKIE-URI TEHNICE",
+                "content": [
+                    {
+                        "name": "Numărul cookie-ului",
+                        "description": "Descriere",
+                        "duration": "Durata",
+                        "property": "Proprietate"
+                    },
+                    {
+                        "name": "ASP.NET_SessionID",
+                        "description": "Necesar pentru a rula aplicația",
+                        "duration": "Sesiune",
+                        "property": "Propria"
+                    },
+                    {
+                        "name": "CJSession",
+                        "description": "Acordă utilizatorilor o valoare aleatorie și criptată (valoare ID) care le permite să fie identificați ca utilizatori unici fără a prelucra date personale de identificare",
+                        "duration": "1 oră",
+                        "property": "Propria"
+                    },
+                    {
+                        "name": "ExpirareSession",
+                        "description": "Vă permite să verificați dacă un utilizator este încă activ după o oră",
+                        "duration": "30 zile",
+                        "property": "Propria"
+                    },
+                    {
+                        "name": "Gazesiune",
+                        "description": "Permite transferul valorii ID a cookie-ului CJSession către Google Analytics",
+                        "duration": "1 oră",
+                        "property": "Propria"
+                    },
+                    {
+                        "name": "UserTracker",
+                        "description": "Conține primul ID de sesiune al unui utilizator la prima vizită pe web",
+                        "duration": "5 ani",
+                        "property": "Propria"
+                    },
+                    {
+                        "name": "Tip utilizator",
+                        "description": "Permite identificarea dacă un utilizator revine sau vizitează site-ul web pentru prima dată",
+                        "duration": "1 oră",
+                        "property": "Propria"
+                    },
+                    {
+                        "name": "__utmz",
+                        "description": "Vă permite să obțineți punctul de navigație de origine al utilizatorului",
+                        "duration": "1 oră",
+                        "property": "Propria"
+                    },
+                    {
+                        "name": "Cookie_RST",
+                        "description": "Vă permite să afișați bannerul de avertizare și informațiile cookie",
+                        "duration": "1 an",
+                        "property": "Propria"
+                    },
+                    {
+                        "name": "consimţământul",
+                        "description": "Permite identificarea dacă utilizatorul și-a dat consimțământul pentru cookie-uri",
+                        "duration": "1 an",
+                        "property": "Propria"
+                    },
+                    {
+                        "name": "IsSessionReset",
+                        "description": "Vă permite să urmăriți dacă sesiunea utilizatorului s-a schimbat sau a fost reînnoită",
+                        "duration": "1 zi",
+                        "property": "Propria"
+                    },
+                    {
+                        "name": "ID-ul sesiunii CARCJ",
+                        "description": "Acordă utilizatorilor o valoare aleatorie și criptată (valoare ID) pentru produsul de asigurare auto care le permite să fie identificați ca utilizatori unici fără prelucrarea datelor personale de identificare",
+                        "duration": "1 oră",
+                        "property": "Propria"
+                    },
+                    {
+                        "name": "QPE8D4CCA2E2E9",
+                        "description": "Permite utilizatorilor care au ajuns la pagina de prețuri să revină la ea dacă apasă butonul „Înapoi”",
+                        "duration": "1 zi",
+                        "property": "Propria"
+                    },
+                    {
+                        "name": "HealthQuotePage",
+                        "description": "Permite utilizatorilor care au ajuns pe pagina de prețuri din produsul de asigurări de sănătate să se întoarcă la acesta apăsând butonul „Înapoi”",
+                        "duration": "1 zi",
+                        "property": "Propria"
+                    },
+                    {
+                        "name": "captchav3_ {ID-ul sesiunii}",
+                        "description": "Vă permite să verificați dacă informațiile Captcha (aplicația pentru identificarea roboților) au fost salvate pentru un ID de sesiune",
+                        "duration": "2 zile",
+                        "property": "Propria"
+                    },
+                    {
+                        "name": "ip_ {ID-ul cookie-ului}",
+                        "description": "Vă permite să verificați dacă adresa IP pentru un ID cookie a fost salvată",
+                        "duration": "36 de ore",
+                        "property": "Propria"
+                    },
+                    {
+                        "name": "Informaţii despre utilizator",
+                        "description": "Permite salvarea informațiilor IP ale utilizatorului pe pagina de vânzări",
+                        "duration": "Sesiune",
+                        "property": "Propria"
+                    },
+                    {
+                        "name": "Last_Quote",
+                        "description": "Permite utilizatorilor să verifice prețurile obținute în ultima comparație și să le recalculeze fără a răspunde din nou la toate întrebările",
+                        "duration": "5 ani",
+                        "property": "Propria"
+                    },
+                    {
+                        "name": "CJSession",
+                        "description": "Acordă utilizatorilor o valoare aleatorie și criptată (valoare ID) care le permite să fie identificați ca utilizatori unici fără a prelucra date personale de identificare",
+                        "duration": "1 oră",
+                        "property": "Propria"
+                    },
+                    {
+                        "name": "ExpirareSession",
+                        "description": "Vă permite să verificați dacă un utilizator este încă activ după o oră",
+                        "duration": "30 zile",
+                        "property": "Propria"
+                    },
+                    {
+                        "name": "Gazesiune",
+                        "description": "Permite transferul valorii ID a cookie-ului CJSession către Google Analytics",
+                        "duration": "1 oră",
+                        "property": "Propria"
+                    }
+                ]
+            },
+            "analyticalCookies": {
+                "title": "COOKIE-URI ANALITICE",
+                "content": [
+                    {
+                        "name": "Numărul cookie-ului",
+                        "description": "Descriere",
+                        "duration": "Durata",
+                        "property": "Proprietate"
+                    },
+                    {
+                        "name": "_ga",
+                        "description": "Folosit pentru a monitoriza disponibilitatea paginilor web",
+                        "duration": "2 ani",
+                        "property": "Propria"
+                    },
+                    {
+                        "name": "_glc_au",
+                        "description": "Folosit de Google AdSense pentru a experimenta eficiența publicității pe site-urile web care utilizează serviciile sale",
+                        "duration": "90 zile",
+                        "property": "Propria"
+                    },
+                    {
+                        "name": "_DC_GTM_UA-7713710-1",
+                        "description": "Este utilizat pentru a limita procentul de solicitări pe care browserul le face serverelor Google.",
+                        "duration": "1 minut",
+                        "property": "Propria"
+                    },
+                    {
+                        "name": "_gid",
+                        "description": "Este folosit pentru a distinge unii utilizatori de alții fără a-i identifica.",
+                        "duration": "24 de ore",
+                        "property": "Propria"
+                    },
+                    {
+                        "name": "_gat_UA-7713710-1",
+                        "description": "Folosit de Google AdSense pentru a experimenta eficiența publicității pe site-urile web care utilizează serviciile sale",
+                        "duration": "1 minut",
+                        "property": "Propria"
+                    },
+                    {
+                        "name": "_gac_ua-7713710-1",
+                        "description": "Include informații despre campanie legate de utilizator",
+                        "duration": "90 zile",
+                        "property": "Propria"
+                    },
+                    {
+                        "name": "vtstep",
+                        "description": "Folosit pentru a urmări utilizatorii și pentru a înțelege câți ajung în vânzări",
+                        "duration": "30 zile",
+                        "property": "Propria"
+                    },
+                    {
+                        "name": "Datadome",
+                        "description": "Folosit pentru a detecta roboți și atacuri DDoS",
+                        "duration": "1 an",
+                        "property": "Propria"
+                    }
+                ]
+            },
+            "thirdCookies": {
+                "title": "COOKIE-URI DE LA TERȚI",
+                "content": [
+                    {
+                        "name": "Numărul cookie-ului",
+                        "description": "Descriere",
+                        "duration": "Durata",
+                        "property": "Proprietate"
+                    },
+                    {
+                        "name": "Conversie, IDE, ANID, DSID, FLC, AID, TAID, exchange_uid",
+                        "description": "Acestea sunt folosite pentru a difuza anunțuri direcționate pe web. Anunțurile direcționate vă pot fi afișate pe baza vizitelor anterioare pe acest site web.",
+                        "duration": "1 an",
+                        "property": "De la terți"
+                    },
+                    {
+                        "name": "AJUTOR, DSID, TAID",
+                        "description": "Acestea sunt utilizate pentru a vă conecta activitatea pe dispozitive. În acest fel, anunțurile care apar în ele sunt coordonate și măsurăm evenimentele de conversie",
+                        "duration": "1 an",
+                        "property": "De la terți"
+                    },
+                    {
+                        "name": "_fbc",
+                        "description": "Este folosit pentru a difuza anunțuri, pentru a măsura rezultatele acestora și pentru a le îmbunătăți relevanța",
+                        "duration": "90 zile",
+                        "property": "De la terți"
+                    },
+                    {
+                        "name": "_fbp",
+                        "description": "Identifică browserele pentru a furniza servicii de publicitate și analiză a site-urilor web",
+                        "duration": "90 zile",
+                        "property": "De la terți"
+                    },
+                    {
+                        "name": "_uetmslkid",
+                        "description": "Este utilizat pentru a măsura cu precizie conversiile, deoarece atribuie un ID unic fiecărui clic pe anunț și pe pagina de destinație",
+                        "duration": "90 zile",
+                        "property": "De la terți"
+                    },
+                    {
+                        "name": "_uetsid",
+                        "description": "Este utilizat pentru a îmbunătăți acuratețea conversiilor. Bing? datorită faptului că atribuie un ID unic fiecărei sesiuni.",
+                        "duration": "30 minute",
+                        "property": "De la terți"
+                    },
+                    {
+                        "name": "NOI",
+                        "description": "Este folosit pentru a măsura utilizatorii unici Microsoft.",
+                        "duration": "13 luni",
+                        "property": "De la terți"
+                    },
+                    {
+                        "name": "MUIDB",
+                        "description": "Este folosit pentru a măsura utilizatorii unici Microsoft. Acest cookie este utilizat pentru a restabili ID-ul unic pe care îl gestionează cookie-ul MUID",
+                        "duration": "13 luni",
+                        "property": "De la terți"
+                    },
+                    {
+                        "name": "Obuid",
+                        "description": "Platforma de anunțuri native: ID-ul anonim al utilizatorului este salvat pentru a înregistra acțiuni, cum ar fi clicuri, conversii etc.",
+                        "duration": "3 luni",
+                        "property": "De la terți"
+                    },
+                    {
+                        "name": "t_gid",
+                        "description": "Platforma Native Ads: ID de utilizator unic pentru atribuirea atribuirii (clicuri, conversii...)",
+                        "duration": "1 an",
+                        "property": "De la terți"
+                    },
+                    {
+                        "name": "obuid",
+                        "description": "Platforma de anunțuri native: ID-ul anonim al utilizatorului este salvat pentru a înregistra acțiuni, cum ar fi clicuri, conversii etc.",
+                        "duration": "3 luni",
+                        "property": "De la terți"
+                    },
+                    {
+                        "name": "t_gid",
+                        "description": "Platforma Native Ads: ID de utilizator unic pentru atribuirea atribuirii (clicuri, conversii...)",
+                        "duration": "1 an",
+                        "property": "De la terți"
+                    },
+                    {
+                        "name": "Fr",
+                        "description": "Acesta este principalul cookie de publicitate al Facebook. Folosit pentru a furniza, analiza și îmbunătăți relevanța anunțurilor",
+                        "duration": "90 zile",
+                        "property": "De la terți"
+                    },
+                    {
+                        "name": "oo",
+                        "description": "Folosit pentru a înregistra deciziile de a nu mai primi publicitate",
+                        "duration": "5 ani",
+                        "property": "De la terți"
+                    },
+                    {
+                        "name": "ar",
+                        "description": "Folosit pentru a deschide o anumită locație în aplicația unui agent de publicitate după instalare",
+                        "duration": "28 zile",
+                        "property": "De la terți"
+                    }
+                ]
+            },
+            "advertisingCookies": {
+                "title": "COOKIE-URI DE PUBLICITATE",
+                "content": [
+                    {
+                        "domain": "Dominion",
+                        "name": "Nume",
+                        "description": "Descriere",
+                        "duration": "Durata",
+                        "property": "Proprietate"
+                    },
+                    {
+                        "domain": "static.aroa.io",
+                        "name": "_adobator",
+                        "description": "Aceste cookie-uri Adobe ne permit să obținem o relație între comportamentul unui utilizator pe web și dispozitivul de pe care consultă.",
+                        "duration": "3 luni",
+                        "property": "De la terți"
+                    },
+                    {
+                        "domain": "_",
+                        "name": "_adobator_exp",
+                        "description": "Aceste cookie-uri Adobe ne permit să știm dacă unui utilizator i se atribuie sau nu un identificator Adobe",
+                        "duration": "3 luni",
+                        "property": "De la terți"
+                    },
+                    {
+                        "domain": "_",
+                        "name": "_alphonse",
+                        "description": "Aceste cookie-uri AppNexus ne permit să obținem o relație între comportamentul unui utilizator pe web și dispozitivul de pe care este consultat",
+                        "duration": "3 luni",
+                        "property": "De la terți"
+                    },
+                    {
+                        "domain": "_",
+                        "name": "_alphonse_exp",
+                        "description": "Aceste cookie-uri AppNexus ne permit să știm dacă unui utilizator i se atribuie sau nu un identificator Adobe.",
+                        "duration": "3 luni",
+                        "property": "De la terți"
+                    },
+                    {
+                        "domain": "_",
+                        "name": "_Darenso",
+                        "description": "Aceste cookie-uri Datmean permit identificarea unui utilizator pe web și a dispozitivului de pe care este consultat utilizatorul",
+                        "duration": "3 luni",
+                        "property": "De la terți"
+                    },
+                    {
+                        "domain": "_",
+                        "name": "_deformer_exp",
+                        "description": "Acest cookie adform ne permite să știm dacă un utilizator are atribuit sau nu un identificator Adobe",
+                        "duration": "3 luni",
+                        "property": "De la terți"
+                    },
+                    {
+                        "domain": "_",
+                        "name": "_killinchu",
+                        "description": "Acest cookie Salesforce ne permite să obținem o relație între comportamentul unui utilizator pe web și dispozitivul de pe care este consultat.",
+                        "duration": "3 luni",
+                        "property": "De la terți"
+                    },
+                    {
+                        "domain": "_",
+                        "name": "_killinchu_exp",
+                        "description": "Acest cookie Salesforce ne permite să știm dacă unui utilizator i se atribuie sau nu un identificator Adobe",
+                        "duration": "3 luni",
+                        "property": "De la terți"
+                    },
+                    {
+                        "domain": "_",
+                        "name": "_Richierich",
+                        "description": "Acest cookie richpublic ne permite să obținem o relație între comportamentul unui utilizator pe web și dispozitivul de pe care este consultat",
+                        "duration": "3 luni",
+                        "property": "De la terți"
+                    },
+                    {
+                        "domain": "_",
+                        "name": "_sesamo",
+                        "description": "Aceste cookie-uri Datmean permit identificarea sesiunii unui utilizator pe un anumit dispozitiv",
+                        "duration": "3 luni",
+                        "property": "De la terți"
+                    },
+                    {
+                        "domain": "_",
+                        "name": "_tortillami",
+                        "description": "Acest cookie Lotame ne permite să obținem o relație între comportamentul unui utilizator pe web și dispozitivul de pe care acesta consultă",
+                        "duration": "3 luni",
+                        "property": "De la terți"
+                    },
+                    {
+                        "domain": "_",
+                        "name": "_tortillami_exp",
+                        "description": "Acest cookie Lotame ne permite să știm dacă un utilizator are atribuit sau nu un identificator Adobe",
+                        "duration": "3 luni",
+                        "property": "De la terți"
+                    },
+                    {
+                        "domain": "_",
+                        "name": "_tribolera",
+                        "description": "Acest cookie ttd ne permite să obținem o relație între comportamentul unui utilizator pe web și dispozitivul de pe care este consultat",
+                        "duration": "3 luni",
+                        "property": "De la terți"
+                    },
+                    {
+                        "domain": "_",
+                        "name": "_wally",
+                        "description": "Aceste cookie-uri Weborama ne permit să obținem o relație între comportamentul unui utilizator pe web și dispozitivul de pe care este consultat",
+                        "duration": "3 luni",
+                        "property": "De la terți"
+                    },
+                    {
+                        "domain": "_",
+                        "name": "_wally_exp",
+                        "description": "Aceste cookie-uri Weborama ne permit să știm dacă un utilizator are atribuit sau nu un identificator Adobe.",
+                        "duration": "3 luni",
+                        "property": "De la terți"
+                    },
+                    {
+                        "domain": "_",
+                        "name": "_beyota",
+                        "description": "Aceste cookie-uri eyeota ne permit să obținem o relație între comportamentul unui utilizator pe web și dispozitivul de pe care acesta consultă.",
+                        "duration": "3 luni",
+                        "property": "De la terți"
+                    }
+                ]
+            }
+        }
+    }
+}

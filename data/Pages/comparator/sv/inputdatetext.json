@@ -1,0 +1,7 @@
+{
+    "input_title": "Födelsedatum",
+    "title1": "sittande person: (Krävs)",
+    "title2": "1: a person: (Valfritt)",
+    "placeholder": "dd/mm/aaaa",
+    "error_msg": "Ange ett giltigt datum"
+}

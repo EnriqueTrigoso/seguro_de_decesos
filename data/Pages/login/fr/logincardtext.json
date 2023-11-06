@@ -1,0 +1,76 @@
+{
+  "login": {
+    "title": "Se Connecter",
+    "description": "Accédez à votre compte {domain}. Vous pouvez voir des offres et des recommandations personnalisées.",
+    "input_email": {
+      "title": "Adresse E-mail",
+      "placeholder": [
+        "Entrez l'adresse e-mail",
+        "E-mail"
+      ],
+      "error_msg": "Adresse e-mail invalide"
+    },
+    "input_password": {
+      "title": "Mot de Passe",
+      "placeholder": "Entrez le mot de passe",
+      "error_msg": "Mot de passe incorrect, veuillez réessayer"
+    },
+    "checkbox": "Se souvenir de moi",
+    "forgetPassword": "Mot de passe oublié ?",
+    "button": "Se Connecter",
+    "description2": "Ou vous pouvez aussi :",
+    "social_buttons": [
+      "Continuer avec Google",
+      "Continuer avec Facebook"
+    ],
+    "action": [
+      "Vous n'avez pas de compte ?",
+      "Créer un Compte"
+    ]
+  },
+  "register": {
+    "title": "S'inscrire",
+    "description": "Inscrivez-vous sur {domain}. Vous pouvez voir des offres et des recommandations personnalisées.",
+    "input_name": {
+      "title": "Prénom",
+      "placeholder": "Entrez le prénom",
+      "error_msg": "Entrez un prénom, seules les lettres sont autorisées"
+    },
+    "input_p_surname": {
+      "title": "Premier Nom de Famille",
+      "placeholder": "Entrez le Premier Nom de Famille",
+      "error_msg": "Entrez un nom de famille, seules les lettres sont autorisées"
+    },
+    "input_m_surname": {
+      "title": "Deuxième Nom de Famille",
+      "placeholder": "Entrez le Deuxième Nom de Famille",
+      "error_msg": "Entrez un nom de famille, seules les lettres sont autorisées"
+    },
+    "input_email": {
+      "title": "Adresse E-mail",
+      "placeholder": [
+        "Entrez l'adresse e-mail",
+        "E-mail"
+      ],
+      "error_msg": [
+        "Adresse e-mail invalide"
+      ]
+    },
+    "input_password": {
+      "title": "Mot de Passe",
+      "placeholder": "Entrez le mot de passe",
+      "error_msg": "Entrez un mot de passe alphanumérique d'au moins 8 caractères"
+    },
+    "checkbox": "En cliquant sur le bouton S'inscrire, vous acceptez nos /conditions et notre politique./",
+    "button": "S'inscrire",
+    "description2": "Ou vous pouvez aussi :",
+    "social_buttons": [
+      "Créez votre compte avec Google",
+      "Créez votre compte avec Facebook"
+    ],
+    "action": [
+      "Vous avez déjà un compte ?",
+      "Se Connecter"
+    ]
+  }
+}

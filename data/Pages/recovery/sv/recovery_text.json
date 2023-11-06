@@ -1,0 +1,6 @@
+{
+    "title": "Ange ditt nya lösenord",
+    "button_text": "Ändra lösenord",
+    "placeholder": "Skriv ditt nya lösenord",
+    "error_msg": "Ange ett lösenord med minst 8 alfanumeriska tecken"
+}

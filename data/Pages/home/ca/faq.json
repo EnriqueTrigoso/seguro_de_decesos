@@ -1,0 +1,28 @@
+{
+    "faq": {
+        "title": "Preguntes freqüents",
+        "description": "Tens alguna pregunta? Llegiu algunes de les nostres preguntes més freqüents o poseu-vos en contacte amb els nostres assessors per obtenir ajuda.",
+        "questions": [
+            {
+                "question": "Què és l'assegurança de decessos?",
+                "answer": "L'assegurança de decessos està pensada per ajudar les famílies en els moments més delicats i assegura la prestació de serveis funeraris i tràmits relacionats amb la mort d'una persona. Es contracta amb la finalitat de pal·liar la càrrega financera i logística d'un funeral i els tràmits legals i administratius associats a la defunció."
+            },
+            {
+                "question": "Quins són els avantatges de comparar amb nosaltres?",
+                "answer": "Comparar en menys d'1 minut des d'una interfície fàcil d'utilitzar. Eva Seguros t'ajuda a triar entre les millors companyies d'assegurances funeràries d'Espanya."
+            },
+            {
+                "question": "Com et trobes una assegurança de decessos que millor et convingui?",
+                "answer": "A través del nostre comparador d'assegurances funeràries, pots filtrar les ofertes de les millors empreses per trobar l'assegurança de decessos que més s'adapti a tu."
+            },
+            {
+                "question": "Quant costa l'assegurança de decessos?",
+                "answer": "Hi ha una àmplia gamma de primes que depenen de la quantitat de cobertura addicional que treu i de la forma en què pagueu la prima. En la nostra comparativa d'assegurances funeràries podràs trobar els preus més econòmics."
+            },
+            {
+                "question": "Qui pot contractar una assegurança de decessos?",
+                "answer": "Qualsevol persona major d'edat pot contractar una assegurança de decessos."
+            }
+        ]
+    }
+}

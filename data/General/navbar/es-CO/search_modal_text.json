@@ -1,0 +1,21 @@
+{
+  "title": "Te puede interesar",
+  "search_options": [
+    {
+      "title": "Ingresa a EvaSeguros.es",
+      "description": "Pagos, servicios, beneficios y más."
+    },
+    {
+      "title": "Atención médica",
+      "description": "Solicita atención médica virtual o a domicilio."
+    },
+    {
+      "title": "Cobertura del seguro",
+      "description": "Conoce qué cubre tu seguro."
+    },
+    {
+      "title": "Centro de ayuda",
+      "description": "Aprovecha al máximo tu seguro y conoce tus beneficios."
+    }
+  ]
+}

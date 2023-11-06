@@ -1,0 +1,72 @@
+{
+    "footer_text": {
+        "social_title": "Confronta le migliori compagnie di assicurazione funebre sul mercato.",
+        "social_description": "Seguici sui nostri social network",
+        "section1": {
+            "title": "Su di noi",
+            "options": [
+                {
+                    "title": "Visione della missione",
+                    "href": "#"
+                },
+                {
+                    "title": "Il nostro team",
+                    "href": "#"
+                }
+            ]
+        },
+        "section2": {
+            "title": "Scopri di più",
+            "options": [
+                {
+                    "title": "Incontra Eva",
+                    "href": "#"
+                },
+                {
+                    "title": "Pianta per il pianeta",
+                    "href": "#"
+                },
+                {
+                    "title": "Universo accessibile",
+                    "href": "#"
+                },
+                {
+                    "title": "Universo Santi",
+                    "href": "#"
+                }
+            ]
+        },
+        "section3": {
+            "title": "Offriamo",
+            "options": [
+                {
+                    "title": "Politica funebre",
+                    "href": "#"
+                },
+                {
+                    "title": "Politica sulla vita",
+                    "href": "#"
+                },
+                {
+                    "title": "Home > Politica",
+                    "href": "#"
+                }
+            ]
+        },
+        "section4": {
+            "title": "Legale",
+            "options": [
+                {
+                    "title": "Avviso legale"
+                },
+                {
+                    "title": "Informativa sulla privacy"
+                },
+                {
+                    "title": "Politica sui cookie"
+                }
+            ]
+        },
+        "copyright": "{domain} 2023. Tutti i diritti riservati."
+    }
+}

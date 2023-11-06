@@ -1,0 +1,21 @@
+{
+  "title": "Interesatu dezakezu",
+  "search_options": [
+    {
+      "title": "Sartu EvaSeguros.es",
+      "description": "Ordainketaak, zerbitzuak, onurak eta gehiago."
+    },
+    {
+      "title": "Osasun-arreta",
+      "description": "Eska ezazu osasun-arreta birtuala edo etxeko arreta."
+    },
+    {
+      "title": "Seguroaren estaldura.",
+      "description": "Egiaztatu zure seguruak zeinak estaltzen dituen."
+    },
+    {
+      "title": "Laguntza Zentroa",
+      "description": "Aldatu zure seguruarekin onurak eta beren ezagutza aprobetxatu."
+    }
+  ]
+}

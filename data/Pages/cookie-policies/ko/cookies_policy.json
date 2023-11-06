@@ -1,0 +1,449 @@
+{
+    "cookies_policy": {
+        "content": {
+            "title": "쿠키 정책",
+            "whatIsAcookie": {
+                "title": "쿠키란 무엇입니까?",
+                "content": [
+                    "쿠키는 웹 사이트에서 보내는 소량의 정보이며 귀하의 방문에 대한 정보 (일반적으로 기술, 통계, 개인 기본 설정 정보 등) 는 기억하지만 민감한 데이터나 정보는 기억하지 않습니다.쿠키가 없으면 웹 사용이 더욱 불편해질 수 있기 때문에 쿠키는 기기에 해를 끼치고 중요한 역할을 할 수 없습니다."
+                ]
+            },
+            "typeOfCookies": {
+                "title": "쿠키 유형",
+                "content": [
+                    "법률에 따라 당사 페이지 운영에 꼭 필요한 경우 귀하의 장치에 쿠키를 저장할 수 있습니다 (소위 기술 쿠키).다른 모든 유형의 쿠키의 경우 사용자의 승인이 필요합니다.{domain} 에서는 기술적 쿠키 외에도 분석 및 광고 쿠키를 사용합니다.일부 쿠키는 당사와 협력하는 타사 서비스에 의해 설치됩니다.이러한 유형의 쿠키는 쿠키 구성 관리자에 자세히 설명되어 있으며, 여기에서 언제든지 동의를 변경하거나 철회할 수 있습니다.쿠키는 목적 외에도 다음과 같을 수 있습니다.",
+                    "쿠키가 누구에게 속하는지에 따라:",
+                    "자체 쿠키: ONE SPAIN 보험 리스크 매니지먼트에서 직접 관리하고 귀하에게 보내는 쿠키.",
+                    "제3자로부터: 다른 ONE SPAIN INSR 위험 관리 직원이 관리하고 귀하에게 보낸 정보.",
+                    "쿠키의 지속 기간에 따라:",
+                    "세션 쿠키: 사용자가 당사 웹사이트를 방문하는 동안에만 작동하며 이 페이지를 떠나면 작동이 중지됩니다.",
+                    "영구 쿠키: 쿠키 책임자가 정의한 특정 시간 동안 사용자가 당사 웹사이트를 떠난 후에 작동합니다.",
+                    "ONE SPAIN 보험 위험 관리에 사용되는 모든 쿠키에 대한 자세한 내용은 다음과 같습니다."
+                ]
+            },
+            "deleteCookies": {
+                "title": "쿠키 비활성화 또는 삭제 방법",
+                "content": [
+                    "웹의 경우 본 정책의 링크를 통해 언제든지 액세스할 수 있는 쿠키 구성기를 통해 동의를 철회하거나 변경할 수 있습니다.또한 웹에서는 브라우저 메뉴의 “옵션” 또는 “기본 설정” 섹션에서 브라우저 설정을 수정할 수 있으며, 여기서 이전에 허용된 모든 쿠키를 삭제할 수 있음을 알려드립니다.브라우저의 “도움말” 기능을 사용하여 쿠키 삭제 방법을 확인하는 것이 좋습니다."
+                ]
+            }
+        },
+        "tables": {
+            "technicalCookies": {
+                "title": "기술 쿠키",
+                "content": [
+                    {
+                        "name": "쿠키 번호",
+                        "description": "설명",
+                        "duration": "소요 시간",
+                        "property": "재산"
+                    },
+                    {
+                        "name": "ASP.net_SessionID",
+                        "description": "애플리케이션 실행에 필요",
+                        "duration": "세션",
+                        "property": "소유"
+                    },
+                    {
+                        "name": "CJ 세션",
+                        "description": "사용자에게 개인 식별 데이터를 처리하지 않고도 고유한 사용자로 식별할 수 있는 무작위적이고 암호화된 값 (ID 값) 을 제공합니다.",
+                        "duration": "1시간",
+                        "property": "소유"
+                    },
+                    {
+                        "name": "세션 만료",
+                        "description": "한 시간 후에도 사용자가 여전히 활성 상태인지 확인할 수 있습니다.",
+                        "duration": "삼십일",
+                        "property": "소유"
+                    },
+                    {
+                        "name": "가스 세션",
+                        "description": "CJSession 쿠키의 ID 값을 구글 애널리틱스로 전송할 수 있습니다.",
+                        "duration": "1시간",
+                        "property": "소유"
+                    },
+                    {
+                        "name": "유저 트래커",
+                        "description": "여기에는 웹에 처음 방문한 사용자의 첫 번째 세션 ID가 포함됩니다.",
+                        "duration": "5년",
+                        "property": "소유"
+                    },
+                    {
+                        "name": "사용자 유형",
+                        "description": "이를 통해 사용자가 웹사이트를 재방문하는지 또는 처음으로 웹사이트를 방문하는지 식별할 수 있습니다.",
+                        "duration": "1시간",
+                        "property": "소유"
+                    },
+                    {
+                        "name": "__utmz",
+                        "description": "사용자의 내비게이션 원점을 얻을 수 있습니다.",
+                        "duration": "1시간",
+                        "property": "소유"
+                    },
+                    {
+                        "name": "쿠키_RST",
+                        "description": "경고 배너와 쿠키 정보를 표시할 수 있습니다.",
+                        "duration": "1년",
+                        "property": "소유"
+                    },
+                    {
+                        "name": "동의",
+                        "description": "이를 통해 사용자가 쿠키에 동의했는지 확인할 수 있습니다.",
+                        "duration": "1년",
+                        "property": "소유"
+                    },
+                    {
+                        "name": "iS세션 재설정",
+                        "description": "사용자 세션이 변경되었는지 또는 갱신되었는지 추적할 수 있습니다.",
+                        "duration": "하루",
+                        "property": "소유"
+                    },
+                    {
+                        "name": "세션 ID 확인",
+                        "description": "사용자에게 자동차 보험 상품의 무작위적이고 암호화된 값 (ID 값) 을 제공하여 개인 식별 데이터를 처리하지 않고도 사용자를 고유 사용자로 식별할 수 있도록 합니다.",
+                        "duration": "1시간",
+                        "property": "소유"
+                    },
+                    {
+                        "name": "Qpe8d4cca2E2E9",
+                        "description": "가격 페이지에 도착한 사용자가 “뒤로” 버튼을 누르면 해당 페이지로 돌아갈 수 있습니다.",
+                        "duration": "하루",
+                        "property": "소유"
+                    },
+                    {
+                        "name": "건강 견적 페이지",
+                        "description": "건강 보험 상품의 가격 페이지에 도달한 사용자가 “뒤로” 버튼을 누르면 해당 페이지로 돌아갈 수 있습니다.",
+                        "duration": "하루",
+                        "property": "소유"
+                    },
+                    {
+                        "name": "captchav3_ {세션 ID}",
+                        "description": "세션 ID에 대한 Captcha (로봇 식별 애플리케이션) 정보가 저장되었는지 확인할 수 있습니다.",
+                        "duration": "2일",
+                        "property": "소유"
+                    },
+                    {
+                        "name": "ip_ {쿠키 ID}",
+                        "description": "쿠키 ID에 대한 IP 주소가 저장되었는지 확인할 수 있습니다.",
+                        "duration": "36시간",
+                        "property": "소유"
+                    },
+                    {
+                        "name": "사용자 정보",
+                        "description": "판매 페이지에 사용자 IP에 대한 정보를 저장할 수 있습니다.",
+                        "duration": "세션",
+                        "property": "소유"
+                    },
+                    {
+                        "name": "마지막_견적",
+                        "description": "이를 통해 사용자는 마지막 비교에서 얻은 가격을 확인하고 모든 질문에 다시 답하지 않고도 가격을 다시 계산할 수 있습니다.",
+                        "duration": "5년",
+                        "property": "소유"
+                    },
+                    {
+                        "name": "CJ 세션",
+                        "description": "사용자에게 개인 식별 데이터를 처리하지 않고도 고유한 사용자로 식별할 수 있는 무작위적이고 암호화된 값 (ID 값) 을 제공합니다.",
+                        "duration": "1시간",
+                        "property": "소유"
+                    },
+                    {
+                        "name": "세션 만료",
+                        "description": "한 시간 후에도 사용자가 여전히 활성 상태인지 확인할 수 있습니다.",
+                        "duration": "삼십일",
+                        "property": "소유"
+                    },
+                    {
+                        "name": "가스 세션",
+                        "description": "CJSession 쿠키의 ID 값을 구글 애널리틱스로 전송할 수 있습니다.",
+                        "duration": "1시간",
+                        "property": "소유"
+                    }
+                ]
+            },
+            "analyticalCookies": {
+                "title": "분석 쿠키",
+                "content": [
+                    {
+                        "name": "쿠키 번호",
+                        "description": "설명",
+                        "duration": "소요 시간",
+                        "property": "재산"
+                    },
+                    {
+                        "name": "_ga",
+                        "description": "웹 페이지의 가용성을 모니터링하는 데 사용됩니다.",
+                        "duration": "2년",
+                        "property": "소유"
+                    },
+                    {
+                        "name": "_glc_au",
+                        "description": "Google 애드센스에서 서비스를 사용하는 웹사이트의 광고 효율성을 실험하기 위해 사용합니다.",
+                        "duration": "90일",
+                        "property": "소유"
+                    },
+                    {
+                        "name": "_DC_GTM_UA-7713710-1",
+                        "description": "브라우저가 Google 서버에 보내는 요청의 비율을 제한하는 데 사용됩니다.",
+                        "duration": "1분",
+                        "property": "소유"
+                    },
+                    {
+                        "name": "_gid",
+                        "description": "사용자를 식별하지 않고 일부 사용자를 다른 사용자와 구별하는 데 사용됩니다.",
+                        "duration": "24시간",
+                        "property": "소유"
+                    },
+                    {
+                        "name": "_Gat_UA-7713710-1",
+                        "description": "Google 애드센스에서 서비스를 사용하는 웹사이트의 광고 효율성을 실험하기 위해 사용합니다.",
+                        "duration": "1분",
+                        "property": "소유"
+                    },
+                    {
+                        "name": "_gac_ua-7713710-1",
+                        "description": "사용자와 관련된 캠페인 정보를 포함합니다.",
+                        "duration": "90일",
+                        "property": "소유"
+                    },
+                    {
+                        "name": "vtstep",
+                        "description": "사용자를 추적하고 판매에 도달하는 사용자 수를 파악하는 데 사용됩니다.",
+                        "duration": "삼십일",
+                        "property": "소유"
+                    },
+                    {
+                        "name": "데이터돔",
+                        "description": "로봇 및 DDoS 공격을 탐지하는 데 사용",
+                        "duration": "1년",
+                        "property": "소유"
+                    }
+                ]
+            },
+            "thirdCookies": {
+                "title": "서드파티 쿠키",
+                "content": [
+                    {
+                        "name": "쿠키 번호",
+                        "description": "설명",
+                        "duration": "소요 시간",
+                        "property": "재산"
+                    },
+                    {
+                        "name": "컨버전, IDE, ANID, DSID, FLC, AID, TAID, Exchange_uid",
+                        "description": "웹에서 타겟 광고를 제공하는 데 사용됩니다.이 웹 사이트에 대한 이전 방문을 기반으로 타겟 광고가 표시될 수 있습니다.",
+                        "duration": "1년",
+                        "property": "제3자로부터"
+                    },
+                    {
+                        "name": "레이드, 데이비드, 타이드",
+                        "description": "기기에서의 활동을 연결하는 데 사용됩니다.이러한 방식으로 화면에 표시되는 광고가 조정되고 전환 이벤트를 측정합니다.",
+                        "duration": "1년",
+                        "property": "제3자로부터"
+                    },
+                    {
+                        "name": "_fbc",
+                        "description": "광고 게재, 결과 측정 및 관련성 개선에 사용됩니다.",
+                        "duration": "90일",
+                        "property": "제3자로부터"
+                    },
+                    {
+                        "name": "_fbp",
+                        "description": "광고 및 웹사이트 분석 서비스를 제공하기 위한 브라우저를 식별합니다.",
+                        "duration": "90일",
+                        "property": "제3자로부터"
+                    },
+                    {
+                        "name": "_uetmslid",
+                        "description": "광고 및 랜딩 페이지의 각 클릭에 고유한 ID를 할당하여 전환을 정확하게 측정하는 데 사용됩니다.",
+                        "duration": "90일",
+                        "property": "제3자로부터"
+                    },
+                    {
+                        "name": "_웹사이트",
+                        "description": "변환의 정확도를 높이는 데 사용됩니다.빙?각 세션에 고유한 ID를 할당한다는 사실 덕분입니다.",
+                        "duration": "30분",
+                        "property": "제3자로부터"
+                    },
+                    {
+                        "name": "우리",
+                        "description": "고유한 Microsoft 사용자를 측정하는 데 사용됩니다.",
+                        "duration": "13개월",
+                        "property": "제3자로부터"
+                    },
+                    {
+                        "name": "MIIDB",
+                        "description": "고유한 Microsoft 사용자를 측정하는 데 사용됩니다.이 쿠키는 MUID 쿠키를 관리하는 고유 ID를 복원하는 데 사용됩니다.",
+                        "duration": "13개월",
+                        "property": "제3자로부터"
+                    },
+                    {
+                        "name": "오부이드",
+                        "description": "네이티브 광고 플랫폼: 사용자의 익명 ID가 저장되어 클릭, 전환 등과 같은 활동을 기록합니다.",
+                        "duration": "3개월",
+                        "property": "제3자로부터"
+                    },
+                    {
+                        "name": "t_gid",
+                        "description": "네이티브 광고 플랫폼: 어트리뷰션 (클릭, 전환 등) 을 할당하기 위한 고유한 사용자 ID",
+                        "duration": "1년",
+                        "property": "제3자로부터"
+                    },
+                    {
+                        "name": "오부이드",
+                        "description": "네이티브 광고 플랫폼: 사용자의 익명 ID가 저장되어 클릭, 전환 등과 같은 활동을 기록합니다.",
+                        "duration": "3개월",
+                        "property": "제3자로부터"
+                    },
+                    {
+                        "name": "t_gid",
+                        "description": "네이티브 광고 플랫폼: 어트리뷰션 (클릭, 전환 등) 을 할당하기 위한 고유한 사용자 ID",
+                        "duration": "1년",
+                        "property": "제3자로부터"
+                    },
+                    {
+                        "name": "Fr",
+                        "description": "페이스북의 주요 광고 쿠키입니다.광고의 관련성을 제공, 분석 및 개선하는 데 사용됩니다.",
+                        "duration": "90일",
+                        "property": "제3자로부터"
+                    },
+                    {
+                        "name": "동물원",
+                        "description": "광고 수신 중단 결정을 기록하는 데 사용됩니다.",
+                        "duration": "5년",
+                        "property": "제3자로부터"
+                    },
+                    {
+                        "name": "할 것이다",
+                        "description": "설치 후 광고주 애플리케이션에서 특정 위치를 여는 데 사용됩니다.",
+                        "duration": "28일",
+                        "property": "제3자로부터"
+                    }
+                ]
+            },
+            "advertisingCookies": {
+                "title": "광고 쿠키",
+                "content": [
+                    {
+                        "domain": "도미니언",
+                        "name": "이름",
+                        "description": "설명",
+                        "duration": "소요 시간",
+                        "property": "재산"
+                    },
+                    {
+                        "domain": "static.aroa.io",
+                        "name": "_애도베이터",
+                        "description": "이러한 Adobe 쿠키를 사용하면 웹에서의 사용자 행동과 해당 행동을 보는 장치 간의 관계를 파악할 수 있습니다.",
+                        "duration": "3개월",
+                        "property": "제3자로부터"
+                    },
+                    {
+                        "domain": "_",
+                        "name": "_adobator_exp",
+                        "description": "이러한 Adobe 쿠키를 통해 사용자에게 Adobe ID가 할당되었는지 여부를 알 수 있습니다.",
+                        "duration": "3개월",
+                        "property": "제3자로부터"
+                    },
+                    {
+                        "domain": "_",
+                        "name": "_알폰스",
+                        "description": "이러한 appnexus 쿠키를 사용하면 웹에서의 사용자 행동과 해당 행동을 참조하는 장치 간의 관계를 파악할 수 있습니다.",
+                        "duration": "3개월",
+                        "property": "제3자로부터"
+                    },
+                    {
+                        "domain": "_",
+                        "name": "_알폰스_exp",
+                        "description": "이러한 appnexus 쿠키를 사용하면 사용자에게 Adobe 식별자가 할당되었는지 여부를 알 수 있습니다.",
+                        "duration": "3개월",
+                        "property": "제3자로부터"
+                    },
+                    {
+                        "domain": "_",
+                        "name": "_다렌소",
+                        "description": "이러한 datmean 쿠키를 사용하면 웹 및 사용자가 브라우징하는 장치에서 사용자를 식별할 수 있습니다.",
+                        "duration": "3개월",
+                        "property": "제3자로부터"
+                    },
+                    {
+                        "domain": "_",
+                        "name": "_디포머_exp",
+                        "description": "이 애드폼 쿠키를 통해 사용자에게 Adobe 식별자가 할당되었는지 여부를 알 수 있습니다.",
+                        "duration": "3개월",
+                        "property": "제3자로부터"
+                    },
+                    {
+                        "domain": "_",
+                        "name": "_킬린추",
+                        "description": "이 Salesforce 쿠키를 사용하면 웹에서의 사용자 행동과 해당 행동을 참조하는 장치 간의 관계를 파악할 수 있습니다.",
+                        "duration": "3개월",
+                        "property": "제3자로부터"
+                    },
+                    {
+                        "domain": "_",
+                        "name": "_킬린추_엑스프",
+                        "description": "이 Salesforce 쿠키를 통해 사용자에게 Adobe 식별자가 할당되었는지 여부를 알 수 있습니다.",
+                        "duration": "3개월",
+                        "property": "제3자로부터"
+                    },
+                    {
+                        "domain": "_",
+                        "name": "_리치 리치",
+                        "description": "이 리치오디언스 쿠키를 사용하면 웹에서의 사용자 행동과 해당 행동이 참조되는 장치 간의 관계를 파악할 수 있습니다.",
+                        "duration": "3개월",
+                        "property": "제3자로부터"
+                    },
+                    {
+                        "domain": "_",
+                        "name": "_세사모",
+                        "description": "이러한 datmean 쿠키를 사용하면 특정 기기에서 사용자의 세션을 식별할 수 있습니다.",
+                        "duration": "3개월",
+                        "property": "제3자로부터"
+                    },
+                    {
+                        "domain": "_",
+                        "name": "_토르티야미",
+                        "description": "이 일괄 쿠키를 통해 웹상의 사용자 행동과 해당 사용자가 참조하는 장치 간의 관계를 파악할 수 있습니다.",
+                        "duration": "3개월",
+                        "property": "제3자로부터"
+                    },
+                    {
+                        "domain": "_",
+                        "name": "_토르티야미_exp",
+                        "description": "이 배치 쿠키를 통해 사용자에게 Adobe 식별자가 할당되었는지 여부를 알 수 있습니다.",
+                        "duration": "3개월",
+                        "property": "제3자로부터"
+                    },
+                    {
+                        "domain": "_",
+                        "name": "_트리볼레라",
+                        "description": "이 ttd 쿠키를 사용하면 웹상의 사용자 행동과 해당 사용자가 참조하는 장치 간의 관계를 파악할 수 있습니다.",
+                        "duration": "3개월",
+                        "property": "제3자로부터"
+                    },
+                    {
+                        "domain": "_",
+                        "name": "_월리",
+                        "description": "이러한 웨보라마 쿠키를 사용하면 웹에서의 사용자 행동과 참조되는 장치 간의 관계를 파악할 수 있습니다.",
+                        "duration": "3개월",
+                        "property": "제3자로부터"
+                    },
+                    {
+                        "domain": "_",
+                        "name": "_월리_엑스프",
+                        "description": "이러한 웨보라마 쿠키를 통해 사용자에게 Adobe 식별자가 할당되었는지 여부를 알 수 있습니다.",
+                        "duration": "3개월",
+                        "property": "제3자로부터"
+                    },
+                    {
+                        "domain": "_",
+                        "name": "_베요타",
+                        "description": "이러한 eyeota 쿠키를 사용하면 웹에서의 사용자 행동과 해당 사용자가 참조하는 장치 간의 관계를 파악할 수 있습니다.",
+                        "duration": "3개월",
+                        "property": "제3자로부터"
+                    }
+                ]
+            }
+        }
+    }
+}

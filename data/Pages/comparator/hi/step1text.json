@@ -1,0 +1,30 @@
+{
+	"title": "क्या आपके पास वर्गीय बीमा है?",
+	"subtitle": "एक विकल्प चुनें",
+	"option_cards": [
+		{
+			"text": "मैं बीमा नहीं हूँ »",
+			"userDataValue": "नहीं"
+		},
+		{
+			"text": "हां, Santalucia »",
+			"userDataValue": "Santalucia"
+		},
+		{
+			"text": "हां, Mapfre »",
+			"userDataValue": "Mapfre"
+		},
+		{
+			"text": "हां, Adeslas »",
+			"userDataValue": "Adeslas"
+		},
+		{
+			"text": "हां, Helvetia »",
+			"userDataValue": "Helvetia"
+		},
+		{
+			"text": "हां, अन्य »",
+			"userDataValue": "अन्य"
+		}
+	]
+}

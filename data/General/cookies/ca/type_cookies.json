@@ -1,0 +1,25 @@
+{
+  "showListCookies": "Veure llistat galetes",
+  "cookies": [
+    {
+      "title": "Cookies de màrqueting",
+      "description": "Utilitzem cookies de màrqueting per mostrar publicitat en funció dels interessos de l'usuari a través d'un perfil anònim.",
+      "cookieName": "marketing"
+    },
+    {
+      "title": "Cookies de personalització",
+      "description": "Utilitzem cookies de personalització en base a la navegació de l'usuari perquè la seva experiència sigui funcional i personalitzada.",
+      "cookieName": "personalization"
+    },
+    {
+      "title": "Cookies d'anàlisi",
+      "description": "Utilitzem cookies d'anàlisi per recopilar informació sobre la navegació dels usuaris i així millorar els serveis que oferim pels canals digitals.",
+      "cookieName": "analytics"
+    },
+    {
+      "title": "Cookies essencials",
+      "description": "Utilitzem cookies essencials per facilitar la navegació al lloc i recordar les preferències de l'usuari. L'única forma de rebutjar-les és deixar de navegar en aquesta web.",
+      "cookieName": "essential"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "footer_text": {
+    "social_title": "Compara entre las mejores aseguradoras de decesos del mercado.",
+    "social_description": "Síguenos en nuestras redes sociales",
+    "section1": {
+      "title": "Sobre Nosotros",
+      "options": [
+        {
+          "title": "Misión Visión",
+          "href": "#"
+        },
+        {
+          "title": "Nuestro equipo",
+          "href": "#"
+        }
+      ]
+    },
+    "section2": {
+      "title": "Más información",
+      "options": [
+        {
+          "title": "Conoce Eva",
+          "href": "#"
+        },
+        {
+          "title": "Plant-for-the-Planet",
+          "href": "#"
+        },
+        {
+          "title": "Universo Accesible",
+          "href": "#"
+        },
+        {
+          "title": "Universo Santi",
+          "href": "#"
+        }
+      ]
+    },
+    "section3": {
+      "title": "Nosotros Ofrecemos",
+      "options": [
+        {
+          "title": "Póliza de Decesos",
+          "href": "#"
+        },
+        {
+          "title": "Póliza de Vida",
+          "href": "#"
+        },
+        {
+          "title": "Póliza de Hogar",
+          "href": "#"
+        }
+      ]
+    },
+    "section4": {
+      "title": "Legal",
+      "options": [
+        {
+          "title": "Aviso Legal"
+        },
+        {
+          "title": "Política de Privacidad"
+        },
+        {
+          "title": "Política de cookies"
+        }
+      ]
+    },
+    "copyright": "{domain} 2023. Todos los derechos reservados."
+  }
+}

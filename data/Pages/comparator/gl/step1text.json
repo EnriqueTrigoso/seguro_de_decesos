@@ -1,0 +1,26 @@
+{
+	"title": "Tes actualmente unha seguro de enterro?",
+	"subtitle": "Seleccione unha das opcións",
+	"option_cards": [
+		{
+			"text": "Non estou asegurado »",
+			"userDataValue": "No"
+		},
+		{
+			"text": "Si, Santalucia »",
+			"userDataValue": "Santalucia"
+		},
+		{
+			"text": "Si, Ocaso »",
+			"userDataValue": "Ocaso"
+		},
+		{
+			"text": "Si, Mapfre »",
+			"userDataValue": "Mapfre"
+		},
+		{
+			"text": "Si, Otra »",
+			"userDataValue": "Otros"
+		}
+	]
+}

@@ -1,0 +1,40 @@
+.input_title {
+	margin-bottom: 1rem;
+	font-weight: 500;
+	font-size: 16px;
+	line-height: 20px;
+	color: var(--blue-primary);
+}
+
+.input_wrapper {
+	height: 100%;
+	display: flex;
+	align-items: center;
+	padding: 0 15px;
+	gap: 10px;
+	border-radius: 8px;
+}
+
+.input_wrapper input {
+	flex: 1;
+}
+
+.icon {
+	cursor: pointer;
+}
+
+.error_input {
+	border: 1px solid #f55353;
+}
+
+.error {
+	color: #f55353;
+	font-size: 14px;
+	font-weight: 500;
+}
+
+@media (min-width: 1324px) {
+	.input_title {
+		margin-bottom: 7px;
+	}
+}

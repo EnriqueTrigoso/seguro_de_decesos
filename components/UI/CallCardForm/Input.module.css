@@ -1,0 +1,41 @@
+.input_container {
+	display: flex;
+	align-items: center;
+	background: var(--white);
+	box-shadow: 0px 2px 6px rgba(0, 0, 0, 0.07);
+	padding: 0 1rem;
+	height: 50px;
+	border: 1px solid #667085;
+	background: var(--white);
+	border-radius: 0.25rem;
+}
+
+.input_container input {
+	color: #667085;
+	font-family: 'Raleway';
+	font-size: 0.875rem;
+	font-style: normal;
+	font-weight: 400;
+	line-height: 130%;
+	letter-spacing: 0.0175rem;
+}
+
+.input_container input::placeholder {
+	color: #667085;
+	font-family: 'Raleway';
+	font-size: 0.875rem;
+	font-style: normal;
+	font-weight: 400;
+	line-height: 130%;
+	letter-spacing: 0.0175rem;
+}
+
+.input_container select {
+	color: #667085;
+	font-family: 'Raleway';
+	font-size: 0.875rem;
+	font-style: normal;
+	font-weight: 400;
+	line-height: 130%;
+	letter-spacing: 0.0175rem;
+}

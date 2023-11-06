@@ -1,0 +1,30 @@
+{
+    "title": "你打算给多少人购买保险？",
+    "subtitle": "选择其中一个选项",
+    "options": [
+        {
+            "text": "仅限我自己 »",
+            "userDataValue": 1
+        },
+        {
+            "text": "2人 »",
+            "userDataValue": 2
+        },
+        {
+            "text": "3人 »",
+            "userDataValue": 3
+        },
+        {
+            "text": "4人 »",
+            "userDataValue": 4
+        },
+        {
+            "text": "5人 »",
+            "userDataValue": 5
+        },
+        {
+            "text": "超过5人 »",
+            "userDataValue": "5+"
+        }
+    ]
+}

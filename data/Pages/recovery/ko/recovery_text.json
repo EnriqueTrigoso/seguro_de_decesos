@@ -1,0 +1,6 @@
+{
+    "title": "Ingresa tu nueva contraseña",
+    "button_text": "비밀번호 변경",
+    "placeholder": "새 비밀번호 입력",
+    "error_msg": "최소 8자의 영숫자 암호를 입력하십시오."
+}

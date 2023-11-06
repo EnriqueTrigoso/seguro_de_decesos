@@ -1,0 +1,30 @@
+{
+	"title": "Daukazu heriotza asegururik?",
+	"subtitle": "Aukeratu aukera bat",
+	"option_cards": [
+		{
+			"text": "Ez naiz aseguratu »",
+			"userDataValue": "Ez"
+		},
+		{
+			"text": "Bai, Santalucia »",
+			"userDataValue": "Santalucia"
+		},
+		{
+			"text": "Bai, Mapfre »",
+			"userDataValue": "Mapfre"
+		},
+		{
+			"text": "Bai, Adeslas »",
+			"userDataValue": "Adeslas"
+		},
+		{
+			"text": "Bai, Helvetia »",
+			"userDataValue": "Helvetia"
+		},
+		{
+			"text": "Bai, Besteak »",
+			"userDataValue": "Besteak"
+		}
+	]
+}

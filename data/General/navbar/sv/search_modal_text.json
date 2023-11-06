@@ -1,0 +1,21 @@
+{
+    "title": "Du kanske är intresserad",
+    "search_options": [
+        {
+            "title": "Gå till EvaSeguros.es",
+            "description": "Betalningar, tjänster, förmåner och mer."
+        },
+        {
+            "title": "Medicinsk vård",
+            "description": "Begär medicinsk vård online eller hemma."
+        },
+        {
+            "title": "Försäkringsskydd.",
+            "description": "Vet vad din försäkring täcker."
+        },
+        {
+            "title": "Hjälpcenter",
+            "description": "Få ut mesta möjliga av din försäkring och lär dig mer om dina förmåner."
+        }
+    ]
+}

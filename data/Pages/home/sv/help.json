@@ -1,0 +1,21 @@
+{
+    "help": {
+        "title": "Vi hjälper dig att hitta den bästa /begravningsförsäkringen/",
+        "description": "Vi är tillgängliga för att svara på alla dina frågor och hjälpa dig att välja den begravningsförsäkring som bäst passar dina behov och din familj.",
+        "schedule": [
+            "Måndag till fredag: 08.00 - 20.00",
+            "Lördag och söndag: 09.00 - 17.00"
+        ],
+        "buttons": [
+            {
+                "text": "Jämför nu",
+                "url": "#"
+            }
+        ],
+        "contact_phone": "(01) 411-6001",
+        "metadata": {
+            "alt": "encuentra el mejor seguro de decesos",
+            "title": "mejor seguro de decesos"
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "faq": {
+        "title": "Vanliga frågor",
+        "description": "Har du några frågor? Läs några av våra vanliga frågor eller kontakta våra rådgivare för hjälp.",
+        "questions": [
+            {
+                "question": "Vad är begravningsförsäkring?",
+                "answer": "Begravningsförsäkring är utformad för att hjälpa familjer i de mest känsliga stunderna och säkerställer tillhandahållande av begravningstjänster och förfaranden relaterade till en persons död. Det är avtalat i syfte att lindra den ekonomiska och logistiska bördan för en begravning och de juridiska och administrativa förfarandena i samband med dödsfallet."
+            },
+            {
+                "question": "Vilka är fördelarna med att jämföra med oss?",
+                "answer": "Jämför på mindre än 1 minut från ett lättanvänt gränssnitt. Eva Seguros hjälper dig att välja mellan de bästa begravningsförsäkringsbolagen i Spanien."
+            },
+            {
+                "question": "Hur hittar du en begravningsförsäkring som passar dig bäst?",
+                "answer": "Genom vår begravningsförsäkringskomparator kan du filtrera erbjudandena från de bästa företagen för att hitta den begravningsförsäkring som bäst passar dig."
+            },
+            {
+                "question": "Hur mycket kostar begravningsförsäkring?",
+                "answer": "Det finns ett brett utbud av premier som beror på mängden extra täckning du tar ut och hur du betalar premien. I vår begravningsförsäkringsjämförelse kan du hitta de billigaste priserna."
+            },
+            {
+                "question": "Vem kan teckna begravningsförsäkring?",
+                "answer": "Alla i laglig ålder kan teckna begravningsförsäkring."
+            }
+        ]
+    }
+}

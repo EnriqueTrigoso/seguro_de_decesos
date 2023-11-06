@@ -1,0 +1,12 @@
+
+.hero {
+	display: grid;
+}
+
+
+@media (min-width: 1024px) {
+	.hero {
+		grid-template-rows: auto 1fr;
+		height: 100vh;
+	}
+}

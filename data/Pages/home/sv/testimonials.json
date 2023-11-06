@@ -1,0 +1,33 @@
+{
+    "testimonials": {
+        "subtitle": "Vittnesmål",
+        "title": "Det blir allt fler /personer/ som litar på /oss./",
+        "description": "Att förstå kundernas åsikter om Eva Seguros är det mest effektiva sättet att utvärdera prestanda för våra tjänster.",
+        "cards": [
+            {
+                "name": "Antonia García",
+                "image": "#",
+                "city": "Madrid",
+                "description": "” Evas komparator hjälpte mig att få den mest bekväma begravningsförsäkringen för min ekonomi. Jag sparade och tecknade en omfattande försäkring.”",
+                "alt": "seguro de decesos testimonio",
+                "title": "seguro de decesos-testimonios"
+            },
+            {
+                "name": "Sofia Sanchez",
+                "image": "#",
+                "city": "Girona",
+                "description": "”Det finns så många företag att jag inte visste vilken begravningsförsäkring jag skulle välja. Men jag använde Evas försäkringskomparator och de hjälpte mig att få en idealisk försäkring för pappa, mamma och mig själv.”",
+                "alt": "seguro de decesos testimonio",
+                "title": "seguro de decesos-testimonios"
+            },
+            {
+                "name": "Antonio Rodríguez",
+                "image": "#",
+                "city": "Salamanca",
+                "description": "”Hos Eva hittade jag komparatorer för alla typer av försäkringar. På samma webbplats jämförde jag sjukförsäkring, hemförsäkring och subventionsförsäkring, men det finns många fler. Dessutom var det verkligen snabbt och enkelt!”",
+                "alt": "seguro de decesos testimonio",
+                "title": "seguro de decesos-testimonios"
+            }
+        ]
+    }
+}

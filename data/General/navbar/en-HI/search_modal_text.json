@@ -1,0 +1,21 @@
+{
+  "title": "You Might Be Interested In",
+  "search_options": [
+    {
+      "title": "Log in to EvaSeguros.es",
+      "description": "Payments, services, benefits, and more."
+    },
+    {
+      "title": "Medical Care",
+      "description": "Request virtual or home medical care."
+    },
+    {
+      "title": "Insurance Coverage",
+      "description": "Learn what your insurance covers."
+    },
+    {
+      "title": "Help Center",
+      "description": "Make the most of your insurance and learn about your benefits."
+    }
+  ]
+}

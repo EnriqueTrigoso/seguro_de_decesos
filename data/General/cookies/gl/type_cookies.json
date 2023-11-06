@@ -1,0 +1,25 @@
+{
+  "showListCookies": "Consulta a lista de cookies",
+  "cookies": [
+    {
+      "title": "Cookies de marketing",
+      "description": "Usamos cookies de marketing para mostrar publicidade en función dos intereses do usuario a través dun perfil anónimo.",
+      "cookieName": "marketing"
+    },
+    {
+      "title": "Cookies de personalización",
+      "description": "Usamos cookies de personalización en base á navegación do usuario para que a súa experiencia sexa funcional e personalizada.",
+      "cookieName": "personalization"
+    },
+    {
+      "title": "Cookies de analytics",
+      "description": "Usamos cookies de analytics para recopilar información sobre a navegación dos usuarios e así mellorar os servizos que brindamos polos canais dixitais.",
+      "cookieName": "analytics"
+    },
+    {
+      "title": "Cookies esenciales",
+      "description": "Utilizamos cookies esenciais para facilitar a navegación no sitio e lembrar as preferencias do usuario. A única forma de rexeitalas é deixar de navegar nesta web.",
+      "cookieName": "essential"
+    }
+  ]
+}

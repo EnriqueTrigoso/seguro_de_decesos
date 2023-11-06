@@ -1,0 +1,14 @@
+.email_text {
+	font-weight: 600;
+	font-size: 16px;
+	line-height: 19px;
+	color: var(--textos);
+	margin-bottom: 8px;
+}
+
+.email_input {
+	padding: 4px 15px;
+	height: 35px;
+	background-color: #F6F6F6;
+	margin-bottom: 17px;
+}

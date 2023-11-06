@@ -1,0 +1,25 @@
+.button_wrapper {
+	display: flex;
+	flex-direction: column-reverse;
+	align-items: center;
+	gap: 15px;
+	pointer-events: all;
+}
+
+.container__button {
+	width: 100%;
+	height: 56px;
+}
+
+@media (min-width: 1024px) {
+
+	.button_wrapper {
+		display: grid;
+		grid-template-columns: auto 1fr;
+		gap: 40px;
+	}
+
+	.container__button {
+		width: 230px;
+	}
+}

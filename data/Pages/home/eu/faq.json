@@ -1,0 +1,28 @@
+{
+    "faq": {
+        "title": "Ohiko galderak",
+        "description": "Zuretzat zalantza batzuk daude? Irakurri gure ohiko galdera batzuk edo harremanetan jarri gure aholkulariekin laguntza jasotzeko.",
+        "questions": [
+            {
+                "question": "Zer da heriotza asegurua?",
+                "answer": "Heriotza asegurua pertsona baten hilketarekin lotutako zerbitzua bermatzeko diseinatuta dago, eta familiei laguntzeko asmatu da, hilketarekin datorren zailtasun eta trámiteekin batera. Zigor finantzarioa eta logistikoa arintzea da helburua, baita hilketarekin loturiko tramite legezkoak eta kudeaketa administratiboak ere."
+            },
+            {
+                "question": "Gurekin konparatzeak nola laguntzen du?",
+                "answer": "Minutu batean gutxienez konparatu erabilgarri den interfaz batetik. Eva Aseguruak Espainiako heriotza aseguru onenen artean aukeratzeko laguntzen dizu."
+            },
+            {
+                "question": "Zerbitzu honi egokitutako heriotza asegurua nola aurkitu dezaket?",
+                "answer": "Gure heriotza aseguruaren konparagailuaren bidez, hainbat aseguru enpresaren eskaintzak iragaz ditzakezu, zuretzako hoberena dena aurkitzeko."
+            },
+            {
+                "question": "Zenbat balio du heriotza asegurua?",
+                "answer": "Prima anitza dago, kontratatu dituzun gehigarriko estaldura kopuruen arabera eta prima ordaintzeko moduaren arabera. Gure heriotzako aseguruaren konparagailuan prezio merkeenak aurki ditzakezu."
+            },
+            {
+                "question": "Nork kontratatu dezake heriotza asegurua?",
+                "answer": "Adin handiko edonork kontratatu dezake heriotzako asegurua."
+            }
+        ]
+    }
+}

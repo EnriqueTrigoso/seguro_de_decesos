@@ -1,0 +1,449 @@
+{
+    "cookies_policy": {
+        "content": {
+            "title": "Cookie Policies",
+            "whatIsAcookie": {
+                "title": "What is a cookie?",
+                "content": [
+                    "A cookie is a small amount of information that is sent by a website and information about your visit will be remembered, generally technical information, statistical information, personal preferences, etc. but never sensitive data or information. Cookies cannot damage your device and play an important role, since without them, using the web would be a more frustrating experience."
+                ]
+            },
+            "typeOfCookies": {
+                "title": "Types of cookies",
+                "content": [
+                    "The law allows us to store cookies on your device if they are strictly necessary for the operation of our site (these are the so-called technical cookies). For all other types of cookies, we need your permission. In addition to technical cookies, at {domain} we use analytical and advertising cookies. Some cookies are placed by third-party services with which we collaborate. These types of cookies are detailed in the Cookie Configurator, where you can change or withdraw your consent at any time. In addition to their purpose, cookies can also be:",
+                    "Depending on who these cookies belong to:",
+                    "Own cookies: those managed and sent to you directly by ONE SPAIN INSURANCE RISK MANAGEMENTS.",
+                    "From third parties: those managed and sent to you by other ONE SPAIN INSURANCE RISK MANAGEMENTS employees.",
+                    "Depending on how long these cookies last:",
+                    "Session cookies: they only work while you are visiting our website and once you leave this page, they stop working.",
+                    "Persistent cookies: they work after you have left our website for a specific time defined by the person responsible for the cookie.",
+                    "The following are all the cookies used in ONE SPAIN INSURANCE RISK MANAGEMENT:"
+                ]
+            },
+            "deleteCookies": {
+                "title": "How to deactivate or delete cookies",
+                "content": [
+                    "You can withdraw or change your consent at any time through the Cookie Configurator, which you can access at any time from the link in this policy in the case of the website. But we also remind you that, on the web, you can modify your browser settings, in the “options” or “preferences” section of your browser menu, where you can delete all cookies that would have been previously accepted. We recommend that you use the “Help” function of your browser to check how you can delete cookies."
+                ]
+            }
+        },
+        "tables": {
+            "technicalCookies": {
+                "title": "TECHNICAL COOKIES",
+                "content": [
+                    {
+                        "name": "Cookie number",
+                        "description": "Description",
+                        "duration": "Duration",
+                        "property": "Property"
+                    },
+                    {
+                        "name": "ASP.NET_SessionId",
+                        "description": "Required to run the application",
+                        "duration": "Session",
+                        "property": "Own"
+                    },
+                    {
+                        "name": "CJSession",
+                        "description": "Grants a random and encrypted value to users (ID value) that allows them to be identified as unique users without processing personal identifying data",
+                        "duration": "1 hour",
+                        "property": "Own"
+                    },
+                    {
+                        "name": "ExpirySession",
+                        "description": "Allows you to check if a user is still active after an hour",
+                        "duration": "30 days",
+                        "property": "Own"
+                    },
+                    {
+                        "name": "GASession",
+                        "description": "It allows the ID value of the CJSession cookie to be transferred to Google Analytics",
+                        "duration": "1 hour",
+                        "property": "Own"
+                    },
+                    {
+                        "name": "UserTracker",
+                        "description": "Contains the first session ID of a user on the first visit to the web",
+                        "duration": "5 years",
+                        "property": "Own"
+                    },
+                    {
+                        "name": "UserType",
+                        "description": "It allows to identify if a user returns or visits the website for the first time",
+                        "duration": "1 hour",
+                        "property": "Own"
+                    },
+                    {
+                        "name": "__utmz",
+                        "description": "Allows you to obtain the user's navigation point of origin",
+                        "duration": "1 hour",
+                        "property": "Own"
+                    },
+                    {
+                        "name": "Cookie_rst",
+                        "description": "Allows you to display the warning banner and cookie information",
+                        "duration": "1 year",
+                        "property": "Own"
+                    },
+                    {
+                        "name": "Consent",
+                        "description": "It allows to identify if the user has given consent to cookies",
+                        "duration": "1 year",
+                        "property": "Own"
+                    },
+                    {
+                        "name": "isSessionReset",
+                        "description": "It allows you to track if the user's session has changed or has been renewed",
+                        "duration": "1 day",
+                        "property": "Own"
+                    },
+                    {
+                        "name": "CARCJ Session ID",
+                        "description": "Grants a random and encrypted value to users (ID value) for the car insurance product that allows them to be identified as unique users without processing personal identification data",
+                        "duration": "1 hour",
+                        "property": "Own"
+                    },
+                    {
+                        "name": "QPE8D4CCA2E2E9",
+                        "description": "It allows users who have arrived at the pricing page to return to it if they press the “Back” button",
+                        "duration": "1 day",
+                        "property": "Own"
+                    },
+                    {
+                        "name": "HealthQuotePage",
+                        "description": "It allows users who have reached the pricing page in the health insurance product to return to it by pressing the “Back” button",
+                        "duration": "1 day",
+                        "property": "Own"
+                    },
+                    {
+                        "name": "captchav3_{Session ID}",
+                        "description": "Allows you to verify if the Captcha (application for identifying robots) information has been saved for a session ID",
+                        "duration": "2 days",
+                        "property": "Own"
+                    },
+                    {
+                        "name": "ip_{cookie ID}",
+                        "description": "Allows you to verify if the IP address for a cookie ID has been saved",
+                        "duration": "36 hours",
+                        "property": "Own"
+                    },
+                    {
+                        "name": "Userinformation",
+                        "description": "It allows the user's IP information to be saved on the sales page",
+                        "duration": "Session",
+                        "property": "Own"
+                    },
+                    {
+                        "name": "Last_Quote",
+                        "description": "It allows users to verify the prices obtained in the last comparison and recalculate them without answering all the questions again",
+                        "duration": "5 years",
+                        "property": "Own"
+                    },
+                    {
+                        "name": "CJSession",
+                        "description": "Grants a random and encrypted value to users (ID value) that allows them to be identified as unique users without processing personal identifying data",
+                        "duration": "1 hour",
+                        "property": "Own"
+                    },
+                    {
+                        "name": "ExpirySession",
+                        "description": "Allows you to check if a user is still active after an hour",
+                        "duration": "30 days",
+                        "property": "Own"
+                    },
+                    {
+                        "name": "GASession",
+                        "description": "It allows the ID value of the CJSession cookie to be transferred to Google Analytics",
+                        "duration": "1 hour",
+                        "property": "Own"
+                    }
+                ]
+            },
+            "analyticalCookies": {
+                "title": "ANALYTICAL COOKIES",
+                "content": [
+                    {
+                        "name": "Cookie number",
+                        "description": "Description",
+                        "duration": "Duration",
+                        "property": "Property"
+                    },
+                    {
+                        "name": "_ga",
+                        "description": "Used to monitor the availability of web pages",
+                        "duration": "2 years",
+                        "property": "Own"
+                    },
+                    {
+                        "name": "_glc_au",
+                        "description": "Used by Google AdSense to experiment with advertising efficiency on websites that use its services",
+                        "duration": "90 days",
+                        "property": "Own"
+                    },
+                    {
+                        "name": "_dc_gtm_UA-7713710-1",
+                        "description": "It is used to limit the percentage of requests that the browser makes to Google's servers.",
+                        "duration": "1 minute",
+                        "property": "Own"
+                    },
+                    {
+                        "name": "_gid",
+                        "description": "It is used to distinguish some users from others without identifying them.",
+                        "duration": "24 hours",
+                        "property": "Own"
+                    },
+                    {
+                        "name": "_gat_UA-7713710-1",
+                        "description": "Used by Google AdSense to experiment with advertising efficiency on websites that use its services",
+                        "duration": "1 minute",
+                        "property": "Own"
+                    },
+                    {
+                        "name": "_gac_ua-7713710-1",
+                        "description": "Includes campaign information related to the user",
+                        "duration": "90 days",
+                        "property": "Own"
+                    },
+                    {
+                        "name": "vtstep",
+                        "description": "Used to track users and understand how many end up in sales",
+                        "duration": "30 days",
+                        "property": "Own"
+                    },
+                    {
+                        "name": "Datadome",
+                        "description": "Used to detect robots and DDoS attacks",
+                        "duration": "1 year",
+                        "property": "Own"
+                    }
+                ]
+            },
+            "thirdCookies": {
+                "title": "THIRD-PARTY COOKIES",
+                "content": [
+                    {
+                        "name": "Cookie number",
+                        "description": "Description",
+                        "duration": "Duration",
+                        "property": "Property"
+                    },
+                    {
+                        "name": "Conversion, IDE, ANID, DSID, FLC, AID, TAID, exchange_uid",
+                        "description": "They are used to serve targeted ads across the web. Targeted ads may be shown to you based on your previous visits to this website.",
+                        "duration": "1 year",
+                        "property": "From third parties"
+                    },
+                    {
+                        "name": "AID, DSID, TAID",
+                        "description": "They are used to link your activity on devices. In this way, the ads that appear in them are coordinated and we measure the conversion events",
+                        "duration": "1 year",
+                        "property": "From third parties"
+                    },
+                    {
+                        "name": "_fbc",
+                        "description": "It is used to deliver ads, measure their results and improve their relevance",
+                        "duration": "90 days",
+                        "property": "From third parties"
+                    },
+                    {
+                        "name": "_fbp",
+                        "description": "Identifies browsers to provide advertising and website analysis services",
+                        "duration": "90 days",
+                        "property": "From third parties"
+                    },
+                    {
+                        "name": "_uetmslkid",
+                        "description": "It is used to accurately measure conversions because it assigns a unique ID to each click on the ad and landing page",
+                        "duration": "90 days",
+                        "property": "From third parties"
+                    },
+                    {
+                        "name": "_uetsid",
+                        "description": "It is used to improve the accuracy of conversions. Bing? thanks to the fact that it assigns a unique ID to each session.",
+                        "duration": "30 minutes",
+                        "property": "From third parties"
+                    },
+                    {
+                        "name": "WE",
+                        "description": "It is used to measure unique Microsoft users.",
+                        "duration": "13 months",
+                        "property": "From third parties"
+                    },
+                    {
+                        "name": "MUIDB",
+                        "description": "It is used to measure unique Microsoft users. This cookie is used to restore the unique ID that the MUID cookie manages",
+                        "duration": "13 months",
+                        "property": "From third parties"
+                    },
+                    {
+                        "name": "Obuid",
+                        "description": "Native Ads platform: The user's anonymous ID is saved to record actions, such as clicks, conversions, etc.",
+                        "duration": "3 months",
+                        "property": "From third parties"
+                    },
+                    {
+                        "name": "t_gid",
+                        "description": "Native Ads platform: unique user ID to assign attribution (clicks, conversions...)",
+                        "duration": "1 year",
+                        "property": "From third parties"
+                    },
+                    {
+                        "name": "obuid",
+                        "description": "Native Ads platform: The user's anonymous ID is saved to record actions, such as clicks, conversions, etc.",
+                        "duration": "3 months",
+                        "property": "From third parties"
+                    },
+                    {
+                        "name": "t_gid",
+                        "description": "Native Ads platform: unique user ID to assign attribution (clicks, conversions...)",
+                        "duration": "1 year",
+                        "property": "From third parties"
+                    },
+                    {
+                        "name": "Fr",
+                        "description": "This is Facebook's main advertising cookie. Used to deliver, analyze, and improve the relevance of ads",
+                        "duration": "90 days",
+                        "property": "From third parties"
+                    },
+                    {
+                        "name": "oo",
+                        "description": "Used to record decisions to stop receiving advertising",
+                        "duration": "5 years",
+                        "property": "From third parties"
+                    },
+                    {
+                        "name": "would",
+                        "description": "Used to open a specific location in an advertiser's application after installation",
+                        "duration": "28 days",
+                        "property": "From third parties"
+                    }
+                ]
+            },
+            "advertisingCookies": {
+                "title": "ADVERTISING COOKIES",
+                "content": [
+                    {
+                        "domain": "Dominion",
+                        "name": "Name",
+                        "description": "Description",
+                        "duration": "Duration",
+                        "property": "Property"
+                    },
+                    {
+                        "domain": "static.aroa.io",
+                        "name": "_adobator",
+                        "description": "These Adobe cookies allow us to obtain a relationship between the behavior of a user on the web and the device from which they are consulting.",
+                        "duration": "3 months",
+                        "property": "From third parties"
+                    },
+                    {
+                        "domain": "_",
+                        "name": "_adobator_exp",
+                        "description": "These Adobe cookies allow us to know if a user is assigned an Adobe identifier or not",
+                        "duration": "3 months",
+                        "property": "From third parties"
+                    },
+                    {
+                        "domain": "_",
+                        "name": "_alphonse",
+                        "description": "These AppNexus cookies allow us to obtain a relationship between the behavior of a user on the web and the device from which it is being consulted",
+                        "duration": "3 months",
+                        "property": "From third parties"
+                    },
+                    {
+                        "domain": "_",
+                        "name": "_alphonse_exp",
+                        "description": "These AppNexus cookies allow us to know if a user is assigned an Adobe identifier or not.",
+                        "duration": "3 months",
+                        "property": "From third parties"
+                    },
+                    {
+                        "domain": "_",
+                        "name": "_Darenso",
+                        "description": "These Datmean cookies allow the identification of a user on the web and the device from which the user is being consulted",
+                        "duration": "3 months",
+                        "property": "From third parties"
+                    },
+                    {
+                        "domain": "_",
+                        "name": "_deformer_exp",
+                        "description": "This adform cookie allows us to know if a user has an Adobe identifier assigned or not",
+                        "duration": "3 months",
+                        "property": "From third parties"
+                    },
+                    {
+                        "domain": "_",
+                        "name": "_killinchu",
+                        "description": "This Salesforce cookie allows us to obtain a relationship between the behavior of a user on the web and the device from which it is being consulted.",
+                        "duration": "3 months",
+                        "property": "From third parties"
+                    },
+                    {
+                        "domain": "_",
+                        "name": "_killinchu_exp",
+                        "description": "This Salesforce cookie allows us to know if a user is assigned an Adobe identifier or not",
+                        "duration": "3 months",
+                        "property": "From third parties"
+                    },
+                    {
+                        "domain": "_",
+                        "name": "_Richierich",
+                        "description": "This richaudience cookie allows us to obtain a relationship between the behavior of a user on the web and the device from which it is being consulted",
+                        "duration": "3 months",
+                        "property": "From third parties"
+                    },
+                    {
+                        "domain": "_",
+                        "name": "_sesamo",
+                        "description": "These Datmean cookies allow the identification of a user's session on a specific device",
+                        "duration": "3 months",
+                        "property": "From third parties"
+                    },
+                    {
+                        "domain": "_",
+                        "name": "_tortillami",
+                        "description": "This Lotame cookie allows us to obtain a relationship between the behavior of a user on the web and the device from which they are consulting",
+                        "duration": "3 months",
+                        "property": "From third parties"
+                    },
+                    {
+                        "domain": "_",
+                        "name": "_tortillami_exp",
+                        "description": "This Lotame cookie allows us to know if a user has an Adobe identifier assigned or not",
+                        "duration": "3 months",
+                        "property": "From third parties"
+                    },
+                    {
+                        "domain": "_",
+                        "name": "_trybolera",
+                        "description": "This ttd cookie allows us to obtain a relationship between the behavior of a user on the web and the device from which it is being consulted",
+                        "duration": "3 months",
+                        "property": "From third parties"
+                    },
+                    {
+                        "domain": "_",
+                        "name": "_wally",
+                        "description": "These Weborama cookies allow us to obtain a relationship between the behavior of a user on the web and the device from which it is being consulted",
+                        "duration": "3 months",
+                        "property": "From third parties"
+                    },
+                    {
+                        "domain": "_",
+                        "name": "_wally_exp",
+                        "description": "These Weborama cookies allow us to know if a user has an Adobe identifier assigned or not.",
+                        "duration": "3 months",
+                        "property": "From third parties"
+                    },
+                    {
+                        "domain": "_",
+                        "name": "_beyota",
+                        "description": "These eyeota cookies allow us to obtain a relationship between the behavior of a user on the web and the device from which they are consulting.",
+                        "duration": "3 months",
+                        "property": "From third parties"
+                    }
+                ]
+            }
+        }
+    }
+}

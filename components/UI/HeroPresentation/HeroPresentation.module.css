@@ -1,0 +1,30 @@
+.presentation {
+	display: block;
+}
+
+.image_wrapper {
+	position: relative;
+	display: flex;
+	justify-content: center;
+}
+
+@media (min-width: 1024px) {
+	.presentation {
+		display: grid;
+		grid-template-columns: 710px auto;
+		align-items: center;
+	}
+
+	.image_container {
+		display: flex;
+		justify-content: flex-end;
+	}
+
+	.image_wrapper {
+		flex-direction: column;
+		border-radius: 70px 4px;
+		overflow: hidden;
+		max-width: 607px;
+		max-height: 520px;
+	}
+}

@@ -1,0 +1,33 @@
+{
+    "testimonials": {
+        "subtitle": "Testemuños",
+        "title": "Cada vez hai máis /persoas/ que confían en /nós./",
+        "description": "Comprender as opinións dos clientes sobre Eva Seguros é a forma máis eficiente de avaliar o rendemento dos nosos servizos.",
+        "cards": [
+            {
+                "name": "Antonia García",
+                "image": "#",
+                "city": "Madrid",
+                "description": "“O comparador de Eva axudoume a conseguir o seguro de decesos máis conveniente para a miña economía. Aforrei e contratei un seguro completo”.",
+                "alt": "seguro de decesos testimonio",
+                "title": "seguro de decesos-testimonios"
+            },
+            {
+                "name": "Sofía Sánchez",
+                "image": "#",
+                "city": "Xironda",
+                "description": "“Hai tantas compañías que non sabía cal seguro de decesos elixir. Pero usei o comparador de seguros de Eva e axudáronme a conseguir unha póliza ideal para papá, mamá e para min”.",
+                "alt": "seguro de decesos testimonio",
+                "title": "seguro de decesos-testimonios"
+            },
+            {
+                "name": "Antonio Rodríguez",
+                "image": "#",
+                "city": "Salamanca",
+                "description": "“En Eva atopei comparadores para todo tipo de seguros. Nunha mesma páxina web comparei seguros de saúde, seguros de fogar e seguros de subsidios, pero hai moitos máis. Ademais, foi ¡moi rápido e fácil!”.",
+                "alt": "seguro de decesos testimonio",
+                "title": "seguro de decesos-testimonios"
+            }
+        ]
+    }
+}

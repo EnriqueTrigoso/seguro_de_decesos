@@ -1,0 +1,7 @@
+{
+    "input_title": "出生日期",
+    "title1": "现任人员：（必填）",
+    "title2": "第一人称：（可选）",
+    "placeholder": "dd/mm/aaaa",
+    "error_msg": "请输入有效的日期"
+}

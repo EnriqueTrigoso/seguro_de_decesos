@@ -1,0 +1,12 @@
+{
+    "hero": {
+        "title": "Compara o teu seguro de decesos en /1 minuto e aforra ata un 40%/",
+        "description": "En /Eva Seguros/ conseguirás o mellor /seguro de decesos/ ao /mellor prezo/ e tamén /poderás aforrar 220€ ao ano, ao conseguir dúas liñas móbeis de balde./",
+        "buttons": [
+            {
+                "text": "Compara agora",
+                "url": "#"
+            }
+        ]
+    }
+}

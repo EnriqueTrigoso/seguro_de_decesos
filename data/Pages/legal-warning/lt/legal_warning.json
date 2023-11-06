@@ -1,0 +1,73 @@
+{
+    "legal_warning": {
+        "metadata": {
+            "title": "Teisinis pranešimas",
+            "description": "Teisinis pranešimas"
+        },
+        "title": "ATSISAKYMAS",
+        "section1": {
+            "title": "INFORMACIJA VARTOTOJUI:",
+            "description": "Šio dokumento tikslas yra informuoti Vartotoją apie jo asmens duomenų tvarkymą EVA SEGUROS, toliau vadinama ATSAKINGU, pagal galiojančius asmens duomenų apsaugos reglamentus, įskaitant 2016 m. balandžio 27 d. Reglamentą (ES) 2016/679 (RGPD) ir gruodžio 5 d. Organinį įstatymą Nr. 3/2018 dėl asmens duomenų apsaugos ir skaitmeninių teisių garantijos (LOPDGDD). Žemiau pateikiama ši informacija:",
+            "purpose_of_the_treatment": "{Tvarkymo tikslas:} Asmens duomenų tvarkymo tikslas yra palaikyti dalykinius santykius su Vartotoju. Operacijos, planuojamos atlikti tokį gydymą, yra šios:",
+            "operations": [
+                "Politikos, pretenzijų ir bet kokio tipo užklausų ar užklausų, kurias Vartotojas pateikia skirtingais turimais kontaktiniais kanalais, valdymas.",
+                "Komercinių ir reklaminių pranešimų siuntimas elektroninėmis ar fizinėmis priemonėmis, įskaitant el. paštu, faksu, SMS žinute, MMS ir socialiniais tinklais, susijusius su EVA SEGUROS produktais ir paslaugomis, taip pat bendradarbiams ar tiekėjams, su kuriais sudarytos reklamos sutartys.",
+                "Duomenų perdavimas rėmėjams ir trečiosioms draudimo sektoriaus įmonėms, kad būtų galima siųsti individualizuotą informaciją apie savo produktus ir paslaugas.",
+                "Rinkos tyrimų, vertinimo tyrimų ir statistinės analizės atlikimas.",
+                "Įtraukimas į sąrašus ar informacijos paslaugas.",
+                "Pasiūlymų ir skundų valdymas.",
+                "Teisinių ar reguliavimo įsipareigojimų laikymasis",
+                "Duomenų profiliavimas arba kirtimas su viešaisiais ar privačiais sąrašais.",
+                "Konkursai ir pasiūlymai."
+            ],
+            "data_treatment": [
+                "Laikydamasi pirmiau minėtų tikslų, EVA SEGUROS gali sujungti surinktus duomenis, kad atnaujintų ir užbaigtų informaciją.",
+                "Veiklos ir duomenų perdavimo sektoriai: Asmens duomenys gali būti perduodami trečiosioms draudimo sektoriaus įmonėms, finansų įstaigoms ir kitiems susijusiems sektoriams, siekiant suinteresuotosioms šalims suteikti informaciją, susijusią su draudimu ir susijusiomis paslaugomis. Duomenų rinkimas ir tvarkymas: EVA SEGUROS tvarko naudotojų pateiktus asmens duomenis, įskaitant informaciją:"
+            ],
+            "data_treatment_list": [
+                "Identifikacija (vardas, pavardė, PVM mokėtojo kodas, pašto adresas, telefono numeriai, el. Paštas).",
+                "Asmeninės savybės (šeimyninė padėtis, gimimo data ir vieta, amžius, lytis, tautybė, šeimos duomenys).",
+                "Akademiniai ir profesiniai duomenys (mokymas ir užimtumas).",
+                "Banko duomenys (mokėjimų ir politikos valdymui).",
+                "Verslo informacija (veikla ir verslas, leidinių prenumeratos, verslo liudijimas).",
+                "Ekonominiai, finansiniai ir draudimo duomenys (kreditai, paskolos, draudimas), be kita ko."
+            ],
+            "data_retention": "{Duomenų saugojimas:} Pateikti duomenys bus saugomi tol, kol yra dabartiniai verslo santykiai arba tiek laiko, kiek reikia nustatytiems teisiniams įsipareigojimams įvykdyti.",
+            "legitimation_of_the_treatment": "{Tvarkymo legitimacija:} Asmens duomenų tvarkymas grindžiamas išankstiniu suinteresuotos šalies sutikimu, vadovaujantis BDAR 6.1 a straipsniu. Suinteresuotoji šalis davė sutikimą tvarkyti jų asmens duomenis vienu ar daugiau konkrečių tikslų.",
+            "data_retention_criteria": "{Duomenų saugojimo kriterijai:} Duomenys bus saugomi tol, kol bus abipusis interesas išlaikyti gydymo tikslą. Kai duomenys nebebus reikalingi šiam tikslui, jie bus ištrinti naudojant tinkamas saugumo priemones, kad būtų užtikrintas jų pseudonimizavimas arba visiškas sunaikinimas.",
+            "transfer_of_data": "{Duomenų perdavimas:} EVA SEGUROS gali dalytis surinktais duomenimis su šiais subjektais, laikydamasi konfidencialumo ir jų rinkimo tikslo:",
+            "transfer_of_data_list": [
+                "Atsakingi už asmens duomenų tvarkymą (rėmėjai) ir trečiosios draudimo sektoriaus įmonės.",
+                "Įdarbinimo ir atrankos įmonės."
+            ],
+            "information_to_third_parties": "EVA SEGUROS gali perduoti informaciją trečiosioms šalims be išankstinio naudotojų sutikimo tais atvejais, kai perdavimas yra leistas pagal įstatymus, kai duomenys gauti iš viešai prieinamų šaltinių, kai perdavimas skirtas ombudsmenui, prokuratūrai, teisėjams ar teismams, Audito Rūmams, regioninėms institucijoms, turinčioms panašias funkcijas kaip ombudsmenas arba Audito Rūmai, arba kai pranešimas pateikiamas po atsiribojimo proceso.",
+            "contact_text": "Jei turite kitų klausimų ar jums reikia daugiau informacijos, nedvejodami susisiekite su mumis. Mes mielai jums padėsime.",
+            "subtitle_user_rights": "Vartotojo teisės:",
+            "user_rights_text": "Kaip duomenų subjektas, turite daugybę teisių, nors turite nepamiršti, kad ne visos jos taikomos visose situacijose. Jei taikoma, tai yra jūsų teisės:",
+            "user_rights_list": [
+                "Teisė gauti prieigą prie savo asmens duomenų: tai apima informacijos apie tai, ar jūsų duomenys yra tvarkomi ir kaip jie tvarkomi, gavimą. Jei jūsų prašyme yra kitų žmonių asmens duomenys arba jei veikiate kito asmens vardu, turėsite pateikti tų asmenų tapatybę ir pasirašytą laišką arba įgaliojimo dokumentą, patvirtinantį jų sutikimą veikti jų vardu.",
+                "Teisė gauti informaciją apie jūsų asmens duomenų tvarkymą: mes laikomės šios teisės laikydamiesi šios Politikos.",
+                "Teisė į ištaisymą: tai yra teisė ištaisyti savo asmens duomenis, jei jie neteisingi, arba užpildyti juos, jei jie yra neišsamūs.",
+                "Teisė nesutikti, kad būtų tvarkomi jūsų asmens duomenys.",
+                "Teisė ištrinti: tai reiškia galimybę prašyti, kad jūsų asmens duomenys būtų ištrinti arba užblokuoti.",
+                "Teisė perkelti, kopijuoti ar perduoti savo asmens duomenis jūsų pasirinktam subjektui (duomenų perkeliamumas).",
+                "Teisės, susijusios su automatizuotų sprendimų priėmimu pagal jūsų duomenis, įskaitant teisę neturėti jūsų duomenų profiliuotų."
+            ],
+            "subtitle_claim": "Teisė pateikti skundą AEPD:",
+            "subtitle_claim_text": "Jei manote, kad jūsų teisės, susijusios su jūsų asmens duomenų tvarkymu, buvo pažeistos, taip pat turite teisę pateikti skundą atitinkamai priežiūros institucijai. Ispanijoje ši institucija yra Ispanijos duomenų apsaugos agentūra (AEPD). Galite susisiekti su jais jų būstinėje, esančioje Calle Jorge Juan 6, 28001 - Madridas, arba apsilankykite jų svetainėje: https://www.aepd.es/es. Atminkite, kad AEPD galite pateikti tik pretenzijas, susijusias su jūsų asmens duomenų tvarkymu. Skundai, susiję su mūsų paslaugų teikimu, turi būti pateikiami pagal mūsų teisinio pranešimo nuostatas, skyriuje, atitinkančiame kiekvieną paslaugą.",
+            "claim_contact_text": "Kontaktinė informacija, kad galėtumėte pasinaudoti savo teisėmis:",
+            "claim_contact_list": [
+                "Pašto adresas: CALLE HOSPITAL STA. MARGARITA, 1 GALINIS BOSAS 2, 20303, IRUN, GUIPUZCOA",
+                "El. pašto adresas: atencionalcliente@evaseguros.es"
+            ]
+        },
+        "section2": {
+            "title": "PRIVALOMAS ARBA NEPRIVALOMAS NAUDOTOJO PATEIKTOS INFORMACIJOS POBŪDIS:",
+            "description": "Pažymėdami atitinkamus langelius ir užpildydami laukus, pažymėtus žvaigždute (*) kontaktinėje formoje arba atsisiuntimo formose, Vartotojai aiškiai, laisvai ir nedviprasmiškai sutinka, kad jų duomenys yra būtini teikėjo prašymui įvykdyti, o duomenų įtraukimas į kitus laukus yra neprivalomas. Vartotojas garantuoja ATSAKINGam asmeniui pateiktų asmens duomenų tikrumą ir įsipareigoja pranešti apie bet kokius jų pasikeitimus. ATSAKINGAS šalis aiškiai informuoja ir garantuoja naudotojus, kad kiekvieną kartą, kai jie perduos asmens duomenis, jie pirmiausia paprašys aiškaus, informuoto ir nedviprasmiško Vartotojų sutikimo. Visi duomenys, kurių prašoma per svetainę, yra privalomi, nes jie yra būtini norint suteikti optimalią paslaugą Vartotojui. Jei visi duomenys nepateikiami, negalima garantuoti, kad informacija ir teikiamos paslaugos visiškai atitinka jūsų poreikius."
+        },
+        "section3": {
+            "title": "SAUGUMO PRIEMONĖS:",
+            "description": "Pagal galiojančius asmens duomenų apsaugos reglamentus ATSAKINGA šalis laikosi visų RGPD ir LOPDGDD nustatytų nuostatų dėl asmens duomenų tvarkymo, už kurį jis atsako. Aiškiai duomenys tvarkomi teisėtai, sąžiningai ir skaidriai suinteresuotos šalies atžvilgiu ir apsiriboja tuo, kas būtina ir tinkama tais tikslais, kuriais jie tvarkomi, kaip aprašyta RGPD 5 straipsnyje ir LOPDGDD 4 straipsnyje. ATSAKINGA šalis garantuoja, kad ji įgyvendino tinkamą techninę ir organizacinę politiką, kad taikytų RGPD ir LOPDGDD reikalaujamas saugumo priemones, kad apsaugotų naudotojų teises ir laisves. Be to, Vartotojams buvo pateikta tinkama informacija, kad jie galėtų naudotis savo teisėmis."
+        }
+    }
+}

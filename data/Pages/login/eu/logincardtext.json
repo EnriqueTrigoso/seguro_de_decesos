@@ -1,0 +1,76 @@
+{
+  "login": {
+    "title": "Saioa hasteko",
+    "description": "{domain}-ren kontuan sartu. Erosketak eta pertsonalizatutako aholkuak ikus ditzakezu.",
+    "input_email": {
+      "title": "Posta elektroniko helbidea*",
+      "placeholder": [
+        "Posta elektroniko helbidea idatzi",
+        "Posta elektronikoa"
+      ],
+      "error_msg": "Ez da baliozko posta elektronikoko helbidea"
+    },
+    "input_password": {
+      "title": "Pasahitza*",
+      "placeholder": "Pasahitza idatzi",
+      "error_msg": "Pasahitz okerra, saiatu berriro"
+    },
+    "checkbox": "Gogoratu nire burua",
+    "forgetPassword": "Pasahitza ahaztu duzu?",
+    "button": "Saioa hasi",
+    "description2": "Edo hurrengo aukera ere duzu:",
+    "social_buttons": [
+      "Jarraitu Google-kin",
+      "Jarraitu Facebook-ekin"
+    ],
+    "accion": [
+      "Ez duzu konturik?",
+      "Kontua sortu"
+    ]
+  },
+  "register": {
+    "title": "Izena eman",
+    "description": "HeriotzaASegurua.com-ra erregistratu. Erosketak eta pertsonalizatutako aholkuak ikus ditzakezu.",
+    "input_name": {
+      "title": "Izenak*",
+      "placeholder": "Izenak idatzi",
+      "error_msg": "Ez idatzi izen bat, letrak bakarrik izan behar dira."
+    },
+    "input_p_surname": {
+      "title": "Lehen Abizen*",
+      "placeholder": "Idatzi Lehen Abizen",
+      "error_msg": "Idatzi abizen bat, letra soilik izan behar ditu"
+    },
+    "input_m_surname": {
+      "title": "Bigarren Abizen",
+      "placeholder": "Idatzi Bigarren Abizen",
+      "error_msg": "Idatzi abizen bat, letra soilik izan behar ditu"
+    },
+    "input_email": {
+      "title": "Posta elektroniko helbidea*",
+      "placeholder": [
+        "Posta elektroniko helbidea idatzi",
+        "Posta elektronikoa"
+      ],
+      "error_msg": [
+        "Ez da baliozko posta elektronikoko helbidea"
+      ]
+    },
+    "input_password": {
+      "title": "Pasahitza*",
+      "placeholder": "Pasahitza idatzi",
+      "error_msg": "Sartu gutxienez 8 karaktere alfanumeriko dituen pasahitza"
+    },
+    "checkbox": "Erregistratu botoia sakatzean, gure baldintzak eta politika onartzen dituzu,",
+    "button": "Erregistratu",
+    "description2": "Edo hurrengo aukera ere duzu:",
+    "social_buttons": [
+      "Zure kontua Google-kin sortu",
+      "Zure kontua Facebook-ekin sortu"
+    ],
+    "accion": [
+      "Jadanik kontua duzu?",
+      "Saioa hasi"
+    ]
+  }
+}

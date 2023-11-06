@@ -1,0 +1,72 @@
+{
+  "footer_text": {
+    "social_title": "Compara les millors asseguradores de decessos del mercat.",
+    "social_description": "Segueix-nos a les nostres xarxes socials",
+    "section1": {
+      "title": "Sobre Nosaltres",
+      "options": [
+        {
+          "title": "Missió Visió",
+          "href": "#"
+        },
+        {
+          "title": "El nostre equip",
+          "href": "#"
+        }
+      ]
+    },
+    "section2": {
+      "title": "Més informació",
+      "options": [
+        {
+          "title": "Coneix Eva",
+          "href": "#"
+        },
+        {
+          "title": "Plant-for-the-Planet",
+          "href": "#"
+        },
+        {
+          "title": "Univers Accessible",
+          "href": "#"
+        },
+        {
+          "title": "Univers Santi",
+          "href": "#"
+        }
+      ]
+    },
+    "section3": {
+      "title": "Nosaltres Oferim",
+      "options": [
+        {
+          "title": "Assegurances de Decessos",
+          "href": "#"
+        },
+        {
+          "title": "Assegurances de Vida",
+          "href": "#"
+        },
+        {
+          "title": "Assegurances de Llar",
+          "href": "#"
+        }
+      ]
+    },
+    "section4": {
+      "title": "Legal",
+      "options": [
+        {
+          "title": "Avís Legal"
+        },
+        {
+          "title": "Política de Privacitat"
+        },
+        {
+          "title": "Política de galetes"
+        }
+      ]
+    },
+    "copyright": "{domain} 2023. Tots els drets reservats."
+  }
+}

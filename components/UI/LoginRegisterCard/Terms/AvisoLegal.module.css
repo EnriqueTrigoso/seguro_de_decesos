@@ -1,0 +1,17 @@
+.content {
+	margin-top: 30px;
+	line-height: 30px;
+}
+
+.content p:not(:last-child){
+	margin-bottom: 15px;
+}
+
+.brand {
+	font-weight: 700;
+	color: var(--blue-primary);
+}
+
+.sub_list {
+	padding-left: 35px;
+}

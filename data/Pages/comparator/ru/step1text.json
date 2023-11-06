@@ -1,0 +1,26 @@
+{
+	"title": "У вас есть текущий полис похоронного страхования?",
+	"subtitle": "Выберите один из вариантов",
+	"option_cards": [
+		{
+			"text": "Я не застрахован »",
+			"userDataValue": "No"
+		},
+		{
+			"text": "Да, Santalucia »",
+			"userDataValue": "Santalucia"
+		},
+		{
+			"text": "Да, Ocaso »",
+			"userDataValue": "Ocaso"
+		},
+		{
+			"text": "Да, Mapfre »",
+			"userDataValue": "Mapfre"
+		},
+		{
+			"text": "Да, Другая »",
+			"userDataValue": "Otros"
+		}
+	]
+}

@@ -1,0 +1,30 @@
+{
+    "title": "당신은 현재 장례 보험이 있나요?",
+    "subtitle": "옵션 중 하나를 선택하십시오",
+    "option_cards": [
+        {
+            "text": "보험에 가입하지 않았습니다 »",
+            "userDataValue": "아니요"
+        },
+        {
+            "text": "예, Santalucia »",
+            "userDataValue": "Santalucia"
+        },
+        {
+            "text": "예, Mapfre »",
+            "userDataValue": "Mapfre"
+        },
+        {
+            "text": "예, Adeslas »",
+            "userDataValue": "Adeslas"
+        },
+        {
+            "text": "예, Helvetia »",
+            "userDataValue": "Helvetia"
+        },
+        {
+            "text": "예, 다른 »",
+            "userDataValue": "기타"
+        }
+    ]
+}

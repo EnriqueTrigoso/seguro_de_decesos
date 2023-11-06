@@ -1,0 +1,76 @@
+{
+  "login": {
+    "title": "Autentificare",
+    "description": "Accesează-ți contul {domain} Vei putea vedea oferte și recomandări personalizate.",
+    "input_email": {
+      "title": "Adresa de e-mail",
+      "placeholder": [
+        "Scrie adresa de e-mail",
+        "E-mail"
+      ],
+      "error_msg": "E-mail invalid"
+    },
+    "input_password": {
+      "title": "Parolă",
+      "placeholder": "Scrie parola",
+      "error_msg": "Parolă greșită, încearcă din nou"
+    },
+    "checkbox": "Ține-mă minte",
+    "forgetPassword": "Ai uitat parola?",
+    "button": "Autentificare",
+    "description2": "Sau poți să:",
+    "social_buttons": [
+      "Continuă cu Google",
+      "Continuă cu Facebook"
+    ],
+    "accion": [
+      "Nu ai un cont?",
+      "Creează cont"
+    ]
+  },
+  "register": {
+    "title": "Înregistrează-te",
+    "description": "Înregistrează-te la SegurodeDecesos.com Vei putea vedea oferte și recomandări personalizate.",
+    "input_name": {
+      "title": "Nume",
+      "placeholder": "Scrie numele",
+      "error_msg": "Scrie un nume, ar trebui să fie doar litere"
+    },
+    "input_p_surname": {
+      "title": "Prenume",
+      "placeholder": "Scrie prenumele",
+      "error_msg": "Scrie un prenume, ar trebui să fie doar litere"
+    },
+    "input_m_surname": {
+      "title": "Al doilea prenume",
+      "placeholder": "Scrie al doilea prenume",
+      "error_msg": "Scrie un prenume, ar trebui să fie doar litere"
+    },
+    "input_email": {
+      "title": "Adresa de e-mail",
+      "placeholder": [
+        "Scrie adresa de e-mail",
+        "E-mail"
+      ],
+      "error_msg": [
+        "E-mail invalid"
+      ]
+    },
+    "input_password": {
+      "title": "Parolă",
+      "placeholder": "Scrie parola",
+      "error_msg": "Introduceți o parolă de cel puțin 8 caractere alfanumerice"
+    },
+    "checkbox": "Făcând clic pe butonul Înregistrează-te, accepți /termenii și politica noastră./",
+    "button": "Înregistrează-te",
+    "description2": "Sau poți să:",
+    "social_buttons": [
+      "Creează-ți contul cu Google",
+      "Creează-ți contul cu Facebook"
+    ],
+    "accion": [
+      "Ai deja un cont?",
+      "Autentificare"
+    ]
+  }
+}

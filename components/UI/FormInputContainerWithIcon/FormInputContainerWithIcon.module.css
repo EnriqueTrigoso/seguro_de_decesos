@@ -1,0 +1,21 @@
+.input_container {
+	display: grid;
+	align-items: center;
+	grid-template-columns: 1fr auto;
+	grid-gap: 10px;
+	width: 100%;
+	height: 56px;
+	background: #FFFFFF;
+	border: 1px solid #667085;
+	background: var(--colors-gray-00, #FFF);
+	border-radius: 8px;
+	padding: 17px 20px;
+}
+
+@media (min-width: 1024px) {
+	.input_container {
+		height: 52px;
+		padding: 10px 25px;
+		max-width: 440px;
+	}
+}

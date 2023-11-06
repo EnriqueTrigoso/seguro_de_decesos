@@ -1,0 +1,26 @@
+{
+    "functioning": {
+        "title": "Τολμάς να δαγκώσεις το /μήλο/;",
+        "description": "Απολαύστε τα οφέλη των κινητών γραμμών χάρη στην ασφάλιση κηδείας σας.",
+        "list_info": [
+            {
+                "title": "Απεριόριστες κλήσεις."
+            },
+            {
+                "title": "/20GB/ κινητών δεδομένων."
+            },
+            {
+                "title": "Δωρεάν περιαγωγή στην Ευρωπαϊκή Ένωση."
+            }
+        ],
+        "phrase": "Μένε πάντα συνδεδεμένος /χάρη στο Eva Móvil/!",
+        "button": {
+            "text": "Στείλτε μας ένα μήνυμα",
+            "link": "https://api.whatsapp.com/send?phone=34983666666&text=%C2%A1Hola%2C%20Eva%20M%C3%B3vil!%F0%9F%93%9EMe%20gustar%C3%ADa%20obtener%20informaci%C3%B3n%20sobre%20tus%20tarifas.%F0%9F%98%81"
+        },
+        "metadata": {
+            "alt": "Líneas móviles gratis",
+            "title": "Lineas moviles gratis"
+        }
+    }
+}

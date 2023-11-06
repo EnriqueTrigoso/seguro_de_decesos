@@ -1,0 +1,26 @@
+{
+    "functioning": {
+        "title": "敢不敢咬一口/苹果/？",
+        "description": "借助您的丧葬保险，享受移动电话的好处。",
+        "list_info": [
+            {
+                "title": "无限通话。"
+            },
+            {
+                "title": "/20GB/ 移动数据。"
+            },
+            {
+                "title": "在欧盟免费漫游。"
+            }
+        ],
+        "phrase": "随时保持联系/谢谢 Eva Móvil！/",
+        "button": {
+            "text": "写信给我们",
+            "link": "https://api.whatsapp.com/send?phone=34983666666&text=%C2%A1Hola%2C%20Eva%20M%C3%B3vil!%F0%9F%93%9EMe%20gustar%C3%ADa%20obtener%20informaci%C3%B3n%20sobre%20tus%20tarifas.%F0%9F%98%81"
+        },
+        "metadata": {
+            "alt": "免费移动电话线",
+            "title": "免费移动电话线"
+        }
+    }
+}

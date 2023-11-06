@@ -1,0 +1,30 @@
+{
+	"title": "आप इंश्योरेंस में कितने लोगों को शामिल करना चाहेंगे?",
+	"subtitle": "विकल्पों में से एक चुनें",
+	"options": [
+		{
+			"text": "केवल मैं »",
+			"userDataValue": 1
+		},
+		{
+			"text": "2 व्यक्ति »",
+			"userDataValue": 2
+		},
+		{
+			"text": "3 व्यक्ति »",
+			"userDataValue": 3
+		},
+		{
+			"text": "4 व्यक्ति »",
+			"userDataValue": 4
+		},
+		{
+			"text": "5 व्यक्ति »",
+			"userDataValue": 5
+		},
+		{
+			"text": "5 से अधिक व्यक्ति »",
+			"userDataValue": "5+"
+		}
+	]
+}

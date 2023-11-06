@@ -1,0 +1,23 @@
+{
+    "error": {
+        "name": "Si us plau, introduïu un nom vàlid",
+        "phone": "Si us plau, introduïu un mòbil vàlid",
+        "email": "Introduïu un correu electrònic vàlid",
+        "email_already_registered": "L'usuari ja està registrat"
+    },
+    "input": [
+        {
+            "title": "Cognom i Cognom: *",
+            "placeholder": "Introdueix els teus noms"
+        },
+        {
+            "title": "Telèfon: *",
+            "placeholder": "Introdueix el teu telèfon"
+        },
+        {
+            "title": "Correu electrònic: *",
+            "placeholder": "Introdueix el teu correu electrònic"
+        }
+    ],
+    "button": "Fer una comparació"
+}

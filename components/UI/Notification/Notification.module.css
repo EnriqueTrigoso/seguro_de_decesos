@@ -1,0 +1,90 @@
+.confirm_registration {
+	display: grid;
+	grid-gap: 15px;
+	padding: 10px 15px;
+	place-content: center;
+	justify-items: center;
+	min-height: 100vh;
+}
+
+.logo_container {
+	width: 190px;
+	height: 69px;
+}
+
+.card {
+	display: grid;
+	justify-items: center;
+	border-top: solid 2px var(--green-primary);
+	max-width: 530px;
+	padding: 5px 25px;
+}
+
+.image_container {
+	max-width: 400px;
+}
+
+.content {
+	text-align: center;
+}
+
+.title {
+	margin-bottom: 5px;
+}
+
+.subtitle {
+	color: #666;
+	margin-bottom: 20px;
+}
+
+.circles {
+	display: flex;
+	justify-content: center;
+	grid-gap: 5px;
+	margin-bottom: 10px;
+}
+
+.circle {
+	display: grid;
+	place-items: center;
+	width: 60px;
+	height: 60px;
+	border-radius: 100%;
+}
+
+.title2 {
+	font-weight: 500;
+	font-size: 18px;
+	line-height: 26px;
+	color: #000000;
+}
+
+.button_container {
+	display: flex;
+	justify-content: center;
+	height: 57px;
+	margin-bottom: 25px;
+}
+
+.social_circles {
+	display: flex;
+	justify-content: center;
+	gap: 5px;
+}
+
+.social_circle {
+	display: grid;
+	place-content: center;
+	width: 40px;
+	height: 40px;
+	border-radius: 100%;
+	background-color: rgb(207, 207, 207);
+	margin-bottom: 20px;
+}
+
+.copyright {
+	font-size: 12px;
+	line-height: 20px;
+	color: #777777;
+	margin-bottom: 25px;
+}

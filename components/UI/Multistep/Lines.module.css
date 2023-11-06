@@ -1,0 +1,23 @@
+.multiline {
+    display: none;
+    width: 6px;
+    height: 70px;
+    background-color: var(--green-primary);
+    border-radius: 40px;
+}
+
+.multilinedisabled {
+    display: none;
+    width: 6px;
+    height: 70px;
+    background-color: #EFF0F7;
+    border-radius: 40px;
+}
+
+@media (min-width: 1024px) {
+
+    .multiline,
+    .multilinedisabled {
+        display: block;
+    }
+}

@@ -1,0 +1,22 @@
+.card {
+	background: #FFFFFF;
+	border-radius: 16px;
+	padding: 22px 21px;
+	border: 1px solid var(--green-primary);
+}
+
+.card h5 {
+	margin-bottom: 0;
+}
+
+.content {
+	margin-top: 10px;
+	text-align: center;
+}
+
+@media (min-width: 1024px) {
+
+	.content {
+		text-align: start;
+	}
+}

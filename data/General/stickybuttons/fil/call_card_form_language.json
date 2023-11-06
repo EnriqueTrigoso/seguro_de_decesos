@@ -1,0 +1,14 @@
+{
+  "title": "Tatawagan ka namin sa lalong madaling panahon",
+  "description": "Isang sa aming mga eksperto na ahente ay makikipag-ugnayan sa iyo sa lalong madaling panahon.",
+  "phonePlaceholder": "Numero ng Telepono",
+  "errorMsgPhone": "Magbigay ng wastong numero",
+  "namePlaceholder": "Pangalan",
+  "errorMsgName": "Ang 'Pangalan' field ay tumatanggap lamang ng mga letra at espasyo",
+  "callQuestion": "Kailan mo nais na tawagan ka namin?",
+  "timeRightNow": "Sa ngayon",
+  "timeTomorrow": "Bukas",
+  "timeOneWeek": "Sa loob ng 1 Linggo",
+  "btnCallMe": "Tawagan Mo Ako",
+  "gratitude": "Salamat sa pagbahagi ng inyong mga datos sa amin. /Makikipag-ugnayan kami sa inyo sa lalong madaling panahon./"
+}

@@ -1,0 +1,28 @@
+{
+    "faq": {
+        "title": "FAQs",
+        "description": "Avete domande? Leggi alcune delle nostre domande frequenti o contatta i nostri consulenti per ricevere assistenza.",
+        "questions": [
+            {
+                "question": "Cos'è l'assicurazione funebre?",
+                "answer": "L'assicurazione funebre è progettata per aiutare le famiglie nei momenti più delicati e garantisce la fornitura di servizi funebri e procedure relative al decesso di una persona. È stipulata allo scopo di alleviare l'onere finanziario e logistico di un funerale e le procedure legali e amministrative associate al decesso."
+            },
+            {
+                "question": "Quali sono i vantaggi del confronto con noi?",
+                "answer": "Confronta in meno di 1 minuto da un'interfaccia facile da usare. Eva Seguros ti aiuta a scegliere tra le migliori compagnie di assicurazione funebre in Spagna."
+            },
+            {
+                "question": "Come trovi l'assicurazione funebre più adatta a te?",
+                "answer": "Attraverso il nostro comparatore di assicurazioni funebri, puoi filtrare le offerte delle migliori compagnie per trovare l'assicurazione funebre più adatta a te."
+            },
+            {
+                "question": "Quanto costa l'assicurazione funebre?",
+                "answer": "Esiste un'ampia gamma di premi che dipendono dall'entità della copertura aggiuntiva sottoscrizione e dal modo in cui paghi il premio. Nel nostro confronto delle assicurazioni funebri puoi trovare i prezzi più convenienti."
+            },
+            {
+                "question": "Chi può stipulare un'assicurazione funebre?",
+                "answer": "Chiunque abbia l'età legale può stipulare un'assicurazione funebre."
+            }
+        ]
+    }
+}

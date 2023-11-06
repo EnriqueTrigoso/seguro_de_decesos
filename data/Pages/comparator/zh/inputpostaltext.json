@@ -1,0 +1,7 @@
+{
+    "title": "邮政编码（必填）",
+    "placeholder": "写邮政编码...",
+    "error_msg": "请输入 5 位数字",
+    "verify_msg": "正在检查。。",
+    "fail_msg": "邮政编码不正确"
+}

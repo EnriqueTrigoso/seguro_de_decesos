@@ -1,0 +1,26 @@
+{
+    "information": {
+        "title": "Compara entre les millors asseguradores /de defuncions del mercat/",
+        "description": "T'acompanyem durant tot el procés per donar resposta a tots els teus dubtes. Pots trucar-nos o deixar-nos el teu número perquè puguem trucar-te.",
+        "link_compare": "Comparar ara",
+        "link_contact": "Contacta'ns",
+        "cards": [
+            {
+                "text": "Ens adaptem a la teva economia",
+                "alt": "Dona jove reflexiva a l'aire lliure"
+            },
+            {
+                "text": "Inclou el transport nacional i internacional",
+                "alt": "Feliç dama aixecant els braços"
+            },
+            {
+                "text": "Inclou serveis mèdics gratuïts",
+                "alt": "La mare i la filla adolescent abraçades"
+            },
+            {
+                "text": "Cobertura de mort completa",
+                "alt": "La mare i el seu nadó abraçats"
+            }
+        ]
+    }
+}

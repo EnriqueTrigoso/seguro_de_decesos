@@ -1,0 +1,21 @@
+{
+  "title": "Te pot interessar",
+  "search_options": [
+    {
+      "title": "Entra a EvaSeguros.es",
+      "description": "Pagaments, serveis, avantatges i més."
+    },
+    {
+      "title": "Atenció mèdica",
+      "description": "Sol·licita atenció mèdica virtual o a domicili."
+    },
+    {
+      "title": "Cobertura de l'assegurança.",
+      "description": "Coneix què cobreix el teu assegurança."
+    },
+    {
+      "title": "Centre d'ajuda",
+      "description": "Aprofita al màxim el teu assegurança i coneix els teus beneficis."
+    }
+  ]
+}

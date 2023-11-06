@@ -1,0 +1,21 @@
+{
+  "title": "Maaring Ikaw Ay Mahikayat",
+  "search_options": [
+    {
+      "title": "Mag-login sa EvaSeguros.es",
+      "description": "Bayaran, serbisyo, mga benepisyo, at higit pa."
+    },
+    {
+      "title": "Serbisyong Medikal",
+      "description": "Mag-request ng virtual o house call medical attention."
+    },
+    {
+      "title": "Saklaw ng Seguro",
+      "description": "Alamin kung ano ang sakop ng iyong seguro."
+    },
+    {
+      "title": "Tulong Center",
+      "description": "Gamitin ang iyong seguro at alamin ang mga benepisyo mo."
+    }
+  ]
+}

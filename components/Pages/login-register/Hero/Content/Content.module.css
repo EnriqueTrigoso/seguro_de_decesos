@@ -1,0 +1,86 @@
+.wrapper {
+	display: grid;
+	grid-template-columns: 1fr;
+	gap: 0;
+}
+
+.left {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: space-between;
+	visibility: collapse;
+}
+
+.content {
+	margin-top: 0px;
+}
+
+.title {
+	font-weight: 500;
+	font-size: 30px;
+	line-height: 40px;
+	color: var(--blue-primary);
+}
+
+.title span {
+	color: var(--green-primary);
+}
+
+.subtitle {
+	margin-top: 40px;
+	font-size: 20px;
+	line-height: 32px;
+}
+
+.right {
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+	gap: 20px;
+}
+
+.footer {
+	font-size: 12px;
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+	text-align: center;
+}
+
+@media (min-width: 1024px) {
+	
+	.wrapper {
+		grid-template-columns: 1fr 1fr;
+		grid-gap: 70px;
+		overflow-y: scroll;
+		scrollbar-width: none;
+	}
+
+	.wrapper::-webkit-scrollbar {
+		display: none;
+	}
+
+	.content {
+		margin-top: 40px;
+	}
+
+	.left {
+		visibility: visible;
+	}
+
+	.title {
+		font-size: 45px;
+		line-height: 55px;
+	}
+
+	.register_card_container {
+		max-width: 546px;
+	}
+
+	.footer {
+		font-size: 16px;
+		flex-direction: row;
+		margin-bottom: 15px;
+	}
+}

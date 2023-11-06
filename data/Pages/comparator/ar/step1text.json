@@ -1,0 +1,30 @@
+{
+	"title": "هل لديك حاليًا تأمين جنازة؟",
+	"subtitle": "حدد أحد الخيارات",
+	"option_cards": [
+		{
+			"text": "أنا لست مؤمنًا»",
+			"userDataValue": "لا"
+		},
+		{
+			"text": "نعم، سانتالوسيا»",
+			"userDataValue": "سانتالوسيا"
+		},
+		{
+			"text": "نعم، مابفر»",
+			"userDataValue": "مابفر"
+		},
+		{
+			"text": "نعم، أديسلاس»",
+			"userDataValue": "أديسلاس"
+		},
+		{
+			"text": "نعم، هيلفيتيا»",
+			"userDataValue": "هيلفيتيا"
+		},
+		{
+			"text": "نعم، آخر»",
+			"userDataValue": "أخرى"
+		}
+	]
+}

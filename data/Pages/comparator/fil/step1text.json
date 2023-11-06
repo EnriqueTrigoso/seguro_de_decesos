@@ -1,0 +1,30 @@
+{
+	"title": "Mayroon ka bang kasalukuyang seguro para sa kamatayan?",
+	"subtitle": "Pumili ng isa sa mga opsyon",
+	"option_cards": [
+		{
+			"text": "Hindi ako insured »",
+			"userDataValue": "No"
+		},
+		{
+			"text": "Oo, Santalucia »",
+			"userDataValue": "Santalucia"
+		},
+		{
+			"text": "Oo, Mapfre »",
+			"userDataValue": "Mapfre"
+		},
+		{
+			"text": "Oo, Adeslas »",
+			"userDataValue": "Adeslas"
+		},
+		{
+			"text": "Oo, Helvetia »",
+			"userDataValue": "Helvetia"
+		},
+		{
+			"text": "Oo, Iba »",
+			"userDataValue": "Otros"
+		}
+	]
+}

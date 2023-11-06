@@ -1,0 +1,72 @@
+{
+    "footer_text": {
+        "social_title": "Jämför de bästa begravningsförsäkringsbolagen på marknaden.",
+        "social_description": "Följ oss på våra sociala nätverk",
+        "section1": {
+            "title": "Om oss",
+            "options": [
+                {
+                    "title": "Uppdragsvision",
+                    "href": "#"
+                },
+                {
+                    "title": "Vårt team",
+                    "href": "#"
+                }
+            ]
+        },
+        "section2": {
+            "title": "Läs mer",
+            "options": [
+                {
+                    "title": "Möt Eva",
+                    "href": "#"
+                },
+                {
+                    "title": "Växt-för-planeten",
+                    "href": "#"
+                },
+                {
+                    "title": "Tillgängligt universum",
+                    "href": "#"
+                },
+                {
+                    "title": "Santi Universum",
+                    "href": "#"
+                }
+            ]
+        },
+        "section3": {
+            "title": "Vi erbjuder",
+            "options": [
+                {
+                    "title": "Begravningspolicy",
+                    "href": "#"
+                },
+                {
+                    "title": "Livspolitik",
+                    "href": "#"
+                },
+                {
+                    "title": "Hempolicy",
+                    "href": "#"
+                }
+            ]
+        },
+        "section4": {
+            "title": "Rättslig",
+            "options": [
+                {
+                    "title": "Juridiskt meddelande"
+                },
+                {
+                    "title": "Sekretesspolicy"
+                },
+                {
+                    "title": "Cookiepolicy"
+                }
+            ]
+        },
+        "copyright": "{domain} 2023. Alla rättigheter förbehållna."
+    }
+}

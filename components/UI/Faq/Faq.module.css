@@ -1,0 +1,77 @@
+.faq {
+	display: flex;
+	justify-content: center;
+	padding-top: 2.5rem;
+	padding-bottom: 2.5rem;
+}
+
+.wrapper {
+	width: 100%;
+}
+
+.content {
+	display: flex;
+	flex-direction: column;
+	text-align: start;
+	gap: 1.5rem;
+}
+
+.title {
+	color: var(--blue-primary);
+	font-size: 26px;
+	line-height: 36px;
+	font-weight: 500;
+}
+
+.description {
+	font-size: 16px;
+	line-height: 21.79px;
+	color: var(--textos);
+	width: 90%;
+	text-align: center;
+}
+
+.cards {
+	margin-top: 2rem;
+	display: grid;
+	grid-template-columns: 1fr;
+	gap: 1.5rem;
+}
+
+.h2 {
+	color: var(--blue-primary);
+	font-size: 2rem;
+	font-style: normal;
+	font-weight: 700;
+	line-height: 120%;
+}
+
+@media (min-width: 1024px) {
+	.faq {
+		padding-top: 3rem;
+		padding-bottom: 3.5rem;
+	}
+
+	.wrapper {
+		width: 70%;
+	}
+
+	.content {
+		gap: 2rem;
+	}
+
+	.title {
+		font-size: 45px;
+	}
+
+	.description {
+		font-size: 20px;
+		line-height: 32px;
+		width: 615px;
+	}
+
+	.h2 {
+		text-align: center;
+		font-size: 2.5rem;
+	}
+}

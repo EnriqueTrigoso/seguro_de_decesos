@@ -1,0 +1,25 @@
+{
+    "404": {
+        "metadata": {
+            "title": "哇！该页面不存在。",
+            "description": "你要找的页面不存在。"
+        },
+        "content": {
+            "title": "哇！该页面不存在。",
+            "description": "找不到您请求的页面",
+            "button_text": "返回主页",
+            "cards": [
+                {
+                    "title": "帮助和支持",
+                    "subtitle": "电子邮件：support@evaseguros.es",
+                    "description": "如需有关当前产品或服务的帮助或查看常见问题"
+                },
+                {
+                    "title": "给我们打电话",
+                    "subtitle": "致电我们，与我们的团队成员交谈。",
+                    "description": "(+01) 234 567 89"
+                }
+            ]
+        }
+    }
+}

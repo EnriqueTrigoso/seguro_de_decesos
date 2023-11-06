@@ -1,0 +1,76 @@
+{
+  "login": {
+    "title": "Log In",
+    "description": "Access your {domain} account. You can view personalized offers and recommendations.",
+    "input_email": {
+      "title": "Email Address",
+      "placeholder": [
+        "Enter email address",
+        "Email"
+      ],
+      "error_msg": "Invalid email address"
+    },
+    "input_password": {
+      "title": "Password",
+      "placeholder": "Enter password",
+      "error_msg": "Incorrect password, please try again"
+    },
+    "checkbox": "Remember me",
+    "forgetPassword": "Forgot your password?",
+    "button": "Log In",
+    "description2": "Or you can also:",
+    "social_buttons": [
+      "Continue with Google",
+      "Continue with Facebook"
+    ],
+    "action": [
+      "Don't have an account?",
+      "Create Account"
+    ]
+  },
+  "register": {
+    "title": "Sign Up",
+    "description": "Sign up for {domain}. You can view personalized offers and recommendations.",
+    "input_name": {
+      "title": "First Name",
+      "placeholder": "Enter first name",
+      "error_msg": "Enter a name, only letters are allowed"
+    },
+    "input_p_surname": {
+      "title": "First Surname",
+      "placeholder": "Enter First Surname",
+      "error_msg": "Enter a Surname, only letters are allowed"
+    },
+    "input_m_surname": {
+      "title": "Second Surname",
+      "placeholder": "Enter Second Surname",
+      "error_msg": "Enter a Surname, only letters are allowed"
+    },
+    "input_email": {
+      "title": "Email Address",
+      "placeholder": [
+        "Enter email address",
+        "Email"
+      ],
+      "error_msg": [
+        "Invalid email address"
+      ]
+    },
+    "input_password": {
+      "title": "Password",
+      "placeholder": "Enter password",
+      "error_msg": "Enter an alphanumeric password of at least 8 characters"
+    },
+    "checkbox": "By clicking the Sign Up button, you agree to our /terms and policy./",
+    "button": "Sign Up",
+    "description2": "Or you can also:",
+    "social_buttons": [
+      "Create your account with Google",
+      "Create your account with Facebook"
+    ],
+    "action": [
+      "Already have an account?",
+      "Log In"
+    ]
+  }
+}

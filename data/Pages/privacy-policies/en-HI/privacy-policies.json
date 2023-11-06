@@ -1,0 +1,149 @@
+{
+    "privacy_policy": {
+        "title": "Privacy Policies",
+        "userInfo": {
+            "title": "INFORMATION TO THE USER",
+            "text": [
+                "We are ONE SPAIN INSURANCE RISK MANAGEMENTS with registered office at Calle Gobelas, 25 28023 in Madrid, with CIF B06967386.",
+                "ONE SPAIN INSURANCE RISK MANAGEMENTS is an insurance broker, in accordance with Law 26/2006, of July 17, on insurance and private reinsurance mediation, registered with the General Directorate of Insurance and Pension Funds with number J3975. As an insurance broker, you have contracted professional civil liability insurance with the insurance company REALE, Branch in Spain, to cover the risk of the birth of the obligation to compensate a third party for the damages for which you are civilly liable in accordance with the law and provided that this liability derives from that condition of broker and under the conditions established in current legislation.",
+                "We are responsible for the processing of the data you provide to us on our website (hereinafter, the “website”), as well as for any data that we may collect about you. This means that we are the company responsible for deciding how your data is processed.",
+                "If you want to know more about who we are, you can find it here {domain}."
+            ]
+        },
+        "processingData": {
+            "title": "TREATMENT OF YOUR DATA ACCORDING TO THE REQUESTED SERVICE",
+            "text": "In addition to the specific treatments depending on the service you request from us, at ONE SPAIN INSURANCE RISK MANAGEMENTS we can store the IP address of your device, only for technical and security reasons on our website, and therefore, based on our legitimate interest. You should keep in mind that ONE SPAIN INSURANCE RISK MANAGEMENTS will never use the IP to identify you personally."
+        },
+        "purposesData": {
+            "title": "Purposes for which your data is processed:",
+            "text": [
+                "In order to provide you with the requested service: the data you provide us in the online questionnaire, or in the communications that we may have with you by phone, chat, WhatsApp or any other means of communication, will be processed in order to provide you with quotes appropriate to your profile and needs, offering you independent and impartial advice on the available offers, as well as to manage the contracting of such offers and provide you with the necessary assistance after taking out your insurance.",
+                "To manage the collection of our fees with the companies whose products we mediate: the ONE SPAIN INSURANCE RISK MANAGEMENT service is free for its customers, because we charge fees from the companies whose products we mediate. To do this, we must exchange certain information, but it will always be anonymized data, which does not allow the identification of ONE SPAIN INSURANCE RISK MANAGEMENTS customers.",
+                "For our Marketing actions: ONE SPAIN INSURANCE RISK MANAGEMENTS has many proposals and from time to time we want to inform you about them by phone, email or any other means of contact that you have provided us. Therefore, we will contact you unless you tell us that you do not want to receive further communications. We will also provide you with offers through the social networks with which we have an agreement, and in general through internet advertising campaigns to keep you informed of what we are doing and the services we can offer. For this reason, like many other companies, when you visit other websites, we direct ads to {domain}, through various technologies such as pixels, advertising tags, cookies and identifiers from mobile phones, among others, as well as through some specific tools offered to us by certain websites, such as Facebook's personalized audience service. You can find more information at {domain}",
+                "When we launch contests, sweepstakes or other promotions and you want to participate in them, we will process your data according to the legal bases or specific conditions of these offers. Finally, we use your information to, using technology at our disposal, analyze profiles and thus evaluate which of our products or services are most suitable for you.",
+                "For marketing actions of third parties with which we collaborate: the information that we obtain on our website and that you provide us in the online questionnaires, may be used to carry out analyses of your interests, which may be shared with third parties with whom we collaborate, so that they can show you personalized advertising or adapted to your interests, on third pages where you browse.",
+                "Personalization, statistical and preference analysis: the data you provide on the web may be used to remember your preferences when you visit us again, including the possibility of showing you your latest offers when you visit {domain}. In addition, based on the data we obtain on the web, we can carry out statistical analyses based on your anonymized data, which help us to have better knowledge of the business and therefore improve services, for example, allowing us to prevent fraud or provide offers more adapted to the needs of online customers, or to analyze the preferences or needs of users.",
+                "Analysis to improve the user experience and our service: We will collect information on the quality of the service provided by ONE SPAIN INSURANCE RISK MANAGEMENTS and third parties that may also participate in your contracting process (such as the insurance companies you finally contract with). To this end, ONE SPAIN INSURANCE RISK MANAGEMENTS or a third party on its behalf, may contact you by any means you have provided us, to ask you to carry out a survey or to follow up on the service you requested.",
+                "Compliance with our legal obligations: sometimes we must process your data to comply with the laws that apply to us, and in particular, as insurance brokers, we must comply with obligations to prevent money laundering.",
+                "Customer service: to help you with any questions you may have about our service, before, during and after contracting with us.",
+                "Complaints and claims: when you file a complaint or a formal claim against ONE SPAIN INSURANCE RISK MANAGEMENTS, we will need to process your data in order to understand what has happened and to be able to solve your problem.",
+                "Support service to cancel your insurance: The data you provide us will be processed in order to provide you with this service."
+            ]
+        },
+        "processingDataBased": {
+            "title": "What is the treatment of your data based on:",
+            "text": [
+                "Contractual need: All the data that we ask you for in our online questionnaire or in the communications that we may have with you by phone, chat, WhatsApp or any other means of communication, are necessary data to be able to provide you with the mediation service for contracting insurance, including advice on the available offers that best suit your profile and needs, as well as the necessary steps for contracting and, where appropriate, the assistance you request from us after taking out the insurance.",
+                "Legitimate interest: Sometimes we will process your data for our business interests that are not contrary to your rights. These interests can be, for example, obtaining a business benefit or a social benefit. Always in these cases, we will seek to maintain the balance between our interests and yours, so that it is a fair treatment."
+            ],
+            "underTextOne": {
+                "title": "These treatments are:",
+                "text": [
+                    "To manage the collection of our fees with the companies whose products we mediate.",
+                    "The following marketing actions: sending commercial communications and commercial offers when you have previously requested any of our services and the analysis of profiles to evaluate which of our products or services are most suitable for you.",
+                    "The statistical analyses we carry out to better understand the business and therefore improve online services.",
+                    "Customizing the website according to your preferences, analyzing preferences, improving the user experience and our service.",
+                    "Treatments for compliance with our legal obligations."
+                ]
+            },
+            "underTextTwo": {
+                "title": "Consent: In the following cases, we will process your data only because you have authorized us to do so, as in the following:",
+                "text": [
+                    "Sending commercial communications when you register or expressly request them from us (for example by subscribing to the Newsletter, guides or other content that we offer you).",
+                    "Data treatments that derive from cookies for which it was necessary to obtain your consent. You can learn more about these treatments here {domain}"
+                ]
+            }
+        },
+        "getData": {
+            "title": "How we obtain your data",
+            "subtitle": "The data that we use for the treatments that we explain in this policy, will always be collected in the following ways.",
+            "text": [
+                "Through you: Most of your data is obtained directly from you when you request the provision of our service, either through the online questionnaire, chat or telephone conversations that you may have with our Customer Service or with our staff specialized in assistance in taking out insurance and/or procedures after such a contract. Before proceeding to collect your data by any of these means, you will always be informed of this circumstance, informing you of the applicable conditions, generally by reference to this policy.",
+                "Through the insurance companies whose products we mediate: Sometimes we can obtain your data because it is provided to us by insurance companies or third-party mediators whose products are mediated by ONE SPAIN INSURANCE RISK MANAGEMENTS. This situation will occur in order to be able to manage the collection of our fees for the mediation of the products of these entities with which you finally contract, although once the collection has been managed, this data will be destroyed. On other occasions, we will need to receive data or verify information with the entities with which you have contracted the insurance product, in order to comply with our legal obligations, as well as to be able to provide you with the assistance you need after contracting."
+            ],
+            "underTextOne": [
+                "Through other mediators with whom we collaborate to provide you with the advice and mediation you request: In this case, these are other brokers or insurance agents with whom we work together to provide you with advice and mediation for insurance products. In these cases, this third party with which ONE SPAIN INSURANCE RISK MANAGEMENTS is collaborating, may collect your data to provide you with the requested mediation service. In these cases, it will be our collaborator who will collect your data and communicate them to ONE SPAIN INSURANCE RISK MANAGEMENTS so that both of us can provide you with the requested service. You will be able to identify these products since it will be clearly informed that you are requesting the service from another mediator that collaborates with ONE SPAIN INSURANCE RISK MANAGEMENTS by including a notice on the website.",
+                "Through database queries: We may also consult information in public or private databases, which have obtained the information in accordance with the law and are authorized to share it with us.",
+                "Through your use of the website and our services: We also collect data from you based on your actions, that is, we collect data about how and when you use our website or services. This helps us to offer you a good service, customize the website according to your preferences and improve our products. This information is collected through cookies or pixels, so you can get more information here {domain}."
+            ]
+        },
+        "shareData": {
+            "title": "Do we share your data?",
+            "subtitle": "ONE SPAIN INSURANCE RISK MANAGEMENTS needs to share some data with the insurance companies and insurance brokers with which it collaborates to provide its service, in the following cases and conditions:",
+            "underTextOne": {
+                "title": "To be able to obtain offers that adapt to your profile and your coverage needs: in these cases, the data we share is always anonymized data, meaning that for this purpose we will generally not share contact information, such as email or telephone number, other than the exceptions explained below.",
+                "text": [
+                    "Only with certain insurance companies that require it, we will share your ID number, so that they adjust or improve their pricing, making inquiries to solvency files or credit information systems, contracting fraud, or other similar inquiries, in public or private files that meet the legally established requirements. In these cases, we take additional steps to ensure your privacy and your rights.",
+                    "Sometimes we may need to ask you for your telephone number in order to provide you with a better service, sharing it with those insurance companies or third-party mediators whose offers you have shown interest in after obtaining prior advice and mediation from ONE SPAIN INSURANCE RISK MANAGEMENTS and depending on their availability for this modality.",
+                    "In addition, depending on the availability of the service, we may also share your telephone number with the insurance company that, as a result of the advice provided by ONE SPAIN INSURANCE RISK MANAGEMENTS, offers the most appropriate insurance for your profile and coverage needs. The insurance company that receives your telephone number will use it to contact you in order to manage the purchase of such insurance."
+                ]
+            },
+            "subtitleTwo": "In these exceptions, the data indicated is communicated because it is necessary for the best provision of the service, so if you object to this communication, it will not be possible to provide the service in these modalities. However, in these cases, to ensure better protection of your privacy, you can also exercise your rights against ONE SPAIN INSURANCE RISK MANAGEMENTS.",
+            "text": [
+                "In order to provide you with the necessary assistance during the life of your insurance: if you need any type of assistance or advice during the life of your insurance, we will need to share your personal data with the insurance company with which you have contracted your insurance. Likewise, it is likely that we will also need to share your data with another mediator with whom we work together if they have been involved in the process of contracting the insurance for which you request assistance. This data communication is necessary in order to be able to provide you with the assistance you request during the term of your insurance, therefore, it is based on contractual necessity and if you object to it, we will not be able to provide you with the requested assistance.",
+                "To be able to provide you with the mediation service in some products: in cases where the mediation service is provided through mediation with another insurance mediator, we will communicate your details to other brokers or insurance agents with whom we work together to provide you with advice and mediation. In these cases, the data indicated is communicated because it is necessary to provide this service, so if you object to this communication, we will not be able to provide you with this service. However, since ONE SPAIN INSURANCE RISK MANAGEMENTS has agreements with these third parties to guarantee your privacy, you can contact ONE SPAIN INSURANCE RISK MANAGEMENTS directly to exercise your rights.",
+                "To manage the collection of our fees: in order to receive the remuneration of the companies whose products we mediate, we need to share certain information, but it will always be anonymized information, which therefore does not include any data that would allow us to identify you. This communication is made based on our legitimate interest in receiving compensation for our services.",
+                "To manage the contracting of the insurance product or the contact with insurance institutions: in cases where, as a result of our mediation, you decide to purchase an insurance product through ONE SPAIN INSURANCE RISK MANAGEMENTS, or request to contact the entity that offers an insurance product, we will communicate the necessary data to the company with which you finally decide to contract, including identification or contact information. This communication will therefore be made because it is necessary for the management of the contract that you request from us, and therefore, out of contractual necessity. Therefore, if you object to this communication, we will not be able to provide you with this service.",
+                "To achieve a better quality of service provided by the insurance companies whose products we mediate and/or other mediators with whom we collaborate to provide you with the mediation service: in the cases that you expressly authorize us to do so, we will share with the insurance companies whose insurance companies we mediate and/or insurance brokers with whom we collaborate to provide the service, and with whom you have finally decided to hire, the information on the quality of the service that you have provided us in quality surveys or communications monitoring at our service and that we have carried out by any means.",
+                "So that third parties can show you personalized advertising: as detailed in the purpose of “marketing actions of third parties with whom we collaborate” in this privacy policy, it is never data or information that identifies you personally and only through cookies and only in cases where you have consented to it in accordance with our Cookie Policy {domain}",
+                "Beyond the above cases, you should keep in mind that if you provide additional data directly to insurance companies or other brokers, directly to them (for example on their website or by phone), or if you decide to contract their products or services, they will be directly responsible for this data, their privacy conditions being applicable, which we recommend that you consult."
+            ]
+        },
+        "yourRights": {
+            "title": "Your rights",
+            "subtitle": "WHAT RIGHTS DO YOU HAVE",
+            "underTextOne": {
+                "title": "As a data subject, you have a number of rights, but you should keep in mind that some of them don't apply in all situations. Where appropriate, your rights are:",
+                "text": [
+                    "Right to access your personal data: that is, to obtain information about whether your data is being processed and how it is being treated. If your request includes personal information about other people or if you are making a request on behalf of another person, we will need an identification of those people and a signed letter or authorization document confirming that they agree to you acting on their behalf.",
+                    "Right to be informed about the processing of your personal data: we comply with this right through this Policy.",
+                    "Right to rectification: that is, to have your personal data corrected if they are erroneous and to have them completed if they are incomplete.",
+                    "Right to object to the processing of your personal data.",
+                    "Right to erasure: that is, to have your personal data erased or blocked.",
+                    "Right to move, copy or transfer your personal data to whoever you request (data portability).",
+                    "Rights to automated decision-making based on your data, including the right not to have us create profiles with your data."
+                ]
+            },
+            "underTextTwo": {
+                "title": "HOW TO EXERCISE YOUR RIGHTS",
+                "text": [
+                    "To exercise your rights, you can write to us by email at: administracion@oneinsurance.es. You can also contact us by post: ONE SPAIN INSURANCE RISK MANAGEMENT SL/C/ GOBELAS, 25 28023 MADRID.",
+                    "Right to file a complaint with the AEPD:",
+                    "Finally, if you feel that your rights to the processing of your personal data have been violated, you also have the right to lodge a complaint with the appropriate supervisory authority. In Spain it is the Spanish Data Protection Agency (AEPD) and you can contact them at their headquarters (Spanish Data Protection Agency/ Calle Jorge Juan 6/28001 - Madrid) or on their website: https://www.aepd.es/es. Keep in mind that the only claims that can be submitted to the AEPD are solely and exclusively those relating to the processing of your personal data. Complaints related to the provision of our services must be submitted in accordance with the provisions of our Legal Notice in the section corresponding to each service."
+                ]
+            }
+        },
+        "trueAndOwnData": {
+            "title": "Truthful and proper data",
+            "text": "You are responsible for the data you provide to ONE SPAIN INSURANCE RISK MANAGEMENTS, so it is required that they be true and that they belong to you, since the result of the service will be based on those data and information provided. In the event that you use any of the services provided by ONE SPAIN INSURANCE RISK MANAGEMENTS with data that is not yours, you must also provide truthful information and ensure that the data subject has read and understands the conditions of the processing of his data and that he authorizes such treatment. You should bear in mind that if the data and information you provide to us is not true, it is possible that the provider of the products or services you want to contract may decide not to do so or modify the terms of contract. In these cases, ONE SPAIN INSURANCE RISK MANAGEMENTS also reserves the right not to contract with you. In addition, the inaccuracy and inaccuracy of the data provided may affect the offers available in the pre-contracting phase and, once the product or service is contracted, it could affect the validity of said contract."
+        },
+        "confidentiality": {
+            "title": "Confidentiality",
+            "text": [
+                "At ONE SPAIN INSURANCE RISK MANAGEMENTS, we strive to treat your personal data privately and confidentially. In cases where third parties collaborate with us who need to process your personal data as provided for in this Policy, we will ensure that they do so with the same level of confidentiality and security.",
+                "In addition to ONE SPAIN INSURANCE RISK MANAGEMENTS and the cases provided for in this Policy, other companies may have access to your data in the event of a corporate reorganization or the sale of our company to a third party, in which case, it will be necessary to transfer any personal information we have about you to the entity resulting from the reorganization or to the purchasing company.",
+                "At all times, we will continue to be the data controller, unless we expressly inform you otherwise. Exceptionally, we may communicate information to third parties beyond what is provided for in this Policy, such as if we are required by law, or in those cases where you expressly request it from us or we have your consent.",
+                "Finally, if you file a complaint about any of the services we have provided to you, we will probably need to send the details of this complaint, including your personal data, to the defense body to which you submit your complaint."
+            ]
+        },
+        "dataRetention": {
+            "title": "Data Retention",
+            "text": [
+                "We will keep your personal data for as long as we need them to provide you with the insurance comparison service after the end of the service, up to a maximum of 6 years for our analysis and profiling.",
+                "Once the previous period has elapsed, the data will be kept duly blocked, for as long as we are legally obliged or during which we may receive complaints for the provision of our services.",
+                "In the event that you request the mediation service of ONE SPAIN INSURANCE RISK MANAGEMENTS for auto insurance and want to save the data to continue later, by selecting this option, your data will be kept for 30 days, so that during this time, you can resume providing the service from where we left off."
+            ]
+        },
+        "securityData": {
+            "title": "Security of your data",
+            "text": [
+                "The ONE SPAIN INSURANCE RISK MANAGEMENTS website uses industry-standard security to encrypt sensitive data in transit to our servers. Your browser will confirm that you are in a secure area by showing a key or a closed lock in the lower right corner of your browser window.",
+                "Finally, you should keep in mind that communications over the Internet, just like emails, are not secure unless they have been encrypted. Your communications can go through several countries before being delivered - this is the nature of the Internet. Whenever you browse our web environment or communicate with us via email, your personal data will be encrypted and protected against unauthorized access in accordance with industry security standards. In the event that we suffer a security breach in our web environment or servers, we will implement our incident management plan to ensure the protection of your data and the satisfaction of your rights as the owner of the same."
+            ]
+        },
+        "ChangesThisPolicy": {
+            "title": "Changes to this policy",
+            "text": "This privacy policy was last updated on June 15, 2023. From time to time, we may need to change the way in which we treat your personal data and we will therefore need to modify this Policy. When we believe that this change may not be reasonably expected for you, we will write to you to confirm your acceptance. If the change does not require your consent, we will tell you so and you will not have to take any further action."
+        }
+    }
+}

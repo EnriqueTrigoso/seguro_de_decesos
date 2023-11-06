@@ -1,0 +1,25 @@
+.circle{
+    width: 34px;
+    height: 34px;
+    background-color: var(--green-primary);
+    display: flex;
+    align-items: center;
+    color: var(--white);
+    font-size: var(--sm);
+    border-radius: 50%;
+    justify-content: center;
+    font-weight: 500;
+}
+
+.circledisabled{
+    width: 34px;
+    height: 34px;
+    background-color: #EFF0F6;
+    display: flex;
+    align-items: center;
+    color: #6F6C90;
+    font-size: var(--sm);
+    border-radius: 50%;
+    justify-content: center;
+    font-weight: 500;
+}

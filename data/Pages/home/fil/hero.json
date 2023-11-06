@@ -1,0 +1,12 @@
+{
+    "hero": {
+        "title": "Magkumpara ng iyong seguro para sa pagkamatay sa /1 minuto at makatipid hanggang 40%/",
+        "description": "Sa /Eva Seguros/, makakakuha ka ng pinakamahusay na /seguro para sa pagkamatay/ sa /pinakamababang halaga/ at maaari ka ring /makatipid ng 220€ kada taon, sa pamamagitan ng pagkuha ng dalawang libreng linya ng mobile./",
+        "buttons": [
+            {
+                "text": "Magkumpara ngayon",
+                "url": "#"
+            }
+        ]
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "functioning": {
+        "title": "/사과/를 물어볼 용기가 있으세요?",
+        "description": "장례 보험으로 모바일 회선의 혜택을 누리십시오.",
+        "list_info": [
+            {
+                "title": "무제한 통화."
+            },
+            {
+                "title": "/20GB/의 이동 데이터."
+            },
+            {
+                "title": "유럽 연합에서의 무료 로밍."
+            }
+        ],
+        "phrase": "항상 연락주세요 /Eva Móvil에게 감사드립니다!/",
+        "button": {
+            "text": "쓰기",
+            "link": "https://api.whatsapp.com/send?phone=34983666666&text=%C2%A1Hola%2C%20Eva%20M%C3%B3vil!%F0%9F%93%9EMe%20gustar%C3%ADa%20obtener%20informaci%C3%B3n%20sobre%20tus%20tarifas.%F0%9F%98%81"
+        },
+        "metadata": {
+            "alt": "무료 모바일 회선",
+            "title": "무료 모바일 회선"
+        }
+    }
+}

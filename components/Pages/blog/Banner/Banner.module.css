@@ -1,0 +1,48 @@
+.banner {
+  display: flex;
+  align-items: center;
+}
+
+.details {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 1.25rem;
+}
+
+.title {
+  color: #232263;
+  text-align: center;
+  font-size: 1.75rem;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 120%;
+}
+
+.none_desktop {
+  display: none;
+}
+
+.none_mobil {
+  display: block;
+}
+
+@media (min-width: 1024px) {
+  .none_desktop {
+    display: block;
+  }
+
+  .none_mobil {
+    display: none;
+  }
+}
+
+@media (max-width: 1024px) {
+  .banner {
+    flex-direction: column;
+    gap: 2rem;
+    /* padding: 0%; */
+  }
+
+}

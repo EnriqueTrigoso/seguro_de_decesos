@@ -1,0 +1,33 @@
+.blue_background {
+  display: flex;
+  justify-content: center;
+  background-color: var(--blue-primary);
+  height: 160px;
+  width: 100%;
+}
+
+.blue_background img {
+  padding-top: 10px;
+  height: 100%;
+  width: auto;
+}
+
+.gratitude__text {
+  color: var(--aplications-text-regular, #344054);
+  text-align: center;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 140%;
+  letter-spacing: 0.18px;
+  margin-bottom: 36px;
+}
+
+.logo svg {
+  width: 150px;
+  margin: 24px auto;
+}
+
+.content {
+  padding: 0 32px;
+}

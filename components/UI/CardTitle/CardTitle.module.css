@@ -1,0 +1,52 @@
+.title_container {
+	display: flex;
+	flex-direction: column-reverse;
+	align-items: center;
+	justify-content: center;
+	gap: 5px;
+	background-color: #7B7AA126;
+	border-radius: 0.5rem;
+	padding: .5rem 1rem;
+}
+
+.circle {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	background-color: var(--green-primary);
+	width: 45px;
+	height: 45px;
+	border-radius: 100%;
+}
+
+.seguro_title {
+	color: var(--blue-primary);
+	text-align: center;
+}
+
+.title_1 {
+	font-size: 12px;
+	font-weight: 600;
+	line-height: 17px;
+}
+
+.title_2 {
+	font-size: 16px;
+	font-weight: 700;
+	line-height: 23px;
+}
+
+@media (min-width: 1024px) {
+
+	.title_container {
+		flex-direction: row;
+		justify-content: flex-start;
+		gap: 20px;
+	}
+
+	.circle {
+		width: 60px;
+		height: 60px;
+	}
+
+}

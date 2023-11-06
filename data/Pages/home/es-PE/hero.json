@@ -1,0 +1,12 @@
+{
+    "hero": {
+        "title": "Compara tu seguro de sepelio en /1 minuto y ahórrate hasta un 40%/",
+        "description": "En /Eva Seguros/ conseguirás el mejor /seguro de sepelio/ al /mejor precio/ y también /podrás ahorrar 220€ al año, al conseguir gratis dos líneas móviles./",
+        "buttons": [
+            {
+                "text": "Compara ahora",
+                "url": "#"
+            }
+        ]
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "solidarity_projects": {
+        "title": "세상은 /말로 개선되지 않고/, /예시로/ 개선됩니다.",
+        "description": "“미래를 예측할 수는 없지만 미래를 건설하는 데 도움을 줄 수는 있습니다.”",
+        "buttons": [
+            {
+                "text": "연대 프로젝트 보기",
+                "url": "#"
+            }
+        ],
+        "cards": [
+            {
+                "title": "엑세서블 유니버스 재단",
+                "description": "Eva Seguros는 유니버소 접근성 재단 및 Universo Santi 프로젝트와 함께 장애인의 삶의 질을 향상시키고자 합니다.",
+                "url": "https://universoaccesible.org",
+                "url_text": "자세히 알아보기"
+            },
+            {
+                "title": "플래닛 포 더 플래닛",
+                "description": "고객당 나무 한 그루.에바 세구로스 (Eva Seguros) 와 플랜트 포 더 플래닛 (Plant For The Planet) 은 더 푸른 세상을 만들기 위해 노력하고 있으며, 2030년까지 100만 그루의 나무를 심는 것을 목표로 하고 있습니다.",
+                "url": "https://www.plant-for-the-planet.org",
+                "url_text": "자세히 알아보기"
+            }
+        ]
+    }
+}

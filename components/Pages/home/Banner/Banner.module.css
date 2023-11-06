@@ -1,0 +1,255 @@
+.Banner {
+    position: relative;
+    padding-top: 2.5rem;
+    background: radial-gradient(556.27% 49.84% at 51.88% 51.93%, #232263 0%, #393889 100%);
+}
+
+.content {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.details {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 2rem;
+    align-self: stretch;
+    padding-bottom: 2rem;
+}
+
+.h2 {
+    color: var(--white);
+    font-size: 2rem;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 120%;
+}
+
+.p {
+    color: var(--white);
+    font-size: 1.25rem;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 130%;
+}
+
+.card_phone {
+    position: absolute;
+    top: 230px;
+    left: 6px;
+    border: 1px solid #232263;
+    width: 6.625rem;
+
+}
+
+.detail {
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 0.625rem;
+    display: flex;
+}
+
+.phone_container,
+.mobile_container {
+    position: absolute;
+    width: 100%;
+    border-radius: 8px;
+    gap: 14px;
+    justify-content: center;
+    align-items: center;
+    background: var(--colors-gray-00, #FFF);
+    box-shadow: 5.45773px 1.65692px 5.86667px 0px rgba(0, 0, 0, 0.05), 25.80019px 7.83273px 22.93333px 0px rgba(0, 0, 0, 0.08), 66.98125px 20.33498px 72px 0px rgba(0, 0, 0, 0.13);
+}
+
+.phone_container {
+    width: 18.5%;
+    height: auto;
+    aspect-ratio: 63 / 88;
+    padding: 2%;
+    left: 5%;
+    bottom: 35%;
+    text-align: center;
+    animation: move_up_down 2s linear infinite;
+}
+
+@keyframes move_up_down {
+    0% {
+        transform: translateY(0);
+    }
+
+    50% {
+        transform: translateY(25px);
+    }
+
+    100% {
+        transform: translateY(0);
+    }
+}
+
+.phone_container .icon_wrapper {
+    position: relative;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.phone_container span {
+    color: var(--aplications-text-heading, #232263);
+    font-style: normal;
+    font-weight: 600;
+    line-height: 130%;
+    letter-spacing: 0.168px;
+}
+
+.mobile_container {
+    width: 37%;
+    height: auto;
+    aspect-ratio: 212 / 92;
+    padding: 2%;
+    bottom: 11%;
+    right: 9%;
+    animation: move_left_right 2s linear infinite;
+}
+
+@keyframes move_left_right {
+    0% {
+        transform: translateX(0);
+    }
+
+    50% {
+        transform: translateX(25px);
+    }
+
+    100% {
+        transform: translateX(0);
+    }
+}
+
+.mobile_container .icon_wrapper {
+    position: relative;
+    height: 100%;
+    display: grid;
+    grid-template-columns: auto 1fr;
+    align-items: center;
+    grid-gap: 10px;
+}
+
+.mobile_container span {
+    color: var(--aplications-text-heading, #232263);
+    font-size: 75%;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 140%;
+    /* 13.41px */
+    letter-spacing: 0.096px;
+}
+
+.icon {
+    display: grid;
+    place-items: center;
+    border-radius: 6.118px;
+    background: rgba(210, 255, 233, 0.80);
+}
+
+.phone_container .icon {
+    width: 100%;
+    height: auto;
+    aspect-ratio: 51 / 42;
+}
+
+.mobile_container .icon {
+    width: auto;
+    height: 100%;
+}
+
+.icon svg {
+    width: 60%;
+    height: auto;
+}
+
+.content_image {
+    max-width: 556px;
+    position: relative;
+}
+
+@media (min-width: 1024px) {
+    .Banner {
+        margin-top: 5rem;
+    }
+
+    .h2 {
+        font-size: 2.5rem;
+    }
+
+    .content {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        height: 24.3125rem;
+        padding: 0 100px;
+    }
+
+    .details {
+        display: flex;
+        width: 25rem;
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 2rem;
+        align-self: stretch;
+    }
+
+    .content_image {
+        position: absolute;
+        bottom: 0;
+        right: 0;
+        right: 100px;
+    }
+
+    .content::before {
+        content: "";
+        position: absolute;
+        left: -20px;
+        top: 10px;
+        width: 100%;
+        height: 180px;
+        background: url("../../../../assets/imgs/shape.webp") no-repeat;
+        background-size: contain;
+        background-position: left;
+    }
+
+    .phone_container {
+        width: 106px;
+        height: 148px;
+        width: 106px;
+        padding: 16px 10px;
+        left: 25px;
+        bottom: 180px;
+    }
+
+    .mobile_container {
+        width: 212px;
+        height: 92px;
+        padding: 11px;
+        gap: 14px;
+        bottom: 50px;
+        right: 60px;
+    }
+
+    .icon {
+        width: 81px;
+        height: 71px;
+    }
+
+    .phone_container span {
+        font-size: 14px;
+        line-height: 130%;
+        letter-spacing: 0.168px;
+    }
+
+}

@@ -1,0 +1,6 @@
+{
+  "title": "Introdueix la teva nova contrasenya",
+  "button_text": "Canviar Contrasenya",
+  "placeholder": "Escriu la teva nova contrasenya",
+  "error_msg": "Introdueix una contrasenya d'almenys 8 caràcters alfanumèrics"
+}

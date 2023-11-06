@@ -1,0 +1,14 @@
+{
+    "title": "Vă vom suna în scurt timp",
+    "description": " Unul dintre agenții noștri specializați vă va contacta cât mai curând posibil.",
+    "phonePlaceholder": "Telefon",
+    "errorMsgPhone": "Vă rugăm să introduceți un număr valid",
+    "namePlaceholder": "Nume",
+    "errorMsgName": "Câmpul „Nume” acceptă doar litere și spații goale",
+    "callQuestion": "Când vrei să fii chemat?",
+    "timeRightNow": "Chiar acum",
+    "timeTomorrow": "dimineaţă",
+    "timeOneWeek": "În termen de 1 săptămână",
+    "btnCallMe": "Lasă-i să mă sune",
+    "gratitude": "Mulțumim pentru partajarea datelor dvs. cu noi. /Vom lua legătura cu dumneavoastră în cel mai scurt timp posibil./"
+}

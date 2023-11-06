@@ -1,0 +1,7 @@
+{
+	"input_title": "Data de naixement",
+	"title1": "Persona titular: (Obligatori)",
+	"title2": "° persona: (Opcional)",
+	"placeholder": "dd/mm/aaaa",
+	"error_msg": "Si us plau, introduïu una data vàlida"
+}

@@ -1,0 +1,23 @@
+{
+    "error": {
+        "name": "Inserisci un nome valido",
+        "phone": "Inserisci un numero di telefono valido",
+        "email": "Inserisci un indirizzo email valido",
+        "email_already_registered": "L'utente è già registrato"
+    },
+    "input": [
+        {
+            "title": "Nome e cognome:*",
+            "placeholder": "Inserisci il tuo nome"
+        },
+        {
+            "title": "Telefono:*",
+            "placeholder": "Inserisci il tuo numero di telefono"
+        },
+        {
+            "title": "Indirizzo email:*",
+            "placeholder": "Inserisci il tuo indirizzo email"
+        }
+    ],
+    "button": "Confronta le offerte"
+}

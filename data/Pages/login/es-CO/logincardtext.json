@@ -1,0 +1,76 @@
+{
+  "login": {
+    "title": "Iniciar sesión",
+    "description": "Accede a tu cuenta en {domain} Podrás ver ofertas y recomendaciones personalizadas.",
+    "input_email": {
+      "title": "Dirección de correo electrónico*",
+      "placeholder": [
+        "Escribir dirección de correo electrónico",
+        "Correo electrónico"
+      ],
+      "error_msg": "Correo electrónico no válido"
+    },
+    "input_password": {
+      "title": "Contraseña*",
+      "placeholder": "Escribir contraseña",
+      "error_msg": "Contraseña incorrecta, inténtalo de nuevo"
+    },
+    "checkbox": "Recuérdame",
+    "forgetPassword": "¿Olvidaste tu contraseña?",
+    "button": "Iniciar sesión",
+    "description2": "También puedes iniciar sesión con:",
+    "social_buttons": [
+      "Continuar con Google",
+      "Continuar con Facebook"
+    ],
+    "accion": [
+      "¿No tienes una cuenta?",
+      "Crear cuenta"
+    ]
+  },
+  "register": {
+    "title": "Regístrate",
+    "description": "Regístrate en SegurodeSepelio.com. Podrás ver ofertas y recomendaciones personalizadas.",
+    "input_name": {
+      "title": "Nombres*",
+      "placeholder": "Escribir nombres",
+      "error_msg": "Escribe un nombre, solo deben ser letras"
+    },
+    "input_p_surname": {
+      "title": "Primer Apellido*",
+      "placeholder": "Escribir Primer Apellido",
+      "error_msg": "Escribe un Apellido, solo deben ser letras"
+    },
+    "input_m_surname": {
+      "title": "Segundo Apellido",
+      "placeholder": "Escribir Segundo Apellido",
+      "error_msg": "Escribe un Apellido, solo deben ser letras"
+    },
+    "input_email": {
+      "title": "Dirección de correo electrónico*",
+      "placeholder": [
+        "Escribir dirección de correo electrónico",
+        "Correo electrónico"
+      ],
+      "error_msg": [
+        "Correo electrónico no válido"
+      ]
+    },
+    "input_password": {
+      "title": "Contraseña*",
+      "placeholder": "Escribir contraseña",
+      "error_msg": "Ingrese una contraseña de al menos 8 caracteres alfanuméricos"
+    },
+    "checkbox": "Al hacer clic en el botón Registrarse, aceptas nuestros términos y política.",
+    "button": "Registrarse",
+    "description2": "También puedes registrarte con:",
+    "social_buttons": [
+      "Crear cuenta con Google",
+      "Crear cuenta con Facebook"
+    ],
+    "accion": [
+      "¿Ya tienes una cuenta?",
+      "Iniciar sesión"
+    ]
+  }
+}

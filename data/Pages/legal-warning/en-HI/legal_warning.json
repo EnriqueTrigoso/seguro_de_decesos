@@ -1,0 +1,73 @@
+{
+    "legal_warning": {
+        "metadata": {
+            "title": "Legal Notice",
+            "description": "Legal Notice"
+        },
+        "title": "LEGAL NOTICE",
+        "section1": {
+            "title": "INFORMATION TO THE USER:",
+            "description": "The purpose of this document is to inform the User about the processing of their personal data by EVA SEGUROS, hereinafter referred to as the RESPONSIBLE, in accordance with current regulations on the protection of personal data, including Regulation (EU) 2016/679 of April 27, 2016 (RGPD) and Organic Law 3/2018, of December 5, on the protection of personal data and the guarantee of digital rights (LOPDGDD). The following information is provided below:",
+            "purpose_of_the_treatment": "{Purpose of the processing:} The purpose of the processing of personal data is to maintain a business relationship with the User. The operations planned to carry out such treatment are the following:",
+            "operations": [
+                "Management of policies, claims, and any type of query or request made by the User through the different contact channels available.",
+                "Sending commercial and advertising communications by electronic or physical means, including email, fax, SMS, MMS and social networks, related to EVA SEGUROS products and services, as well as to its collaborators or suppliers with whom promotion agreements have been established.",
+                "Transfer of data to sponsors and third companies in the insurance sector to send personalized information about their products and services.",
+                "Carrying out market research, evaluation surveys and statistical analysis.",
+                "Inclusion in lists or information services.",
+                "Management of suggestions and complaints.",
+                "Compliance with legal or regulatory obligations",
+                "Profiling or crossing data with public or private lists.",
+                "Organization of contests and offers."
+            ],
+            "data_treatment": [
+                "In compliance with the above-mentioned purposes, EVA SEGUROS may interconnect the data collected in order to update and complete the information.",
+                "Sectors of activity and data transfer: Personal data may be transferred to third companies in the insurance sector, financial institutions, and other related sectors, with the purpose of providing interested parties with information related to insurance and related services. Data collection and processing: EVA SEGUROS processes personal data provided by users, including information:"
+            ],
+            "data_treatment_list": [
+                "Identification (name, surname, VAT number, postal address, telephone numbers, email).",
+                "Personal characteristics (marital status, date and place of birth, age, sex, nationality, family data).",
+                "Academic and professional data (training and employment).",
+                "Bank details (for the management of payments and policies).",
+                "Business information (activities and businesses, subscriptions to publications, business license).",
+                "Economic, financial and insurance data (credits, loans, insurance), among others."
+            ],
+            "data_retention": "{Data Retention:} The data provided will be kept as long as there is a current business relationship or for the time necessary to comply with established legal obligations.",
+            "legitimation_of_the_treatment": "{Legitimation of the processing:} The processing of personal data is based on the prior consent of the interested party, in accordance with Article 6.1 a) of the GDPR. The interested party gave their consent to the processing of their personal data for one or more specific purposes.",
+            "data_retention_criteria": "{Data Retention Criteria:} The data will be kept as long as there is a mutual interest in maintaining the purpose of the treatment. Once the data is no longer necessary for this purpose, they will be deleted using appropriate security measures to guarantee their pseudonymization or complete destruction.",
+            "transfer_of_data": "{Transfer of data:} EVA SEGUROS may share the data collected with the following entities, respecting confidentiality and the purpose of its collection:",
+            "transfer_of_data_list": [
+                "Those responsible for the processing of personal data (sponsors) and third companies in the insurance sector.",
+                "Recruiting and selection companies."
+            ],
+            "information_to_third_parties": "EVA SEGUROS may transfer information to third parties without the prior consent of the users in cases where the transfer is authorized by law, in the case of data obtained from publicly accessible sources, when the transfer is destined to the Ombudsman, Public Prosecutor's Office, Judges or Courts, Court of Auditors, regional institutions with functions similar to the Ombudsman or the Court of Auditors, or when the communication is made after a process of dissociation.",
+            "contact_text": "If you have any other questions or need more information, don't hesitate to contact us. We will be happy to help you.",
+            "subtitle_user_rights": "User Rights:",
+            "user_rights_text": "As the data subject, you have a number of rights, although you must keep in mind that not all of them apply in all situations. If applicable, these are your rights:",
+            "user_rights_list": [
+                "Right to obtain access to your personal data: this involves obtaining information about whether your data is being processed and how it is being processed. If your request includes personal data of other people or if you are acting on behalf of someone else, you will need to provide identification of those individuals and a signed letter or authorization document confirming their consent for you to act on their behalf.",
+                "Right to receive information about the processing of your personal data: we comply with this right through this Policy.",
+                "Right to rectification: that is, the right to correct your personal data if they are incorrect or to complete them if they are incomplete.",
+                "Right to object to the processing of your personal data.",
+                "Right of deletion: this involves the possibility of requesting that your personal data be deleted or blocked.",
+                "Right to move, copy or transfer your personal data to an entity of your choice (data portability).",
+                "Rights related to making automated decisions based on your data, including the right not to have your data profiled."
+            ],
+            "subtitle_claim": "Right to file a complaint with the AEPD:",
+            "subtitle_claim_text": "If you consider that your rights in relation to the processing of your personal data have been violated, you also have the right to lodge a complaint with the appropriate supervisory authority. In Spain, this authority is the Spanish Data Protection Agency (AEPD). You can contact them at their headquarters located at Calle Jorge Juan 6, 28001 - Madrid, or visit their website: https://www.aepd.es/es. Keep in mind that you can only submit claims to the AEPD related to the processing of your personal data. Complaints related to the provision of our services must be submitted in accordance with the provisions of our Legal Notice, in the section corresponding to each service.",
+            "claim_contact_text": "Contact information to exercise your rights:",
+            "claim_contact_list": [
+                "Mailing address: CALLE HOSPITAL STA. MARGARITA, 1 REAR BASS 2, 20303, IRUN, GUIPUZCOA",
+                "Email address: atencionalcliente@evaseguros.es"
+            ]
+        },
+        "section2": {
+            "title": "MANDATORY OR OPTIONAL NATURE OF THE INFORMATION PROVIDED BY THE USER:",
+            "description": "By checking the corresponding boxes and filling in the fields marked with an asterisk (*) in the contact form or in the download forms, Users expressly, freely and unequivocally accept that their data is necessary to fulfill their request by the provider, and the inclusion of data in the other fields is optional. The User guarantees the veracity of the personal data provided to the RESPONSIBLE and undertakes to report any changes to them. The RESPONSIBLE party expressly informs and guarantees users that, whenever they make any transfer of personal data, they will first request express, informed and unambiguous consent from the Users. All data requested through the website are mandatory, as they are necessary to provide an optimal service to the User. If all data is not provided, it cannot be guaranteed that the information and services provided are fully adequate to your needs."
+        },
+        "section3": {
+            "title": "SECURITY MEASURES:",
+            "description": "In accordance with current regulations on the protection of personal data, the RESPONSIBLE party complies with all the provisions established in the RGPD and the LOPDGDD for the processing of personal data under his responsibility. Explicitly, the data are processed lawfully, fairly and transparently in relation to the interested party, and are limited to what is necessary and appropriate for the purposes for which they are processed, as described in article 5 of the RGPD and article 4 of the LOPDGDD. The RESPONSIBLE party guarantees that it has implemented appropriate technical and organizational policies to apply the security measures required by the RGPD and the LOPDGDD, in order to protect the rights and freedoms of Users. In addition, appropriate information has been provided to Users so that they can exercise their rights."
+        }
+    }
+}

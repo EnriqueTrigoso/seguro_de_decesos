@@ -1,0 +1,25 @@
+{
+    "404": {
+        "metadata": {
+            "title": "Wow! aquesta pàgina no existeix.",
+            "description": "La pàgina que busques no existeix."
+        },
+        "content": {
+            "title": "Wow! aquesta pàgina no existeix.",
+            "description": "La pàgina que heu sol·licitat no s'ha pogut trobar",
+            "button_text": "Torna a la pàgina d'inici",
+            "cards": [
+                {
+                    "title": "Ajuda i suport",
+                    "subtitle": "Adreça electrònica: support@evaseguros.es",
+                    "description": "Per obtenir ajuda amb un producte o servei actual o consulteu les preguntes més freqüents"
+                },
+                {
+                    "title": "Truca'ns",
+                    "subtitle": "Truca'ns per parlar amb un membre del nostre equip.",
+                    "description": "(+01) 234 567 89"
+                }
+            ]
+        }
+    }
+}

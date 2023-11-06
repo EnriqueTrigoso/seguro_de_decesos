@@ -1,0 +1,10 @@
+{
+    "login": {
+        "title1": "Har du inget konto?",
+        "title2": "Bli Medlem"
+    },
+    "register": {
+        "title1": "Har du redan ett konto?",
+        "title2": "Starta sessionen"
+    }
+}

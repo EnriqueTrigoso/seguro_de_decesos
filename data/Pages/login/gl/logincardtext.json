@@ -1,0 +1,76 @@
+{
+  "login": {
+    "title": "Iniciar sesión",
+    "description": "Accede á túa conta {domain} Poderás ver ofertas e recomendacións personalizadas.",
+    "input_email": {
+      "title": "Dirección de correo electrónico*",
+      "placeholder": [
+        "Escribir dirección de correo electrónico",
+        "Correo electrónico"
+      ],
+      "error_msg": "Correo electrónico non válido"
+    },
+    "input_password": {
+      "title": "Contrasinal*",
+      "placeholder": "Escribir contrasinal",
+      "error_msg": "Contrasinal incorrecto, inténtao de novo"
+    },
+    "checkbox": "Lembrar de min",
+    "forgetPassword": "Esqueceches o teu contrasinal?",
+    "button": "Iniciar sesión",
+    "description2": "O tamén podes:",
+    "social_buttons": [
+      "Continuar con Google",
+      "Continuar con Facebook"
+    ],
+    "accion": [
+      "Non tes unha conta?",
+      "Crear conta"
+    ]
+  },
+  "register": {
+    "title": "Rexístrate",
+    "description": "Rexístrate en SegurodeMorte.com Poderás ver ofertas e recomendacións personalizadas.",
+    "input_name": {
+      "title": "Nomes*",
+      "placeholder": "Escribir nomes",
+      "error_msg": "Escribe un nome, só deben ser letras"
+    },
+    "input_p_surname": {
+      "title": "Primeiro Apelido*",
+      "placeholder": "Escribir Primeiro Apelido",
+      "error_msg": "Escribe un Apelido, só deben ser letras"
+    },
+    "input_m_surname": {
+      "title": "Segundo Apelido",
+      "placeholder": "Escribir Segundo Apelido",
+      "error_msg": "Escribe un Apelido, só deben ser letras"
+    },
+    "input_email": {
+      "title": "Dirección de correo electrónico*",
+      "placeholder": [
+        "Escribir dirección de correo electrónico",
+        "Correo electrónico"
+      ],
+      "error_msg": [
+        "Correo electrónico non válido"
+      ]
+    },
+    "input_password": {
+      "title": "Contrasinal*",
+      "placeholder": "Escribir contrasinal",
+      "error_msg": "Introduce un contrasinal de polo menos 8 caracteres alfanuméricos"
+    },
+    "checkbox": "Ao facer clic no botón Rexistrarse, acepta os nosos termos e política,",
+    "button": "Rexistrarse",
+    "description2": "O también puedes:",
+    "social_buttons": [
+      "Crear tu cuenta con Google",
+      "Crear tu con Facebook"
+    ],
+    "accion": [
+      "Xa tes unha conta?",
+      "Iniciar sesión"
+    ]
+  }
+}

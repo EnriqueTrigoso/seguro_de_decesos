@@ -1,0 +1,28 @@
+{
+    "faq": {
+        "title": "Preguntas frecuentes",
+        "description": "Tes algunhas dúbidas? Lee algunhas das nosas preguntas frecuentes ou contacta cos nosos asesores para obter axuda.",
+        "questions": [
+            {
+                "question": "Que é un seguro de decesos?",
+                "answer": "Un seguro de decesos está deseñado para axudar ás familias nos momentos máis delicados e garante a prestación do servizo fúnebre e trámites relacionados coa morte dunha persoa. Contrátase coa finalidade de aliviar a carga financeira e loxística que conleva un enterro e os trámites legais e administrativos asociados ao deceso."
+            },
+            {
+                "question": "Cales son os beneficios de comparar con nós?",
+                "answer": "Compara en menos de 1 minuto dende unha interface doada de usar. Eva Seguros axúdate a elixir entre as mellores compañías de seguros de decesos en España."
+            },
+            {
+                "question": "Como atopar un seguro de decesos que mellor se adapta a ti?",
+                "answer": "A través do noso comparador de seguros de decesos podes filtrar as ofertas das mellores compañías para atopar os seguros de decesos que mellor se adaptan a ti."
+            },
+            {
+                "question": "Canto custa un seguro de decesos?",
+                "answer": "Hai un amplo rango de primas que dependen da cantidade de coberturas adicionais que contrates e da modalidade na cal pagues a prima. No noso comparador de seguros de decesos podes atopar os prezos máis económicos."
+            },
+            {
+                "question": "Quen pode contratar un seguro de decesos?",
+                "answer": "Calquera persoa maior de idade pode contratar un seguro de decesos."
+            }
+        ]
+    }
+}

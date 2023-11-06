@@ -1,0 +1,26 @@
+{
+    "functioning": {
+        "title": "Осмелишься укусить /яблоко/?",
+        "description": "Воспользуйтесь преимуществами мобильной связи благодаря страхованию похорон.",
+        "list_info": [
+            {
+                "title": "Безлимитные звонки."
+            },
+            {
+                "title": "/20GB/ мобильных данных."
+            },
+            {
+                "title": "Бесплатный роуминг в Европейском Союзе."
+            }
+        ],
+        "phrase": "Всегда оставайтесь на связи /благодаря Eva Móvil! /",
+        "button": {
+            "text": "Напишите нам",
+            "link": "https://api.whatsapp.com/send?phone=34983666666&text=%C2%A1Hola%2C%20Eva%20M%C3%B3vil!%F0%9F%93%9EMe%20gustar%C3%ADa%20obtener%20informaci%C3%B3n%20sobre%20tus%20tarifas.%F0%9F%98%81"
+        },
+        "metadata": {
+            "alt": "Líneas móviles gratis",
+            "title": "Lineas moviles gratis"
+        }
+    }
+}

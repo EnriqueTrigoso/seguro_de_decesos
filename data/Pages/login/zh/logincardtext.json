@@ -1,0 +1,76 @@
+{
+    "login": {
+        "title": "登录",
+        "description": "登录您的 {domain} 账户。您将能够看到个性化的优惠和推荐。",
+        "input_email": {
+            "title": "电子邮件地址",
+            "placeholder": [
+                "输入电子邮件地址",
+                "电子邮件"
+            ],
+            "error_msg": "无效的电子邮件"
+        },
+        "input_password": {
+            "title": "密码",
+            "placeholder": "键入密码",
+            "error_msg": "密码不正确，请重试"
+        },
+        "checkbox": "记住我",
+        "forgetPassword": "忘记密码了吗？",
+        "button": "登录",
+        "description2": "或者你也可以：",
+        "social_buttons": [
+            "继续使用谷歌",
+            "继续使用 Facebook"
+        ],
+        "accion": [
+            "你没有账号吗？",
+            "创建账户"
+        ]
+    },
+    "register": {
+        "title": "注册",
+        "description": "注册 Segurodedecesos.com 你就能看到个性化的优惠和推荐。",
+        "input_name": {
+            "title": "姓名",
+            "placeholder": "写名字",
+            "error_msg": "写个名字，只能是字母"
+        },
+        "input_p_surname": {
+            "title": "名字",
+            "placeholder": "写上名字",
+            "error_msg": "写一个姓氏，只能是字母"
+        },
+        "input_m_surname": {
+            "title": "第二个姓氏",
+            "placeholder": "键入第二个姓氏",
+            "error_msg": "写一个姓氏，只能是字母"
+        },
+        "input_email": {
+            "title": "电子邮件地址",
+            "placeholder": [
+                "输入电子邮件地址",
+                "电子邮件"
+            ],
+            "error_msg": [
+                "无效的电子邮件"
+            ]
+        },
+        "input_password": {
+            "title": "密码",
+            "placeholder": "键入密码",
+            "error_msg": "请输入至少包含 8 个字母数字字符的密码"
+        },
+        "checkbox": "单击 “注册” 按钮，即表示您接受我们的 /条款和政策。/",
+        "button": "注册",
+        "description2": "或者你也可以：",
+        "social_buttons": [
+            "在谷歌上创建你的账户",
+            "使用 Facebook 创建你的"
+        ],
+        "accion": [
+            "你已经有账户了吗？",
+            "登录"
+        ]
+    }
+}

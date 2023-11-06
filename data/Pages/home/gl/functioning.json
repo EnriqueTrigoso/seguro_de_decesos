@@ -1,0 +1,26 @@
+{
+    "functioning": {
+        "title": "Atreveste a morder a /mazá/?",
+        "description": "Goza dos beneficios que ofrecen as liñas móbeis grazas ao teu seguro de decesos.",
+        "list_info": [
+            {
+                "title": "Chamadas ilimitadas."
+            },
+            {
+                "title": "/20GB/ de datos móbiles."
+            },
+            {
+                "title": "Roaming gratuíto na Unión Europea."
+            }
+        ],
+        "phrase": "Mantente sempre comunicado /grazas a Eva Móbil!/",
+        "button": {
+            "text": "Escríbenos",
+            "link": "https://api.whatsapp.com/send?phone=34983666666&text=%C2%A1Hola%2C%20Eva%20M%C3%B3vil!%F0%9F%93%9EMe%20gustar%C3%ADa%20obtener%20informaci%C3%B3n%20sobre%20tus%20tarifas.%F0%9F%98%81"
+        },
+        "metadata": {
+            "alt": "Líneas móviles gratis",
+            "title": "Lineas moviles gratis"
+        }
+    }
+}

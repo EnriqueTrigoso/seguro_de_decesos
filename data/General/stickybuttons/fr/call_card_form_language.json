@@ -1,0 +1,13 @@
+{
+  "title": "Entrez votre numéro de téléphone et votre nom, et ils vous contacteront.",
+  "phonePlaceholder": "Numéro de téléphone",
+  "errorMsgPhone": "Veuillez entrer un numéro valide.",
+  "namePlaceholder": "Nom",
+  "errorMsgName": "Le champ 'Nom' n'accepte que les lettres et les espaces.",
+  "callQuestion": "Quand souhaitez-vous qu'ils vous appellent?",
+  "timeRightNow": "Tout de suite",
+  "timeTomorrow": "Demain",
+  "timeOneWeek": "Dans 1 semaine",
+  "btnCallMe": "Appelez-moi",
+  "gratitude": "Merci de partager vos données avec nous. /Nous vous contacterons dans les plus brefs délais./"
+}

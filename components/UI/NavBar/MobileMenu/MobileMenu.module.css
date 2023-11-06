@@ -1,0 +1,9 @@
+/* .menu {
+	display: relative;
+} */
+
+@media (min-width: 1024px) {
+	.menu {
+		display: none;
+	}
+}

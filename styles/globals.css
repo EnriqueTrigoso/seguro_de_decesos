@@ -1,0 +1,150 @@
+:root {
+  --green-primary: #00983a;
+  --blue-primary: #232263;
+  --gray-primary: #363352;
+  --white: #ffffff;
+  --textos: #344054;
+  --section-margin-desktop: 100px;
+  --section-margin-mobile: 60px;
+  --buttons-border-radius: 8px;
+}
+
+html,
+body {
+  padding: 0;
+  margin: 0;
+  letter-spacing: 0.005em;
+  scroll-behavior: smooth;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+p {
+  margin: 0;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  margin: 0;
+}
+
+ul {
+  text-decoration: none;
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+input {
+  padding: 0;
+  background: none;
+  border: none;
+  border-radius: 0;
+  outline: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  width: 100%;
+}
+
+input:focus,
+textarea:focus,
+select:focus {
+  outline: none;
+  border-color: transparent;
+  box-shadow: none;
+}
+
+/* Chrome, Safari, Edge, Opera */
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+/* Firefox */
+input[type="number"] {
+  -moz-appearance: textfield;
+}
+
+input:-webkit-autofill,
+input:-webkit-autofill:hover,
+input:-webkit-autofill:focus,
+input:-webkit-autofill:active {
+  -webkit-box-shadow: 0 0 0 30px transparent inset !important;
+}
+
+button,
+input[type="submit"],
+input[type="reset"] {
+  background: none;
+  color: inherit;
+  border: none;
+  padding: 0;
+  font: inherit;
+  cursor: pointer;
+  outline: inherit;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+svg {
+  display: block;
+}
+
+.container {
+  max-width: 100%;
+  padding: 0 15px;
+  margin: 0 auto;
+  position: relative;
+}
+
+.modal {
+  position: fixed;
+  background: var(--neutral-overlay-dark, rgba(35, 38, 59, 0.6));
+  backdrop-filter: blur(8.5px);
+  width: 100%;
+  min-height: 100vh;
+  top: 0;
+  left: 0;
+  z-index: 99999;
+}
+
+.center {
+  display: grid;
+  place-content: center;
+}
+
+@media (max-width: 1024px) {
+  .container {
+    max-width: 500px;
+  }
+}
+
+@media (min-width: 1024px) {
+  .container {
+    min-width: 1024px;
+    padding: 0 12px;
+  }
+}
+
+@media (min-width: 1324px) {
+  .container {
+    max-width: 1324px;
+  }
+}

@@ -1,0 +1,56 @@
+.head {
+	display: grid;
+	place-items: center;
+	margin-top: 70px;
+	margin-bottom: 80px;
+}
+
+.head h1 {
+	margin-top: 44px;
+	margin-bottom: 30px;
+}
+
+.head p {
+	margin-bottom: 54px;
+}
+
+.head button {
+	width: 343px;
+	height: 68px;
+	border-radius: 50px;
+}
+
+.footer {
+	margin-bottom: 93px;
+	display: flex;
+	justify-content: center;
+}
+
+.cards {
+	max-width: 800px;
+	margin: 0 70px;
+	display: grid;
+	grid-template-columns: repeat(2, 1fr);
+	gap: 40px;
+}
+
+@media screen and (max-width: 1060px) {
+	.cards {
+		grid-template-columns: repeat(2, auto);
+		grid-template-rows: repeat(2, auto);
+	}
+}
+
+@media screen and (max-width: 760px) {
+	.head button {
+		width: 300px; 
+	}
+
+	.cards {
+		grid-template-columns: initial;
+	}
+
+	.head h1 {
+		text-align: center;
+	}
+}

@@ -1,0 +1,72 @@
+{
+  "footer_text": {
+    "social_title": "Magkumpara sa mga pinakamahusay na kompanya ng seguro ng pagkamatay sa merkado.",
+    "social_description": "Sundan kami sa aming mga social media.",
+    "section1": {
+      "title": "Tungkol Sa Amin",
+      "options": [
+        {
+          "title": "Misyon at Pangitain",
+          "href": "#"
+        },
+        {
+          "title": "Aming Tukuyan na Koponan",
+          "href": "#"
+        }
+      ]
+    },
+    "section2": {
+      "title": "Karagdagang Impormasyon",
+      "options": [
+        {
+          "title": "Kilalanin si Eva",
+          "href": "#"
+        },
+        {
+          "title": "Tanim-para-sa-Planeta",
+          "href": "#"
+        },
+        {
+          "title": "Sa Abot-Kamay na Uniberso",
+          "href": "#"
+        },
+        {
+          "title": "Uniberso ni Santi",
+          "href": "#"
+        }
+      ]
+    },
+    "section3": {
+      "title": "Ang Aming Alok",
+      "options": [
+        {
+          "title": "Pólisa ng Pagkamatay",
+          "href": "#"
+        },
+        {
+          "title": "Pólisa ng Buhay",
+          "href": "#"
+        },
+        {
+          "title": "Pólisa ng Tahanan",
+          "href": "#"
+        }
+      ]
+    },
+    "section4": {
+      "title": "Legal",
+      "options": [
+        {
+          "title": "Legal na Abiso"
+        },
+        {
+          "title": "Patakaran sa Pagkapribado"
+        },
+        {
+          "title": "Patakaran sa Cookies"
+        }
+      ]
+    },
+    "copyright": "{domain} 2023. Lahat ng karapatan ay nakalaan."
+  }
+}

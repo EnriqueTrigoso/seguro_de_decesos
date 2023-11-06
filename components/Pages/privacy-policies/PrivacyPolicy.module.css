@@ -1,0 +1,30 @@
+.privacy_policy_content section {
+    margin-bottom: 14px;
+}
+
+.privacy_policy_content ul {
+    list-style-type: " - ";
+}
+
+.privacy_policy_content ul li:first-child {
+    margin-top: 4px;
+}
+
+.privacy_policy_content ul li {
+    margin-bottom: 6px;
+}
+
+.ul_under li {
+    margin-top: 6px;
+    margin-left: 28px;
+    list-style-type: circle;
+}
+
+.privacy_policy_content section:nth-child(8) > i {
+    display: block;
+    margin: 12px 0;
+}
+
+.privacy_policy_content section:nth-child(n + 9) > p {
+    margin-bottom: 8px;
+}

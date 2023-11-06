@@ -1,0 +1,26 @@
+{
+    "title": "你目前有丧葬保险吗？",
+    "subtitle": "选择其中一个选项",
+    "option_cards": [
+        {
+            "text": "我没有投保”",
+            "userDataValue": "No"
+        },
+        {
+            "text": "是的，圣塔卢西亚”",
+            "userDataValue": "Santalucia"
+        },
+        {
+            "text": "是的，奥卡索”",
+            "userDataValue": "Ocaso"
+        },
+        {
+            "text": "是的，Mapfre”",
+            "userDataValue": "Mapfre"
+        },
+        {
+            "text": "是的，另一个”",
+            "userDataValue": "Otros"
+        }
+    ]
+}

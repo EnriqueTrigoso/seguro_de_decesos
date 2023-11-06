@@ -1,0 +1,73 @@
+{
+    "legal_warning": {
+        "metadata": {
+            "title": "Avís Legal",
+            "description": "Avís Legal"
+        },
+        "title": "EXEMPCIÓ DE RESPONSABILITAT",
+        "section1": {
+            "title": "INFORMACIÓ A L'USUARI:",
+            "description": "La finalitat d'aquest document és informar l'Usuari sobre el tractament de les seves dades personals per part d'EVA SEGUROS, d'ara endavant, el RESPONSABLE, de conformitat amb la normativa vigent en matèria de protecció de dades personals, inclòs el Reglament (UE) 2016/679 de 27 d'abril de 2016 (RGPD) i la Llei Orgànica 3/2018, de 5 de desembre, de protecció de dades personals i garantia dels drets digitals (LOPDGDD). A continuació es proporciona la informació següent:",
+            "purpose_of_the_treatment": "{Finalitat del tractament:} La finalitat del tractament de les dades personals és mantenir una relació comercial amb l'Usuari. Les operacions previstes per dur a terme aquest tractament són les següents:",
+            "operations": [
+                "Gestió de pòlisses, reclamacions, i qualsevol tipus de consulta o petició realitzada per l'Usuari a través dels diferents canals de contacte disponibles.",
+                "L'enviament de comunicacions comercials i publicitàries per mitjans electrònics o físics, inclosos correu electrònic, fax, SMS, MMS i xarxes socials, relacionades amb els productes i serveis d'EVA SEGUROS, així com als seus col·laboradors o proveïdors amb els quals s'hagin establert acords de promoció.",
+                "Cessió de dades a patrocinadors i terceres empreses del sector assegurador per enviar informació personalitzada sobre els seus productes i serveis.",
+                "Realització d'estudis de mercat, enquestes d'avaluació i anàlisi estadística.",
+                "Inclusió en llistes o serveis d'informació.",
+                "Gestió de suggeriments i queixes.",
+                "Compliment d'obligacions legals o reglamentàries",
+                "Perfilar o creuar dades amb llistes públiques o privades.",
+                "Organització de concursos i ofertes."
+            ],
+            "data_treatment": [
+                "En compliment de les finalitats esmentades, EVA SEGUROS podrà interconnectar les dades recollides amb la finalitat d'actualitzar i completar la informació.",
+                "Sectors d'activitat i cessió de dades: Les dades personals podran ser cedides a terceres empreses del sector assegurador, entitats financeres i altres sectors relacionats, amb la finalitat de facilitar als interessats informació relacionada amb assegurances i serveis relacionats. Recollida i tractament de dades: EVA SEGUROS tracta les dades personals facilitades pels usuaris, inclosa la informació:"
+            ],
+            "data_treatment_list": [
+                "Identificació (nom, cognoms, NIF, adreça postal, telèfons, correu electrònic).",
+                "Característiques personals (estat civil, data i lloc de naixement, edat, sexe, nacionalitat, dades familiars).",
+                "Dades acadèmiques i professionals (formació i ocupació).",
+                "Dades bancàries (per a la gestió de pagaments i pòlisses).",
+                "Informació comercial (activitats i empreses, subscripcions a publicacions, llicència comercial).",
+                "Dades econòmiques, financeres i d'assegurances (crèdits, préstecs, assegurances), entre d'altres."
+            ],
+            "data_retention": "{Conservació de dades:} Les dades proporcionades es conservaran mentre existeixi una relació comercial vigent o durant el temps necessari per complir amb les obligacions legals establertes.",
+            "legitimation_of_the_treatment": "{Legitimació del tractament:} El tractament de les dades personals es basa en el consentiment previ de l'interessat, d'acord amb l'article 6.1 a) del RGPD. L'interessat va donar el seu consentiment per al tractament de les seves dades personals per a una o diverses finalitats específiques.",
+            "data_retention_criteria": "{Criteris de conservació de les dades:} Les dades es conservaran mentre hi hagi un interès mutu per mantenir la finalitat del tractament. Una vegada que les dades ja no siguin necessàries per a aquesta finalitat, se suprimiran utilitzant les mesures de seguretat adequades per garantir la seva seudonimització o destrucció completa.",
+            "transfer_of_data": "{Cessió de dades:} EVA SEGUROS podrà compartir les dades recollides amb les següents entitats, respectant la confidencialitat i la finalitat de la seva recollida:",
+            "transfer_of_data_list": [
+                "Responsables del tractament de dades personals (patrocinadors) i terceres empreses del sector assegurador.",
+                "Reclutament i selecció d'empreses."
+            ],
+            "information_to_third_parties": "EVA SEGUROS podrà cedir informació a tercers sense el consentiment previ dels usuaris en els casos en què la cessió estigui autoritzada legalment, en el cas de dades obtingudes de fonts d'accés públic, quan la cessió es destini al Defensor del Poble, Fiscalia, Jutges o Tribunals, Tribunal de Comptes, institucions autonòmiques amb funcions similars al Defensor del Poble o al Tribunal de Comptes, o quan la comunicació es realitzi després d'un procés de dissociació.",
+            "contact_text": "Si tens qualsevol altre dubte o necessites més informació, no dubtis en posar-te en contacte amb nosaltres. Estarem encantats d'ajudar-te.",
+            "subtitle_user_rights": "Drets de l'usuari:",
+            "user_rights_text": "Com a interessat, tens una sèrie de drets, encara que has de tenir en compte que no tots s'apliquen en totes les situacions. Si escau, aquests són els vostres drets:",
+            "user_rights_list": [
+                "Dret a obtenir accés a les seves dades personals: això implica obtenir informació sobre si les seves dades s'estan tractant i com s'estan tractant. Si la vostra sol·licitud inclou dades personals d'altres persones o si actueu en nom d'una altra persona, haureu de proporcionar identificació d'aquestes persones i una carta signada o document d'autorització que confirmi el seu consentiment perquè actueu en nom seu.",
+                "Dret a rebre informació sobre el tractament de les seves dades personals: complim amb aquest dret a través d'aquesta Política.",
+                "Dret de rectificació: és a dir, dret a corregir les seves dades personals si són incorrectes o a completar-les si són incompletes.",
+                "Dret a oposar-se al tractament de les seves dades personals.",
+                "Dret de supressió: implica la possibilitat de sol·licitar que les seves dades personals siguin eliminades o bloquejades.",
+                "Dret a traslladar, copiar o transferir les seves dades personals a una entitat de la seva elecció (portabilitat de dades).",
+                "Drets relacionats amb la presa de decisions automatitzades basades en les seves dades, inclòs el dret a no perfilar les seves dades."
+            ],
+            "subtitle_claim": "Dret a presentar una reclamació davant l'AEPD:",
+            "subtitle_claim_text": "Si considereu que s'han vulnerat els vostres drets en relació amb el tractament de les vostres dades personals, també teniu dret a presentar una reclamació davant l'autoritat de control corresponent. A Espanya, aquesta autoritat és l'Agència Espanyola de Protecció de Dades (AEPD). Pot contactar amb ells a la seva seu situada al carrer Jorge Juan 6, 28001 - Madrid, o visitar la seva pàgina web: https://www.aepd.es/es. Tingues en compte que només pots presentar reclamacions davant l'AEPD relacionades amb el tractament de les teves dades personals. Les queixes relacionades amb la prestació dels nostres serveis s'han de presentar d'acord amb el que estableix el nostre Avís Legal, en l'apartat corresponent a cada servei.",
+            "claim_contact_text": "Dades de contacte per exercir els seus drets:",
+            "claim_contact_list": [
+                "Adreça postal: CALLE HOSPITAL STA. MARGARITA, 1 BAIX POSTERIOR 2, 20303, IRUN, GUIPUSCOA",
+                "Correu electrònic: atencionalcliente@evaseguros.es"
+            ]
+        },
+        "section2": {
+            "title": "CARÀCTER OBLIGATORI O FACULTATIU DE LA INFORMACIÓ FACILITADA PER L'USUARI:",
+            "description": "En marcar les caselles corresponents i emplenar els camps marcats amb asterisc (*) en el formulari de contacte o en els formularis de descàrrega, els Usuaris accepten expressament, lliure i inequívocament que les seves dades són necessàries per atendre la seva sol·licitud per part del prestador, i la inclusió de dades en els altres camps és opcional. L'Usuari garanteix la veracitat de les dades personals facilitades al RESPONSABLE i es compromet a informar de qualsevol modificació dels mateixos. El RESPONSABLE informa i garanteix expressament als usuaris que, sempre que realitzi alguna cessió de dades personals, sol·licitarà prèviament el consentiment exprés, informat i inequívoc per part dels Usuaris. Totes les dades sol·licitades a través del lloc web són obligatoris, ja que són necessaris per prestar un servei òptim a l'Usuari. Si no es faciliten totes les dades, no es pot garantir que la informació i els serveis facilitats siguin plenament adequats a les seves necessitats."
+        },
+        "section3": {
+            "title": "MESURES DE SEGURETAT:",
+            "description": "D'acord amb la normativa vigent en matèria de protecció de dades personals, el RESPONSABLE compleix amb totes les disposicions establertes en el RGPD i la LOPDGDD per al tractament de dades personals sota la seva responsabilitat. Explícitament, les dades són tractades de manera lícita, justa i transparent en relació amb l'interessat, i es limiten a allò necessari i adequat per a les finalitats per a les quals es tracten, tal com es descriu en l'article 5 del RGPD i l'article 4 de la LOPDGDD. El RESPONSABLE garanteix que ha implementat polítiques tècniques i organitzatives apropiades per aplicar les mesures de seguretat exigides pel RGPD i la LOPDGDD, amb la finalitat de protegir els drets i llibertats dels Usuaris. Així mateix, s'ha facilitat la informació adequada als Usuaris perquè puguin exercir els seus drets."
+        }
+    }
+}

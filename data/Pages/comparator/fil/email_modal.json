@@ -1,0 +1,23 @@
+{
+    "error": {
+        "name": "Magbigay ng wastong pangalan",
+        "phone": "Magbigay ng wastong numero ng mobile",
+        "email": "Magbigay ng wastong email address",
+        "email_already_registered": "Ang user ay may umiiral nang rekord"
+    },
+    "input": [
+        {
+            "title": "Pangalan at Apelyido:*",
+            "placeholder": "Ilagay ang iyong pangalan"
+        },
+        {
+            "title": "Numero ng Telepono:*",
+            "placeholder": "Ilagay ang iyong numero ng telepono"
+        },
+        {
+            "title": "Email Address:*",
+            "placeholder": "Ilagay ang iyong email"
+        }
+    ],
+    "button": "Magawa ang pagsusuri"
+}

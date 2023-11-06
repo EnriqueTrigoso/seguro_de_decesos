@@ -1,0 +1,26 @@
+{
+    "title": "Har du begravningsförsäkring för närvarande?",
+    "subtitle": "Välj ett av alternativen",
+    "option_cards": [
+        {
+            "text": "Jag är inte försäkrad”",
+            "userDataValue": "No"
+        },
+        {
+            "text": "Ja, Santalucia”",
+            "userDataValue": "Santalucia"
+        },
+        {
+            "text": "Ja, Ocaso”",
+            "userDataValue": "Ocaso"
+        },
+        {
+            "text": "Ja, Mapfre”",
+            "userDataValue": "Mapfre"
+        },
+        {
+            "text": "Ja, en annan”",
+            "userDataValue": "Otros"
+        }
+    ]
+}

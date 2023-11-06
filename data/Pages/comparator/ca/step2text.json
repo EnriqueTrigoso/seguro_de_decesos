@@ -1,0 +1,30 @@
+{
+	"title": "Quantes persones vols incloure a la pòlissa?",
+	"subtitle": "Selecciona una de les opcions.",
+	"options": [
+		{
+			"text": "Només jo »",
+			"userDataValue": 1
+		},
+		{
+			"text": "2 persones »",
+			"userDataValue": 2
+		},
+		{
+			"text": "3 persones »",
+			"userDataValue": 3
+		},
+		{
+			"text": "4 persones »",
+			"userDataValue": 4
+		},
+		{
+			"text": "5 persones »",
+			"userDataValue": 5
+		},
+		{
+			"text": "Més de 5 persones »",
+			"userDataValue": "5+"
+		}
+	]
+}

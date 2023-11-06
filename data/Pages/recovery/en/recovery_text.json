@@ -1,0 +1,6 @@
+{
+  "title": "Enter your new password",
+  "button_text": "Change Password",
+  "placeholder": "Enter your new password",
+  "error_msg": "Enter an alphanumeric password of at least 8 characters"
+}

@@ -1,0 +1,43 @@
+.feature {
+	display: grid;
+	grid-template-columns: 1fr;
+	justify-items: start;
+	align-items: start;
+	margin-bottom: var(--section-margin-mobile);
+	position: relative;
+}
+
+.content {
+	max-width: 540px;
+}
+
+.description {
+	margin-top: 43px;
+	font-size: 20px;
+	line-height: 32px;
+	color: var(--textos);
+}
+
+.options_container {
+	margin-top: 20px;
+	display: flex;
+	flex-direction: column;
+	gap: 25px;
+}
+
+.options_container > div {
+	max-width: 469px;
+}
+
+@media (min-width: 1024px) {
+	.feature {
+		grid-template-columns: 1fr 1fr;
+		margin-bottom: var(--section-margin-desktop);
+	}
+
+	.modality_container {
+		display: flex;
+		align-items: center;
+		height: 100%;
+	}
+}

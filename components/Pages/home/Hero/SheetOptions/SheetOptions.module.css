@@ -1,0 +1,36 @@
+.options_container {
+	margin-top: 25px;
+	margin-bottom: 25px;
+	display: flex;
+	flex-direction: column;
+	gap: 7px;
+}
+
+.option_title {
+	font-weight: 400;
+	font-size: 16px;
+	line-height: 24px;
+	color: var(--textos);
+}
+
+@media (min-width: 1024px) {
+	.option_title {
+		font-size: 18px;
+		line-height: 28px;
+	}
+}
+
+@media (min-width: 1250px) {
+	.options_container {
+		gap: 15px;
+	}
+
+	.options_container {
+		margin-top: 35px;
+		margin-bottom: 35px;
+		display: flex;
+		flex-direction: column;
+		gap: 7px;
+	}
+
+}

@@ -1,0 +1,73 @@
+{
+    "legal_warning": {
+        "metadata": {
+            "title": "Aviz juridic",
+            "description": "Aviz juridic"
+        },
+        "title": "AVERTISMENT LEGAL",
+        "section1": {
+            "title": "INFORMAȚII PENTRU UTILIZATOR:",
+            "description": "Scopul acestui document este de a informa Utilizatorul cu privire la prelucrarea datelor sale personale de către EVA SEGUROS, denumit în continuare RESPONSABILUL, în conformitate cu reglementările în vigoare privind protecția datelor cu caracter personal, inclusiv Regulamentul (UE) 2016/679 din 27 aprilie 2016 (RGPD) și Legea organică 3/2018, din 5 decembrie, privind protecția datelor cu caracter personal și garantarea drepturilor digitale (LODGPDD). Următoarele informații sunt furnizate mai jos:",
+            "purpose_of_the_treatment": "{Scopul prelucrării:} Scopul prelucrării datelor cu caracter personal este menținerea unei relații de afaceri cu Utilizatorul. Operațiunile planificate pentru efectuarea unui astfel de tratament sunt următoarele:",
+            "operations": [
+                "Gestionarea politicilor, revendicărilor și a oricărui tip de interogare sau solicitare făcută de Utilizator prin diferitele canale de contact disponibile.",
+                "Trimiterea de comunicări comerciale și publicitare prin mijloace electronice sau fizice, inclusiv e-mail, fax, SMS, MMS și rețele sociale, legate de produsele și serviciile EVA SEGUROS, precum și către colaboratorii sau furnizorii săi cu care au fost încheiate acorduri de promovare.",
+                "Transferul de date către sponsori și companii terțe din sectorul asigurărilor pentru a trimite informații personalizate despre produsele și serviciile lor.",
+                "Efectuarea de cercetări de piață, sondaje de evaluare și analize statistice.",
+                "Includerea în liste sau servicii de informare.",
+                "Gestionarea sugestiilor și reclamațiilor.",
+                "Respectarea obligațiilor legale sau de reglementare",
+                "Profilarea sau încrucișarea datelor cu liste publice sau private.",
+                "Organizarea de concursuri și oferte."
+            ],
+            "data_treatment": [
+                "În conformitate cu scopurile menționate mai sus, EVA SEGUROS poate interconecta datele colectate în vederea actualizării și completării informațiilor.",
+                "Sectoare de activitate și transfer de date: Datele cu caracter personal pot fi transferate către societăți terțe din sectorul asigurărilor, instituții financiare și alte sectoare conexe, cu scopul de a furniza părților interesate informații legate de asigurări și servicii conexe. Colectarea și prelucrarea datelor: EVA SEGUROS prelucrează datele cu caracter personal furnizate de utilizatori, inclusiv informații:"
+            ],
+            "data_treatment_list": [
+                "Identificare (nume, prenume, număr TVA, adresă poștală, numere de telefon, e-mail).",
+                "Caracteristicile personale (starea civilă, data și locul nașterii, vârsta, sexul, naționalitatea, datele de familie).",
+                "Date academice și profesionale (formare și angajare).",
+                "Detalii bancare (pentru gestionarea plăților și a politicilor).",
+                "Informații de afaceri (activități și afaceri, abonamente la publicații, licență de afaceri).",
+                "Date economice, financiare și de asigurări (credite, împrumuturi, asigurări), printre altele."
+            ],
+            "data_retention": "{Păstrarea datelor:} Datele furnizate vor fi păstrate atât timp cât există o relație de afaceri curentă sau pentru timpul necesar pentru respectarea obligațiilor legale stabilite.",
+            "legitimation_of_the_treatment": "{Legitimarea prelucrării:} Prelucrarea datelor cu caracter personal se bazează pe consimțământul prealabil al părții interesate, în conformitate cu articolul 6.1 a) din GDPR. Partea interesată și-a dat consimțământul pentru prelucrarea datelor sale personale pentru unul sau mai multe scopuri specifice.",
+            "data_retention_criteria": "{Criterii de păstrare a datelor:} Datele vor fi păstrate atâta timp cât există un interes reciproc în menținerea scopului tratamentului. Odată ce datele nu mai sunt necesare în acest scop, acestea vor fi șterse folosind măsuri de securitate adecvate pentru a garanta pseudonimizarea sau distrugerea completă a acestora.",
+            "transfer_of_data": "{Transfer de date:} EVA SEGUROS poate partaja datele colectate cu următoarele entități, respectând confidențialitatea și scopul colectării lor:",
+            "transfer_of_data_list": [
+                "Persoanele responsabile de prelucrarea datelor cu caracter personal (sponsori) și companii terțe din sectorul asigurărilor.",
+                "Companii de recrutare și selecție."
+            ],
+            "information_to_third_parties": "EVA SEGUROS poate transfera informații către terți fără acordul prealabil al utilizatorilor în cazurile în care transferul este autorizat prin lege, în cazul datelor obținute din surse accesibile publicului, atunci când transferul este destinat Ombudsmanului, Parchetului, judecătorilor sau instanțelor, Curții de Conturi, instituțiilor regionale cu funcții similare Avocatului Poporului sau Curții de Conturi sau atunci când comunicarea se face după un proces de disociere Afecțiuni.",
+            "contact_text": "Dacă aveți alte întrebări sau aveți nevoie de mai multe informații, nu ezitați să ne contactați. Vom fi bucuroși să vă ajutăm.",
+            "subtitle_user_rights": "Drepturile utilizatorului:",
+            "user_rights_text": "În calitate de persoană vizată, aveți o serie de drepturi, deși trebuie să rețineți că nu toate acestea se aplică în toate situațiile. Dacă este cazul, acestea sunt drepturile dvs.:",
+            "user_rights_list": [
+                "Dreptul de a obține acces la datele dvs. personale: aceasta implică obținerea de informații despre dacă datele dvs. sunt prelucrate și modul în care acestea sunt prelucrate. Dacă cererea dvs. include date personale ale altor persoane sau dacă acționați în numele altcuiva, va trebui să furnizați identificarea persoanelor respective și o scrisoare semnată sau un document de autorizare care să confirme consimțământul acestora pentru a acționa în numele lor.",
+                "Dreptul de a primi informații despre prelucrarea datelor dvs. personale: respectăm acest drept prin intermediul acestei Politici.",
+                "Dreptul la rectificare: adică dreptul de a corecta datele dvs. personale dacă sunt incorecte sau de a le completa dacă sunt incomplete.",
+                "Dreptul de a vă opune prelucrării datelor dvs. cu caracter personal.",
+                "Dreptul de ștergere: aceasta implică posibilitatea de a solicita ștergerea sau blocarea datelor dvs. personale.",
+                "Dreptul de a muta, copia sau transfera datele dvs. personale către o entitate aleasă de dvs. (portabilitatea datelor).",
+                "Drepturi legate de luarea deciziilor automatizate pe baza datelor dvs., inclusiv dreptul de a nu avea profilarea datelor dvs."
+            ],
+            "subtitle_claim": "Dreptul de a depune o plângere la AEPD:",
+            "subtitle_claim_text": "În cazul în care considerați că drepturile dvs. în legătură cu prelucrarea datelor dvs. cu caracter personal au fost încălcate, aveți, de asemenea, dreptul de a depune o plângere la autoritatea de supraveghere competentă. În Spania, această autoritate este Agenția Spaniolă pentru Protecția Datelor (AEPD). Îi puteți contacta la sediul lor situat la Calle Jorge Juan 6, 28001 - Madrid sau vizitați site-ul lor web: https://www.aepd.es/es. Rețineți că puteți depune reclamații către AEPD numai în legătură cu prelucrarea datelor dvs. personale. Reclamațiile legate de furnizarea serviciilor noastre trebuie depuse în conformitate cu prevederile Avizului nostru juridic, în secțiunea corespunzătoare fiecărui serviciu.",
+            "claim_contact_text": "Informații de contact pentru a vă exercita drepturile:",
+            "claim_contact_list": [
+                "Adresa poștală: CALLE HOSPITAL STA. MARGARITA, 1 BAS SPATE 2, 20303, IRUN, GUIPUZCOA",
+                "Adresă de e-mail: atencionalcliente@evaseguros.es"
+            ]
+        },
+        "section2": {
+            "title": "CARACTERUL OBLIGATORIU SAU FACULTATIV AL INFORMAȚIILOR FURNIZATE DE UTILIZATOR:",
+            "description": "Prin bifarea casetelor corespunzătoare și completarea câmpurilor marcate cu un asterisc (*) în formularul de contact sau în formularele de descărcare, Utilizatorii acceptă în mod expres, liber și neechivoc că datele lor sunt necesare pentru îndeplinirea solicitării lor de către furnizor, iar includerea datelor în celelalte câmpuri este opțională. Utilizatorul garantează veridicitatea datelor personale furnizate RESPONSABILITARII și se angajează să raporteze orice modificare a acestora. Partea responsabilă informează și garantează în mod expres utilizatorilor că, ori de câte ori efectuează orice transfer de date cu caracter personal, vor solicita mai întâi consimțământul expres, informat și neechivoc al Utilizatorilor. Toate datele solicitate prin intermediul site-ului sunt obligatorii, deoarece sunt necesare pentru a oferi un serviciu optim Utilizatorului. Dacă nu sunt furnizate toate datele, nu se poate garanta că informațiile și serviciile furnizate sunt pe deplin adecvate nevoilor dumneavoastră."
+        },
+        "section3": {
+            "title": "MĂSURI DE SECURITATE:",
+            "description": "În conformitate cu reglementările în vigoare privind protecția datelor cu caracter personal, partea RESPONSABILIARA respectă toate prevederile stabilite în RGPD și LOPDGDD pentru prelucrarea datelor cu caracter personal sub responsabilitatea sa. În mod explicit, datele sunt prelucrate în mod legal, echitabil și transparent în raport cu partea interesată și sunt limitate la ceea ce este necesar și adecvat scopurilor pentru care sunt prelucrate, așa cum este descris la articolul 5 din RGPD și articolul 4 din LOPDGDD. Partea RESPONSABILITATE garantează că a implementat politici tehnice și organizatorice adecvate pentru a aplica măsurile de securitate cerute de RGPD și LOPDGDD, pentru a proteja drepturile și libertățile Utilizatorilor. În plus, au fost furnizate informații adecvate utilizatorilor, astfel încât aceștia să își poată exercita drepturile."
+        }
+    }
+}

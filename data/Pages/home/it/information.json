@@ -1,0 +1,26 @@
+{
+    "information": {
+        "title": "Confronta tra le migliori compagnie assicurative /di decesso del mercato/",
+        "description": "Ti accompagniamo durante tutto il processo per rispondere a tutti i tuoi dubbi. Puoi chiamarci o lasciarci il tuo numero in modo che possiamo chiamarti.",
+        "link_compare": "Confronta ora",
+        "link_contact": "Contattaci",
+        "cards": [
+            {
+                "text": "Ci adattiamo alla tua economia",
+                "alt": "Giovane donna premurosa all'aperto"
+            },
+            {
+                "text": "Include il trasporto nazionale e internazionale",
+                "alt": "Signora felice che alza le braccia"
+            },
+            {
+                "text": "Include servizi medici gratuiti",
+                "alt": "Madre e figlia adolescente che si abbracciano"
+            },
+            {
+                "text": "Copertura completa in caso di morte",
+                "alt": "Madre e il suo bambino che si abbracciano"
+            }
+        ]
+    }
+}

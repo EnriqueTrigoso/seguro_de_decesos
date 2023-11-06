@@ -1,0 +1,33 @@
+{
+    "testimonials": {
+        "subtitle": "Testimonianze",
+        "title": "Sempre più /persone/ confidano in /noi./",
+        "description": "Comprendere le opinioni dei clienti su Eva Seguros è il modo più efficace per valutare le prestazioni dei nostri servizi.",
+        "cards": [
+            {
+                "name": "Antonia García",
+                "image": "#",
+                "city": "Madrid",
+                "description": "«Il comparatore di Eva mi ha aiutato a ottenere l'assicurazione funebre più conveniente per la mia economia. Ho risparmiato e ho stipulato un'assicurazione completa».",
+                "alt": "seguro de decesos testimonio",
+                "title": "seguro de decesos-testimonios"
+            },
+            {
+                "name": "Sofia Sanchez",
+                "image": "#",
+                "city": "Girona",
+                "description": "«Ci sono così tante compagnie che non sapevo quale assicurazione funebre scegliere. Ma ho usato il comparatore assicurativo di Eva e mi hanno aiutato a ottenere una polizza ideale per me, papà e mamma».",
+                "alt": "seguro de decesos testimonio",
+                "title": "seguro de decesos-testimonios"
+            },
+            {
+                "name": "Antonio Rodríguez",
+                "image": "#",
+                "city": "Salamanca",
+                "description": "«In Eva ho trovato comparatori per tutti i tipi di assicurazione. Sullo stesso sito ho confrontato l'assicurazione sanitaria, l'assicurazione sulla casa e l'assicurazione sovvenzionata, ma ce ne sono molte altre. Inoltre, è stato davvero semplice e veloce!»",
+                "alt": "seguro de decesos testimonio",
+                "title": "seguro de decesos-testimonios"
+            }
+        ]
+    }
+}

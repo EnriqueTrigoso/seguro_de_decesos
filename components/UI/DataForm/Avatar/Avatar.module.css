@@ -1,0 +1,26 @@
+.image {
+	width: 7.6875rem;
+	height: 7.6875rem;
+	background-color: var(--blue-primary);
+	border-radius: 100%;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	cursor: pointer;
+}
+
+.description {
+	color: var(--textos);
+	font-size: 0.875rem;
+	font-style: normal;
+	font-weight: 500;
+	line-height: 130%;
+	letter-spacing: 0.0175rem;
+	width: 50%;
+	padding-top: 1rem;
+}
+
+.upload {
+	color: var(--green-primary);
+	font-weight: 700;
+}

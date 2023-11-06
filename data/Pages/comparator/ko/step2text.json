@@ -1,0 +1,30 @@
+{
+    "title": "보험에 몇 명을 포함할 예정인가요?",
+    "subtitle": "옵션 중 하나를 선택하세요",
+    "options": [
+        {
+            "text": "나만 »",
+            "userDataValue": 1
+        },
+        {
+            "text": "2명 »",
+            "userDataValue": 2
+        },
+        {
+            "text": "3명 »",
+            "userDataValue": 3
+        },
+        {
+            "text": "4명 »",
+            "userDataValue": 4
+        },
+        {
+            "text": "5명 »",
+            "userDataValue": 5
+        },
+        {
+            "text": "5명 이상 »",
+            "userDataValue": "5+"
+        }
+    ]
+}

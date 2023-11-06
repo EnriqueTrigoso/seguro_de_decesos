@@ -1,0 +1,72 @@
+{
+    "footer_text": {
+        "social_title": "시중에 나와 있는 최고의 장례 보험 회사를 비교해 보십시오.",
+        "social_description": "소셜 네트워크에서 저희를 팔로우하세요",
+        "section1": {
+            "title": "회사 소개",
+            "options": [
+                {
+                    "title": "미션 비전",
+                    "href": "#"
+                },
+                {
+                    "title": "우리 팀",
+                    "href": "#"
+                }
+            ]
+        },
+        "section2": {
+            "title": "자세히 알아보기",
+            "options": [
+                {
+                    "title": "에바 만나기",
+                    "href": "#"
+                },
+                {
+                    "title": "플랜트-포-더-플래닛",
+                    "href": "#"
+                },
+                {
+                    "title": "액세서블 유니버스",
+                    "href": "#"
+                },
+                {
+                    "title": "산티 유니버스",
+                    "href": "#"
+                }
+            ]
+        },
+        "section3": {
+            "title": "우리는 제공합니다",
+            "options": [
+                {
+                    "title": "장례 정책",
+                    "href": "#"
+                },
+                {
+                    "title": "생활 정책",
+                    "href": "#"
+                },
+                {
+                    "title": "홈 정책",
+                    "href": "#"
+                }
+            ]
+        },
+        "section4": {
+            "title": "법률",
+            "options": [
+                {
+                    "title": "법적 고지"
+                },
+                {
+                    "title": "개인정보 취급방침"
+                },
+                {
+                    "title": "쿠키 정책"
+                }
+            ]
+        },
+        "copyright": "{도메인} 2023년.판권 소유."
+    }
+}

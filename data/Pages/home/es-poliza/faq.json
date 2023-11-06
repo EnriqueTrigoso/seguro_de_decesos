@@ -1,0 +1,28 @@
+{
+    "faq": {
+        "title": "Preguntas frecuentes",
+        "description": "¿Tienes algunas dudas? Leé algunas de nuestras preguntas frecuentes o ponte en contacto con nuestros asesores para obtener ayuda.",
+        "questions": [
+            {
+                "question": "¿Qué es una póliza de decesos?",
+                "answer": "Una póliza de decesos está diseñado para ayudar a las familias en los momentos más delicados y garantiza la prestación del servicio funerario y trámites relacionados con el fallecimiento de una persona. Se contrata con la finalidad de aliviar la carga financiera y logística que conlleva un funeral y los trámites legales y administrativos asociados al deceso."
+            },
+            {
+                "question": "¿Cuáles son los beneficios de comparar con nosotros?",
+                "answer": "Compara en menos de 1 minuto desde una interfaz fácil de usar. Eva Seguros te ayuda a elegir entre las mejores compañías de pólizas de decesos en España."
+            },
+            {
+                "question": "¿Cómo encontrar una póliza de decesos que mejor se adapta a ti?",
+                "answer": "A través de nuestro comparador de pólizas de decesos puedes filtrar las ofertas de las mejores compañías para encontrar las pólizas de decesos que mejor se adaptan a ti."
+            },
+            {
+                "question": "¿Cuánto cuesta una póliza de decesos?",
+                "answer": "Existe un amplio rango de primas que dependen de la cantidad de coberturas adicionales que contrates y de la modalidad en la cual pagues la prima. En nuestro comparador de pólizas de decesos puedes encontrar los precios más baratos."
+            },
+            {
+                "question": "¿Quién puede contratar una pólizas de decesos?",
+                "answer": "Cualquier persona mayor de edad puede contratar una póliza de decesos."
+            }
+        ]
+    }
+}

@@ -1,0 +1,72 @@
+{
+  "footer_text": {
+    "social_title": "Konparatu merkatuko heriotza aseguruen onen artean.",
+    "social_description": "Jarraitu gaitzazu gure sare sozialetan",
+    "section1": {
+      "title": "Guri Buruz",
+      "options": [
+        {
+          "title": "Misioa Ikuspegi",
+          "href": "#"
+        },
+        {
+          "title": "Gure Taldea",
+          "href": "#"
+        }
+      ]
+    },
+    "section2": {
+      "title": "Informazio Gehiago",
+      "options": [
+        {
+          "title": "Eva ezagutu",
+          "href": "#"
+        },
+        {
+          "title": "Plant-for-the-Planet",
+          "href": "#"
+        },
+        {
+          "title": "Unibertso Sarriki",
+          "href": "#"
+        },
+        {
+          "title": "Unibertso Santi",
+          "href": "#"
+        }
+      ]
+    },
+    "section3": {
+      "title": "Gure Eskaintza",
+      "options": [
+        {
+          "title": "Heriotza Asegurua",
+          "href": "#"
+        },
+        {
+          "title": "Bizitzako Asegurua",
+          "href": "#"
+        },
+        {
+          "title": "Etxebizitza Asegurua",
+          "href": "#"
+        }
+      ]
+    },
+    "section4": {
+      "title": "Legea",
+      "options": [
+        {
+          "title": "Lege Oharra"
+        },
+        {
+          "title": "Pribatutasun Politika"
+        },
+        {
+          "title": "Cookie Politika"
+        }
+      ]
+    },
+    "copyright": "{domain} 2023. Eskubide guztiak gordeta."
+  }
+}

@@ -1,0 +1,26 @@
+{
+    "information": {
+        "title": "Konparatu merkatuko aseguradore onenetarikoetan /hildakoentzako/",
+        "description": "Prozesu osoan zehar zure zalantzak argitzen lagunduko dizkizugu. Deitu dezakezu gurekin edo zure telefono zenbakia utzi dezakezu eta zurekin harremanetan jartzeko.",
+        "link_compare": "Konparatu orain",
+        "link_contact": "kontaktua",
+        "cards": [
+            {
+                "text": "Zure ekonomiara egokitzen gara",
+                "alt": "Pentsatzen ari den gaztea aire zabalean"
+            },
+            {
+                "text": "Nazional eta nazioarteko mugikortasuna barne",
+                "alt": "Gora egiten ari den emakumea, eskuen artean"
+            },
+            {
+                "text": "Doako zerbitzu medikoak barne",
+                "alt": "Amak eta haur helduak besarkatzen"
+            },
+            {
+                "text": "Heriotza estaldura osoa",
+                "alt": "Amak eta bere haurra besarkatzen"
+            }
+        ]
+    }
+}

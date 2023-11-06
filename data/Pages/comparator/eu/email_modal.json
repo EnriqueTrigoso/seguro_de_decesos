@@ -1,0 +1,23 @@
+{
+    "error": {
+        "name": "Sartu baliozko izena",
+        "phone": "Sartu baliozko mugikorra",
+        "email": "Sartu baliozko posta elektronikoa",
+        "email_already_registered": "Erabiltzailea jadanik erregistratuta dago"
+    },
+    "input": [
+        {
+            "title": "Izena eta abizenak:*",
+            "placeholder": "Sartu zure izenak"
+        },
+        {
+            "title": "Telefonoa:*",
+            "placeholder": "Sartu zure telefonoa"
+        },
+        {
+            "title": "Posta elektronikoa:*",
+            "placeholder": "Sartu zure posta"
+        }
+    ],
+    "button": "Konparaketa egin"
+}

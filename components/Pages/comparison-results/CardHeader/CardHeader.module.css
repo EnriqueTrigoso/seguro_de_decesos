@@ -1,0 +1,64 @@
+.card_header {
+	display: grid;
+	grid-template-columns: .5fr .5fr 1.5fr .5fr;
+	align-items: center;
+}
+
+.circle {
+	display: grid;
+	place-content: center;
+	width: 50px;
+	height: 50px;
+	background: var(--blue-primary);
+	border-radius: 50px;
+}
+
+.phone_button {
+	border-radius: 1rem;
+	border: 1px solid var(--green-primary);
+	display: grid;
+	grid-template-columns: auto auto;
+	justify-content: center;
+	align-items: center;
+	grid-gap: 10px;
+	padding: 1.25rem 2rem;
+	width: 277px;
+}
+
+.phone_title {
+	color: var(--blue-primary);
+	font-size: 1rem;
+	font-style: normal;
+	font-weight: 400;
+	line-height: 140%;
+	letter-spacing: 0.01rem;
+}
+
+.phone {
+	font-weight: 700;
+	font-size: 22px;
+	line-height: 28px;
+	color: #FFFFFF;
+}
+
+.h2 {
+	color: var(--blue-primary);
+	font-size: 1rem;
+	font-style: normal;
+	font-weight: 500;
+	line-height: 140%;
+	letter-spacing: 0.01rem;
+}
+
+.center {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	border-left: 1px solid var(--green-primary);
+	border-right: 1px solid var(--green-primary);
+	height: 80%;
+}
+
+.padding {
+	padding-left: 3rem;
+}

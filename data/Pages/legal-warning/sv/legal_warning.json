@@ -1,0 +1,73 @@
+{
+    "legal_warning": {
+        "metadata": {
+            "title": "Rättsligt meddelande",
+            "description": "Rättsligt meddelande"
+        },
+        "title": "ANSVARSFRISKRIVNING",
+        "section1": {
+            "title": "INFORMATION TILL ANVÄNDAREN:",
+            "description": "Syftet med detta dokument är att informera användaren om behandlingen av deras personuppgifter av EVA SEGUROS, nedan kallad ANSVARIG, i enlighet med gällande bestämmelser om skydd av personuppgifter, inklusive förordning (EU) 2016/679 av den 27 april 2016 (RGPD) och organisk lag 3/2018, av 5 december, om skydd av personuppgifter och garanti för digitala rättigheter (LODGPDD). Följande information ges nedan:",
+            "purpose_of_the_treatment": "{Ändamål med behandlingen:} Syftet med behandlingen av personuppgifter är att upprätthålla en affärsrelation med användaren. De operationer som planeras för att utföra sådan behandling är följande:",
+            "operations": [
+                "Hantering av policyer, anspråk och alla typer av frågor eller förfrågningar som görs av användaren via de olika tillgängliga kontaktkanalerna.",
+                "Skicka kommersiell och reklamkommunikation på elektronisk eller fysisk väg, inklusive e-post, fax, SMS, MMS och sociala nätverk, relaterade till EVA SEGUROS produkter och tjänster, samt till dess samarbetspartners eller leverantörer med vilka marknadsföringsavtal har upprättats.",
+                "Överföring av data till sponsorer och tredje företag inom försäkringssektorn för att skicka personlig information om sina produkter och tjänster.",
+                "Genomföra marknadsundersökningar, utvärderingsundersökningar och statistisk analys.",
+                "Inkludering i listor eller informationstjänster.",
+                "Hantering av förslag och klagomål.",
+                "Efterlevnad av lagstadgade eller lagstadgade skyldigheter",
+                "Profilera eller korsa data med offentliga eller privata listor.",
+                "Organisation av tävlingar och erbjudanden."
+            ],
+            "data_treatment": [
+                "I enlighet med ovan nämnda syften kan EVA SEGUROS sammankoppla de insamlade uppgifterna för att uppdatera och komplettera informationen.",
+                "Verksamhetssektorer och dataöverföring: Personuppgifter kan överföras till tredje företag inom försäkringssektorn, finansinstitut och andra relaterade sektorer, i syfte att ge berörda parter information om försäkringar och relaterade tjänster. Datainsamling och behandling: EVA SEGUROS behandlar personuppgifter som tillhandahålls av användare, inklusive information:"
+            ],
+            "data_treatment_list": [
+                "Identifiering (namn, efternamn, momsregistreringsnummer, postadress, telefonnummer, e-post).",
+                "Personliga egenskaper (civilstånd, födelsedatum och födelseort, ålder, kön, nationalitet, familjedata).",
+                "Akademiska och professionella uppgifter (utbildning och anställning).",
+                "Bankuppgifter (för hantering av betalningar och policyer).",
+                "Företagsinformation (aktiviteter och företag, prenumerationer på publikationer, företagslicens).",
+                "Ekonomiska, finansiella och försäkringsuppgifter (krediter, lån, försäkring), bland andra."
+            ],
+            "data_retention": "{Datalagring:} De uppgifter som tillhandahålls kommer att behållas så länge det finns en aktuell affärsrelation eller under den tid som krävs för att uppfylla etablerade rättsliga skyldigheter.",
+            "legitimation_of_the_treatment": "{Legitimering av behandlingen:} Behandlingen av personuppgifter baseras på föregående samtycke från den berörda parten, i enlighet med artikel 6.1 a) i GDPR. Den berörda parten gav sitt samtycke till behandlingen av deras personuppgifter för ett eller flera specifika ändamål.",
+            "data_retention_criteria": "{Kriterier för datalagring:} Uppgifterna kommer att sparas så länge det finns ett ömsesidigt intresse av att upprätthålla syftet med behandlingen. När uppgifterna inte längre är nödvändiga för detta ändamål kommer de att raderas med lämpliga säkerhetsåtgärder för att garantera deras pseudonymisering eller fullständig förstörelse.",
+            "transfer_of_data": "{Överföring av data:} EVA SEGUROS kan dela de insamlade uppgifterna med följande enheter, med respekt för sekretess och syftet med insamlingen:",
+            "transfer_of_data_list": [
+                "De som ansvarar för behandlingen av personuppgifter (sponsorer) och tredje företag inom försäkringssektorn.",
+                "Rekryterings- och urvalsföretag."
+            ],
+            "information_to_third_parties": "EVA SEGUROS kan överföra information till tredje part utan föregående samtycke från användarna i fall där överföringen är tillåten enligt lag, när det gäller uppgifter som erhållits från allmänt tillgängliga källor, när överföringen är avsedd för ombudsmannen, åklagarmyndigheten, domare eller domstolar, revisionsrätten, regionala institutioner med funktioner som liknar ombudsmannen eller revisionsrätten, eller när kommunikationen görs efter en dissocialiseringsprocess Ansökan.",
+            "contact_text": "Om du har några andra frågor eller behöver mer information, tveka inte att kontakta oss. Vi hjälper dig gärna.",
+            "subtitle_user_rights": "Rättigheter för användare:",
+            "user_rights_text": "Som registrerad har du ett antal rättigheter, men du måste komma ihåg att inte alla av dem gäller i alla situationer. Om tillämpligt är dessa dina rättigheter:",
+            "user_rights_list": [
+                "Rätt att få tillgång till dina personuppgifter: detta innebär att få information om huruvida dina uppgifter behandlas och hur de behandlas. Om din begäran innehåller personuppgifter om andra personer eller om du agerar på uppdrag av någon annan, måste du tillhandahålla identifiering av dessa individer och ett undertecknat brev eller auktoriseringsdokument som bekräftar deras samtycke till att du ska agera på deras vägnar.",
+                "Rätt att få information om behandlingen av dina personuppgifter: Vi följer denna rätt genom denna policy.",
+                "Rätt till rättelse: det vill säga rätten att korrigera dina personuppgifter om de är felaktiga eller att komplettera dem om de är ofullständiga.",
+                "Rätt att invända mot behandlingen av dina personuppgifter.",
+                "Rätt till radering: detta innebär möjligheten att begära att dina personuppgifter raderas eller blockeras.",
+                "Rätt att flytta, kopiera eller överföra dina personuppgifter till en enhet som du väljer (dataportabilitet).",
+                "Rättigheter relaterade till att fatta automatiserade beslut baserat på dina uppgifter, inklusive rätten att inte få dina uppgifter profilerade."
+            ],
+            "subtitle_claim": "Rätt att lämna in ett klagomål till AEPD:",
+            "subtitle_claim_text": "Om du anser att dina rättigheter i samband med behandlingen av dina personuppgifter har kränkts har du också rätt att lämna in ett klagomål till lämplig tillsynsmyndighet. I Spanien är denna myndighet den spanska dataskyddsbyrån (AEPD). Du kan kontakta dem på deras huvudkontor på Calle Jorge Juan 6, 28001 - Madrid, eller besöka deras hemsida: https://www.aepd.es/es. Tänk på att du endast kan lämna in anspråk till AEPD relaterade till behandlingen av dina personuppgifter. Klagomål relaterade till tillhandahållandet av våra tjänster måste lämnas in i enlighet med bestämmelserna i vårt juridiska meddelande, i avsnittet som motsvarar varje tjänst.",
+            "claim_contact_text": "Kontaktuppgifter för att utöva dina rättigheter:",
+            "claim_contact_list": [
+                "Postadress: CALLE HOSPITAL STA. MARGARITA, 1 BAKRE BAS 2, 20303, IRUN, GUIPUZCOA",
+                "E-postadress: atencionalcliente@evaseguros.es"
+            ]
+        },
+        "section2": {
+            "title": "OBLIGATORISK ELLER FRIVILLIG TYP AV INFORMATION SOM TILLHANDAHÅLLS AV ANVÄNDAREN:",
+            "description": "Genom att markera motsvarande rutor och fylla i fälten markerade med en asterisk (*) i kontaktformuläret eller i nedladdningsformulären accepterar användarna uttryckligen, fritt och otvetydigt att deras uppgifter är nödvändiga för att uppfylla sin begäran från leverantören, och införandet av data i de andra fälten är valfritt. Användaren garanterar riktigheten av de personuppgifter som lämnas till den ANSVARIGA och åtar sig att rapportera eventuella ändringar av dem. Den ANSVARIGA parten informerar uttryckligen och garanterar användarna att när de gör någon överföring av personuppgifter, de först kommer att begära uttryckligt, informerat och otvetydigt samtycke från användarna. Alla uppgifter som begärs via webbplatsen är obligatoriska, eftersom de är nödvändiga för att tillhandahålla en optimal service till användaren. Om alla uppgifter inte tillhandahålls kan det inte garanteras att den information och de tjänster som tillhandahålls är helt tillräckliga för dina behov."
+        },
+        "section3": {
+            "title": "SÄKERHETSÅTGÄRDER:",
+            "description": "I enlighet med gällande bestämmelser om skydd av personuppgifter följer den ANSVARIGA parten alla bestämmelser som fastställs i RGPD och LOPDGDD för behandling av personuppgifter under hans ansvar. Uppgifterna behandlas uttryckligen lagligt, rättvist och transparent i förhållande till den berörda parten och är begränsade till vad som är nödvändigt och lämpligt för de ändamål för vilka de behandlas, enligt beskrivningen i artikel 5 i RGPD och artikel 4 i LOPDGDD. Den ANSVARIGA parten garanterar att den har implementerat lämpliga tekniska och organisatoriska policyer för att tillämpa de säkerhetsåtgärder som krävs av RGPD och LOPDGDD, för att skydda användarnas rättigheter och friheter. Dessutom har lämplig information lämnats till användarna så att de kan utöva sina rättigheter."
+        }
+    }
+}

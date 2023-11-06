@@ -1,0 +1,7 @@
+{
+	"title": "Código postal (obrigatorio)",
+	"placeholder": "Introduce o código postal...",
+	"error_msg": "Por favor, introduza 5 díxitos",
+	"verify_msg": "Verificando..",
+	"fail_msg": "Código postal incorrecto"
+}

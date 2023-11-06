@@ -1,0 +1,28 @@
+{
+    "faq": {
+        "title": "Întrebări frecvente",
+        "description": "Aveți întrebări? Citiți câteva dintre întrebările noastre frecvente sau contactați consilierii noștri pentru ajutor.",
+        "questions": [
+            {
+                "question": "Ce este asigurarea funerară?",
+                "answer": "Asigurarea funerară este concepută pentru a ajuta familiile în momentele cele mai delicate și asigură furnizarea de servicii funerare și proceduri legate de moartea unei persoane. Este contractat cu scopul de a atenua povara financiară și logistică a unei înmormântări și a procedurilor legale și administrative asociate decesului."
+            },
+            {
+                "question": "Care sunt avantajele comparării cu noi?",
+                "answer": "Comparați în mai puțin de 1 minut dintr-o interfață ușor de utilizat. Eva Seguros vă ajută să alegeți între cele mai bune companii de asigurări funerare din Spania."
+            },
+            {
+                "question": "Cum găsești asigurarea funerară care ți se potrivește cel mai bine?",
+                "answer": "Prin comparatorul nostru de asigurări funerare, puteți filtra ofertele celor mai bune companii pentru a găsi asigurarea funerară care vi se potrivește cel mai bine."
+            },
+            {
+                "question": "Cât costă asigurarea funerară?",
+                "answer": "Există o gamă largă de prime care depind de cantitatea de acoperire suplimentară pe care o luați și de modul în care plătiți prima. În comparația noastră de asigurări funerare puteți găsi cele mai ieftine prețuri."
+            },
+            {
+                "question": "Cine poate încheia o asigurare funerară?",
+                "answer": "Oricine are vârsta legală poate încheia o asigurare funerară."
+            }
+        ]
+    }
+}

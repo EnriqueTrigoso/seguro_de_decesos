@@ -1,0 +1,30 @@
+{
+	"title": "كم عدد الأشخاص الذين ستضمهم في البوليصة؟",
+	"subtitle": "اختر من الخيارات",
+	"options": [
+		{
+			"text": "أنا فقط »",
+			"userDataValue": 1
+		},
+		{
+			"text": "شخصان »",
+			"userDataValue": 2
+		},
+		{
+			"text": "3 أشخاص »",
+			"userDataValue": 3
+		},
+		{
+			"text": "4 أشخاص »",
+			"userDataValue": 4
+		},
+		{
+			"text": "5 أشخاص »",
+			"userDataValue": 5
+		},
+		{
+			"text": "أكثر من 5 أشخاص »",
+			"userDataValue": "5+"
+		}
+	]
+}

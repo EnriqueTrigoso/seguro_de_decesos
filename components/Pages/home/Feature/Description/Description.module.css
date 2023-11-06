@@ -1,0 +1,11 @@
+.list li::before {
+	content: "·";
+	font-size: 30px;
+	vertical-align: middle;
+	line-height: 20px;
+	margin-right: 10px;
+}
+
+.card_subtitle {
+	margin-bottom: 7px;
+}

@@ -1,0 +1,21 @@
+{
+    "help": {
+        "title": "Vă ajutăm să găsiți cea mai bună /asigurare funerară/",
+        "description": "Suntem disponibili pentru a răspunde la toate întrebările dvs. și pentru a vă ajuta să alegeți asigurarea funerară care se potrivește cel mai bine nevoilor dvs. și celor ale familiei dvs.",
+        "schedule": [
+            "De luni până vineri: 8 a.m. - 8 p.m.",
+            "Sâmbătă și duminică: 9 a.m. - 17 p.m."
+        ],
+        "buttons": [
+            {
+                "text": "Compară acum",
+                "url": "#"
+            }
+        ],
+        "contact_phone": "(01) 411-6001",
+        "metadata": {
+            "alt": "encuentra el mejor seguro de decesos",
+            "title": "mejor seguro de decesos"
+        }
+    }
+}

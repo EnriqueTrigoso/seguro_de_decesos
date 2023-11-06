@@ -1,0 +1,21 @@
+{
+  "title": "Cela Pourrait Vous Intéresser",
+  "search_options": [
+    {
+      "title": "Connectez-vous à EvaSeguros.fr",
+      "description": "Paiements, services, avantages et plus encore."
+    },
+    {
+      "title": "Soins Médicaux",
+      "description": "Demandez des soins médicaux virtuels ou à domicile."
+    },
+    {
+      "title": "Couverture d'Assurance",
+      "description": "Découvrez ce que votre assurance couvre."
+    },
+    {
+      "title": "Centre d'Aide",
+      "description": "Tirez le meilleur parti de votre assurance et découvrez vos avantages."
+    }
+  ]
+}

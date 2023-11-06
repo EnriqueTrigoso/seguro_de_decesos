@@ -1,0 +1,13 @@
+{
+  "title": "أدخل رقم هاتفك واسمك وسنتواصل معك",
+  "phonePlaceholder": "رقم الهاتف",
+  "errorMsgPhone": "يرجى إدخال رقم صالح",
+  "namePlaceholder": "الاسم",
+  "errorMsgName": "يقبل حقل 'الاسم' الأحرف والمسافات فقط",
+  "callQuestion": "متى تريد أن نتصل بك؟",
+  "timeRightNow": "الآن",
+  "timeTomorrow": "غدا",
+  "timeOneWeek": "بعد أسبوع",
+  "btnCallMe": "اتصل بي",
+  "gratitude": "شكراً لمشاركة بياناتكم معنا. /سنتواصل معكم في أقرب وقت ممكن./"
+}

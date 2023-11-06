@@ -1,0 +1,73 @@
+{
+	"legal_warning": {
+		"metadata": {
+			"title": "Lege Oharra",
+			"description": "Lege Oharra"
+		},
+		"title": "LEGE OHARRA",
+		"section1": {
+			"title": "ERABILTZAILEARI INFORMAZIOA:",
+			"description": "Dokumentu honen helburua EVA ASEGURUAK, hurrengoan ARDURADUNA izendatua, Erabiltzailearen datu pertsonalak kudeatzeari buruz jakinaraztea da, indarrean dauden datu pertsonalen babesa regulatzen duten araudien arabera, Reglamentu (UE) 2016/679 apirilaren 27koa (RGPD) eta Datu Pertsonalen Babesaren eta Eskubide Digitalen Bermatzeko 3/2018 Lege Organikoa, abenduaren 5ekoa (LOPDGDD) barne. Ondorengo informazioa ematen da:",
+			"purpose_of_the_treatment": "{Behin-behineko helburua:} Datuen tratamenduaren helburua Erabiltzailearekin harremana komertziala mantentzea da. Tratamendu hori burutzeko aurreikusitako operazioak hauek dira:",
+			"operations": [
+				"Polizen kudeaketa, istripuak eta kontaktu-kanal desberdinak erabiliz Erabiltzaileak egindako kontsulta edo eskaerei erantzutea.",
+				"Komunikazio komertzialak eta argitalpenak bidaltzea, bide elektroniko edo fisikoak erabiliz, barne hartuta posta elektronikoa, faxa, SMS, MMS eta sare sozialak, EVA SEGUROren produktu eta zerbitzuekin lotutakoak, eta beren lankide edo hornitzaileekin, haien artean sustapen-akordioak ezartzen badira.",
+				"Datuak babesle eta aseguradoreen hirugarren enpresen artean zuzentzea datu pertsonalizatua bidaltzeko haien produktu eta zerbitzuak azaltzeko.",
+				"Merkataritza azterketak, ebaluazio inkestak eta analisi estatistikokoak burutzeko.",
+				"Zerrendetan sartzea edo zerbitzu informatiboetan.",
+				"Iradokizunak eta reklamazioak kudeatzea.",
+				"Ondorio legezko edo araudizko betebeharrak burutzeko.",
+				"Profila edo datu publiko edo pribatuen zerrendekin datuak uztartzea.",
+				"Lehiaketa eta eskaintzen antolatzea."
+			],
+			"data_treatment": [
+				"Helburu horiek betetze aldera, EVA SEGUROSk bildutako datuak elkarlotu ahal izango ditu informazioa eguneratzeko eta osatzeko asmoz.",
+				"Jarduera-sektoreak eta datuak zuzentzea: Datu pertsonalak hirugarren enpresak, aseguradoreen sektorea, enpresetako erakunde finantzarioak eta sektore loturako beste entitate batzuei zuzendu ahal zaizkie, interesdunek seguruen eta zerbitzu loturen berri emateko. Datuak jasotzea eta tratamendua: EVA SEGUROSk erabiltzaileek emandako datu pertsonalak tratatzen ditu, haien artean honako informazioa dago:"
+			],
+			"data_treatment_list": [
+				"Identifikazio-datuak (izena, abizenak, NIF, posta helbidea, telefonoak, posta elektronikoa).",
+				"Pertsonei buruzko ezaugarriak (ezkontza-egoera, jaiotze-data eta lekua, adina, sexua, nazionalitatea, datu familiarrak).",
+				"Akademiko eta profesionalen datuak (hezkuntza eta lanpostua).",
+				"Banku-datuetak (ordainketa eta polizak kudeatzeko).",
+				"Komertzio-informazioa (jarduerak eta negozioak, argitalpenen harpidetzak, lizentzia komertziala).",
+				"Ekonomia-, finantza- eta aseguruen datuak (kredituak, maileguak, aseguruak), besteak beste."
+			],
+			"data_retention": "{Datuak gordetzea:} Emandako datuak jasotzen dira gune komertzial bat badago edo legezko betebeharrak betetzeko beharrezko denbora zehar.",
+			"legitimation_of_the_treatment": "{Tratamenduaren legalitatea:} Datu pertsonalak prozesatzeko tratamendua interesatua aurretik adierazitako baimenaren arabera egiten da, GDPRren 6.1 a) artikuluaren arabera. Interesdunak bere datu pertsonalak bereizitutako helburu berezi batzuentzako prozesatzeko baimena eman du.",
+			"data_retention_criteria": "{Datuak gorde daitezkeen irizpideak:} Datuak tratamenduaren helburua mantentzean interesa badago, datuak helburu horretarako ezinbestekotzat joan arte, baimen du. Datuak ez badira jada helburu horretarako beharrezkoak, datuak segurtasun neurri egokiak erabiliz ezabatuko dira, beren seudonimizazioa edo erabat suntsitzeko.",
+			"transfer_of_data": "{Datuak transferitzea:} EVA SEGUROEK bildutako datuak hurrengo erakundeei partekatu ahal izango dizkie, konfidentzialtasuna eta beren jasotze helburua errespetatuz:",
+			"transfer_of_data_list": [
+				"Datu pertsonalen tratamendu arduradunak (babesleak) eta aseguruen sektoreko hirugarren enpresak.",
+				"Lan-esleipen eta hautaketa enpresak."
+			],
+			"information_to_third_parties": "EVA SEGUROEK informazioa hirugarrenei transferitu dezake erabiltzaileen baimen aurretik, transferentziak legeak baimentzen badu, publikoki eskuragarri dauden datuetatik lortutako datuak badira, transferentziak Arartekoari, Ministerio Fiskalari, Epaiak edo Epaileei, Kontuen Epaikuntzako Auzitegiari, Arartekoarekin edo Kontuen Epaikuntzarekin funtzio antzekoak dituzten instituzio autonomoetara edo Arartekoarekin edo Kontuen Epaikuntzarekin lotura disosiatuaren prozesuaren ondoren gauzatzen bada.",
+			"contact_text": "Galdera edo informazio gehiago izanez gero, jar zaitez gurekin harremanetan. Lagunduko dizugu zure galderak erantzuteko.",
+			"subtitle_user_rights": "Erabiltzailearen Eskubideak:",
+			"user_rights_text": "Datu titular moduan, eskubide batzuk dauzkazu, baina kontuan izan behar duzu ez dela betetzen den egoeretan guztietan aplikagarriak. Horrela baldin bada, hauexek dira zure eskubideak:",
+			"user_rights_list": [
+				"Zure datu pertsonalak jasotzeko eskubidea: horrek datuak prozesatzen ari diren ala nola tratatzen ari diren informazioa lortzea dakar. Zure eskaerak beste pertsonen datu pertsonalak barneratzen baditu edo beste baten izenean jokatzen bazara, horien identifikazioa eta baimena berresten duen idazki edo baimen agiria eskatu beharko duzu, zure izenean jokatzeko.",
+				"Zure datu pertsonalen tratamenduari buruzko informazioa jaso dezakezu: eskubidea betetzen dugu Politika honen bidez.",
+				"Zuzenketa eskubidea: hau da, datu pertsonalak zuzentzeko eskubidea, desegokiak badira edo osatu behar badira.",
+				"Zure datu pertsonalen prozesamenduari aurka egiteko eskubidea.",
+				"Ezabatze eskubidea: horrek zure datu pertsonalak ezabatzeko edo blokeatzeko aukera dakar.",
+				"Zure datu pertsonalak erakunde batean transferitu, kopiatu edo mugitu ahal izateko eskubidea (datuen portabilitatea).",
+				"Zure datuei oinarritutako erabaki automatizatuak dituzten eskubideak, zure datuekin profila ez egiteko eskubidea barne."
+			],
+			"subtitle_claim": "Zuzenbide-epaia aurkeztea Eskubidea:",
+			"subtitle_claim_text": "Zure datu pertsonalen tratamenduarekin lotutako zure eskubideak urratu egin direla uste badituzu, ere zuzenbide-epaia aurkeztu ahal izango duzu agintaritza gobernadoreari dagokion agintaritzari. Espainian, agintaritza hori Datuen Babeseko Espainiako Agentzia (AEPD) da. Harremanetan jarri ahal zara beren egoitzan, Jorge Juan Kalea 6, 28001 - Madril, edo bisitatu beren webgunea: https://www.aepd.es/es. Kontuan hartu zure datu pertsonalen tratamenduarekin lotutako zuzenbide-epaia aurkeztu ahal izatea bakarrik. Gure zerbitzuak eskaintzen ditugunak dituzten epaiekin lotutako zuzenbide-epaiek Gure Lege-oharra zehazten duena jarri behar da beti praktikan, bakoitzeko zerbitzuaren zatia dagoen zatian.",
+			"claim_contact_text": "Zure eskubideak aitzakitzeko harremanetarako datuak:",
+			"claim_contact_list": [
+				"Dirección postal: HOSPITAL STA. MARGARITA KALEA, 1, ATZEALDEA BAJO 2, 20303, IRUN, GIPUZKOA",
+				"Posta elektronikoaren helbidea: atencionalcliente@evaseguros.es"
+			]
+		},
+		"section2": {
+			"title": "ERABILTZAILEAREN BIDALTZEN DUEN INFORMAZIOAREN MUGATU ETA FAKULTATIBOA DEN IZATEA:",
+			"description": "Kontaktu formularioan edo deskarga formularioetan dagokion kasilak markatzean eta asterisko (*) markak daramaten eremuak betetzean, Erabiltzaileek esprimatuta, libreez eta maitasunez onartzen dute haien datuak hornitzeko beharrezkoak direla hornitzaileak haien eskaera arintzeko, eta beste eremu guztietan datuak sartzea fakultatiboa da. Erabiltzaileak datu pertsonalak horien egiaztagarritasuna bermatzen du ESKU HARTZAILEARI emandako datuak eta beren batzarra hartu da horiekin egindako aldaketak jakinarazteko konpromisoa hartzen du. ESKU HARTZAILEAK esplizituki jakinarazten du eta bermatzen die erabiltzaileei datu pertsonalak transferitzeko behar duenean lehendik eskubideak jakinarazteko beharra dutela, beren esanetan bermatuta. Webgunearen bidez eskatutako datu guztiak beharrezkoak dira, Erabiltzaileari zerbitzu aproposa eskaintzeko. Datu guztiak ez badaude eman, ezin da bermatu informazioa eta eskaintzen diren zerbitzuak bere beharretara eraginkorrak izango direla."
+		},
+		"section3": {
+			"title": "SEGURTASUN ESKOPIAK:",
+			"description": "Datu pertsonalen babesaren erregelamenduak arautzen dituen gainerakoarekin bat datozen, ESKU HARTZAILEAK bere erantzukizuna duten datu pertsonalak tratatzeko EGK eta LDLODGKk zehazten dituzten disposizio guztiak betetzen ditu. Modu argi batean, datuak legezko, adil eta gardena erabiltzen dira interessatua duenarekin lotuta, eta tratatzeko asmoz erabili beharrezkoak diren helburuak mugatzen dira, RGPDren 5. artikuluan eta LDLODGKren 4. artikuluan deskribatutakoa bezala. ESKU HARTZAILEAK bermea ematen du egokien eskuzabal eta antolamendu politikak ezarri dituela EGKk eta LDLODGKk eskatzen dituzten segurtasun neurriak aplikatzeko, Erabiltzaileen eskubideak babesteko. Gainera, Erabiltzaileei beren eskubideak erakutsi ditzaten informazioa eman da."
+		}
+	}
+}

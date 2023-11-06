@@ -1,0 +1,33 @@
+{
+    "testimonials": {
+        "subtitle": "Testimoniale",
+        "title": "Tot mai mulți /oameni/ au încredere în /noi./",
+        "description": "Înțelegerea opiniilor clienților despre Eva Seguros este cel mai eficient mod de a evalua performanța serviciilor noastre.",
+        "cards": [
+            {
+                "name": "Antonia García",
+                "image": "#",
+                "city": "Madrid",
+                "description": "„Comparatorul Evei m-a ajutat să obțin cea mai convenabilă asigurare funerară pentru economia mea. Am economisit și am făcut o asigurare completă.”",
+                "alt": "seguro de decesos testimonio",
+                "title": "seguro de decesos-testimonios"
+            },
+            {
+                "name": "Sofia Sanchez",
+                "image": "#",
+                "city": "Girona",
+                "description": "„Sunt atât de multe companii încât nu știam ce asigurare funerară să aleg. Dar am folosit comparatorul de asigurări al Evei și m-au ajutat să obțin o poliță ideală pentru tata, mama și pentru mine.”",
+                "alt": "seguro de decesos testimonio",
+                "title": "seguro de decesos-testimonios"
+            },
+            {
+                "name": "Antonio Rodríguez",
+                "image": "#",
+                "city": "salamanca",
+                "description": "„La Eva am găsit comparatoare pentru toate tipurile de asigurări. Pe același site web, am comparat asigurările de sănătate, asigurarea de locuință și asigurarea de subvenție, dar există multe altele. În plus, a fost foarte rapid și ușor!”",
+                "alt": "seguro de decesos testimonio",
+                "title": "seguro de decesos-testimonios"
+            }
+        ]
+    }
+}

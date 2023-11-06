@@ -1,0 +1,23 @@
+{
+    "error": {
+        "name": "请输入有效的姓名",
+        "phone": "请输入有效的手机号码",
+        "email": "请输入有效的电子邮件",
+        "email_already_registered": "该用户已注册"
+    },
+    "input": [
+        {
+            "title": "姓名：*",
+            "placeholder": "请输入您的姓名"
+        },
+        {
+            "title": "手机号码：*",
+            "placeholder": "请输入您的手机号码"
+        },
+        {
+            "title": "电子邮件：*",
+            "placeholder": "请输入您的电子邮件"
+        }
+    ],
+    "button": "进行比较"
+}

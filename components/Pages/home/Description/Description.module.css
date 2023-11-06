@@ -1,0 +1,12 @@
+.description {
+	overflow: hidden;
+	padding-top: 2rem;
+	padding-bottom: 30px;
+	background: var(--colors-gray-50, #F9FAFB);
+}
+
+@media (min-width: 1024px) {
+	.description {
+		padding-bottom: 3.5rem;
+	}
+}

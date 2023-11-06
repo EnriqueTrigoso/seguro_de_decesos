@@ -1,0 +1,449 @@
+{
+    "cookies_policy": {
+        "content": {
+            "title": "Cookie 政策",
+            "whatIsAcookie": {
+                "title": "什么是饼干？",
+                "content": [
+                    "Cookie 是网站发送的少量信息，它会记住有关您的访问的信息，通常是技术、统计、个人偏好信息等，但不记住敏感数据或信息。Cookie 不会损害您的设备并起到重要作用，因为没有它们，使用网络将是一种更加令人沮丧的体验。"
+                ]
+            },
+            "typeOfCookies": {
+                "title": "饼干的种类",
+                "content": [
+                    "法律允许我们在您的设备上存储Cookie，前提是它们是我们页面的操作所必需的（这些是所谓的技术性cookie）。对于所有其他类型的 Cookie，我们需要您的许可。除了技术性 Cookie 之外，{domain} 我们还使用分析和广告 Cookie。有些 Cookie 是由我们合作的第三方服务放置的。这些类型的 Cookie 在 Cookie 配置器中进行了详细介绍，您可以在其中随时更改或撤回您的同意。除了其用途外，Cookie 还可以是：",
+                    "取决于这些 Cookie 属于谁：",
+                    "自己的Cookie：由西班牙一家保险风险管理公司直接管理并发送给您的Cookie。",
+                    "来自第三方：由其他 ONE SPAIN INSRANCE RISK MANAGEMENTS 员工管理并发送给您的第三方。",
+                    "取决于这些 Cookie 的持续时间：",
+                    "会话 Cookie：它们仅在您访问我们的网站时起作用，一旦您离开此页面，它们就会停止工作。",
+                    "永久性 Cookie：它们会在您离开我们的网站一段特定时间后生效，该时间由负责 Cookie 的人员确定。",
+                    "下面，详细介绍了西班牙一家保险风险管理中使用的所有cookie："
+                ]
+            },
+            "deleteCookies": {
+                "title": "如何禁用或删除 Cookie",
+                "content": [
+                    "您可以随时通过 Cookie 配置器撤回或更改您的同意，对于网络而言，您可以随时通过本政策中的链接访问该配置器。但我们也提醒您，在网络上，您可以在浏览器菜单的 “选项” 或 “首选项” 部分修改浏览器设置，在那里您可以删除之前接受的所有 Cookie。我们建议您使用浏览器的 “帮助” 功能来检查如何删除 Cookie。"
+                ]
+            }
+        },
+        "tables": {
+            "technicalCookies": {
+                "title": "技术饼干",
+                "content": [
+                    {
+                        "name": "饼干编号",
+                        "description": "描述",
+                        "duration": "持续时间",
+                        "property": "财产"
+                    },
+                    {
+                        "name": "asp.net_sessionID",
+                        "description": "运行应用程序所必需的",
+                        "duration": "会话",
+                        "property": "自己的"
+                    },
+                    {
+                        "name": "CJ会话",
+                        "description": "它为用户提供了一个随机的加密值（ID 值），允许他们在不处理个人身份数据的情况下被识别为唯一用户",
+                        "duration": "1 小时",
+                        "property": "自己的"
+                    },
+                    {
+                        "name": "过期会话",
+                        "description": "允许您检查用户在一小时后是否仍处于活动状态",
+                        "duration": "30 天",
+                        "property": "自己的"
+                    },
+                    {
+                        "name": "GaSess",
+                        "description": "允许你将 cjSession cookie 的 ID 值转移到谷歌分析",
+                        "duration": "1 小时",
+                        "property": "自己的"
+                    },
+                    {
+                        "name": "用户追踪器",
+                        "description": "它包含用户首次访问网络时的第一个会话 ID",
+                        "duration": "5 年",
+                        "property": "自己的"
+                    },
+                    {
+                        "name": "用户类型",
+                        "description": "它允许您识别用户是首次返回还是首次访问该网站",
+                        "duration": "1 小时",
+                        "property": "自己的"
+                    },
+                    {
+                        "name": "__utmz",
+                        "description": "允许您获取用户的导航起点",
+                        "duration": "1 小时",
+                        "property": "自己的"
+                    },
+                    {
+                        "name": "cookie_rst",
+                        "description": "允许您显示警告横幅和 Cookie 信息",
+                        "duration": "1 年",
+                        "property": "自己的"
+                    },
+                    {
+                        "name": "同意",
+                        "description": "它允许您识别用户是否已同意 Cookie",
+                        "duration": "1 年",
+                        "property": "自己的"
+                    },
+                    {
+                        "name": "isSessionR",
+                        "description": "允许您跟踪用户的会话是否已更改或已续订",
+                        "duration": "1 天",
+                        "property": "自己的"
+                    },
+                    {
+                        "name": "CARCJ 会话 ID",
+                        "description": "它为用户提供了汽车保险产品的随机加密值（ID 值），使他们无需处理个人身份数据即可被识别为唯一用户",
+                        "duration": "1 小时",
+                        "property": "自己的"
+                    },
+                    {
+                        "name": "qpe8d4cca2e2e9",
+                        "description": "它允许已到达价格页面的用户在按下 “返回” 按钮后返回该页面",
+                        "duration": "1 天",
+                        "property": "自己的"
+                    },
+                    {
+                        "name": "健康报价页面",
+                        "description": "它允许已进入健康保险产品价格页面的用户在按下 “返回” 按钮后返回该页面",
+                        "duration": "1 天",
+                        "property": "自己的"
+                    },
+                    {
+                        "name": "captchav3_ {会话 ID}",
+                        "description": "允许您检查是否已为会话 ID 保存了验证码（用于识别机器人的应用程序）信息",
+                        "duration": "2 天",
+                        "property": "自己的"
+                    },
+                    {
+                        "name": "ip_ {cookie ID}",
+                        "description": "允许您检查 Cookie ID 的 IP 地址是否已保存",
+                        "duration": "36 个小时",
+                        "property": "自己的"
+                    },
+                    {
+                        "name": "用户信息",
+                        "description": "允许您在销售页面上保存有关用户 IP 的信息",
+                        "duration": "会话",
+                        "property": "自己的"
+                    },
+                    {
+                        "name": "最后一句话",
+                        "description": "它允许用户查看上次比较中获得的价格，然后重新计算它们，而无需再次回答所有问题",
+                        "duration": "5 年",
+                        "property": "自己的"
+                    },
+                    {
+                        "name": "CJ会话",
+                        "description": "它为用户提供了一个随机的加密值（ID 值），允许他们在不处理个人身份数据的情况下被识别为唯一用户",
+                        "duration": "1 小时",
+                        "property": "自己的"
+                    },
+                    {
+                        "name": "过期会话",
+                        "description": "允许您检查用户在一小时后是否仍处于活动状态",
+                        "duration": "30 天",
+                        "property": "自己的"
+                    },
+                    {
+                        "name": "GaSess",
+                        "description": "允许你将 cjSession cookie 的 ID 值转移到谷歌分析",
+                        "duration": "1 小时",
+                        "property": "自己的"
+                    }
+                ]
+            },
+            "analyticalCookies": {
+                "title": "分析饼干",
+                "content": [
+                    {
+                        "name": "饼干编号",
+                        "description": "描述",
+                        "duration": "持续时间",
+                        "property": "财产"
+                    },
+                    {
+                        "name": "_ga",
+                        "description": "用于监视网页的可用性",
+                        "duration": "2 年",
+                        "property": "自己的"
+                    },
+                    {
+                        "name": "_glc_au",
+                        "description": "由 Google AdSense 用于在使用其服务的网站上测试广告效率",
+                        "duration": "90 天",
+                        "property": "自己的"
+                    },
+                    {
+                        "name": "_dc_gtm_ua-7713710-1",
+                        "description": "它用于限制浏览器向 Google 服务器发出的请求的百分比",
+                        "duration": "1 分钟",
+                        "property": "自己的"
+                    },
+                    {
+                        "name": "_gid",
+                        "description": "它用于在不识别用户的情况下将某些用户与其他用户区分开来。",
+                        "duration": "24 小时",
+                        "property": "自己的"
+                    },
+                    {
+                        "name": "_gat_ua-7713710-1",
+                        "description": "由 Google AdSense 用于在使用其服务的网站上测试广告效率",
+                        "duration": "1 分钟",
+                        "property": "自己的"
+                    },
+                    {
+                        "name": "_gac_ua-7713710-1",
+                        "description": "包括与用户相关的活动信息",
+                        "duration": "90 天",
+                        "property": "自己的"
+                    },
+                    {
+                        "name": "vtstep",
+                        "description": "用于跟踪用户并了解有多少用户最终获得了销售",
+                        "duration": "30 天",
+                        "property": "自己的"
+                    },
+                    {
+                        "name": "Datadome",
+                        "description": "用于检测机器人和 DDoS 攻击",
+                        "duration": "1 年",
+                        "property": "自己的"
+                    }
+                ]
+            },
+            "thirdCookies": {
+                "title": "第三方饼干",
+                "content": [
+                    {
+                        "name": "饼干编号",
+                        "description": "描述",
+                        "duration": "持续时间",
+                        "property": "财产"
+                    },
+                    {
+                        "name": "转换、IDE、ANID、DSID、FLC、AID、TAID、exchange_uid",
+                        "description": "它们用于在网络上投放定向广告。根据您之前对本网站的访问，可能会向您展示定向广告。",
+                        "duration": "1 年",
+                        "property": "来自第三方"
+                    },
+                    {
+                        "name": "AID、DSID、TAID",
+                        "description": "它们用于关联您在设备上的活动。通过这种方式，可以协调广告中显示的广告，并衡量转化事件",
+                        "duration": "1 年",
+                        "property": "来自第三方"
+                    },
+                    {
+                        "name": "_fbc",
+                        "description": "它用于投放广告、衡量广告效果并提高广告的相关性",
+                        "duration": "90 天",
+                        "property": "来自第三方"
+                    },
+                    {
+                        "name": "_fbp",
+                        "description": "识别浏览器以提供广告和网站分析服务",
+                        "duration": "90 天",
+                        "property": "来自第三方"
+                    },
+                    {
+                        "name": "_uetmslkid",
+                        "description": "它用于通过为广告和登录页面上的每次点击分配一个唯一的 ID 来准确衡量转化次数。",
+                        "duration": "90 天",
+                        "property": "来自第三方"
+                    },
+                    {
+                        "name": "_uetsid",
+                        "description": "用于提高转换的准确性。必应？这要归功于它为每个会话分配一个唯一的 ID。",
+                        "duration": "30 分钟",
+                        "property": "来自第三方"
+                    },
+                    {
+                        "name": "我们",
+                        "description": "它用于衡量微软的独特用户。",
+                        "duration": "13 个月",
+                        "property": "来自第三方"
+                    },
+                    {
+                        "name": "MUIDB",
+                        "description": "它用于衡量微软的独特用户。此 Cookie 用于恢复管理 MUID cookie 的唯一 ID。",
+                        "duration": "13 个月",
+                        "property": "来自第三方"
+                    },
+                    {
+                        "name": "Obuid",
+                        "description": "原生广告平台：保存用户的匿名 ID 以记录操作，例如点击、转化等。",
+                        "duration": "3 个月",
+                        "property": "来自第三方"
+                    },
+                    {
+                        "name": "t_gid",
+                        "description": "原生广告平台：用于分配归因的唯一用户 ID（点击量、转化次数...）",
+                        "duration": "1 年",
+                        "property": "来自第三方"
+                    },
+                    {
+                        "name": "obuid",
+                        "description": "原生广告平台：保存用户的匿名 ID 以记录操作，例如点击、转化等。",
+                        "duration": "3 个月",
+                        "property": "来自第三方"
+                    },
+                    {
+                        "name": "t_gid",
+                        "description": "原生广告平台：用于分配归因的唯一用户 ID（点击量、转化次数...）",
+                        "duration": "1 年",
+                        "property": "来自第三方"
+                    },
+                    {
+                        "name": "神父",
+                        "description": "这是 Facebook 的主要广告 cookie。它用于提供、分析和改善广告的相关性",
+                        "duration": "90 天",
+                        "property": "来自第三方"
+                    },
+                    {
+                        "name": "oo",
+                        "description": "它用于记录停止接收广告的决定。",
+                        "duration": "5 年",
+                        "property": "来自第三方"
+                    },
+                    {
+                        "name": "会",
+                        "description": "用于在安装后在广告商的应用程序中打开特定位置",
+                        "duration": "28 天",
+                        "property": "来自第三方"
+                    }
+                ]
+            },
+            "advertisingCookies": {
+                "title": "广告饼干",
+                "content": [
+                    {
+                        "domain": "自治领土",
+                        "name": "姓名",
+                        "description": "描述",
+                        "duration": "持续时间",
+                        "property": "财产"
+                    },
+                    {
+                        "domain": "static.aroa.io",
+                        "name": "_adobator",
+                        "description": "这些 Adobe Cookie 可以获取用户在网络上的行为与浏览该行为的设备之间的关系。",
+                        "duration": "3 个月",
+                        "property": "来自第三方"
+                    },
+                    {
+                        "domain": "_",
+                        "name": "_adobator_exp",
+                        "description": "这些 Adobe Cookie 允许我们知道用户是否分配了 Adobe ID。",
+                        "duration": "3 个月",
+                        "property": "来自第三方"
+                    },
+                    {
+                        "domain": "_",
+                        "name": "_alphonse",
+                        "description": "这些 appnexus Cookie 可以获取用户在网络上的行为与访问该用户的设备之间的关系。",
+                        "duration": "3 个月",
+                        "property": "来自第三方"
+                    },
+                    {
+                        "domain": "_",
+                        "name": "_alphonse_exp",
+                        "description": "这些 appnexus cookie 可以知道用户是否分配了 Adobe 标识符",
+                        "duration": "3 个月",
+                        "property": "来自第三方"
+                    },
+                    {
+                        "domain": "_",
+                        "name": "_darenso",
+                        "description": "这些 datmean Cookie 可以识别网络上的用户以及他们正在浏览的设备。",
+                        "duration": "3 个月",
+                        "property": "来自第三方"
+                    },
+                    {
+                        "domain": "_",
+                        "name": "_deformer_exp",
+                        "description": "此 adform cookie 允许我们知道用户是否分配了 Adobe 标识符",
+                        "duration": "3 个月",
+                        "property": "来自第三方"
+                    },
+                    {
+                        "domain": "_",
+                        "name": "_killinchu",
+                        "description": "通过此 salesforce cookie，可以获取用户在网络上的行为与访问该用户的设备之间的关系。",
+                        "duration": "3 个月",
+                        "property": "来自第三方"
+                    },
+                    {
+                        "domain": "_",
+                        "name": "_killinchu_exp",
+                        "description": "这个 Salesforce cookie 允许我们知道用户是否分配了 Adobe 标识符。",
+                        "duration": "3 个月",
+                        "property": "来自第三方"
+                    },
+                    {
+                        "domain": "_",
+                        "name": "_Richierich",
+                        "description": "通过此 richaudience cookie，可以获取用户在网络上的行为与访问该用户的设备之间的关系。",
+                        "duration": "3 个月",
+                        "property": "来自第三方"
+                    },
+                    {
+                        "domain": "_",
+                        "name": "_sesamo",
+                        "description": "这些 datmean Cookie 可以识别用户在特定设备上的会话",
+                        "duration": "3 个月",
+                        "property": "来自第三方"
+                    },
+                    {
+                        "domain": "_",
+                        "name": "_tortillami",
+                        "description": "此批处理 Cookie 允许我们获取用户在网络上的行为与访问该用户的设备之间的关系。",
+                        "duration": "3 个月",
+                        "property": "来自第三方"
+                    },
+                    {
+                        "domain": "_",
+                        "name": "_tortillami_exp",
+                        "description": "这个批处理 Cookie 可以让我知道用户是否分配了 Adobe 标识符",
+                        "duration": "3 个月",
+                        "property": "来自第三方"
+                    },
+                    {
+                        "domain": "_",
+                        "name": "_trybolera",
+                        "description": "此 ttd cookie 可以获取用户在网络上的行为与访问该用户的设备之间的关系",
+                        "duration": "3 个月",
+                        "property": "来自第三方"
+                    },
+                    {
+                        "domain": "_",
+                        "name": "_wally",
+                        "description": "这些 weborama Cookie 可以获取用户在网络上的行为与访问该用户的设备之间的关系。",
+                        "duration": "3 个月",
+                        "property": "来自第三方"
+                    },
+                    {
+                        "domain": "_",
+                        "name": "_wally_exp",
+                        "description": "这些 weborama Cookie 允许我们知道用户是否分配了 Adobe 标识符。",
+                        "duration": "3 个月",
+                        "property": "来自第三方"
+                    },
+                    {
+                        "domain": "_",
+                        "name": "_beyota",
+                        "description": "这些 eyeota Cookie 可以获取用户在网络上的行为与访问用户的设备之间的关系。",
+                        "duration": "3 个月",
+                        "property": "来自第三方"
+                    }
+                ]
+            }
+        }
+    }
+}

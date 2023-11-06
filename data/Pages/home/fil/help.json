@@ -1,0 +1,21 @@
+{
+    "help": {
+        "title": "Tutulungan ka naming hanapin ang pinakamahusay na /seguro para sa pagkamatay/",
+        "description": "Ipinapangako naming sasagutin ang lahat ng iyong mga tanong at tutulungan kang pumili ng seguro para sa pagkamatay na pinakabagay sa iyong pangangailangan at sa iyong pamilya.",
+        "schedule": [
+            "Lunes hanggang Biyernes: 8 a.m. - 8 p.m.",
+            "Sabado at Linggo: 9 a.m. - 5 p.m."
+        ],
+        "buttons": [
+            {
+                "text": "Magkumpara ngayon",
+                "url": "#"
+            }
+        ],
+        "contact_phone": "(01) 411-6001",
+        "metadata": {
+            "alt": "hanapin ang pinakamahusay na seguro para sa pagkamatay",
+            "title": "pinakamahusay na seguro para sa pagkamatay"
+        }
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "title": "输入您的电话号码和姓名，他们将与您联系",
+    "phonePlaceholder": "电话",
+    "errorMsgPhone": "请输入有效的数字",
+    "namePlaceholder": "姓名",
+    "errorMsgName": "“姓名” 字段仅接受字母和空格",
+    "callQuestion": "你想什么时候接到电话？",
+    "timeRightNow": "现在",
+    "timeTomorrow": "早上",
+    "timeOneWeek": "1 周内",
+    "btnCallMe": "让他们给我打电话",
+    "gratitude": "感谢您与我们分享您的数据。/我们将尽快与您联系。/"
+}

@@ -1,0 +1,41 @@
+.card {
+    border: 3px solid rgba(0, 152, 58, 0.3);
+	border-radius: 24px;
+	padding: 31px 35px 35px 35px;
+	max-width: 572px;
+	justify-self: end;
+    background-color: #fff;
+}
+
+.container_btn {
+    margin-top: 29px;
+	display: flex;
+	flex-direction: column-reverse;
+	align-items: center;
+	gap: 10px;
+}
+
+.close_modal {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    margin-bottom: 16px;
+}
+
+.close_modal div {
+    cursor: pointer;
+}
+
+@media (min-width: 1024px) {
+
+    .card {
+        padding: 50px;
+    }
+
+	.container_btn {
+		/* flex-direction: row; */
+		/* justify-content: flex-start; */
+		gap: 30px;
+	}
+
+}

@@ -1,0 +1,35 @@
+.comparative {
+	margin-bottom: var(--section-margin-mobile);
+}
+
+.comparative_cards {
+	display: grid;
+	grid-template-columns: 1fr 1fr;
+	justify-content: center;
+	grid-gap: 10px;
+}
+
+.title {
+	margin-bottom: 20px;
+}
+
+@media (min-width: 1024px){
+
+	.comparative {
+		margin-bottom: 40px;
+	}
+	
+	.comparative_cards {
+		grid-template-columns: repeat(auto-fill, minmax(200px, 316px));
+		justify-content: flex-start;
+	}
+	
+	.title {
+		display: flex;
+		flex-direction: row;
+		gap: 20px;
+		justify-content: space-between;
+		margin-bottom: 36px;
+	}
+
+}

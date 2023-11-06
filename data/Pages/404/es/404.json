@@ -1,0 +1,25 @@
+{
+	"404": {
+		"metadata": {
+			"title": "¡Vaya! esa pagina no existe.",
+			"description": "La página que estás buscando no existe."
+		},
+		"content": {
+			"title": "¡Vaya! esa pagina no existe.",
+			"description": "No se pudo encontrar la página que solicitó",
+			"button_text": "Volver a la página de inicio",
+			"cards": [
+				{
+					"title": "Ayuda y soporte",
+					"subtitle": "Email: support@evaseguros.es",
+					"description": "Para obtener ayuda con un producto o servicio actual o consulte las preguntas frecuentes"
+				},
+				{
+					"title": "Llámanos",
+					"subtitle": "Llámanos para hablar con un miembro de nuestro equipo.",
+					"description": "(+01) 234 567 89"
+				}
+			]
+		}
+	}
+}

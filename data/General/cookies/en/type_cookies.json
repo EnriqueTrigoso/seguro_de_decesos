@@ -1,0 +1,25 @@
+{
+  "showListCookies": "Show Cookie List",
+  "cookies": [
+    {
+      "title": "Marketing Cookies",
+      "description": "We use marketing cookies to display advertising based on the user's interests through an anonymous profile.",
+      "cookieName": "marketing"
+    },
+    {
+      "title": "Personalization Cookies",
+      "description": "We use personalization cookies based on the user's navigation to make their experience functional and personalized.",
+      "cookieName": "personalization"
+    },
+    {
+      "title": "Analytics Cookies",
+      "description": "We use analytics cookies to collect information about user navigation and improve the services we provide through digital channels.",
+      "cookieName": "analytics"
+    },
+    {
+      "title": "Essential Cookies",
+      "description": "We use essential cookies to facilitate navigation on the site and remember user preferences. The only way to reject them is to stop browsing this website.",
+      "cookieName": "essential"
+    }
+  ]
+}

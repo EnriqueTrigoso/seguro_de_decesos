@@ -1,0 +1,26 @@
+{
+    "information": {
+        "title": "Compară între cele mai bune companii de asigurări /de deces de pe piață/",
+        "description": "Vă însoțim pe tot parcursul procesului pentru a vă răspunde la toate îndoielile. Puteți să ne sunați sau să ne lăsați numărul dvs. pentru a vă putea suna.",
+        "link_compare": "Compară acum",
+        "link_contact": "Contacteaza-ne",
+        "cards": [
+            {
+                "text": "Ne adaptăm la economia dumneavoastră",
+                "alt": "Femeie tânără gânditoare în aer liber"
+            },
+            {
+                "text": "Include transportul intern și internațional",
+                "alt": "Doamnă fericită ridicând brațele"
+            },
+            {
+                "text": "Include servicii medicale gratuite",
+                "alt": "Mama și fiica adolescentă îmbrățișând"
+            },
+            {
+                "text": "Acoperire completă a decesului",
+                "alt": "Mama și copilul ei îmbrățișându-se"
+            }
+        ]
+    }
+}

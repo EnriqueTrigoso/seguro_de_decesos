@@ -1,0 +1,10 @@
+{
+  "login": {
+    "title1": "Non hai un account?",
+    "title2": "Registrati"
+  },
+  "register": {
+    "title1": "Hai già un account?",
+    "title2": "Accedi"
+  }
+}

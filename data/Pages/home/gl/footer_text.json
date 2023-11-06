@@ -1,0 +1,72 @@
+{
+  "footer_text": {
+    "social_title": "Compara entre as mellores compañías aseguradoras de decesos do mercado.",
+    "social_description": "Síguenos nas nosas redes sociais",
+    "section1": {
+      "title": "Sobre Nós",
+      "options": [
+        {
+          "title": "Misión Visión",
+          "href": "#"
+        },
+        {
+          "title": "O noso equipo",
+          "href": "#"
+        }
+      ]
+    },
+    "section2": {
+      "title": "Máis información",
+      "options": [
+        {
+          "title": "Coñece a Eva",
+          "href": "#"
+        },
+        {
+          "title": "Plant-for-the-Planet",
+          "href": "#"
+        },
+        {
+          "title": "Universo Accesible",
+          "href": "#"
+        },
+        {
+          "title": "Universo Santi",
+          "href": "#"
+        }
+      ]
+    },
+    "section3": {
+      "title": "Nós Ofrecemos",
+      "options": [
+        {
+          "title": "Seguro de Decesos",
+          "href": "#"
+        },
+        {
+          "title": "Seguro de Vida",
+          "href": "#"
+        },
+        {
+          "title": "Seguro de Fogar",
+          "href": "#"
+        }
+      ]
+    },
+    "section4": {
+      "title": "Legal",
+      "options": [
+        {
+          "title": "Aviso Legal"
+        },
+        {
+          "title": "Política de Privacidade"
+        },
+        {
+          "title": "Política de cookies"
+        }
+      ]
+    },
+    "copyright": "{domain} 2023. Todos os dereitos reservados."
+  }
+}

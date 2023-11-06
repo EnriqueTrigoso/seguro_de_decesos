@@ -1,0 +1,13 @@
+{
+  "title": "Enter your phone number and your name, and they will contact you.",
+  "phonePlaceholder": "Phone Number",
+  "errorMsgPhone": "Please enter a valid number.",
+  "namePlaceholder": "Name",
+  "errorMsgName": "The 'Name' field only accepts letters and spaces.",
+  "callQuestion": "When would you like them to call you?",
+  "timeRightNow": "Right Now",
+  "timeTomorrow": "Tomorrow",
+  "timeOneWeek": "Within 1 Week",
+  "btnCallMe": "Call Me",
+  "gratitude": "Thank you for sharing your information with us. /We will contact you as soon as possible./"
+}

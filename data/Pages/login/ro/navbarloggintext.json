@@ -1,0 +1,10 @@
+{
+  "login": {
+    "title1": "Nu ai un cont?",
+    "title2": "Înregistrează-te"
+  },
+  "register": {
+    "title1": "Ai deja un cont?",
+    "title2": "Autentifică-te"
+  }
+}

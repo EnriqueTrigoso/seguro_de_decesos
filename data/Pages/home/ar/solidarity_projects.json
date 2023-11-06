@@ -1,0 +1,26 @@
+{
+    "solidarity_projects": {
+        "title": "العالم لا /يتحسن بالكلمات/، إنما بالمثال.",
+        "description": "«لا يمكننا تخمين المستقبل، ولكن يمكننا المساعدة في بنائه»",
+        "buttons": [
+            {
+                "text": "شاهد مشاريع التضامن",
+                "url": "#"
+            }
+        ],
+        "cards": [
+            {
+                "title": "مؤسسة الكون الذي يمكن الوصول إليه",
+                "description": "في Eva Seguros، نسعى إلى تحسين نوعية حياة الأشخاص ذوي الإعاقة جنبًا إلى جنب مع مؤسسة Universo Accessible ومشروع Universo Santi التابع لها.",
+                "url": "https://universoaccesible.org",
+                "url_text": "تعرف على المزيد"
+            },
+            {
+                "title": "بلانت فور ذا بلانيت",
+                "description": "شجرة واحدة لكل عميل. في Eva Seguros و Plant For The Planet، نعمل من أجل عالم أكثر خضرة ولدينا هدف زراعة مليون شجرة بحلول عام 2030.",
+                "url": "https://www.plant-for-the-planet.org",
+                "url_text": "تعرف على المزيد"
+            }
+        ]
+    }
+}

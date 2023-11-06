@@ -1,0 +1,72 @@
+{
+    "footer_text": {
+        "social_title": "比较市场上最好的丧葬保险公司。",
+        "social_description": "在我们的社交网络上关注我们",
+        "section1": {
+            "title": "关于我们",
+            "options": [
+                {
+                    "title": "使命愿景",
+                    "href": "#"
+                },
+                {
+                    "title": "我们的团队",
+                    "href": "#"
+                }
+            ]
+        },
+        "section2": {
+            "title": "了解更多",
+            "options": [
+                {
+                    "title": "认识伊娃",
+                    "href": "#"
+                },
+                {
+                    "title": "为地球而种植",
+                    "href": "#"
+                },
+                {
+                    "title": "无障碍宇宙",
+                    "href": "#"
+                },
+                {
+                    "title": "桑蒂宇宙",
+                    "href": "#"
+                }
+            ]
+        },
+        "section3": {
+            "title": "我们提供",
+            "options": [
+                {
+                    "title": "葬礼政策",
+                    "href": "#"
+                },
+                {
+                    "title": "人寿政策",
+                    "href": "#"
+                },
+                {
+                    "title": "主页政策",
+                    "href": "#"
+                }
+            ]
+        },
+        "section4": {
+            "title": "合法",
+            "options": [
+                {
+                    "title": "法律声明"
+                },
+                {
+                    "title": "隐私政策"
+                },
+                {
+                    "title": "Cookie 政策"
+                }
+            ]
+        },
+        "copyright": "{domain} 2023。版权所有。"
+    }
+}

@@ -1,0 +1,6 @@
+{
+  "title": "Maglagay ng iyong bagong password",
+  "button_text": "Palitan ang Password",
+  "placeholder": "Maglagay ng iyong bagong password",
+  "error_msg": "Maglagay ng password na may hindi kukulangin sa 8 karakter na alfanumeriko"
+}

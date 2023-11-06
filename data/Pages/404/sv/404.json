@@ -1,0 +1,25 @@
+{
+    "404": {
+        "metadata": {
+            "title": "Wow! Den sidan finns inte.",
+            "description": "Sidan du letar efter finns inte."
+        },
+        "content": {
+            "title": "Wow! Den sidan finns inte.",
+            "description": "Sidan du begärde kunde inte hittas",
+            "button_text": "Återgå till startsidan",
+            "cards": [
+                {
+                    "title": "Hjälp och support",
+                    "subtitle": "E-post: support@evaseguros.es",
+                    "description": "För hjälp med en aktuell produkt eller tjänst eller kolla in de vanliga frågorna"
+                },
+                {
+                    "title": "Ring oss",
+                    "subtitle": "Ring oss för att prata med en medlem i vårt team.",
+                    "description": "(+01) 234 567 89"
+                }
+            ]
+        }
+    }
+}

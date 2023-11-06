@@ -1,0 +1,26 @@
+.card {
+	display: flex;
+	flex-direction: column;
+	gap: 24px;
+	padding: 24px;
+	position: absolute;
+	background-color: #fff;
+	width: 100%;
+	left: 0;
+	top: calc(100% + 1px);
+	display: flex;
+	flex-direction: column;
+	z-index: 1;
+}
+
+.options {
+	display: flex;
+	flex-direction: column;
+	gap: 26px;
+}
+
+.link {
+	display: flex;
+	align-items: center;
+	gap: 5px;
+}

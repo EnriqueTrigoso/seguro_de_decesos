@@ -1,0 +1,76 @@
+{
+  "login": {
+    "title": "Iniciar sessió",
+    "description": "Accedeix al teu compte {domain} Podràs veure ofertes i recomanacions personalitzades.",
+    "input_email": {
+      "title": "Direcció de correu electrònic*",
+      "placeholder": [
+        "Escriure adreça de correu electrònic",
+        "Correu electrònic"
+      ],
+      "error_msg": "Correu electrònic no vàlid"
+    },
+    "input_password": {
+      "title": "Contrasenya*",
+      "placeholder": "Escriure contrasenya",
+      "error_msg": "Contrasenya incorrecta, intenta-ho de nou"
+    },
+    "checkbox": "Recorda'm",
+    "forgetPassword": "Has oblidat la contrasenya?",
+    "button": "Iniciar sessió",
+    "description2": "O també pots:",
+    "social_buttons": [
+      "Continua amb Google",
+      "Continua amb Facebook"
+    ],
+    "accion": [
+      "No tens un compte?",
+      "Crear compte"
+    ]
+  },
+  "register": {
+    "title": "Registra't",
+    "description": "Registra't a AssegurançaDeDecesos.com Podràs veure ofertes i recomanacions personalitzades.",
+    "input_name": {
+      "title": "Noms*",
+      "placeholder": "Escriure noms",
+      "error_msg": "Escriu un nom, només ha de contenir lletres"
+    },
+    "input_p_surname": {
+      "title": "Primer Cognom*",
+      "placeholder": "Escriure Primer Cognom",
+      "error_msg": "Escriu un Cognom, només han de ser lletres"
+    },
+    "input_m_surname": {
+      "title": "Segon Cognom",
+      "placeholder": "Escriure Segon Cognom",
+      "error_msg": "Escriu un Cognom, només han de ser lletres"
+    },
+    "input_email": {
+      "title": "Adreça de correu electrònic*",
+      "placeholder": [
+        "Escriu l'adreça de correu electrònic",
+        "Correu electrònic"
+      ],
+      "error_msg": [
+        "Correu electrònic no vàlid"
+      ]
+    },
+    "input_password": {
+      "title": "Contrasenya*",
+      "placeholder": "Escriu la contrasenya",
+      "error_msg": "Introdueix una contrasenya d'almenys 8 caràcters alfanumèrics"
+    },
+    "checkbox": "En fer clic al botó de Registrar-se, accepta els nostres termes i política,",
+    "button": "Registrar-se",
+    "description2": "O també pots:",
+    "social_buttons": [
+      "Crear el teu compte amb Google",
+      "Crear el teu compte amb Facebook"
+    ],
+    "accion": [
+      "Ja tens un compte?",
+      "Iniciar sessió"
+    ]
+  }
+}

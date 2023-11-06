@@ -1,0 +1,76 @@
+{
+    "login": {
+        "title": "Logga in",
+        "description": "Logga in på ditt {domän} -konto. Du kommer att kunna se personliga erbjudanden och rekommendationer.",
+        "input_email": {
+            "title": "E-postadress",
+            "placeholder": [
+                "Ange e-postadress",
+                "E-post"
+            ],
+            "error_msg": "Ogiltig e-post"
+        },
+        "input_password": {
+            "title": "Lösenord",
+            "placeholder": "Skriv lösenord",
+            "error_msg": "Felaktigt lösenord, försök igen"
+        },
+        "checkbox": "Kom ihåg mig",
+        "forgetPassword": "Har du glömt ditt lösenord?",
+        "button": "Logga in",
+        "description2": "Eller så kan du också:",
+        "social_buttons": [
+            "Fortsätt med Google",
+            "Fortsätt med Facebook"
+        ],
+        "accion": [
+            "Har du inget konto?",
+            "Skapa konto"
+        ]
+    },
+    "register": {
+        "title": "Bli Medlem",
+        "description": "Registrera dig på SegurodeDecesos.com Du kan se personliga erbjudanden och rekommendationer.",
+        "input_name": {
+            "title": "Namn",
+            "placeholder": "Skriva namn",
+            "error_msg": "Skriv ett namn, de ska bara vara bokstäver"
+        },
+        "input_p_surname": {
+            "title": "Förnamn",
+            "placeholder": "Skriv förnamn efternamn",
+            "error_msg": "Skriv ett efternamn, de ska bara vara bokstäver"
+        },
+        "input_m_surname": {
+            "title": "Andra efternamn",
+            "placeholder": "Skriv andra efternamn",
+            "error_msg": "Skriv ett efternamn, de ska bara vara bokstäver"
+        },
+        "input_email": {
+            "title": "E-postadress",
+            "placeholder": [
+                "Ange e-postadress",
+                "E-post"
+            ],
+            "error_msg": [
+                "Ogiltig e-post"
+            ]
+        },
+        "input_password": {
+            "title": "Lösenord",
+            "placeholder": "Skriv lösenord",
+            "error_msg": "Ange ett lösenord med minst 8 alfanumeriska tecken"
+        },
+        "checkbox": "Genom att klicka på knappen Registrera accepterar du våra /villkor och policy. /",
+        "button": "Registrera dig",
+        "description2": "Eller så kan du också:",
+        "social_buttons": [
+            "Skapa ditt konto med Google",
+            "Skapa din med Facebook"
+        ],
+        "accion": [
+            "Har du redan ett konto?",
+            "Logga in"
+        ]
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "information": {
+        "title": "Compara entre as mellores aseguradoras /de decesos do mercado/",
+        "description": "Acompañámoste durante todo o proceso para aclarar todas as túas dúbidas. Podes chamarnos ou deixarnos o teu número para que te chamemos.",
+        "link_compare": "Compara agora",
+        "link_contact": "Contacta connosco",
+        "cards": [
+            {
+                "text": "Adaptámonos á túa economía",
+                "alt": "Moza pensativa ao aire libre"
+            },
+            {
+                "text": "Inclúe traslado nacional e internacional",
+                "alt": "Muller feliz levantando os brazos"
+            },
+            {
+                "text": "Inclúe servizos médicos gratuítos",
+                "alt": "Nai e filla adolescente abrazándose"
+            },
+            {
+                "text": "Cobertura de decesos completa",
+                "alt": "Nai e o seu bebé abrazándose"
+            }
+        ]
+    }
+}

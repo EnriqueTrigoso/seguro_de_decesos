@@ -1,0 +1,6 @@
+{
+  "title": "Introduce o teu novo contrasinal",
+  "button_text": "Cambiar Contrasinal",
+  "placeholder": "Escribe o teu novo contrasinal",
+  "error_msg": "Introduce un contrasinal de polo menos 8 caracteres alfanuméricos"
+}

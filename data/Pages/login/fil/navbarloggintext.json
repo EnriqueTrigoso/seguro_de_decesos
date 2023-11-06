@@ -1,0 +1,10 @@
+{
+  "login": {
+    "title1": "Wala ka bang account?",
+    "title2": "Magparehistro"
+  },
+  "register": {
+    "title1": "Mayroon ka na bang account?",
+    "title2": "Mag-log in"
+  }
+}

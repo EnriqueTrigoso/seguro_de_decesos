@@ -1,0 +1,30 @@
+{
+	"title": "Скільки людей ви плануєте включити в поліс?",
+	"subtitle": "Виберіть один з варіантів",
+	"options": [
+		{
+			"text": "Тільки я »",
+			"userDataValue": 1
+		},
+		{
+			"text": "2 людини »",
+			"userDataValue": 2
+		},
+		{
+			"text": "3 людини »",
+			"userDataValue": 3
+		},
+		{
+			"text": "4 людини »",
+			"userDataValue": 4
+		},
+		{
+			"text": "5 людей »",
+			"userDataValue": 5
+		},
+		{
+			"text": "Більше 5 людей »",
+			"userDataValue": "5+"
+		}
+	]
+}

@@ -1,0 +1,6 @@
+{
+  "title": "Entrez votre nouveau mot de passe",
+  "button_text": "Changer le mot de passe",
+  "placeholder": "Entrez votre nouveau mot de passe",
+  "error_msg": "Entrez un mot de passe alphanumérique d'au moins 8 caractères"
+}

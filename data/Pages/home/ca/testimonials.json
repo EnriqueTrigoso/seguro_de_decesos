@@ -1,0 +1,33 @@
+{
+    "testimonials": {
+        "subtitle": "Testimonis",
+        "title": "Cada vegada hi ha més /persones/ que confien en /nosaltres./",
+        "description": "Entendre les opinions dels clients sobre Eva Assegurances és la manera més eficient d'avaluar el rendiment dels nostres serveis.",
+        "cards": [
+            {
+                "name": "Antònia García",
+                "image": "#",
+                "city": "Madrid",
+                "description": "“El comparador d'Eva em va ajudar a aconseguir l'assegurança de decessos més convenient per a la meva economia. Vaig estalviar i vaig contractar una assegurança completa”.",
+                "alt": "seguro de decesos testimonio",
+                "title": "seguro de decesos-testimonios"
+            },
+            {
+                "name": "Sofia Sànchez",
+                "image": "#",
+                "city": "Girona",
+                "description": "“Hi ha tantes companyies que no sabia quina assegurança de decessos triar. Però vaig fer servir el comparador d'assegurances d'Eva i em van ajudar a aconseguir una pòlissa ideal per a papà, mamà i per a mi”.",
+                "alt": "seguro de decesos testimonio",
+                "title": "seguro de decesos-testimonios"
+            },
+            {
+                "name": "Antoni Rodríguez",
+                "image": "#",
+                "city": "Salamanca",
+                "description": "“A l'Eva vaig trobar comparadors per a tot tipus d'assegurances. En una mateixa pàgina web vaig comparar assegurances de salut, assegurances de llar i assegurances de subsidis, però hi ha moltes més. A més, va ser ¡molt ràpid i fàcil!”.",
+                "alt": "seguro de decesos testimonio",
+                "title": "seguro de decesos-testimonios"
+            }
+        ]
+    }
+}

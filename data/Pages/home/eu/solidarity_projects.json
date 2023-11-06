@@ -1,0 +1,26 @@
+{
+    "solidarity_projects": {
+        "title": "Mundua ez /hobetzen hitzekin/, baizik eta /adibidearekin/",
+        "description": "“Etorkizuna aurreikustea ezin dugu, baina eraikitzeko lagundu dezakegu”",
+        "buttons": [
+            {
+                "text": "Ekintza solidarioak ikusi",
+                "url": "#"
+            }
+        ],
+        "cards": [
+            {
+                "title": "Unibertso Sarriki Hurbila Fundazioa",
+                "description": "Eva Aseguruetan bizi-baldintzak duten pertsonen bizi kalitatea hobetzeko lanean ari gara, Unibertso Sarriki Hurbila Fundazioa eta Unibertso Santi proiektuarekin batera.",
+                "url": "https://universoaccesible.org",
+                "url_text": "Gehiago jakin"
+            },
+            {
+                "title": "Plant For The Planet",
+                "description": "Bezero bakoitzeko zuhaitza. Eva Aseguruek eta Plant For The Planetek mundu berdeago bat lortzeko lanean ari gara eta helburua zuhaitz milioi bat landatu 2030ean.",
+                "url": "https://www.plant-for-the-planet.org",
+                "url_text": "Gehiago jakin"
+            }
+        ]
+    }
+}

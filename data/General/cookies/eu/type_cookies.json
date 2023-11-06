@@ -1,0 +1,25 @@
+{
+  "showListCookies": "Ikus cookieen zerrenda",
+  "cookies": [
+    {
+      "title": "Marketineko cookieak",
+      "description": "Marketing cookieak erabiltzen ditugu erabiltzailearen interesen araberako publizitatea bistaratzeko profil anonimo baten bidez.",
+      "cookieName": "marketing"
+    },
+    {
+      "title": "Pertsonalizazio cookieak",
+      "description": "Erabiltzaileen nabigazioan oinarritutako pertsonalizazio cookieak erabiltzen ditugu, zure esperientzia funtzionala eta pertsonalizatua izan dadin.",
+      "cookieName": "personalization"
+    },
+    {
+      "title": "Analytics cookieak",
+      "description": "Cookie analitikoak erabiltzen ditugu erabiltzaileen nabigazioari buruzko informazioa biltzeko eta, horrela, kanal digitalen bidez eskaintzen ditugun zerbitzuak hobetzeko.",
+      "cookieName": "analytics"
+    },
+    {
+      "title": "Ezinbesteko cookieak",
+      "description": "Ezinbesteko cookieak erabiltzen ditugu webgunean nabigazioa errazteko eta erabiltzaileen hobespenak gogoratzeko. Horiek baztertzeko modu bakarra webgune honetan arakatzeari uztea da.",
+      "cookieName": "essential"
+    }
+  ]
+}

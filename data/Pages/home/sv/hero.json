@@ -1,0 +1,12 @@
+{
+    "hero": {
+        "title": "Jämför din begravningsförsäkring på /1 minut och spara upp till 40% /",
+        "description": "I /Eva Seguros/ får du den bästa /begravningsförsäkringen/ till /bästa pris/ och också/du kan spara 220€ per år genom att få två mobillinjer gratis. /",
+        "buttons": [
+            {
+                "text": "Jämför nu",
+                "url": "#"
+            }
+        ]
+    }
+}

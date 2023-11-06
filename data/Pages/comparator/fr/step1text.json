@@ -1,0 +1,26 @@
+{
+	"title": "Possédez-vous actuellement une assurance obsèques ?",
+	"subtitle": "Sélectionnez l'une des options",
+	"option_cards": [
+		{
+			"text": "Je ne suis pas assuré »",
+			"userDataValue": "No"
+		},
+		{
+			"text": "Oui, Santalucia »",
+			"userDataValue": "Santalucia"
+		},
+		{
+			"text": "Oui, Ocaso »",
+			"userDataValue": "Ocaso"
+		},
+		{
+			"text": "Oui, Mapfre »",
+			"userDataValue": "Mapfre"
+		},
+		{
+			"text": "Oui, Autre »",
+			"userDataValue": "Otros"
+		}
+	]
+}
