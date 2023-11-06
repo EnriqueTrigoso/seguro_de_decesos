@@ -5,7 +5,7 @@ import Details from "components/Pages/home/Details/Details";
 import Banner from "components/Pages/home/Banner/Banner";
 import TextProvider from "contexts/TextContext/TextProvider";
 import CallAction from "components/Pages/home/CallAction/CallAction";
-// import Blog from "components/Pages/home/Blog/Blog";
+import Blog from "components/Pages/home/Blog/Blog";
 import Faq from "components/UI/Faq/Faq";
 import Fundation from "components/UI/Fundation/Fundation";
 import Testimonial from "components/UI/Testimonial/Testimonial";
@@ -14,8 +14,12 @@ import Cookies from "components/UI/Cookies/Cookies";
 import StructuredData from "components/Pages/home/StructuredData/StructuredData";
 import Metadata from "components/Pages/home/Medatada/Metadata";
 import Layout from "components/UI/Layout/Layout";
+import { HomeArticleSection } from "components/Pages/blog/View/View";
+import { fetchArticles } from "@../../services/articles";
 
 export async function getStaticProps({ locale }) {
+  const articles = await fetchArticles(`locale=es&sort[0]=id:asc`);
+
   const home_sections = [
     "metadata",
     "hero",
@@ -133,6 +137,7 @@ export async function getStaticProps({ locale }) {
       call_card_form_language,
       modal_style2_text,
       help_card_language,
+      articles: articles.data,
     },
   };
 }
@@ -158,7 +163,7 @@ const DecesosHome = (props) => {
           <Details />
           <CallAction />
           <Fundation />
-          {/* <Blog /> */}
+          <Blog data={props.articles} />
           <Testimonial />
           <Faq />
         </Layout>

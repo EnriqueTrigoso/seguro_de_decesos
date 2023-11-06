@@ -6,7 +6,7 @@ const LinkToSeguroDeDecesos = () => {
   return (
     <>
       {" "}
-      <a href="https://www.segurodedecesos.com">www.segurodedecesos.com</a>
+      <a href="https://www.polizadedecesos.com">www.polizadedecesos.com</a>
     </>
   );
 };

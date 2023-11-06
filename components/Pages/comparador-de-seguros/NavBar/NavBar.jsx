@@ -9,7 +9,6 @@ const NavBar = () => {
   const { language } = useLanguage();
 
   const { isLogin } = useIsLogin();
-
   return (
     <nav className={styles.navbar}>
       <div className={`${styles.navbar_wrapper} container`}>

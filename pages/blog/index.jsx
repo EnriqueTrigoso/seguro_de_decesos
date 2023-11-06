@@ -11,7 +11,7 @@ import {
 
 const Home = (props) => {
   return (
-    <Layout content={props}>
+    <Layout content={props} relative="relative">
       <div className={`${styles.blog} container`}>
         {/* <HeroArticleSection articles={props.articles} limit={7} /> */}
         {/* <ArticleSection articles={props.articles} limit={5} /> */}
@@ -28,7 +28,7 @@ export const getStaticProps = async ({ locale }) => {
   const { hero, footer_text, language_selector, navbar_out_session_text } =
     await getHeroAndFooterText(locale);
 
-  const articles = await fetchArticles(`locale=es`);
+  const articles = await fetchArticles(`locale=es&sort[0]=id:asc`);
 
   return {
     props: {

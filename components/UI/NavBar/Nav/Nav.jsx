@@ -8,6 +8,9 @@ const Nav = ({ data }) => {
           <Link href="/">{item}</Link>
         </li>
       ))}
+      <li>
+        <Link href="/blog">Blog</Link>
+      </li>
     </ul>
   );
 };

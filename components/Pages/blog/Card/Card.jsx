@@ -28,32 +28,32 @@ export default function Card({ data, ratio = 1.466 }) {
 
   return (
     <div style={{ position: "relative" }}>
-      <div className={styles.card}>
-        <AspectRatio ratio={isMobile ? 1.466 : ratio}>
-          <Image
-            src={data.attributes.cover.data.attributes.url}
-            alt="A house in a forest"
-            className={styles.image}
-            fill
-            style={{
-              objectFit: "cover",
-              width: "100%",
-              height: "100%",
-              borderRadius: "4px",
-              backgroundPosition: "top",
-            }}
-          />
-        </AspectRatio>
-        <div className={styles.content}>
-          <div className={styles.category}>
-            {data.attributes.categories.data[0].attributes.name}
-          </div>
-          <Link href={`/blog/${data.attributes.slug}`}>
+      <Link href={`/blog/${data.attributes.slug}`}>
+        <div className={styles.card}>
+          <AspectRatio ratio={isMobile ? 1.466 : ratio}>
+            <Image
+              src={data.attributes.cover.data.attributes.url}
+              alt="A house in a forest"
+              className={styles.image}
+              fill
+              style={{
+                objectFit: "cover",
+                width: "100%",
+                height: "100%",
+                borderRadius: "4px",
+                backgroundPosition: "top",
+              }}
+            />
+          </AspectRatio>
+          <div className={styles.content}>
+            <div className={styles.category}>
+              {data.attributes.categories.data[0].attributes.name}
+            </div>
             <h3 className={styles.title}>{data.attributes.title}</h3>
-          </Link>
-          <p className={styles.date}>Publicado el {formattedDate}</p>
+            <p className={styles.date}>Publicado el {formattedDate}</p>
+          </div>
         </div>
-      </div>
+      </Link>
     </div>
   );
 }

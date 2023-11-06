@@ -56,7 +56,7 @@ const ChatButtonWithFunctionality = ({ agent }) => {
 				setOpenChat(prev => !prev)
 			}}> */}
 			<ButtonCircle size={65} onClick={() => {
-				SendingWhatsapp(`"Hola, me gustaría tener más información acerca de los seguros que he visto en ${domain} ¿Podrían proporcionarme detalles sobre las coberturas, precios y opciones disponibles? ¡Gracias!"`)
+				SendingWhatsapp(`"Hola, me gustaría tener más información acerca de las pólizas que he visto en ${domain} ¿Podrían proporcionarme detalles sobre las coberturas, precios y opciones disponibles? ¡Gracias!"`)
 			}}>
 				<Chat />
 			</ButtonCircle>

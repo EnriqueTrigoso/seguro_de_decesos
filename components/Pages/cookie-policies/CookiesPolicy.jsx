@@ -4,7 +4,7 @@ import styles from "./CookiesPolicy.module.css";
 const CookiesPolicy = ({ cookiesPolicy }) => {
   const { content, tables } = cookiesPolicy;
   const { whatIsAcookie, typeOfCookies, deleteCookies } = content;
-  const {domain} = useLanguage()
+  const { domain } = useLanguage();
 
   const {
     technicalCookies,
@@ -15,12 +15,6 @@ const CookiesPolicy = ({ cookiesPolicy }) => {
 
   return (
     <div className={styles.cookies_policy_content}>
-      <h1>{content.title}</h1>
-      <h2>{whatIsAcookie.title}</h2>
-      <p>{whatIsAcookie.content[0]}</p>
-      <h2>{typeOfCookies.title}</h2>
-      <p>{typeOfCookies.content[0].replace(/{domain}/g, domain)}</p>
-      <strong>{typeOfCookies.content[1]}</strong>
       <ul>
         <li>{typeOfCookies.content[2]}</li>
         <li>{typeOfCookies.content[3]}</li>

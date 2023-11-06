@@ -6,7 +6,10 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint"
+    "lint": "next lint",
+    "deploy": "aws s3 sync out/ s3://seg.com --acl public-read",
+    "gzip": "aws s3 sync out/ s3://seg.com --acl public-read --content-encoding gzip --exclude * --include *.css --include *.html --include *.js",
+    "analyze": "source-map-explorer 'out/_next/static/chunks/*.js'"
   },
   "dependencies": {
     "@radix-ui/react-aspect-ratio": "^1.0.3",

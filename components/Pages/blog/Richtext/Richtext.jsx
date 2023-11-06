@@ -22,9 +22,9 @@ function processMarkdownWithNofollow(markdownContent) {
             );
 
           // // Elimina {rel="nofollow"} del enlace
-          // const finalHtml = htmlWithNofollow.replace(/{rel="nofollow"}/g, "");
-          resolve(htmlWithNofollow);
-          console.log(finalHtml);
+          const finalHtml = htmlWithNofollow.replace(/{rel="nofollow"}/g, "");
+          resolve(finalHtml);
+          // console.log(finalHtml);
         }
       });
   });

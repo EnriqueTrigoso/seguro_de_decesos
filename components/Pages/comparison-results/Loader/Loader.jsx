@@ -15,7 +15,8 @@ const Loader = () => {
           <div></div>
         </div>
         <p>
-          {LoaderResult[0]}
+          Comparando precios y coberturas para ofrecerte las mejores
+          alternativas en pólizas...
         </p>
         <p>{LoaderResult[1]}</p>
       </div>

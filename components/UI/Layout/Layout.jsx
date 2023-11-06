@@ -3,11 +3,11 @@ import Header from "components/UI/NavBar/Header";
 import Footer from "components/UI/Footer/Footer";
 import TextProvider from "contexts/TextContext/TextProvider";
 
-const Layout = ({ children, content }) => {
+const Layout = ({ children, content, relative }) => {
   return (
     <TextProvider content={content}>
       <IsLoginProvider>
-        <Header sticky="relative" />
+        <Header sticky={relative} />
       </IsLoginProvider>
 
       {children}

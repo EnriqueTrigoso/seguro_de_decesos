@@ -24,7 +24,7 @@ const MobileMenuCard = () => {
       <div className={styles.options}>
         {options.map((option, index) => {
           return (
-            <p key={index}  className={styles.link}>
+            <p key={index} className={styles.link}>
               {option.title}
             </p>
           );
