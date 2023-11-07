@@ -1,6 +1,6 @@
 import Hero from "components/Pages/home/Hero/Hero";
 import LogoSlider from "components/Pages/home/LogoSlider/Logos";
-import Description from "components/Pages/home/Description/Description";
+// import Description from "components/Pages/home/Description/Description";
 import Details from "components/Pages/home/Details/Details";
 import Banner from "components/Pages/home/Banner/Banner";
 import TextProvider from "contexts/TextContext/TextProvider";
@@ -157,7 +157,7 @@ const DecesosHome = (props) => {
         <Layout content={props}>
           <Hero />
           <LogoSlider />
-          <Description />
+          {/* <Description /> */}
           {/* <Repatriation /> */}
           <Banner />
           <Details />
